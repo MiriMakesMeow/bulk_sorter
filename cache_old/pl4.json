@@ -71,6 +71,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/1.png",
       "large": "https://images.pokemontcg.io/pl4/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Charizard-Lv60-AR1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": 5.87
+      }
     }
   },
   {
@@ -128,6 +136,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/2.png",
       "large": "https://images.pokemontcg.io/pl4/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Froslass-Lv45-AR2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -191,6 +207,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/3.png",
       "large": "https://images.pokemontcg.io/pl4/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Heatran-Lv58-AR3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -252,6 +276,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/4.png",
       "large": "https://images.pokemontcg.io/pl4/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Kabutops-Lv59-AR4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.44,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -314,6 +346,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/5.png",
       "large": "https://images.pokemontcg.io/pl4/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Luxray-Lv53-AR5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -332,9 +372,7 @@
     "attacks": [
       {
         "name": "Cloak Party",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 3 in any combination of Burmy and Wormadam, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
@@ -374,6 +412,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/6.png",
       "large": "https://images.pokemontcg.io/pl4/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Mothim-Lv43-AR6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -449,6 +495,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/7.png",
       "large": "https://images.pokemontcg.io/pl4/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Probopass-Lv55-AR7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -525,6 +579,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/8.png",
       "large": "https://images.pokemontcg.io/pl4/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Salamence-Lv68-AR8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.28,
+        "reverseHoloLow": 1.25
+      }
     }
   },
   {
@@ -587,6 +649,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/9.png",
       "large": "https://images.pokemontcg.io/pl4/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Swalot-Lv40-AR9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -657,6 +727,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/10.png",
       "large": "https://images.pokemontcg.io/pl4/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Tangrowth-Lv48-AR10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -716,6 +794,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/11.png",
       "large": "https://images.pokemontcg.io/pl4/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Toxicroak-Lv44-AR11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.28,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -782,6 +868,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/12.png",
       "large": "https://images.pokemontcg.io/pl4/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Zapdos-G-Lv60-AR12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -845,6 +939,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/13.png",
       "large": "https://images.pokemontcg.io/pl4/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Aerodactyl-Lv47-AR13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.79
+      }
     }
   },
   {
@@ -914,6 +1016,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/14.png",
       "large": "https://images.pokemontcg.io/pl4/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Bronzong-Lv49-AR14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.14,
+        "reverseHoloLow": 0.69
+      }
     }
   },
   {
@@ -977,6 +1087,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/15.png",
       "large": "https://images.pokemontcg.io/pl4/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Cherrim-Lv33-AR15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1037,6 +1155,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/16.png",
       "large": "https://images.pokemontcg.io/pl4/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Gengar-Lv44-AR16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -1100,6 +1226,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/17.png",
       "large": "https://images.pokemontcg.io/pl4/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Gengar-Lv46-AR17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": 2.48
+      }
     }
   },
   {
@@ -1161,6 +1295,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/18.png",
       "large": "https://images.pokemontcg.io/pl4/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Glalie-Lv46-AR18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.69
+      }
     }
   },
   {
@@ -1242,6 +1384,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/19.png",
       "large": "https://images.pokemontcg.io/pl4/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Golem-Lv56-AR19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1308,6 +1458,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/20.png",
       "large": "https://images.pokemontcg.io/pl4/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Hariyama-Lv42-AR20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.37
+      }
     }
   },
   {
@@ -1365,6 +1523,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/21.png",
       "large": "https://images.pokemontcg.io/pl4/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Lopunny-Lv40-AR21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.34
+      }
     }
   },
   {
@@ -1428,6 +1594,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/22.png",
       "large": "https://images.pokemontcg.io/pl4/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Manectric-Lv46-AR22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1488,6 +1662,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/23.png",
       "large": "https://images.pokemontcg.io/pl4/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Omastar-Lv55-AR23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1557,6 +1739,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/24.png",
       "large": "https://images.pokemontcg.io/pl4/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Pelipper-Lv50-AR24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.28
+      }
     }
   },
   {
@@ -1584,9 +1774,7 @@
     "attacks": [
       {
         "name": "Baby Steps",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Look at the top 5 cards of your deck, choose 1 of them, and put it into your hand. Shuffle the other cards back into your deck."
@@ -1621,6 +1809,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/25.png",
       "large": "https://images.pokemontcg.io/pl4/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Pichu-Lv9-AR25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -1678,6 +1874,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/26.png",
       "large": "https://images.pokemontcg.io/pl4/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Porygon-Z-G-Lv56-AR26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.69
+      }
     }
   },
   {
@@ -1744,6 +1948,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/27.png",
       "large": "https://images.pokemontcg.io/pl4/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Raichu-Lv46-AR27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -1806,6 +2018,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/28.png",
       "large": "https://images.pokemontcg.io/pl4/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Rapidash-Lv41-AR28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1860,6 +2080,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/29.png",
       "large": "https://images.pokemontcg.io/pl4/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Raticate-Lv31-AR29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1934,6 +2162,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/30.png",
       "large": "https://images.pokemontcg.io/pl4/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Sceptile-Lv57-AR30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2000,6 +2236,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/31.png",
       "large": "https://images.pokemontcg.io/pl4/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Sceptile-Lv59-AR31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.87
+      }
     }
   },
   {
@@ -2024,9 +2268,7 @@
     "attacks": [
       {
         "name": "Darkness Grace",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) If you do, put 1 damage counter on Spiritomb. Shuffle your deck afterward."
@@ -2063,6 +2305,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/32.png",
       "large": "https://images.pokemontcg.io/pl4/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Spiritomb-Lv39-V1-AR32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2131,6 +2381,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/33.png",
       "large": "https://images.pokemontcg.io/pl4/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Bronzong-Lv45-AR33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -2200,6 +2458,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/34.png",
       "large": "https://images.pokemontcg.io/pl4/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Bronzor-Lv9-AR34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2264,6 +2530,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/35.png",
       "large": "https://images.pokemontcg.io/pl4/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Charmeleon-Lv31-AR35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -2331,6 +2605,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/36.png",
       "large": "https://images.pokemontcg.io/pl4/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Gastly-Lv16-AR36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2403,6 +2685,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/37.png",
       "large": "https://images.pokemontcg.io/pl4/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Graveler-Lv37-AR37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2471,6 +2761,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/38.png",
       "large": "https://images.pokemontcg.io/pl4/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Grovyle-Lv28-AR38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -2541,6 +2839,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/39.png",
       "large": "https://images.pokemontcg.io/pl4/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Grovyle-Lv24-AR39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -2602,6 +2908,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/40.png",
       "large": "https://images.pokemontcg.io/pl4/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Gulpin-Lv21-AR40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -2668,6 +2982,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/41.png",
       "large": "https://images.pokemontcg.io/pl4/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Haunter-Lv31-AR41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -2736,6 +3058,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/42.png",
       "large": "https://images.pokemontcg.io/pl4/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Haunter-Lv37-AR42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -2805,6 +3135,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/43.png",
       "large": "https://images.pokemontcg.io/pl4/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Luxio-Lv25-AR43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2867,6 +3205,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/44.png",
       "large": "https://images.pokemontcg.io/pl4/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Manectric-Lv44-AR44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2934,6 +3280,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/45.png",
       "large": "https://images.pokemontcg.io/pl4/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Pelipper-Lv49-AR45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2995,6 +3349,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/46.png",
       "large": "https://images.pokemontcg.io/pl4/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Ponyta-Lv8-AR46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3050,6 +3412,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/47.png",
       "large": "https://images.pokemontcg.io/pl4/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Rapidash-Lv45-AR47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -3113,6 +3483,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/48.png",
       "large": "https://images.pokemontcg.io/pl4/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Shelgon-Lv34-AR48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3173,6 +3551,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/49.png",
       "large": "https://images.pokemontcg.io/pl4/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Wormadam-Plant-Cloak-Lv46-AR49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -3239,6 +3625,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/50.png",
       "large": "https://images.pokemontcg.io/pl4/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Wormadam-Sandy-Cloak-Lv45-AR50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3304,6 +3698,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/51.png",
       "large": "https://images.pokemontcg.io/pl4/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Wormadam-Trash-Cloak-Lv44-AR51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -3365,6 +3767,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/52.png",
       "large": "https://images.pokemontcg.io/pl4/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Bagon-Lv18-AR52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -3424,6 +3834,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/53.png",
       "large": "https://images.pokemontcg.io/pl4/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Beedrill-G-Lv56-AR53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.65
+      }
     }
   },
   {
@@ -3492,6 +3910,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/54.png",
       "large": "https://images.pokemontcg.io/pl4/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Bronzor-Lv15-AR54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -3543,6 +3969,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/55.png",
       "large": "https://images.pokemontcg.io/pl4/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Buneary-Lv17-AR55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -3603,6 +4037,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/56.png",
       "large": "https://images.pokemontcg.io/pl4/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Burmy-Plant-Cloak-Lv11-AR56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -3663,6 +4105,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/57.png",
       "large": "https://images.pokemontcg.io/pl4/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Burmy-Sandy-Cloak-Lv11-AR57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3723,6 +4173,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/58.png",
       "large": "https://images.pokemontcg.io/pl4/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Burmy-Trash-Cloak-Lv11-AR58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3784,6 +4242,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/59.png",
       "large": "https://images.pokemontcg.io/pl4/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Charmander-Lv13-AR59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -3851,6 +4317,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/60.png",
       "large": "https://images.pokemontcg.io/pl4/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Cherubi-Lv12-AR60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3912,6 +4386,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/61.png",
       "large": "https://images.pokemontcg.io/pl4/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Croagunk-Lv15-AR61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -3979,6 +4461,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/62.png",
       "large": "https://images.pokemontcg.io/pl4/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Electrike-Lv22-AR62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4036,6 +4526,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/63.png",
       "large": "https://images.pokemontcg.io/pl4/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Electrike-Lv20-AR63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4103,6 +4601,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/64.png",
       "large": "https://images.pokemontcg.io/pl4/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Gastly-Lv15-AR64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4161,6 +4667,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/65.png",
       "large": "https://images.pokemontcg.io/pl4/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Geodude-Lv14-AR65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -4222,6 +4736,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/66.png",
       "large": "https://images.pokemontcg.io/pl4/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Gulpin-Lv19-AR66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4284,6 +4806,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/67.png",
       "large": "https://images.pokemontcg.io/pl4/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Kabuto-Lv33-AR67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -4346,6 +4876,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/68.png",
       "large": "https://images.pokemontcg.io/pl4/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Makuhita-Lv21-AR68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4407,6 +4945,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/69.png",
       "large": "https://images.pokemontcg.io/pl4/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Nosepass-Lv13-AR69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4469,6 +5015,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/70.png",
       "large": "https://images.pokemontcg.io/pl4/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Omanyte-Lv38-AR70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4537,6 +5091,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/71.png",
       "large": "https://images.pokemontcg.io/pl4/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Pikachu-Lv17-AR71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.24,
+        "reverseHoloLow": 7.0
+      }
     }
   },
   {
@@ -4598,6 +5160,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/72.png",
       "large": "https://images.pokemontcg.io/pl4/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Ponyta-Lv13-AR72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.59
+      }
     }
   },
   {
@@ -4645,6 +5215,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/73.png",
       "large": "https://images.pokemontcg.io/pl4/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Rattata-Lv12-AR73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -4712,6 +5290,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/74.png",
       "large": "https://images.pokemontcg.io/pl4/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Shinx-Lv13-AR74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -4774,6 +5360,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/75.png",
       "large": "https://images.pokemontcg.io/pl4/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Snorunt-Lv16-AR75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -4842,6 +5436,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/76.png",
       "large": "https://images.pokemontcg.io/pl4/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Tangela-Lv15-AR76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4910,6 +5512,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/77.png",
       "large": "https://images.pokemontcg.io/pl4/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Tangela-Lv9-AR77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4968,6 +5578,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/78.png",
       "large": "https://images.pokemontcg.io/pl4/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Treecko-Lv14-AR78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -5035,6 +5653,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/79.png",
       "large": "https://images.pokemontcg.io/pl4/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Treecko-Lv13-AR79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.55
+      }
     }
   },
   {
@@ -5102,6 +5728,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/80.png",
       "large": "https://images.pokemontcg.io/pl4/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Wingull-Lv5-AR80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5159,6 +5793,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/81.png",
       "large": "https://images.pokemontcg.io/pl4/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Wingull-Lv8-AR81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5180,6 +5822,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/82.png",
       "large": "https://images.pokemontcg.io/pl4/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Beginning-Door-AR82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5202,6 +5852,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/83.png",
       "large": "https://images.pokemontcg.io/pl4/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Bench-Shield-AR83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -5224,6 +5882,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/84.png",
       "large": "https://images.pokemontcg.io/pl4/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Buffer-Piece-AR84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5246,6 +5912,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/85.png",
       "large": "https://images.pokemontcg.io/pl4/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Department-Store-Girl-AR85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5267,6 +5941,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/86.png",
       "large": "https://images.pokemontcg.io/pl4/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Energy-Restore-AR86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.22
+      }
     }
   },
   {
@@ -5289,6 +5971,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/87.png",
       "large": "https://images.pokemontcg.io/pl4/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Expert-Belt-V1-AR87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -5312,6 +6002,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/88.png",
       "large": "https://images.pokemontcg.io/pl4/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Lucky-Egg-AR88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -5341,6 +6039,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/89.png",
       "large": "https://images.pokemontcg.io/pl4/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Old-Amber-AR89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5363,6 +6069,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/90.png",
       "large": "https://images.pokemontcg.io/pl4/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Professor-Oaks-Visit-AR90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -5385,6 +6099,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/91.png",
       "large": "https://images.pokemontcg.io/pl4/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Ultimate-Zone-AR91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -5414,6 +6136,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/92.png",
       "large": "https://images.pokemontcg.io/pl4/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Dome-Fossil-AR92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5443,6 +6173,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/93.png",
       "large": "https://images.pokemontcg.io/pl4/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Helix-Fossil-AR93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -5490,6 +6228,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/94.png",
       "large": "https://images.pokemontcg.io/pl4/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Arceus-LVX-AR94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5545,6 +6291,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/95.png",
       "large": "https://images.pokemontcg.io/pl4/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Arceus-LVX-AR95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5600,6 +6354,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/96.png",
       "large": "https://images.pokemontcg.io/pl4/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Arceus-LVX-AR96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5662,6 +6424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/97.png",
       "large": "https://images.pokemontcg.io/pl4/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Gengar-LVX-AR97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 11.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5730,6 +6500,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/98.png",
       "large": "https://images.pokemontcg.io/pl4/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Salamence-LVX-AR98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5796,6 +6574,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl4/99.png",
       "large": "https://images.pokemontcg.io/pl4/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Tangrowth-LVX-AR99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6221,9 +7007,7 @@
     "attacks": [
       {
         "name": "Ripple Swell",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "If you have 6 Arceus in play and each of them is a different type, search your deck for up to 6 basic Energy cards. Attach each of those Energy cards to a different Pokémon you have in play. Shuffle your deck afterward."

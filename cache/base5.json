@@ -5105,5 +5105,78 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "base5-promo-8",
+    "name": "Dark Gyarados  (TR 8) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "31",
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Magikarp",
+    "abilities": [
+      {
+        "name": "Final Beam",
+        "text": "When Dark Gyarados is Knocked Out by an attack, flip a coin. If heads, this power does 20 damage for each Water Energy attached to Dark Gyarados to the Pokémon that Knocked Out Dark Gyarados. Apply Weakness and Resistance. This power doesn't work if Dark Gyarados is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Ice Beam",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "8",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "Normally found only in the deep ocean, it has recently been seen in shallow waters as well.",
+    "nationalPokedexNumbers": [
+      130
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base5/8.png",
+      "large": "https://images.pokemontcg.io/base5/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Gyarados-V2-TR8",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

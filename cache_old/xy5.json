@@ -48,6 +48,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/1.png",
       "large": "https://images.pokemontcg.io/xy5/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Weedle-PRC1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -102,6 +110,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/2.png",
       "large": "https://images.pokemontcg.io/xy5/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Kakuna-PRC2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -157,6 +173,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/3.png",
       "large": "https://images.pokemontcg.io/xy5/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Beedrill-PRC3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -221,6 +245,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/4.png",
       "large": "https://images.pokemontcg.io/xy5/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Tangela-PRC4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -287,6 +319,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/5.png",
       "large": "https://images.pokemontcg.io/xy5/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Tangrowth-PRC5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -338,6 +378,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/6.png",
       "large": "https://images.pokemontcg.io/xy5/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Treecko-PRC6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -401,6 +449,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/7.png",
       "large": "https://images.pokemontcg.io/xy5/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Grovyle-PRC7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.22
+      }
     }
   },
   {
@@ -460,6 +516,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/8.png",
       "large": "https://images.pokemontcg.io/xy5/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Sceptile-PRC8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -525,6 +589,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/9.png",
       "large": "https://images.pokemontcg.io/xy5/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Sceptile-PRC9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -577,6 +649,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/10.png",
       "large": "https://images.pokemontcg.io/xy5/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Lotad-PRC10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -640,6 +720,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/11.png",
       "large": "https://images.pokemontcg.io/xy5/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Lombre-PRC11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -699,6 +787,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/12.png",
       "large": "https://images.pokemontcg.io/xy5/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Ludicolo-PRC12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 1.42
+      }
     }
   },
   {
@@ -750,6 +846,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/13.png",
       "large": "https://images.pokemontcg.io/xy5/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Surskit-PRC13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -809,6 +913,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/14.png",
       "large": "https://images.pokemontcg.io/xy5/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Masquerain-PRC14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -860,6 +972,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/15.png",
       "large": "https://images.pokemontcg.io/xy5/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Shroomish-PRC15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -922,6 +1042,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/16.png",
       "large": "https://images.pokemontcg.io/xy5/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Breloom-PRC16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -980,6 +1108,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/17.png",
       "large": "https://images.pokemontcg.io/xy5/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Volbeat-PRC17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1037,6 +1173,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/18.png",
       "large": "https://images.pokemontcg.io/xy5/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Illumise-PRC18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1101,6 +1245,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/19.png",
       "large": "https://images.pokemontcg.io/xy5/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Trevenant-EX-PRC19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1161,6 +1313,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/20.png",
       "large": "https://images.pokemontcg.io/xy5/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Vulpix-PRC20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1219,6 +1379,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/21.png",
       "large": "https://images.pokemontcg.io/xy5/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Ninetales-PRC21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -1283,6 +1451,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/22.png",
       "large": "https://images.pokemontcg.io/xy5/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Slugma-PRC22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1346,6 +1522,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/23.png",
       "large": "https://images.pokemontcg.io/xy5/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Magcargo-PRC23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1413,6 +1597,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/24.png",
       "large": "https://images.pokemontcg.io/xy5/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Magcargo-PRC24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1464,6 +1656,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/25.png",
       "large": "https://images.pokemontcg.io/xy5/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Torchic-PRC25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1528,6 +1728,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/26.png",
       "large": "https://images.pokemontcg.io/xy5/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Torchic-PRC26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 1.42
+      }
     }
   },
   {
@@ -1590,6 +1798,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/27.png",
       "large": "https://images.pokemontcg.io/xy5/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Combusken-PRC27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -1649,6 +1865,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/28.png",
       "large": "https://images.pokemontcg.io/xy5/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Blaziken-PRC28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -1719,6 +1943,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/29.png",
       "large": "https://images.pokemontcg.io/xy5/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Camerupt-EX-PRC29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1770,6 +2002,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/30.png",
       "large": "https://images.pokemontcg.io/xy5/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Horsea-PRC30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1832,6 +2072,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/31.png",
       "large": "https://images.pokemontcg.io/xy5/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Seadra-PRC31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1883,6 +2131,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/32.png",
       "large": "https://images.pokemontcg.io/xy5/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Staryu-PRC32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1944,6 +2200,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/33.png",
       "large": "https://images.pokemontcg.io/xy5/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Mudkip-PRC33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2010,6 +2274,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/34.png",
       "large": "https://images.pokemontcg.io/xy5/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Marshtomp-PRC34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2075,6 +2347,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/35.png",
       "large": "https://images.pokemontcg.io/xy5/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Swampert-PRC35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2139,6 +2419,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/36.png",
       "large": "https://images.pokemontcg.io/xy5/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Swampert-PRC36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 4.0
+      }
     }
   },
   {
@@ -2204,6 +2492,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/37.png",
       "large": "https://images.pokemontcg.io/xy5/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Ludicolo-PRC37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -2269,6 +2565,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/38.png",
       "large": "https://images.pokemontcg.io/xy5/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Wailord-EX-PRC38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2322,6 +2626,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/39.png",
       "large": "https://images.pokemontcg.io/xy5/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Barboach-PRC39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2384,6 +2696,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/40.png",
       "large": "https://images.pokemontcg.io/xy5/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Whiscash-PRC40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2454,6 +2774,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/41.png",
       "large": "https://images.pokemontcg.io/xy5/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Whiscash-PRC41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2515,6 +2843,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/42.png",
       "large": "https://images.pokemontcg.io/xy5/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Corphish-PRC42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -2566,6 +2902,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/43.png",
       "large": "https://images.pokemontcg.io/xy5/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Feebas-PRC43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2625,6 +2969,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/44.png",
       "large": "https://images.pokemontcg.io/xy5/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Milotic-PRC44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.12,
+        "reverseHoloLow": 0.43
+      }
     }
   },
   {
@@ -2678,6 +3030,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/45.png",
       "large": "https://images.pokemontcg.io/xy5/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Spheal-PRC45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2731,6 +3091,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/46.png",
       "large": "https://images.pokemontcg.io/xy5/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Spheal-PRC46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2797,6 +3165,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/47.png",
       "large": "https://images.pokemontcg.io/xy5/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Sealeo-PRC47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2862,6 +3238,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/48.png",
       "large": "https://images.pokemontcg.io/xy5/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Walrein-PRC48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2915,6 +3299,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/49.png",
       "large": "https://images.pokemontcg.io/xy5/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Clamperl-PRC49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2975,6 +3367,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/50.png",
       "large": "https://images.pokemontcg.io/xy5/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Huntail-PRC50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3030,6 +3430,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/51.png",
       "large": "https://images.pokemontcg.io/xy5/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Gorebyss-PRC51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -3084,6 +3492,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/52.png",
       "large": "https://images.pokemontcg.io/xy5/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Gorebyss-PRC52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3148,6 +3564,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/53.png",
       "large": "https://images.pokemontcg.io/xy5/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Kyogre-PRC53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.94
+      }
     }
   },
   {
@@ -3215,6 +3639,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/54.png",
       "large": "https://images.pokemontcg.io/xy5/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Kyogre-EX-V1-PRC54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3278,6 +3710,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/55.png",
       "large": "https://images.pokemontcg.io/xy5/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Primal-Kyogre-EX-V1-PRC55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3335,6 +3775,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/56.png",
       "large": "https://images.pokemontcg.io/xy5/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Manaphy-PRC56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -3394,6 +3842,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/57.png",
       "large": "https://images.pokemontcg.io/xy5/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Chinchou-PRC57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3462,6 +3918,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/58.png",
       "large": "https://images.pokemontcg.io/xy5/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Lanturn-PRC58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -3529,6 +3993,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/59.png",
       "large": "https://images.pokemontcg.io/xy5/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Electrike-PRC59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3590,6 +4062,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/60.png",
       "large": "https://images.pokemontcg.io/xy5/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Electrike-PRC60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3657,6 +4137,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/61.png",
       "large": "https://images.pokemontcg.io/xy5/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Manectric-PRC61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -3714,6 +4202,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/62.png",
       "large": "https://images.pokemontcg.io/xy5/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Tynamo-PRC62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3785,6 +4281,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/63.png",
       "large": "https://images.pokemontcg.io/xy5/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Eelektrik-PRC63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3850,6 +4354,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/64.png",
       "large": "https://images.pokemontcg.io/xy5/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Eelektrik-PRC64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.3
+      }
     }
   },
   {
@@ -3917,6 +4429,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/65.png",
       "large": "https://images.pokemontcg.io/xy5/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Eelektross-PRC65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -3978,6 +4498,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/66.png",
       "large": "https://images.pokemontcg.io/xy5/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Nidoran-PRC66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4042,6 +4570,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/67.png",
       "large": "https://images.pokemontcg.io/xy5/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Nidorina-PRC67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4105,6 +4641,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/68.png",
       "large": "https://images.pokemontcg.io/xy5/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Nidoqueen-PRC68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4170,6 +4714,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/69.png",
       "large": "https://images.pokemontcg.io/xy5/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Nidoqueen-PRC69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -4221,6 +4773,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/70.png",
       "large": "https://images.pokemontcg.io/xy5/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Tentacool-PRC70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4277,6 +4837,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/71.png",
       "large": "https://images.pokemontcg.io/xy5/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Tentacool-PRC71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.95
+      }
     }
   },
   {
@@ -4338,6 +4906,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/72.png",
       "large": "https://images.pokemontcg.io/xy5/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Tentacruel-PRC72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4383,6 +4959,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/73.png",
       "large": "https://images.pokemontcg.io/xy5/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Starmie-PRC73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4437,6 +5021,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/74.png",
       "large": "https://images.pokemontcg.io/xy5/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Rhyhorn-PRC74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4506,6 +5098,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/75.png",
       "large": "https://images.pokemontcg.io/xy5/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Rhydon-PRC75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4572,6 +5172,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/76.png",
       "large": "https://images.pokemontcg.io/xy5/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Rhyperior-PRC76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4638,6 +5246,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/77.png",
       "large": "https://images.pokemontcg.io/xy5/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Rhyperior-PRC77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.4,
+        "reverseHoloLow": 2.95
+      }
     }
   },
   {
@@ -4703,6 +5319,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/78.png",
       "large": "https://images.pokemontcg.io/xy5/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Nosepass-PRC78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4754,6 +5378,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/79.png",
       "large": "https://images.pokemontcg.io/xy5/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Meditite-PRC79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4814,6 +5446,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/80.png",
       "large": "https://images.pokemontcg.io/xy5/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Medicham-PRC80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -4877,6 +5517,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/81.png",
       "large": "https://images.pokemontcg.io/xy5/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Medicham-PRC81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -4938,6 +5586,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/82.png",
       "large": "https://images.pokemontcg.io/xy5/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Trapinch-PRC82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4996,6 +5652,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/83.png",
       "large": "https://images.pokemontcg.io/xy5/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Solrock-PRC83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5060,6 +5724,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/84.png",
       "large": "https://images.pokemontcg.io/xy5/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Groudon-PRC84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5127,6 +5799,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/85.png",
       "large": "https://images.pokemontcg.io/xy5/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Groudon-EX-PRC85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5190,6 +5870,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/86.png",
       "large": "https://images.pokemontcg.io/xy5/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Primal-Groudon-EX-V1-PRC86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 12.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5255,6 +5943,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/87.png",
       "large": "https://images.pokemontcg.io/xy5/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Hippopotas-PRC87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5321,6 +6017,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/88.png",
       "large": "https://images.pokemontcg.io/xy5/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Hippowdon-PRC88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5373,6 +6077,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/89.png",
       "large": "https://images.pokemontcg.io/xy5/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Drilbur-PRC89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5435,6 +6147,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/90.png",
       "large": "https://images.pokemontcg.io/xy5/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Diggersby-PRC90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5501,6 +6221,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/91.png",
       "large": "https://images.pokemontcg.io/xy5/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Sharpedo-EX-PRC91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5566,6 +6294,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/92.png",
       "large": "https://images.pokemontcg.io/xy5/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Crawdaunt-PRC92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5643,6 +6379,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/93.png",
       "large": "https://images.pokemontcg.io/xy5/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Aggron-EX-V1-PRC93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5708,6 +6452,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/94.png",
       "large": "https://images.pokemontcg.io/xy5/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/MAggron-EX-PRC94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.79,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5776,6 +6528,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/95.png",
       "large": "https://images.pokemontcg.io/xy5/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Probopass-PRC95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5843,6 +6603,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/96.png",
       "large": "https://images.pokemontcg.io/xy5/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Excadrill-PRC96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5915,6 +6683,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/97.png",
       "large": "https://images.pokemontcg.io/xy5/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Excadrill-PRC97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -5973,6 +6749,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/98.png",
       "large": "https://images.pokemontcg.io/xy5/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Honedge-PRC98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6044,6 +6828,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/99.png",
       "large": "https://images.pokemontcg.io/xy5/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Doublade-PRC99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6110,6 +6902,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/100.png",
       "large": "https://images.pokemontcg.io/xy5/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Aegislash-PRC100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -6175,6 +6975,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/101.png",
       "large": "https://images.pokemontcg.io/xy5/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Mr-Mime-PRC101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6243,6 +7051,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/102.png",
       "large": "https://images.pokemontcg.io/xy5/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Marill-PRC102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6311,6 +7127,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/103.png",
       "large": "https://images.pokemontcg.io/xy5/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Azumarill-PRC103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.14,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -6383,6 +7207,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/104.png",
       "large": "https://images.pokemontcg.io/xy5/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Azumarill-PRC104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": 2.85
+      }
     }
   },
   {
@@ -6455,6 +7287,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/105.png",
       "large": "https://images.pokemontcg.io/xy5/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Gardevoir-EX-PRC105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6517,6 +7357,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/106.png",
       "large": "https://images.pokemontcg.io/xy5/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/MGardevoir-EX-PRC106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6576,6 +7424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/107.png",
       "large": "https://images.pokemontcg.io/xy5/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Kingdra-PRC107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -6640,6 +7496,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/108.png",
       "large": "https://images.pokemontcg.io/xy5/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Kingdra-PRC108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.98,
+        "reverseHoloLow": 4.5
+      }
     }
   },
   {
@@ -6703,6 +7567,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/109.png",
       "large": "https://images.pokemontcg.io/xy5/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Vibrava-PRC109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6761,6 +7633,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/110.png",
       "large": "https://images.pokemontcg.io/xy5/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Flygon-PRC110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -6822,6 +7702,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/111.png",
       "large": "https://images.pokemontcg.io/xy5/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Zigzagoon-PRC111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6882,6 +7770,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/112.png",
       "large": "https://images.pokemontcg.io/xy5/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Linoone-PRC112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6943,6 +7839,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/113.png",
       "large": "https://images.pokemontcg.io/xy5/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Skitty-PRC113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -7002,6 +7906,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/114.png",
       "large": "https://images.pokemontcg.io/xy5/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Delcatty-PRC114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -7059,6 +7971,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/115.png",
       "large": "https://images.pokemontcg.io/xy5/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Spinda-PRC115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7121,6 +8041,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/116.png",
       "large": "https://images.pokemontcg.io/xy5/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Bidoof-PRC116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -7178,6 +8106,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/117.png",
       "large": "https://images.pokemontcg.io/xy5/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Bidoof-PRC117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -7240,6 +8176,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/118.png",
       "large": "https://images.pokemontcg.io/xy5/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Bibarel-PRC118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -7298,6 +8242,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/119.png",
       "large": "https://images.pokemontcg.io/xy5/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Bouffalant-PRC119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -7351,6 +8303,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/120.png",
       "large": "https://images.pokemontcg.io/xy5/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Bunnelby-PRC120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -7416,6 +8376,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/121.png",
       "large": "https://images.pokemontcg.io/xy5/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Bunnelby-PRC121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -7439,6 +8407,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/122.png",
       "large": "https://images.pokemontcg.io/xy5/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Acro-Bike-PRC122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -7463,6 +8439,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/123.png",
       "large": "https://images.pokemontcg.io/xy5/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Aggron-Spirit-Link-PRC123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -7487,6 +8471,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/124.png",
       "large": "https://images.pokemontcg.io/xy5/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Archies-Ace-in-the-Hole-PRC124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -7510,6 +8502,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/125.png",
       "large": "https://images.pokemontcg.io/xy5/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Dive-Ball-PRC125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 3.57
+      }
     }
   },
   {
@@ -7534,6 +8534,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/126.png",
       "large": "https://images.pokemontcg.io/xy5/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Energy-Retrieval-PRC126",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7557,6 +8565,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/127.png",
       "large": "https://images.pokemontcg.io/xy5/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Escape-Rope-PRC127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7582,6 +8598,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/128.png",
       "large": "https://images.pokemontcg.io/xy5/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Exp-Share-PRC128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -7605,6 +8629,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/129.png",
       "large": "https://images.pokemontcg.io/xy5/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Fresh-Water-Set-PRC129",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7629,6 +8661,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/130.png",
       "large": "https://images.pokemontcg.io/xy5/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Gardevoir-Spirit-Link-PRC130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -7653,6 +8693,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/131.png",
       "large": "https://images.pokemontcg.io/xy5/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Groudon-Spirit-Link-PRC131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -7677,6 +8725,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/132.png",
       "large": "https://images.pokemontcg.io/xy5/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Kyogre-Spirit-Link-PRC132",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -7701,6 +8757,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/133.png",
       "large": "https://images.pokemontcg.io/xy5/133_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Maxies-Hidden-Ball-Trick-PRC133",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -7724,6 +8788,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/134.png",
       "large": "https://images.pokemontcg.io/xy5/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Professor-Birchs-Observations-PRC134",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7748,6 +8820,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/135.png",
       "large": "https://images.pokemontcg.io/xy5/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Rare-Candy-PRC135",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -7771,6 +8851,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/136.png",
       "large": "https://images.pokemontcg.io/xy5/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Repeat-Ball-PRC136",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -7794,6 +8882,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/137.png",
       "large": "https://images.pokemontcg.io/xy5/137_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Rough-Seas-PRC137",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -7817,6 +8913,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/138.png",
       "large": "https://images.pokemontcg.io/xy5/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Scorched-Earth-PRC138",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7840,6 +8944,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/139.png",
       "large": "https://images.pokemontcg.io/xy5/139_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Shrine-of-Memories-PRC139",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -7863,6 +8975,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/140.png",
       "large": "https://images.pokemontcg.io/xy5/140_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Silent-Lab-PRC140",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -7887,6 +9007,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/141.png",
       "large": "https://images.pokemontcg.io/xy5/141_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Teammates-PRC141",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -7911,6 +9039,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/142.png",
       "large": "https://images.pokemontcg.io/xy5/142_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Weakness-Policy-PRC142",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7935,6 +9071,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/143.png",
       "large": "https://images.pokemontcg.io/xy5/143_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Shield-Energy-PRC143",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -7959,6 +9103,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/144.png",
       "large": "https://images.pokemontcg.io/xy5/144_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Wonder-Energy-PRC144",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -8023,6 +9175,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/145.png",
       "large": "https://images.pokemontcg.io/xy5/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Trevenant-EX-PRC145",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8093,6 +9253,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/146.png",
       "large": "https://images.pokemontcg.io/xy5/146_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Camerupt-EX-PRC146",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8158,6 +9326,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/147.png",
       "large": "https://images.pokemontcg.io/xy5/147_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Wailord-EX-PRC147",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.98,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8225,6 +9401,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/148.png",
       "large": "https://images.pokemontcg.io/xy5/148_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Kyogre-EX-V2-PRC148",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8288,6 +9472,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/149.png",
       "large": "https://images.pokemontcg.io/xy5/149_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Primal-Kyogre-EX-V2-PRC149",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 79.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8355,6 +9547,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/150.png",
       "large": "https://images.pokemontcg.io/xy5/150_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Groudon-EX-PRC150",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 29.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8418,6 +9618,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/151.png",
       "large": "https://images.pokemontcg.io/xy5/151_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Primal-Groudon-EX-V2-PRC151",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 80.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8484,6 +9692,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/152.png",
       "large": "https://images.pokemontcg.io/xy5/152_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Sharpedo-EX-PRC152",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8561,6 +9777,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/153.png",
       "large": "https://images.pokemontcg.io/xy5/153_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Aggron-EX-V2-PRC153",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8626,6 +9850,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/154.png",
       "large": "https://images.pokemontcg.io/xy5/154_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/MAggron-EX-PRC154",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8698,6 +9930,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/155.png",
       "large": "https://images.pokemontcg.io/xy5/155_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Gardevoir-EX-PRC155",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 12.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8760,6 +10000,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/156.png",
       "large": "https://images.pokemontcg.io/xy5/156_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/MGardevoir-EX-PRC156",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 19.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8784,6 +10032,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/157.png",
       "large": "https://images.pokemontcg.io/xy5/157_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Archies-Ace-in-the-Hole-PRC157",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8808,6 +10064,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/158.png",
       "large": "https://images.pokemontcg.io/xy5/158_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Maxies-Hidden-Ball-Trick-PRC158",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8831,6 +10095,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/159.png",
       "large": "https://images.pokemontcg.io/xy5/159_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Professor-Birchs-Observations-PRC159",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8855,6 +10127,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/160.png",
       "large": "https://images.pokemontcg.io/xy5/160_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Teammates-PRC160",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 14.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8878,6 +10158,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/161.png",
       "large": "https://images.pokemontcg.io/xy5/161_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Dive-Ball-PRC161",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8901,6 +10189,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/162.png",
       "large": "https://images.pokemontcg.io/xy5/162_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Enhanced-Hammer-PRC162",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8925,6 +10221,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/163.png",
       "large": "https://images.pokemontcg.io/xy5/163_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Switch-PRC163",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8949,6 +10253,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy5/164.png",
       "large": "https://images.pokemontcg.io/xy5/164_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Primal-Clash/Weakness-Policy-PRC164",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

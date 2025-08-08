@@ -57,6 +57,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/1.png",
       "large": "https://images.pokemontcg.io/swsh7/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Pinsir",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -106,6 +114,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/2.png",
       "large": "https://images.pokemontcg.io/swsh7/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Hoppip",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -163,6 +179,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/3.png",
       "large": "https://images.pokemontcg.io/swsh7/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Skiploom",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -217,6 +241,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/4.png",
       "large": "https://images.pokemontcg.io/swsh7/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Jumpluff-EVS004",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -270,6 +302,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/5.png",
       "large": "https://images.pokemontcg.io/swsh7/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Seedot-EVS005",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -331,6 +371,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/6.png",
       "large": "https://images.pokemontcg.io/swsh7/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Tropius",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -392,6 +440,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/7.png",
       "large": "https://images.pokemontcg.io/swsh7/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Leafeon-V-V1-EVS007",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -457,6 +513,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/8.png",
       "large": "https://images.pokemontcg.io/swsh7/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Leafeon-VMAX-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -510,6 +574,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/9.png",
       "large": "https://images.pokemontcg.io/swsh7/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Petilil",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -561,6 +633,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/10.png",
       "large": "https://images.pokemontcg.io/swsh7/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Lilligant-EVS010",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -624,6 +704,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/11.png",
       "large": "https://images.pokemontcg.io/swsh7/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Dwebble-EVS011",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -688,6 +776,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/12.png",
       "large": "https://images.pokemontcg.io/swsh7/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Crustle",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -753,6 +849,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/13.png",
       "large": "https://images.pokemontcg.io/swsh7/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Trevenant-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -819,6 +923,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/14.png",
       "large": "https://images.pokemontcg.io/swsh7/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Trevenant-VMAX-V1-EVS014",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.88,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -871,6 +983,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/15.png",
       "large": "https://images.pokemontcg.io/swsh7/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Gossifleur",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -928,6 +1048,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/16.png",
       "large": "https://images.pokemontcg.io/swsh7/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Eldegoss-V1-EVS016",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -980,6 +1108,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/17.png",
       "large": "https://images.pokemontcg.io/swsh7/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Applin",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1036,6 +1172,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/18.png",
       "large": "https://images.pokemontcg.io/swsh7/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Flareon-VMAX-V1-EVS018",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1099,6 +1243,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/19.png",
       "large": "https://images.pokemontcg.io/swsh7/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Entei-EVS019",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1149,6 +1301,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/20.png",
       "large": "https://images.pokemontcg.io/swsh7/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Victini",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -1213,6 +1373,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/21.png",
       "large": "https://images.pokemontcg.io/swsh7/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Volcarona-V-V1-EVS021",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1265,6 +1433,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/22.png",
       "large": "https://images.pokemontcg.io/swsh7/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Litleo",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1326,6 +1502,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/23.png",
       "large": "https://images.pokemontcg.io/swsh7/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Pyroar-EVS023",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1379,6 +1563,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/24.png",
       "large": "https://images.pokemontcg.io/swsh7/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Psyduck",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1439,6 +1631,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/25.png",
       "large": "https://images.pokemontcg.io/swsh7/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Golduck",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1492,6 +1692,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/26.png",
       "large": "https://images.pokemontcg.io/swsh7/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Tentacool",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1555,6 +1763,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/27.png",
       "large": "https://images.pokemontcg.io/swsh7/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Tentacruel-EVS027",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1623,6 +1839,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/28.png",
       "large": "https://images.pokemontcg.io/swsh7/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Gyarados-V-V1-EVS028",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1692,6 +1916,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/29.png",
       "large": "https://images.pokemontcg.io/swsh7/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Gyarados-VMAX-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1757,6 +1989,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/30.png",
       "large": "https://images.pokemontcg.io/swsh7/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Vaporeon-VMAX-V1-EVS030",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1818,6 +2058,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/31.png",
       "large": "https://images.pokemontcg.io/swsh7/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Suicune-V-V1-EVS031",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1880,6 +2128,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/32.png",
       "large": "https://images.pokemontcg.io/swsh7/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Lotad",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1934,6 +2190,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/33.png",
       "large": "https://images.pokemontcg.io/swsh7/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Lombre",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1993,6 +2257,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/34.png",
       "large": "https://images.pokemontcg.io/swsh7/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Ludicolo-EVS034",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2055,6 +2327,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/35.png",
       "large": "https://images.pokemontcg.io/swsh7/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Carvanha",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2115,6 +2395,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/36.png",
       "large": "https://images.pokemontcg.io/swsh7/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Sharpedo",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2168,6 +2456,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/37.png",
       "large": "https://images.pokemontcg.io/swsh7/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Feebas",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2228,6 +2524,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/38.png",
       "large": "https://images.pokemontcg.io/swsh7/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Milotic-EVS038",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -2286,6 +2590,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/39.png",
       "large": "https://images.pokemontcg.io/swsh7/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Luvdisc-EVS039",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2350,6 +2662,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/40.png",
       "large": "https://images.pokemontcg.io/swsh7/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Glaceon-V-V1-EVS040",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2412,6 +2732,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/41.png",
       "large": "https://images.pokemontcg.io/swsh7/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Glaceon-VMAX-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2465,6 +2793,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/42.png",
       "large": "https://images.pokemontcg.io/swsh7/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Tympole-EVS042",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2524,6 +2860,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/43.png",
       "large": "https://images.pokemontcg.io/swsh7/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Cryogonal-V1-EVS043",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2587,6 +2931,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/44.png",
       "large": "https://images.pokemontcg.io/swsh7/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Bergmite",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2654,6 +3006,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/45.png",
       "large": "https://images.pokemontcg.io/swsh7/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Avalugg",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2712,6 +3072,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/46.png",
       "large": "https://images.pokemontcg.io/swsh7/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Wishiwashi-EVS046",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2773,6 +3141,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/47.png",
       "large": "https://images.pokemontcg.io/swsh7/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Eiscue-EVS047",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2840,6 +3216,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/48.png",
       "large": "https://images.pokemontcg.io/swsh7/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Arctovish-V-V1-EVS048",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2903,6 +3287,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/49.png",
       "large": "https://images.pokemontcg.io/swsh7/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Pikachu-V1-EVS049",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -2965,6 +3357,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/50.png",
       "large": "https://images.pokemontcg.io/swsh7/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Raichu",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3014,6 +3414,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/51.png",
       "large": "https://images.pokemontcg.io/swsh7/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Jolteon-VMAX-V1-EVS051",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3066,6 +3474,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/52.png",
       "large": "https://images.pokemontcg.io/swsh7/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Chinchou",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3129,6 +3545,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/53.png",
       "large": "https://images.pokemontcg.io/swsh7/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Lanturn",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3191,6 +3615,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/54.png",
       "large": "https://images.pokemontcg.io/swsh7/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Mareep",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3254,6 +3686,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/55.png",
       "large": "https://images.pokemontcg.io/swsh7/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Flaaffy",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3317,6 +3757,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/56.png",
       "large": "https://images.pokemontcg.io/swsh7/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Ampharos",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3362,6 +3810,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/57.png",
       "large": "https://images.pokemontcg.io/swsh7/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Emolga-EVS057",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3427,6 +3883,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/58.png",
       "large": "https://images.pokemontcg.io/swsh7/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Dracozolt-V-V1-EVS058",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3493,6 +3957,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/59.png",
       "large": "https://images.pokemontcg.io/swsh7/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Dracozolt-VMAX-V1-EVS059",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.89,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3554,6 +4026,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/60.png",
       "large": "https://images.pokemontcg.io/swsh7/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Regieleki-V1-EVS060",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3613,6 +4093,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/61.png",
       "large": "https://images.pokemontcg.io/swsh7/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Drowzee",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3679,6 +4167,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/62.png",
       "large": "https://images.pokemontcg.io/swsh7/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Hypno",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3744,6 +4240,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/63.png",
       "large": "https://images.pokemontcg.io/swsh7/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Galarian-Articuno",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3813,6 +4317,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/64.png",
       "large": "https://images.pokemontcg.io/swsh7/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Espeon-V-V1-EVS064",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3881,6 +4393,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/65.png",
       "large": "https://images.pokemontcg.io/swsh7/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Espeon-VMAX-V1-EVS065",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3950,6 +4470,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/66.png",
       "large": "https://images.pokemontcg.io/swsh7/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Wobbuffet",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4015,6 +4543,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/67.png",
       "large": "https://images.pokemontcg.io/swsh7/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Sableye",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4082,6 +4618,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/68.png",
       "large": "https://images.pokemontcg.io/swsh7/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Woobat",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4138,6 +4682,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/69.png",
       "large": "https://images.pokemontcg.io/swsh7/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Swoobat",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4213,6 +4765,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/70.png",
       "large": "https://images.pokemontcg.io/swsh7/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Golurk-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4266,6 +4826,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/71.png",
       "large": "https://images.pokemontcg.io/swsh7/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Flabebe",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4331,6 +4899,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/72.png",
       "large": "https://images.pokemontcg.io/swsh7/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Floette",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4392,6 +4968,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/73.png",
       "large": "https://images.pokemontcg.io/swsh7/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Florges",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -4453,6 +5037,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/74.png",
       "large": "https://images.pokemontcg.io/swsh7/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Sylveon-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4518,6 +5110,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/75.png",
       "large": "https://images.pokemontcg.io/swsh7/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Sylveon-VMAX-V1-EVS075",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4585,6 +5185,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/76.png",
       "large": "https://images.pokemontcg.io/swsh7/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Pumpkaboo-EVS076",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4643,6 +5251,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/77.png",
       "large": "https://images.pokemontcg.io/swsh7/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Gourgeist-EVS077",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4691,6 +5307,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/78.png",
       "large": "https://images.pokemontcg.io/swsh7/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Cutiefly",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4737,6 +5361,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/79.png",
       "large": "https://images.pokemontcg.io/swsh7/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Ribombee-EVS079",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4802,6 +5434,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/80.png",
       "large": "https://images.pokemontcg.io/swsh7/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Marshadow",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4862,6 +5502,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/81.png",
       "large": "https://images.pokemontcg.io/swsh7/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Hitmonchan-EVS081",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4916,6 +5564,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/82.png",
       "large": "https://images.pokemontcg.io/swsh7/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Galarian-Zapdos",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4982,6 +5638,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/83.png",
       "large": "https://images.pokemontcg.io/swsh7/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Medicham-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5049,6 +5713,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/84.png",
       "large": "https://images.pokemontcg.io/swsh7/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Hippopotas",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5116,6 +5788,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/85.png",
       "large": "https://images.pokemontcg.io/swsh7/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Hippowdon",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -5180,6 +5860,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/86.png",
       "large": "https://images.pokemontcg.io/swsh7/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Roggenrola-EVS086",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5247,6 +5935,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/87.png",
       "large": "https://images.pokemontcg.io/swsh7/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Boldore",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5311,6 +6007,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/88.png",
       "large": "https://images.pokemontcg.io/swsh7/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Gigalith-EVS088",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -5377,6 +6081,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/89.png",
       "large": "https://images.pokemontcg.io/swsh7/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Palpitoad-EVS089",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5441,6 +6153,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/90.png",
       "large": "https://images.pokemontcg.io/swsh7/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Seismitoad-EVS090",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5504,6 +6224,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/91.png",
       "large": "https://images.pokemontcg.io/swsh7/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Lycanroc-V-V1-EVS091",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.21,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5567,6 +6295,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/92.png",
       "large": "https://images.pokemontcg.io/swsh7/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Lycanroc-VMAX-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5626,6 +6362,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/93.png",
       "large": "https://images.pokemontcg.io/swsh7/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Galarian-Moltres",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5691,6 +6435,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/94.png",
       "large": "https://images.pokemontcg.io/swsh7/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Umbreon-V-V1-EVS094",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5754,6 +6506,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/95.png",
       "large": "https://images.pokemontcg.io/swsh7/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Umbreon-VMAX-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5807,6 +6567,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/96.png",
       "large": "https://images.pokemontcg.io/swsh7/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Nuzleaf",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5870,6 +6638,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/97.png",
       "large": "https://images.pokemontcg.io/swsh7/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Shiftry-EVS097",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -5922,6 +6698,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/98.png",
       "large": "https://images.pokemontcg.io/swsh7/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Scraggy",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5985,6 +6769,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/99.png",
       "large": "https://images.pokemontcg.io/swsh7/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Scrafty-EVS099",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -6051,6 +6843,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/100.png",
       "large": "https://images.pokemontcg.io/swsh7/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Garbodor-V-V1-EVS100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6113,6 +6913,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/101.png",
       "large": "https://images.pokemontcg.io/swsh7/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Garbodor-VMAX-V1-EVS101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6166,6 +6974,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/102.png",
       "large": "https://images.pokemontcg.io/swsh7/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Zorua",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6225,6 +7041,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/103.png",
       "large": "https://images.pokemontcg.io/swsh7/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Zoroark-V1-EVS103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6278,6 +7102,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/104.png",
       "large": "https://images.pokemontcg.io/swsh7/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Nickit",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6336,6 +7168,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/105.png",
       "large": "https://images.pokemontcg.io/swsh7/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Thievul-EVS105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6384,6 +7224,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/106.png",
       "large": "https://images.pokemontcg.io/swsh7/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Altaria-EVS106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6441,6 +7289,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/107.png",
       "large": "https://images.pokemontcg.io/swsh7/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Bagon",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -6491,6 +7347,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/108.png",
       "large": "https://images.pokemontcg.io/swsh7/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Shelgon",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -6544,6 +7408,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/109.png",
       "large": "https://images.pokemontcg.io/swsh7/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Salamence-EVS109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6602,6 +7474,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/110.png",
       "large": "https://images.pokemontcg.io/swsh7/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Rayquaza-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6658,6 +7538,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/111.png",
       "large": "https://images.pokemontcg.io/swsh7/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Rayquaza-VMAX-V1-EVS111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6717,6 +7605,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/112.png",
       "large": "https://images.pokemontcg.io/swsh7/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Dialga",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6773,6 +7669,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/113.png",
       "large": "https://images.pokemontcg.io/swsh7/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Deino",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6834,6 +7738,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/114.png",
       "large": "https://images.pokemontcg.io/swsh7/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Zweilous",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6893,6 +7805,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/115.png",
       "large": "https://images.pokemontcg.io/swsh7/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Hydreigon",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6939,6 +7859,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/116.png",
       "large": "https://images.pokemontcg.io/swsh7/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Kyurem",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -6991,6 +7919,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/117.png",
       "large": "https://images.pokemontcg.io/swsh7/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Noivern-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7047,6 +7983,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/118.png",
       "large": "https://images.pokemontcg.io/swsh7/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Zygarde",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7101,6 +8045,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/119.png",
       "large": "https://images.pokemontcg.io/swsh7/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Drampa",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -7155,6 +8107,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/120.png",
       "large": "https://images.pokemontcg.io/swsh7/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Flapple",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7211,6 +8171,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/121.png",
       "large": "https://images.pokemontcg.io/swsh7/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Appletun-EVS121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -7271,6 +8239,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/122.png",
       "large": "https://images.pokemontcg.io/swsh7/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Duraludon-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7329,6 +8305,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/123.png",
       "large": "https://images.pokemontcg.io/swsh7/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Duraludon-VMAX-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7386,6 +8370,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/124.png",
       "large": "https://images.pokemontcg.io/swsh7/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Regidrago",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7455,6 +8447,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/125.png",
       "large": "https://images.pokemontcg.io/swsh7/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Eevee-EVS125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7508,6 +8508,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/126.png",
       "large": "https://images.pokemontcg.io/swsh7/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Teddiursa",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7571,6 +8579,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/127.png",
       "large": "https://images.pokemontcg.io/swsh7/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Ursaring-EVS127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7621,6 +8637,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/128.png",
       "large": "https://images.pokemontcg.io/swsh7/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Smeargle-EVS128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7676,6 +8700,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/129.png",
       "large": "https://images.pokemontcg.io/swsh7/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Slakoth",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7740,6 +8772,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/130.png",
       "large": "https://images.pokemontcg.io/swsh7/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Vigoroth",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7803,6 +8843,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/131.png",
       "large": "https://images.pokemontcg.io/swsh7/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Slaking-EVS131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.06
+      }
     }
   },
   {
@@ -7861,6 +8909,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/132.png",
       "large": "https://images.pokemontcg.io/swsh7/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Swablu",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7923,6 +8979,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/133.png",
       "large": "https://images.pokemontcg.io/swsh7/133_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Lillipup",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7989,6 +9053,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/134.png",
       "large": "https://images.pokemontcg.io/swsh7/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Herdier",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8050,6 +9122,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/135.png",
       "large": "https://images.pokemontcg.io/swsh7/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Stoutland-EVS135",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -8108,6 +9188,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/136.png",
       "large": "https://images.pokemontcg.io/swsh7/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Rufflet",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8175,6 +9263,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/137.png",
       "large": "https://images.pokemontcg.io/swsh7/137_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Braviary-EVS137",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8242,6 +9338,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/138.png",
       "large": "https://images.pokemontcg.io/swsh7/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Fletchling-EVS138",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8301,6 +9405,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/139.png",
       "large": "https://images.pokemontcg.io/swsh7/139_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Fletchinder",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8363,6 +9475,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/140.png",
       "large": "https://images.pokemontcg.io/swsh7/140_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Talonflame-EVS140",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8387,6 +9507,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/141.png",
       "large": "https://images.pokemontcg.io/swsh7/141_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Aroma-Lady-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8411,6 +9539,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/142.png",
       "large": "https://images.pokemontcg.io/swsh7/142_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Boost-Shake-V1-EVS142",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8435,6 +9571,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/143.png",
       "large": "https://images.pokemontcg.io/swsh7/143_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Copycat-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8458,6 +9602,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/144.png",
       "large": "https://images.pokemontcg.io/swsh7/144_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Crystal-Cave-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8484,6 +9636,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/145.png",
       "large": "https://images.pokemontcg.io/swsh7/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Digging-Gloves",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8508,6 +9668,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/146.png",
       "large": "https://images.pokemontcg.io/swsh7/146_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Dream-Ball",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8534,6 +9702,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/147.png",
       "large": "https://images.pokemontcg.io/swsh7/147_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Elemental-Badge",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8560,6 +9736,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/148.png",
       "large": "https://images.pokemontcg.io/swsh7/148_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Full-Face-Guard-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8584,6 +9768,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/149.png",
       "large": "https://images.pokemontcg.io/swsh7/149_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Gordie-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8608,6 +9800,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/150.png",
       "large": "https://images.pokemontcg.io/swsh7/150_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Lucky-Ice-Pop",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8634,6 +9834,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/151.png",
       "large": "https://images.pokemontcg.io/swsh7/151_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Moon-Sun-Badge-EVS151",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8658,6 +9866,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/152.png",
       "large": "https://images.pokemontcg.io/swsh7/152_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Raihan-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8697,6 +9913,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/153.png",
       "large": "https://images.pokemontcg.io/swsh7/153_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Rapid-Strike-Scroll-of-the-Flying-Dragon",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8721,6 +9945,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/154.png",
       "large": "https://images.pokemontcg.io/swsh7/154_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Rescue-Carrier-EVS154",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8747,6 +9979,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/155.png",
       "large": "https://images.pokemontcg.io/swsh7/155_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Ribbon-Badge",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8773,6 +10013,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/156.png",
       "large": "https://images.pokemontcg.io/swsh7/156_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Rubber-Gloves-EVS156",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8796,6 +10044,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/157.png",
       "large": "https://images.pokemontcg.io/swsh7/157_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Shopping-Center-EVS157",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8838,6 +10094,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/158.png",
       "large": "https://images.pokemontcg.io/swsh7/158_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Single-Strike-Scroll-of-the-Fanged-Dragon-EVS158",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8864,6 +10128,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/159.png",
       "large": "https://images.pokemontcg.io/swsh7/159_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Snow-Leaf-Badge",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8890,6 +10162,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/160.png",
       "large": "https://images.pokemontcg.io/swsh7/160_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Spirit-Mask-EVS160",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8913,6 +10193,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/161.png",
       "large": "https://images.pokemontcg.io/swsh7/161_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Stormy-Mountains-V1-EVS161",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8937,6 +10225,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/162.png",
       "large": "https://images.pokemontcg.io/swsh7/162_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Switching-Cups-EVS162",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8961,6 +10257,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/163.png",
       "large": "https://images.pokemontcg.io/swsh7/163_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Toy-Catcher-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8985,6 +10289,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/164.png",
       "large": "https://images.pokemontcg.io/swsh7/164_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Zinnias-Resolve-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9007,6 +10319,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/165.png",
       "large": "https://images.pokemontcg.io/swsh7/165_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Treasure-Energy",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9068,6 +10388,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/166.png",
       "large": "https://images.pokemontcg.io/swsh7/166_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Leafeon-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9129,6 +10457,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/167.png",
       "large": "https://images.pokemontcg.io/swsh7/167_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Leafeon-V-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 35.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9194,6 +10530,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/168.png",
       "large": "https://images.pokemontcg.io/swsh7/168_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Trevenant-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9259,6 +10603,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/169.png",
       "large": "https://images.pokemontcg.io/swsh7/169_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Flareon-V-EVS169",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9323,6 +10675,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/170.png",
       "large": "https://images.pokemontcg.io/swsh7/170_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Volcarona-V-V2-EVS170",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9391,6 +10751,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/171.png",
       "large": "https://images.pokemontcg.io/swsh7/171_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Gyarados-V-V2-EVS171",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9456,6 +10824,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/172.png",
       "large": "https://images.pokemontcg.io/swsh7/172_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Vaporeon-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9517,6 +10893,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/173.png",
       "large": "https://images.pokemontcg.io/swsh7/173_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Suicune-V-V2-EVS173",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9581,6 +10965,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/174.png",
       "large": "https://images.pokemontcg.io/swsh7/174_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Glaceon-V-V2-EVS174",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9645,6 +11037,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/175.png",
       "large": "https://images.pokemontcg.io/swsh7/175_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Glaceon-V-V3-EVS175",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 50.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9712,6 +11112,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/176.png",
       "large": "https://images.pokemontcg.io/swsh7/176_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Arctovish-V-V2-EVS176",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9771,6 +11179,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/177.png",
       "large": "https://images.pokemontcg.io/swsh7/177_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Jolteon-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9836,6 +11252,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/178.png",
       "large": "https://images.pokemontcg.io/swsh7/178_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Dracozolt-V-V2-EVS178",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9905,6 +11329,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/179.png",
       "large": "https://images.pokemontcg.io/swsh7/179_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Espeon-V-V2-EVS179",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9974,6 +11406,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/180.png",
       "large": "https://images.pokemontcg.io/swsh7/180_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Espeon-V-V3-EVS180",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 33.78,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10049,6 +11489,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/181.png",
       "large": "https://images.pokemontcg.io/swsh7/181_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Golurk-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10124,6 +11572,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/182.png",
       "large": "https://images.pokemontcg.io/swsh7/182_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Golurk-V-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10185,6 +11641,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/183.png",
       "large": "https://images.pokemontcg.io/swsh7/183_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Sylveon-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10246,6 +11710,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/184.png",
       "large": "https://images.pokemontcg.io/swsh7/184_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Sylveon-V-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 45.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10312,6 +11784,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/185.png",
       "large": "https://images.pokemontcg.io/swsh7/185_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Medicham-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10378,6 +11858,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/186.png",
       "large": "https://images.pokemontcg.io/swsh7/186_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Medicham-V-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10441,6 +11929,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/187.png",
       "large": "https://images.pokemontcg.io/swsh7/187_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Lycanroc-V-V2-EVS187",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.01,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10506,6 +12002,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/188.png",
       "large": "https://images.pokemontcg.io/swsh7/188_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Umbreon-V-V2-EVS188",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 20.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10571,6 +12075,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/189.png",
       "large": "https://images.pokemontcg.io/swsh7/189_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Umbreon-V-V3-EVS189",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 70.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10637,6 +12149,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/190.png",
       "large": "https://images.pokemontcg.io/swsh7/190_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Garbodor-V-V2-EVS190",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10697,6 +12217,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/191.png",
       "large": "https://images.pokemontcg.io/swsh7/191_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Dragonite-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10757,6 +12285,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/192.png",
       "large": "https://images.pokemontcg.io/swsh7/192_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Dragonite-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 100.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10815,6 +12351,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/193.png",
       "large": "https://images.pokemontcg.io/swsh7/193_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Rayquaza-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 13.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10873,6 +12417,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/194.png",
       "large": "https://images.pokemontcg.io/swsh7/194_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Rayquaza-V-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 62.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10925,6 +12477,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/195.png",
       "large": "https://images.pokemontcg.io/swsh7/195_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Noivern-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10977,6 +12537,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/196.png",
       "large": "https://images.pokemontcg.io/swsh7/196_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Noivern-V-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 25.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11037,6 +12605,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/197.png",
       "large": "https://images.pokemontcg.io/swsh7/197_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Duraludon-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11097,6 +12673,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/198.png",
       "large": "https://images.pokemontcg.io/swsh7/198_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Duraludon-V-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11121,6 +12705,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/199.png",
       "large": "https://images.pokemontcg.io/swsh7/199_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Aroma-Lady-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11145,6 +12737,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/200.png",
       "large": "https://images.pokemontcg.io/swsh7/200_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Copycat-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11169,6 +12769,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/201.png",
       "large": "https://images.pokemontcg.io/swsh7/201_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Gordie-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11193,6 +12801,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/202.png",
       "large": "https://images.pokemontcg.io/swsh7/202_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Raihan-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11217,6 +12833,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/203.png",
       "large": "https://images.pokemontcg.io/swsh7/203_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Zinnias-Resolve-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11282,6 +12906,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/204.png",
       "large": "https://images.pokemontcg.io/swsh7/204_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Leafeon-VMAX-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 18.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11347,6 +12979,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/205.png",
       "large": "https://images.pokemontcg.io/swsh7/205_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Leafeon-VMAX-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 100.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11413,6 +13053,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/206.png",
       "large": "https://images.pokemontcg.io/swsh7/206_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Trevenant-VMAX-V2-EVS206",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11482,6 +13130,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/207.png",
       "large": "https://images.pokemontcg.io/swsh7/207_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Gyarados-VMAX-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11544,6 +13200,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/208.png",
       "large": "https://images.pokemontcg.io/swsh7/208_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Glaceon-VMAX-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11606,6 +13270,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/209.png",
       "large": "https://images.pokemontcg.io/swsh7/209_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Glaceon-VMAX-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 120.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11672,6 +13344,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/210.png",
       "large": "https://images.pokemontcg.io/swsh7/210_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Dracozolt-VMAX-V2-EVS210",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11737,6 +13417,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/211.png",
       "large": "https://images.pokemontcg.io/swsh7/211_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Sylveon-VMAX-V2-EVS211",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 13.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11802,6 +13490,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/212.png",
       "large": "https://images.pokemontcg.io/swsh7/212_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Sylveon-VMAX-V3-EVS212",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 90.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11865,6 +13561,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/213.png",
       "large": "https://images.pokemontcg.io/swsh7/213_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Lycanroc-VMAX-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.44,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11928,6 +13632,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/214.png",
       "large": "https://images.pokemontcg.io/swsh7/214_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Umbreon-VMAX-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 25.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11991,6 +13703,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/215.png",
       "large": "https://images.pokemontcg.io/swsh7/215_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Umbreon-VMAX-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 599.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12053,6 +13773,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/216.png",
       "large": "https://images.pokemontcg.io/swsh7/216_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Garbodor-VMAX-V2-EVS216",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12109,6 +13837,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/217.png",
       "large": "https://images.pokemontcg.io/swsh7/217_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Rayquaza-VMAX-V2-EVS217",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 20.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12165,6 +13901,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/218.png",
       "large": "https://images.pokemontcg.io/swsh7/218_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Rayquaza-VMAX-V3-EVS218",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 199.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12223,6 +13967,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/219.png",
       "large": "https://images.pokemontcg.io/swsh7/219_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Duraludon-VMAX-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12281,6 +14033,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/220.png",
       "large": "https://images.pokemontcg.io/swsh7/220_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Duraludon-VMAX-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12305,6 +14065,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/221.png",
       "large": "https://images.pokemontcg.io/swsh7/221_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Aroma-Lady-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12329,6 +14097,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/222.png",
       "large": "https://images.pokemontcg.io/swsh7/222_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Copycat-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12353,6 +14129,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/223.png",
       "large": "https://images.pokemontcg.io/swsh7/223_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Gordie-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12377,6 +14161,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/224.png",
       "large": "https://images.pokemontcg.io/swsh7/224_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Raihan-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12401,6 +14193,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/225.png",
       "large": "https://images.pokemontcg.io/swsh7/225_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Zinnias-Resolve-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12459,6 +14259,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/226.png",
       "large": "https://images.pokemontcg.io/swsh7/226_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Froslass",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12518,6 +14326,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/227.png",
       "large": "https://images.pokemontcg.io/swsh7/227_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Inteleon",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12583,6 +14399,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/228.png",
       "large": "https://images.pokemontcg.io/swsh7/228_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Cresselia",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12607,6 +14431,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/229.png",
       "large": "https://images.pokemontcg.io/swsh7/229_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Boost-Shake-V2-EVS229",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.45,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12630,6 +14462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/230.png",
       "large": "https://images.pokemontcg.io/swsh7/230_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Crystal-Cave-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12656,6 +14496,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/231.png",
       "large": "https://images.pokemontcg.io/swsh7/231_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Full-Face-Guard-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12679,6 +14527,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/232.png",
       "large": "https://images.pokemontcg.io/swsh7/232_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Stormy-Mountains-V2-EVS232",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12703,6 +14559,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/233.png",
       "large": "https://images.pokemontcg.io/swsh7/233_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Toy-Catcher-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12726,6 +14590,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/234.png",
       "large": "https://images.pokemontcg.io/swsh7/234_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Turffield-Stadium",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.98,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12745,6 +14617,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/235.png",
       "large": "https://images.pokemontcg.io/swsh7/235_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Lightning-Energy",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12764,6 +14644,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/236.png",
       "large": "https://images.pokemontcg.io/swsh7/236_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Darkness-Energy",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 13.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12783,6 +14671,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/237.png",
       "large": "https://images.pokemontcg.io/swsh7/237_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Metal-Energy",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 11.0,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

@@ -50,6 +50,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/1.png",
       "large": "https://images.pokemontcg.io/sm75/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Charmander-DRM1",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 4.0
+      }
     }
   },
   {
@@ -112,6 +120,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/2.png",
       "large": "https://images.pokemontcg.io/sm75/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Charmeleon-DRM2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -171,6 +187,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/3.png",
       "large": "https://images.pokemontcg.io/sm75/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Charizard-V1-DRM3",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.98,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -357,6 +381,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/6.png",
       "large": "https://images.pokemontcg.io/sm75/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Blaziken-DRM6",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.23,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -410,6 +442,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/7.png",
       "large": "https://images.pokemontcg.io/sm75/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Victini-V1-DRM7",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.6
+      }
     }
   },
   {
@@ -463,6 +503,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/8.png",
       "large": "https://images.pokemontcg.io/sm75/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Darumaka-DRM8",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -524,6 +572,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/9.png",
       "large": "https://images.pokemontcg.io/sm75/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Darmanitan-DRM9",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -667,6 +723,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/11.png",
       "large": "https://images.pokemontcg.io/sm75/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Reshiram-GX-V1-DRM11",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -718,6 +782,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/12.png",
       "large": "https://images.pokemontcg.io/sm75/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Litten-DRM12",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -779,6 +851,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/13.png",
       "large": "https://images.pokemontcg.io/sm75/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Salandit-DRM13",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -838,6 +918,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/14.png",
       "large": "https://images.pokemontcg.io/sm75/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Salazzle-DRM14",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -889,6 +977,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/15.png",
       "large": "https://images.pokemontcg.io/sm75/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Horsea-DRM15",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -940,6 +1036,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/16.png",
       "large": "https://images.pokemontcg.io/sm75/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Horsea-DRM16",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -992,6 +1096,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/17.png",
       "large": "https://images.pokemontcg.io/sm75/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Seadra-DRM17",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1063,6 +1175,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/18.png",
       "large": "https://images.pokemontcg.io/sm75/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Kingdra-GX-V1-DRM18",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1114,6 +1234,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/19.png",
       "large": "https://images.pokemontcg.io/sm75/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Magikarp-DRM19",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1175,6 +1303,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/20.png",
       "large": "https://images.pokemontcg.io/sm75/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Gyarados-DRM20",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -1235,6 +1371,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/21.png",
       "large": "https://images.pokemontcg.io/sm75/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Lapras-DRM21",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1295,6 +1439,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/22.png",
       "large": "https://images.pokemontcg.io/sm75/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Totodile-DRM22",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -1360,6 +1512,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/23.png",
       "large": "https://images.pokemontcg.io/sm75/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Croconaw-DRM23",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1419,6 +1579,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/24.png",
       "large": "https://images.pokemontcg.io/sm75/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Feraligatr-DRM24",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 1.3
+      }
     }
   },
   {
@@ -1480,6 +1648,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/25.png",
       "large": "https://images.pokemontcg.io/sm75/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Wooper-DRM25",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1539,6 +1715,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/26.png",
       "large": "https://images.pokemontcg.io/sm75/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Quagsire-DRM26",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1590,6 +1774,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/27.png",
       "large": "https://images.pokemontcg.io/sm75/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Corsola-DRM27",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1648,6 +1840,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/28.png",
       "large": "https://images.pokemontcg.io/sm75/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Feebas-DRM28",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1708,6 +1908,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/29.png",
       "large": "https://images.pokemontcg.io/sm75/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Milotic-DRM29",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.74
+      }
     }
   },
   {
@@ -1764,6 +1972,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/30.png",
       "large": "https://images.pokemontcg.io/sm75/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Phione-DRM30",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1819,6 +2035,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/31.png",
       "large": "https://images.pokemontcg.io/sm75/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Wishiwashi-DRM31",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1870,6 +2094,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/32.png",
       "large": "https://images.pokemontcg.io/sm75/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Trapinch-DRM32",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1935,6 +2167,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/33.png",
       "large": "https://images.pokemontcg.io/sm75/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Hydreigon-DRM33",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -1987,6 +2227,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/34.png",
       "large": "https://images.pokemontcg.io/sm75/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dratini-DRM34",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.6
+      }
     }
   },
   {
@@ -2040,6 +2288,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/35.png",
       "large": "https://images.pokemontcg.io/sm75/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dratini-DRM35",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2107,6 +2363,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/36.png",
       "large": "https://images.pokemontcg.io/sm75/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dragonair-DRM36",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2184,6 +2448,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/37.png",
       "large": "https://images.pokemontcg.io/sm75/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dragonite-GX-V1-DRM37",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2237,6 +2509,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/38.png",
       "large": "https://images.pokemontcg.io/sm75/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Vibrava-DRM38",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -2295,6 +2575,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/39.png",
       "large": "https://images.pokemontcg.io/sm75/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Flygon-DRM39",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2352,6 +2640,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/40.png",
       "large": "https://images.pokemontcg.io/sm75/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Altaria-V1-DRM40",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.23
+      }
     }
   },
   {
@@ -2483,6 +2779,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/41.png",
       "large": "https://images.pokemontcg.io/sm75/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Altaria-GX-V1-DRM41",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2544,6 +2848,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/42.png",
       "large": "https://images.pokemontcg.io/sm75/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Bagon-DRM42",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2605,6 +2917,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/43.png",
       "large": "https://images.pokemontcg.io/sm75/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Shelgon-DRM43",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2744,6 +3064,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/45.png",
       "large": "https://images.pokemontcg.io/sm75/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Druddigon-DRM45",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2808,6 +3136,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/46.png",
       "large": "https://images.pokemontcg.io/sm75/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Zekrom-DRM46",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -2869,6 +3205,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/47.png",
       "large": "https://images.pokemontcg.io/sm75/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Kyurem-DRM47",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.13,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2945,6 +3289,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/48.png",
       "large": "https://images.pokemontcg.io/sm75/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/White-Kyurem-GX-V1-DRM48",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3006,6 +3358,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/49.png",
       "large": "https://images.pokemontcg.io/sm75/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Zygarde-DRM49",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3058,6 +3418,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/50.png",
       "large": "https://images.pokemontcg.io/sm75/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Turtonator-V1-DRM50",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -3117,6 +3485,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/51.png",
       "large": "https://images.pokemontcg.io/sm75/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Drampa-DRM51",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3178,6 +3554,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/52.png",
       "large": "https://images.pokemontcg.io/sm75/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Jangmo-o-DRM52",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3243,6 +3627,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/53.png",
       "large": "https://images.pokemontcg.io/sm75/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Hakamo-o-DRM53",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3305,6 +3697,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/54.png",
       "large": "https://images.pokemontcg.io/sm75/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Kommo-o-DRM54",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3375,6 +3775,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/55.png",
       "large": "https://images.pokemontcg.io/sm75/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Kangaskhan-V1-DRM55",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3442,6 +3850,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/56.png",
       "large": "https://images.pokemontcg.io/sm75/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Swablu-DRM56",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3499,6 +3915,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/57.png",
       "large": "https://images.pokemontcg.io/sm75/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Swablu-DRM57",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3523,6 +3947,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/58.png",
       "large": "https://images.pokemontcg.io/sm75/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Blaines-Last-Stand-V1-DRM58",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.06,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3547,6 +3979,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/59.png",
       "large": "https://images.pokemontcg.io/sm75/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dragon-Talon-V1-DRM59",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -3571,6 +4011,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/60.png",
       "large": "https://images.pokemontcg.io/sm75/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Fiery-Flint-V1-DRM60",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -3652,6 +4100,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/62.png",
       "large": "https://images.pokemontcg.io/sm75/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Switch-Raft-V1-DRM62",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3675,6 +4131,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/63.png",
       "large": "https://images.pokemontcg.io/sm75/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Wela-Volcano-Park-DRM63",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3699,6 +4163,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/64.png",
       "large": "https://images.pokemontcg.io/sm75/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Zinnia-V1-DRM64",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.33
+      }
     }
   },
   {
@@ -3775,6 +4247,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/65.png",
       "large": "https://images.pokemontcg.io/sm75/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Reshiram-GX-V2-DRM65",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3846,6 +4326,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/66.png",
       "large": "https://images.pokemontcg.io/sm75/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Kingdra-GX-V2-DRM66",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3923,6 +4411,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/67.png",
       "large": "https://images.pokemontcg.io/sm75/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dragonite-GX-V2-DRM67",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 11.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3997,6 +4493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/68.png",
       "large": "https://images.pokemontcg.io/sm75/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Altaria-GX-V2-DRM68",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4021,6 +4525,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/69.png",
       "large": "https://images.pokemontcg.io/sm75/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Blaines-Last-Stand-V2-DRM69",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4045,6 +4557,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/70.png",
       "large": "https://images.pokemontcg.io/sm75/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Zinnia-V2-DRM70",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 14.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4121,6 +4641,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/71.png",
       "large": "https://images.pokemontcg.io/sm75/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Reshiram-GX-V3-DRM71",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4195,6 +4723,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/72.png",
       "large": "https://images.pokemontcg.io/sm75/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Altaria-GX-V3-DRM72",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 12.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4269,6 +4805,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/73.png",
       "large": "https://images.pokemontcg.io/sm75/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Salamence-GX-V2-DRM73",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 14.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4345,6 +4889,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/74.png",
       "large": "https://images.pokemontcg.io/sm75/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/White-Kyurem-GX-V2-DRM74",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 11.03,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4369,6 +4921,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/75.png",
       "large": "https://images.pokemontcg.io/sm75/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Dragon-Talon-V2-DRM75",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4393,6 +4953,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/76.png",
       "large": "https://images.pokemontcg.io/sm75/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Fiery-Flint-V2-DRM76",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4416,6 +4984,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/77.png",
       "large": "https://images.pokemontcg.io/sm75/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Switch-Raft-V2-DRM77",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 14.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4480,6 +5056,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm75/78.png",
       "large": "https://images.pokemontcg.io/sm75/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Majesty/Ultra-Necrozma-GX-DRM78",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 30.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {

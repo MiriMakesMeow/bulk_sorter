@@ -59,6 +59,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bp/1.png",
       "large": "https://images.pokemontcg.io/bp/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Best-of-Game-Cards-Promos/Electabuzz-V3-BEST1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 115.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -119,6 +127,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bp/2.png",
       "large": "https://images.pokemontcg.io/bp/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Best-of-Game-Cards-Promos/Hitmonchan-V3-BEST2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 44.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -201,6 +217,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bp/4.png",
       "large": "https://images.pokemontcg.io/bp/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Best-of-Game-Cards-Promos/Rockets-Scizor-V3-OS",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 60.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -263,6 +287,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bp/5.png",
       "large": "https://images.pokemontcg.io/bp/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Best-of-Game-Cards-Promos/Rockets-Sneasel-V3-OS",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 44.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -322,6 +354,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bp/6.png",
       "large": "https://images.pokemontcg.io/bp/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Best-of-Game-Cards-Promos/Dark-Ivysaur-V3-BEST6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 40.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -372,6 +412,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bp/7.png",
       "large": "https://images.pokemontcg.io/bp/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Best-of-Game-Cards-Promos/Dark-Venusaur-V3-OS",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 55.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -442,6 +490,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bp/8.png",
       "large": "https://images.pokemontcg.io/bp/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Best-of-Game-Cards-Promos/Rockets-Mewtwo-V2-OS",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 124.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -500,6 +556,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bp/9.png",
       "large": "https://images.pokemontcg.io/bp/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Best-of-Game-Cards-Promos/Rockets-Hitmonchan-V3-OS",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

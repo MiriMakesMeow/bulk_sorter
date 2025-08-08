@@ -13738,5 +13738,213 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "sv3pt5-promo-1",
+    "name": "Bulbasaur  (MEW 001) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [
+      "Ivysaur"
+    ],
+    "attacks": [
+      {
+        "name": "Leech Seed",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "1",
+    "artist": "Yuu Nishida",
+    "rarity": "Promo",
+    "flavorText": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
+    "nationalPokedexNumbers": [
+      1
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/1.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Bulbasaur-V3-MEW001",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 24.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-promo-4",
+    "name": "Charmander  (MEW 004) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [
+      "Charmeleon"
+    ],
+    "attacks": [
+      {
+        "name": "Blazing Destruction",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard a Stadium in play."
+      },
+      {
+        "name": "Steady Firebreathing",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "4",
+    "artist": "GIDORA",
+    "rarity": "Promo",
+    "flavorText": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+    "nationalPokedexNumbers": [
+      4
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/4.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Charmander-V3-MEW004",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 68.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv3pt5-promo-5",
+    "name": "Charmeleon  (MEW 005) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "100",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Charmander",
+    "evolvesTo": [
+      "Charizard"
+    ],
+    "attacks": [
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Fire Blast",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "Discard an Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "5",
+    "artist": "GIDORA",
+    "rarity": "Promo",
+    "flavorText": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
+    "nationalPokedexNumbers": [
+      5
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv3pt5/5.png",
+      "large": "https://images.pokemontcg.io/sv3pt5/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/151/Charmeleon-V5-MEW005",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

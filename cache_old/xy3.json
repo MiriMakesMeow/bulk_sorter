@@ -2,7 +2,7 @@
   {
     "id": "xy3-1",
     "name": "Bellsprout",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -37,7 +37,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -98,31 +98,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-1",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Bellsprout-FFI1",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.41,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.05,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.35,
-        "reverseHoloAvg30": 0.4
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy3-2",
     "name": "Weepinbell",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -154,13 +141,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "40",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -222,31 +209,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-2",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Weepinbell-FFI2",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.67,
-        "lowPriceExPlus": 0.03,
-        "avg1": 0.26,
-        "avg7": 0.12,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.6,
-        "reverseHoloAvg30": 0.64
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy3-3",
     "name": "Victreebel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -258,7 +232,7 @@
     "abilities": [
       {
         "name": "Wafting Scent",
-        "text": "Once during your turn (before your attack), you may discard a Grass Energy attached to this Pok\u00e9mon. If you do, your opponent's Active Pok\u00e9mon is now Confused and Poisoned.",
+        "text": "Once during your turn (before your attack), you may discard a Grass Energy attached to this Pokémon. If you do, your opponent's Active Pokémon is now Confused and Poisoned.",
         "type": "Ability"
       }
     ],
@@ -272,13 +246,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -340,31 +314,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-3",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Victreebel-FFI3",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.81,
         "lowPrice": 0.1,
-        "trendPrice": 0.52,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.25,
-        "reverseHoloLow": 0.4,
-        "reverseHoloTrend": 0.92,
-        "lowPriceExPlus": 0.12,
-        "avg1": 0.5,
-        "avg7": 0.86,
-        "avg30": 0.94,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.96,
-        "reverseHoloAvg30": 1.13
+        "reverseHoloLow": 0.17
       }
     }
   },
   {
     "id": "xy3-4",
     "name": "Heracross-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -377,7 +338,7 @@
       "M Heracross-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -388,7 +349,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
       },
       {
         "name": "Giga Power",
@@ -399,13 +360,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80+",
-        "text": "You may do 40 more damage. If you do, this Pok\u00e9mon does 20 damage to itself. | When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+        "text": "You may do 40 more damage. If you do, this Pokémon does 20 damage to itself. | When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -460,31 +421,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-4",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Heracross-EX-FFI4",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.3,
         "lowPrice": 1.95,
-        "trendPrice": 6.29,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.35,
-        "lowPriceExPlus": 3.99,
-        "avg1": 6.5,
-        "avg7": 5.91,
-        "avg30": 6.01,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 2.66,
-        "reverseHoloAvg30": 3.03
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy3-5",
     "name": "M Heracross-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -495,8 +443,8 @@
     ],
     "evolvesFrom": "Heracross-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -508,13 +456,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "180-",
-        "text": "This attack does 180 damage minus 10 damage for each damage counter on this Pok\u00e9mon."
+        "text": "This attack does 180 damage minus 10 damage for each damage counter on this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -569,31 +517,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-5",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/MHeracross-EX-FFI5",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 9.75,
         "lowPrice": 4.0,
-        "trendPrice": 12.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 4.6,
-        "lowPriceExPlus": 14.0,
-        "avg1": 15.0,
-        "avg7": 10.35,
-        "avg30": 8.41,
-        "reverseHoloAvg1": 4.45,
-        "reverseHoloAvg7": 4.4,
-        "reverseHoloAvg30": 4.91
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy3-6",
     "name": "Shroomish",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -618,7 +553,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -679,31 +614,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-6",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Shroomish-FFI6",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.32,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.33,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.33,
-        "reverseHoloAvg30": 0.37
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy3-7",
     "name": "Leafeon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -720,7 +642,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Your opponent's Active Pokémon is now Asleep."
       },
       {
         "name": "Magical Leaf",
@@ -731,13 +653,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50+",
-        "text": "Flip a coin. If heads, this attack does 30 more damage and heal 30 damage from this Pok\u00e9mon."
+        "text": "Flip a coin. If heads, this attack does 30 more damage and heal 30 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -798,31 +720,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-7",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Leafeon-FFI7",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.14,
         "lowPrice": 0.15,
-        "trendPrice": 2.01,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 5.99,
-        "reverseHoloLow": 1.5,
-        "reverseHoloTrend": 6.06,
-        "lowPriceExPlus": 0.59,
-        "avg1": 2.49,
-        "avg7": 2.14,
-        "avg30": 1.99,
-        "reverseHoloAvg1": 9.99,
-        "reverseHoloAvg7": 5.78,
-        "reverseHoloAvg30": 7.89
+        "reverseHoloLow": 3.0
       }
     }
   },
   {
     "id": "xy3-8",
     "name": "Shelmet",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -847,7 +756,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -910,31 +819,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-8",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Shelmet-V1-FFI8",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.0,
-        "lowPrice": 2.9,
-        "trendPrice": 3.25,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.93,
-        "lowPriceExPlus": 2.9,
-        "avg1": 4.0,
-        "avg7": 3.49,
-        "avg30": 3.8,
-        "reverseHoloAvg1": 1.98,
-        "reverseHoloAvg7": 2.49,
-        "reverseHoloAvg30": 2.49
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy3-9",
     "name": "Accelgor",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -951,7 +847,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20+",
-        "text": "If this Pok\u00e9mon evolved from Shelmet during this turn, this attack does 40 more damage."
+        "text": "If this Pokémon evolved from Shelmet during this turn, this attack does 40 more damage."
       },
       {
         "name": "Afterimage Strike",
@@ -961,13 +857,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "If any damage is done to this Pok\u00e9mon by attacks during your opponent's next turn, flip a coin. If heads, prevent that damage."
+        "text": "If any damage is done to this Pokémon by attacks during your opponent's next turn, flip a coin. If heads, prevent that damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -1024,31 +920,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-9",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Accelgor-FFI9",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.8,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.67,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.12,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 1.8,
-        "reverseHoloAvg7": 0.84,
-        "reverseHoloAvg30": 0.7
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy3-10",
     "name": "Magmar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1077,13 +960,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Discard a Fire Energy attached to this Pok\u00e9mon."
+        "text": "Discard a Fire Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1145,31 +1028,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-10",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Magmar-FFI10",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.28,
-        "reverseHoloLow": 0.07,
-        "reverseHoloTrend": 0.28,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.15,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.34,
-        "reverseHoloAvg30": 0.37
+        "reverseHoloLow": 0.07
       }
     }
   },
   {
     "id": "xy3-11",
     "name": "Magmortar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1186,7 +1056,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Search your deck for a Fire Energy card and attach it to this Pok\u00e9mon. Shuffle your deck afterward."
+        "text": "Search your deck for a Fire Energy card and attach it to this Pokémon. Shuffle your deck afterward."
       },
       {
         "name": "Twin Bursts",
@@ -1204,7 +1074,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1267,31 +1137,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-11",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Magmortar-FFI11",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.39,
         "lowPrice": 0.03,
-        "trendPrice": 0.54,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.0,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.45,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.4,
-        "avg7": 0.54,
-        "avg30": 0.69,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 1.4,
-        "reverseHoloAvg30": 1.41
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy3-12",
     "name": "Torchic",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1317,7 +1174,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1378,31 +1235,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-12",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Torchic-V1-FFI12",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.5,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.96,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.13,
-        "avg7": 0.12,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 0.88,
-        "reverseHoloAvg30": 0.7
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy3-13",
     "name": "Combusken",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1440,7 +1284,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1501,31 +1345,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-13",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Combusken-V1-FFI13",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.15,
         "lowPrice": 0.04,
-        "trendPrice": 0.23,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.82,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.21,
-        "avg7": 0.19,
-        "avg30": 0.25,
-        "reverseHoloAvg1": 0.23,
-        "reverseHoloAvg7": 0.93,
-        "reverseHoloAvg30": 0.95
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy3-14",
     "name": "Blaziken",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -1543,7 +1374,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       },
       {
         "name": "Burning Shot",
@@ -1555,13 +1386,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "",
-        "text": "Discard 2 Energy attached to this Pok\u00e9mon. This attack does 150 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "Discard 2 Energy attached to this Pokémon. This attack does 150 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1623,31 +1454,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-14",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Blaziken-V1-FFI14",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 31.98,
-        "lowPrice": 6.0,
-        "trendPrice": 18.77,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.61,
-        "lowPriceExPlus": 7.5,
-        "avg1": 22.43,
-        "avg7": 23.58,
-        "avg30": 14.12,
-        "reverseHoloAvg1": 4.49,
-        "reverseHoloAvg7": 3.29,
-        "reverseHoloAvg30": 2.88
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.35
       }
     }
   },
   {
     "id": "xy3-15",
     "name": "Poliwag",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1677,13 +1495,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "20",
-        "text": "Your opponent's Active Pok\u00e9mon is now Confused. That Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "Your opponent's Active Pokémon is now Confused. That Pokémon can't retreat during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1744,31 +1562,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-15",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Poliwag-FFI15",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.61,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.53,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.13,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 0.69,
-        "reverseHoloAvg7": 0.5,
-        "reverseHoloAvg30": 0.44
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy3-16",
     "name": "Poliwhirl",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1800,13 +1605,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50+",
-        "text": "If your opponent's Active Pok\u00e9mon already has any damage counters on it, this attack does 50 more damage."
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 50 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1867,31 +1672,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-16",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Poliwhirl-FFI16",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.3,
         "lowPrice": 0.03,
-        "trendPrice": 0.3,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.99,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.24,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.17,
-        "avg7": 0.26,
-        "avg30": 0.19,
-        "reverseHoloAvg1": 1.28,
-        "reverseHoloAvg7": 1.33,
-        "reverseHoloAvg30": 0.94
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy3-17",
     "name": "Poliwrath",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -1910,7 +1702,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Submission",
@@ -1922,13 +1714,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "130",
-        "text": "This Pok\u00e9mon does 30 damage to itself."
+        "text": "This Pokémon does 30 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1991,31 +1783,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-17",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Poliwrath-FFI17",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.41,
         "lowPrice": 0.3,
-        "trendPrice": 1.21,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.5,
-        "reverseHoloLow": 0.3,
-        "reverseHoloTrend": 2.07,
-        "lowPriceExPlus": 0.8,
-        "avg1": 1.0,
-        "avg7": 1.37,
-        "avg30": 1.1,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 2.32,
-        "reverseHoloAvg30": 1.75
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "xy3-18",
     "name": "Politoed",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -2047,7 +1826,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2108,31 +1887,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-18",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Politoed-FFI18",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.01,
         "lowPrice": 0.15,
-        "trendPrice": 0.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 1.19,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.5,
-        "avg7": 0.74,
-        "avg30": 0.78,
-        "reverseHoloAvg1": 0.88,
-        "reverseHoloAvg7": 1.2,
-        "reverseHoloAvg30": 1.21
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "xy3-19",
     "name": "Glaceon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2149,7 +1915,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "This Pok\u00e9mon does 10 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This Pokémon does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Ice Edge",
@@ -2166,7 +1932,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2227,31 +1993,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-19",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Glaceon-FFI19",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.96,
         "lowPrice": 0.5,
-        "trendPrice": 2.7,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 20.99,
-        "reverseHoloLow": 2.49,
-        "reverseHoloTrend": 13.59,
-        "lowPriceExPlus": 1.5,
-        "avg1": 2.49,
-        "avg7": 2.96,
-        "avg30": 3.22,
-        "reverseHoloAvg1": 8.0,
-        "reverseHoloAvg7": 11.06,
-        "reverseHoloAvg30": 8.45
+        "reverseHoloLow": 2.45
       }
     }
   },
   {
     "id": "xy3-20",
     "name": "Seismitoad-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -2261,7 +2014,7 @@
       "Water"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -2283,13 +2036,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "This attack does 30 damage to 2 of your Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 30 damage to 2 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2344,31 +2097,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-20",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Seismitoad-EX-FFI20",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.54,
         "lowPrice": 1.0,
-        "trendPrice": 2.91,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.33,
-        "lowPriceExPlus": 2.0,
-        "avg1": 3.4,
-        "avg7": 2.89,
-        "avg30": 3.19,
-        "reverseHoloAvg1": 1.99,
-        "reverseHoloAvg7": 3.51,
-        "reverseHoloAvg30": 3.09
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy3-21",
     "name": "Cubchoo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2386,7 +2126,7 @@
           "Water"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
       },
       {
@@ -2404,7 +2144,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2466,31 +2206,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-21",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Cubchoo-FFI21",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.36,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.4,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.08,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.33,
-        "reverseHoloAvg30": 0.4
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy3-22",
     "name": "Beartic",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2508,7 +2235,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "This attack does 20 more damage for each Colorless in your opponent's Active Pok\u00e9mon's Retreat Cost."
+        "text": "This attack does 20 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
       },
       {
         "name": "Mountain Drop",
@@ -2526,7 +2253,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2590,31 +2317,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-22",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Beartic-FFI22",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.55,
         "lowPrice": 0.05,
-        "trendPrice": 0.46,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.39,
-        "reverseHoloTrend": 1.04,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.45,
-        "avg7": 0.42,
-        "avg30": 0.47,
-        "reverseHoloAvg1": 0.8,
-        "reverseHoloAvg7": 1.01,
-        "reverseHoloAvg30": 0.87
+        "reverseHoloLow": 0.39
       }
     }
   },
   {
     "id": "xy3-23",
     "name": "Clauncher",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2633,7 +2347,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Crabhammer",
@@ -2650,7 +2364,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2711,31 +2425,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-23",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Clauncher-FFI23",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.32,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.3,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.13,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 0.3,
-        "reverseHoloAvg30": 0.3
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy3-24",
     "name": "Clawitzer",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2752,7 +2453,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon."
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon."
       },
       {
         "name": "Splash Cannon",
@@ -2763,13 +2464,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50+",
-        "text": "This attack does 20 more damage for each Water Energy attached to this Pok\u00e9mon."
+        "text": "This attack does 20 more damage for each Water Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2831,31 +2532,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-24",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Clawitzer-FFI24",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.93,
         "lowPrice": 0.25,
-        "trendPrice": 0.88,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.9,
-        "reverseHoloLow": 0.33,
-        "reverseHoloTrend": 0.65,
-        "lowPriceExPlus": 0.25,
-        "avg1": 0.95,
-        "avg7": 1.04,
-        "avg30": 0.9,
-        "reverseHoloAvg1": 0.7,
-        "reverseHoloAvg7": 0.85,
-        "reverseHoloAvg30": 0.93
+        "reverseHoloLow": 0.33
       }
     }
   },
   {
     "id": "xy3-25",
     "name": "Amaura",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Restored"
     ],
@@ -2895,7 +2583,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2925,7 +2613,7 @@
     "number": "25",
     "artist": "5ban Graphics",
     "rarity": "Uncommon",
-    "flavorText": "This ancient Pok\u00e9mon was restored from part of its body that had been frozen in ice for over 100 million years.",
+    "flavorText": "This ancient Pokémon was restored from part of its body that had been frozen in ice for over 100 million years.",
     "nationalPokedexNumbers": [
       698
     ],
@@ -2958,31 +2646,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-25",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Amaura-FFI25",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.43,
         "lowPrice": 0.02,
-        "trendPrice": 0.62,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.06,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 2.64,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.4,
-        "avg7": 0.65,
-        "avg30": 0.59,
-        "reverseHoloAvg1": 6.0,
-        "reverseHoloAvg7": 3.33,
-        "reverseHoloAvg30": 1.99
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy3-26",
     "name": "Aurorus",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2994,7 +2669,7 @@
     "abilities": [
       {
         "name": "Ice Shield",
-        "text": "Any damage done by an opponent's attack to each of your Water Pok\u00e9mon that has any Water Energy attached to it is reduced by 20 (after applying Weakness and Resistance).",
+        "text": "Any damage done by an opponent's attack to each of your Water Pokémon that has any Water Energy attached to it is reduced by 20 (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -3009,13 +2684,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "70",
-        "text": "Your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3078,31 +2753,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-26",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Aurorus-FFI26",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 11.83,
-        "lowPrice": 5.5,
-        "trendPrice": 12.6,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 14.27,
-        "reverseHoloTrend": 8.89,
-        "lowPriceExPlus": 8.0,
-        "avg1": 10.99,
-        "avg7": 11.42,
-        "avg30": 8.27,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 7.92,
-        "reverseHoloAvg30": 6.02
+        "lowPrice": 1.0,
+        "reverseHoloLow": 14.15
       }
     }
   },
   {
     "id": "xy3-27",
     "name": "Pikachu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3122,13 +2784,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3195,31 +2857,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-27",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Pikachu-FFI27",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.69,
         "lowPrice": 0.08,
-        "trendPrice": 3.25,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 9.12,
-        "reverseHoloLow": 0.99,
-        "reverseHoloTrend": 9.31,
-        "lowPriceExPlus": 0.5,
-        "avg1": 1.5,
-        "avg7": 2.96,
-        "avg30": 2.74,
-        "reverseHoloAvg1": 15.0,
-        "reverseHoloAvg7": 11.14,
-        "reverseHoloAvg30": 7.22
+        "reverseHoloLow": 0.99
       }
     }
   },
   {
     "id": "xy3-28",
     "name": "Raichu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3237,7 +2886,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Electro Ball",
@@ -3254,7 +2903,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3321,31 +2970,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-28",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Raichu-FFI28",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.06,
         "lowPrice": 0.1,
-        "trendPrice": 1.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.0,
-        "reverseHoloLow": 1.2,
-        "reverseHoloTrend": 4.72,
-        "lowPriceExPlus": 0.15,
-        "avg1": 1.0,
-        "avg7": 1.15,
-        "avg30": 1.03,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 4.83,
-        "reverseHoloAvg30": 3.98
+        "reverseHoloLow": 1.2
       }
     }
   },
   {
     "id": "xy3-29",
     "name": "Electabuzz",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3380,7 +3016,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3448,31 +3084,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-29",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Electabuzz-FFI29",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.52,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.57,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.1,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.46,
-        "reverseHoloAvg30": 0.44
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "xy3-30",
     "name": "Electivire",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3500,13 +3123,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
-        "text": "Flip a coin. If heads, this attack does 30 more damage. If tails, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, this attack does 30 more damage. If tails, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3575,31 +3198,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-30",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Electivire-FFI30",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.53,
         "lowPrice": 0.1,
-        "trendPrice": 0.58,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.16,
-        "reverseHoloLow": 0.3,
-        "reverseHoloTrend": 1.96,
-        "lowPriceExPlus": 0.27,
-        "avg1": 0.49,
-        "avg7": 0.71,
-        "avg30": 0.76,
-        "reverseHoloAvg1": 2.7,
-        "reverseHoloAvg7": 2.19,
-        "reverseHoloAvg30": 1.52
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "xy3-31",
     "name": "Plusle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3625,13 +3235,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3698,31 +3308,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-31",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Plusle-FFI31",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.21,
         "lowPrice": 0.02,
-        "trendPrice": 0.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.53,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 1.15,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.3,
-        "avg7": 0.14,
-        "avg30": 0.19,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 1.14,
-        "reverseHoloAvg30": 0.88
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy3-32",
     "name": "Minun",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3753,7 +3350,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3820,31 +3417,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-32",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Minun-FFI32",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.19,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.63,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.24,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.2,
-        "avg30": 0.35,
-        "reverseHoloAvg1": 1.35,
-        "reverseHoloAvg7": 1.39,
-        "reverseHoloAvg30": 0.87
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy3-33",
     "name": "Thundurus",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3861,7 +3445,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "If your opponent's Active Pok\u00e9mon has a Pok\u00e9mon Tool card attached to it, this attack does 30 more damage."
+        "text": "If your opponent's Active Pokémon has a Pokémon Tool card attached to it, this attack does 30 more damage."
       },
       {
         "name": "Lightning Slam",
@@ -3872,13 +3456,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "This Pok\u00e9mon can't use Lightning Slam during your next turn."
+        "text": "This Pokémon can't use Lightning Slam during your next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3945,31 +3529,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-33",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Thundurus-FFI33",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.48,
-        "lowPrice": 0.05,
-        "trendPrice": 0.38,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.08,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 1.41,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.3,
-        "avg7": 0.44,
-        "avg30": 0.41,
-        "reverseHoloAvg1": 1.2,
-        "reverseHoloAvg7": 1.59,
-        "reverseHoloAvg30": 1.32
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy3-34",
     "name": "Dedenne",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3985,7 +3556,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for up to 2 Basic Pok\u00e9mon and put them onto your Bench. Shuffle your deck afterward."
+        "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
       },
       {
         "name": "Energy Short",
@@ -3993,14 +3564,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "20\u00d7",
-        "text": "This attack does 20 damage times the amount of Energy attached to your opponent's Active Pok\u00e9mon."
+        "damage": "20×",
+        "text": "This attack does 20 damage times the amount of Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4067,31 +3638,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-34",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Dedenne-FFI34",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.2,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.85,
-        "reverseHoloLow": 0.49,
-        "reverseHoloTrend": 0.95,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.25,
-        "avg7": 0.18,
-        "avg30": 0.27,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.92,
-        "reverseHoloAvg30": 0.89
+        "reverseHoloLow": 0.49
       }
     }
   },
   {
     "id": "xy3-35",
     "name": "Drowzee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4126,7 +3684,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4188,31 +3746,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-35",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Drowzee-FFI35",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.42,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.11,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.39,
-        "reverseHoloAvg30": 0.38
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy3-36",
     "name": "Hypno",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4240,13 +3785,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "Your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4308,31 +3853,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-36",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Hypno-FFI36",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.29,
         "lowPrice": 0.05,
-        "trendPrice": 0.21,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.68,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 0.67,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.08,
-        "avg7": 0.29,
-        "avg30": 0.36,
-        "reverseHoloAvg1": 0.8,
-        "reverseHoloAvg7": 0.76,
-        "reverseHoloAvg30": 0.87
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy3-37",
     "name": "Jynx",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4343,7 +3875,7 @@
     "abilities": [
       {
         "name": "Victory Kiss",
-        "text": "Once during your turn (before your attack), if this Pok\u00e9mon is on your Bench, you may heal 10 damage from your Active Pok\u00e9mon.",
+        "text": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may heal 10 damage from your Active Pokémon.",
         "type": "Ability"
       }
     ],
@@ -4357,13 +3889,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4424,31 +3956,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-37",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Jynx-FFI37",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.33,
-        "lowPrice": 0.02,
-        "trendPrice": 0.35,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.96,
-        "reverseHoloLow": 0.49,
-        "reverseHoloTrend": 1.06,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.4,
-        "avg7": 0.32,
-        "avg30": 0.44,
-        "reverseHoloAvg1": 0.94,
-        "reverseHoloAvg7": 0.98,
-        "reverseHoloAvg30": 1.11
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.49
       }
     }
   },
   {
     "id": "xy3-38",
     "name": "Skorupi",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4467,7 +3986,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
       },
       {
         "name": "Pierce",
@@ -4484,7 +4003,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4546,31 +4065,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-38",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Skorupi-FFI38",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.24,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.22,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.2,
-        "reverseHoloAvg30": 0.34
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy3-39",
     "name": "Gothita",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4599,13 +4105,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "10",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4666,31 +4172,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-39",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Gothita-FFI39",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.57,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.44,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.13,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.49,
-        "reverseHoloAvg30": 0.43
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy3-40",
     "name": "Gothorita",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4726,7 +4219,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4787,31 +4280,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-40",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Gothorita-FFI40",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
-        "lowPrice": 0.02,
-        "trendPrice": 0.22,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.47,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.23,
-        "avg7": 0.22,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.4,
-        "reverseHoloAvg30": 0.48
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy3-41",
     "name": "Gothitelle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -4843,7 +4323,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4905,31 +4385,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-41",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Gothitelle-FFI41",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.41,
         "lowPrice": 0.02,
-        "trendPrice": 0.61,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.38,
-        "reverseHoloLow": 0.22,
-        "reverseHoloTrend": 1.05,
-        "lowPriceExPlus": 0.02,
-        "avg1": 1.49,
-        "avg7": 0.6,
-        "avg30": 0.48,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 1.04,
-        "reverseHoloAvg30": 1.27
+        "reverseHoloLow": 0.22
       }
     }
   },
   {
     "id": "xy3-42",
     "name": "Golett",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4966,7 +4433,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5035,31 +4502,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-42",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Golett-FFI42",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.33,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.31,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.1,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.31,
-        "reverseHoloAvg30": 0.33
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy3-43",
     "name": "Golurk",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5096,7 +4550,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5133,7 +4587,7 @@
     "number": "43",
     "artist": "PLANETA",
     "rarity": "Rare",
-    "flavorText": "It is said that Golurk were ordered to protect people and Pok\u00e9mon by the ancient people who made them.",
+    "flavorText": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
     "nationalPokedexNumbers": [
       623
     ],
@@ -5166,31 +4620,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-43",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Golurk-FFI43",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.36,
         "lowPrice": 0.02,
-        "trendPrice": 0.39,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.68,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 1.3,
-        "lowPriceExPlus": 0.06,
-        "avg1": 0.45,
-        "avg7": 0.36,
-        "avg30": 0.29,
-        "reverseHoloAvg1": 0.68,
-        "reverseHoloAvg7": 1.26,
-        "reverseHoloAvg30": 1.08
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy3-44",
     "name": "Machop",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5215,7 +4656,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5277,31 +4718,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-44",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Machop-FFI44",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.43,
-        "reverseHoloLow": 0.17,
-        "reverseHoloTrend": 0.47,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.15,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.38,
-        "reverseHoloAvg30": 0.45
+        "reverseHoloLow": 0.17
       }
     }
   },
   {
     "id": "xy3-45",
     "name": "Machoke",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5328,7 +4756,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5390,31 +4818,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-45",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Machoke-FFI45",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.62,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.0,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.76,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.21,
-        "avg7": 0.55,
-        "avg30": 0.24,
-        "reverseHoloAvg1": 0.66,
-        "reverseHoloAvg7": 0.76,
-        "reverseHoloAvg30": 0.67
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy3-46",
     "name": "Machamp",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -5426,7 +4841,7 @@
     "abilities": [
       {
         "name": "Fighting Fury",
-        "text": "Each of your Fighting Pok\u00e9mon's attacks do 20 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance).",
+        "text": "Each of your Fighting Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -5440,13 +4855,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pok\u00e9mon is reduced by 40 (before applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 40 (before applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5508,31 +4923,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-46",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Machamp-FFI46",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.34,
         "lowPrice": 0.1,
-        "trendPrice": 1.33,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.55,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 1.97,
-        "lowPriceExPlus": 0.4,
-        "avg1": 0.55,
-        "avg7": 1.29,
-        "avg30": 1.17,
-        "reverseHoloAvg1": 1.1,
-        "reverseHoloAvg7": 1.9,
-        "reverseHoloAvg30": 1.81
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "xy3-47",
     "name": "Hitmonlee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5548,7 +4950,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Spiral Kick",
@@ -5564,7 +4966,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5625,31 +5027,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-47",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Hitmonlee-FFI47",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.2,
         "lowPrice": 0.02,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.99,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 0.92,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.17,
-        "avg7": 0.2,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.92,
-        "reverseHoloAvg30": 1.02
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy3-48",
     "name": "Hitmonchan",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5683,7 +5072,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5744,31 +5133,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-48",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Hitmonchan-FFI48",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.3,
-        "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.82,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.29,
-        "avg7": 0.27,
-        "avg30": 0.27,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 0.9,
-        "reverseHoloAvg30": 0.82
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy3-49",
     "name": "Hitmontop",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5795,13 +5171,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "40",
-        "text": "Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon."
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5862,31 +5238,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-49",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Hitmontop-FFI49",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.24,
         "lowPrice": 0.02,
-        "trendPrice": 0.22,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.05,
-        "reverseHoloLow": 0.3,
-        "reverseHoloTrend": 0.97,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.49,
-        "avg7": 0.27,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 0.69,
-        "reverseHoloAvg7": 0.7,
-        "reverseHoloAvg30": 0.9
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "xy3-50",
     "name": "Breloom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5904,7 +5267,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Heal from this Pok\u00e9mon the same amount of damage you did to your opponent's Active Pok\u00e9mon."
+        "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
       },
       {
         "name": "Sky Uppercut",
@@ -5921,7 +5284,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5983,31 +5346,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-50",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Breloom-FFI50",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.53,
         "lowPrice": 0.05,
-        "trendPrice": 0.44,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.2,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.87,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.6,
-        "avg7": 0.48,
-        "avg30": 0.38,
-        "reverseHoloAvg1": 1.05,
-        "reverseHoloAvg7": 1.03,
-        "reverseHoloAvg30": 1.12
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy3-51",
     "name": "Makuhita",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6043,7 +5393,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6106,31 +5456,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-51",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Makuhita-FFI51",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.31,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.36,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.09,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.37,
-        "reverseHoloAvg30": 0.37
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy3-52",
     "name": "Hariyama",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6142,7 +5479,7 @@
     "abilities": [
       {
         "name": "Thick Fat",
-        "text": "Any damage done to this Pok\u00e9mon by attacks from your opponent's Fire or Water Pok\u00e9mon is reduced by 30 (after applying Weakness and Resistance).",
+        "text": "Any damage done to this Pokémon by attacks from your opponent's Fire or Water Pokémon is reduced by 30 (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -6162,7 +5499,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6226,31 +5563,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-52",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Hariyama-FFI52",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.0,
-        "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.45,
-        "reverseHoloLow": 0.4,
-        "reverseHoloTrend": 0.84,
-        "lowPriceExPlus": 0.07,
-        "avg1": 0.25,
-        "avg7": 0.19,
-        "avg30": 0.33,
-        "reverseHoloAvg1": 0.45,
-        "reverseHoloAvg7": 0.57,
-        "reverseHoloAvg30": 0.85
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.4
       }
     }
   },
   {
     "id": "xy3-53",
     "name": "Trapinch",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6285,7 +5609,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6346,31 +5670,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-53",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Trapinch-FFI53",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.35,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.36,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.1,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.38,
-        "reverseHoloAvg30": 0.38
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy3-54",
     "name": "Lucario-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -6383,7 +5694,7 @@
       "M Lucario-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -6420,7 +5731,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6474,31 +5785,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-54",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Lucario-EX-FFI54",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.79,
-        "lowPrice": 1.94,
-        "trendPrice": 5.97,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.15,
-        "lowPriceExPlus": 5.5,
-        "avg1": 8.35,
-        "avg7": 5.47,
-        "avg30": 6.78,
-        "reverseHoloAvg1": 5.75,
-        "reverseHoloAvg7": 5.95,
-        "reverseHoloAvg30": 4.89
+        "lowPrice": 1.65,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy3-55",
     "name": "M Lucario-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -6509,8 +5807,8 @@
     ],
     "evolvesFrom": "Lucario-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -6522,13 +5820,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "140",
-        "text": "Discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Discard an Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6582,31 +5880,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-55",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/MLucario-EX-V1-FFI55",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 29.05,
         "lowPrice": 12.0,
-        "trendPrice": 26.22,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 9.39,
-        "lowPriceExPlus": 28.0,
-        "avg1": 9.97,
-        "avg7": 30.5,
-        "avg30": 24.71,
-        "reverseHoloAvg1": 8.45,
-        "reverseHoloAvg7": 7.81,
-        "reverseHoloAvg30": 8.49
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy3-56",
     "name": "Mienfoo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6641,7 +5926,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6702,31 +5987,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-56",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Mienfoo-FFI56",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.21,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.28,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.25,
-        "avg7": 0.09,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.22,
-        "reverseHoloAvg30": 0.35
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "xy3-57",
     "name": "Mienshao",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6743,7 +6015,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "40",
-        "text": "Return this Pok\u00e9mon and all cards attached to it to your hand."
+        "text": "Return this Pokémon and all cards attached to it to your hand."
       },
       {
         "name": "High Jump Kick",
@@ -6759,7 +6031,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6820,31 +6092,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-57",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Mienshao-FFI57",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.15,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.71,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.18,
-        "avg7": 0.12,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.43,
-        "reverseHoloAvg30": 0.66
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy3-58",
     "name": "Landorus",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6860,7 +6119,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pok\u00e9mon."
+        "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon."
       },
       {
         "name": "Sky Lariat",
@@ -6877,7 +6136,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6938,31 +6197,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-58",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Landorus-FFI58",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.97,
-        "lowPrice": 0.1,
-        "trendPrice": 0.79,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.47,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 1.18,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.35,
-        "avg7": 0.91,
-        "avg30": 0.66,
-        "reverseHoloAvg1": 1.45,
-        "reverseHoloAvg7": 1.12,
-        "reverseHoloAvg30": 1.05
+        "lowPrice": 0.12,
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy3-59",
     "name": "Pancham",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6981,7 +6227,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "If you have any Darkness Pok\u00e9mon on your Bench, search your deck for a card that evolves from this Pok\u00e9mon and put it onto this Pok\u00e9mon. (This counts as evolving this Pok\u00e9mon.) Shuffle your deck afterward."
+        "text": "If you have any Darkness Pokémon on your Bench, search your deck for a card that evolves from this Pokémon and put it onto this Pokémon. (This counts as evolving this Pokémon.) Shuffle your deck afterward."
       },
       {
         "name": "Confront",
@@ -6998,7 +6244,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7059,31 +6305,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-59",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Pancham-FFI59",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.27,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.35,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.34,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.23,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 0.27,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy3-60",
     "name": "Pancham",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7102,14 +6335,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7171,31 +6404,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-60",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Pancham-FFI60",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.39,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.54,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.11,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.39,
-        "reverseHoloAvg7": 0.86,
-        "reverseHoloAvg30": 0.62
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy3-61",
     "name": "Tyrunt",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Restored"
     ],
@@ -7230,13 +6450,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
-        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7265,7 +6485,7 @@
     "number": "61",
     "artist": "5ban Graphics",
     "rarity": "Uncommon",
-    "flavorText": "This Pok\u00e9mon was restored from a fossil. If something happens that it doesn't like, it throws a tantrum and runs wild.",
+    "flavorText": "This Pokémon was restored from a fossil. If something happens that it doesn't like, it throws a tantrum and runs wild.",
     "nationalPokedexNumbers": [
       696
     ],
@@ -7298,31 +6518,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-61",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Tyrunt-FFI61",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.41,
         "lowPrice": 0.02,
-        "trendPrice": 1.24,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.0,
-        "reverseHoloLow": 0.3,
-        "reverseHoloTrend": 1.32,
-        "lowPriceExPlus": 0.15,
-        "avg1": 0.3,
-        "avg7": 1.53,
-        "avg30": 1.42,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 1.57,
-        "reverseHoloAvg30": 1.39
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "xy3-62",
     "name": "Tyrantrum",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7341,7 +6548,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
-        "text": "If your opponent's Active Pok\u00e9mon has any Special Energy attached to it, this attack does 90 more damage."
+        "text": "If your opponent's Active Pokémon has any Special Energy attached to it, this attack does 90 more damage."
       },
       {
         "name": "Giga Impact",
@@ -7353,13 +6560,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "150",
-        "text": "This Pok\u00e9mon can't attack during your next turn."
+        "text": "This Pokémon can't attack during your next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7422,31 +6629,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-62",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Tyrantrum-FFI62",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 8.39,
-        "lowPrice": 5.9,
-        "trendPrice": 10.62,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 16.0,
-        "reverseHoloLow": 5.9,
-        "reverseHoloTrend": 13.16,
-        "lowPriceExPlus": 9.5,
-        "avg1": 14.99,
-        "avg7": 8.8,
-        "avg30": 10.47,
-        "reverseHoloAvg1": 16.0,
-        "reverseHoloAvg7": 12.45,
-        "reverseHoloAvg30": 7.75
+        "lowPrice": 5.0,
+        "reverseHoloLow": 9.0
       }
     }
   },
   {
     "id": "xy3-63",
     "name": "Hawlucha",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7457,7 +6651,7 @@
     "abilities": [
       {
         "name": "Shining Spirit",
-        "text": "Damage from this Pok\u00e9mon's attacks isn't affected by Weakness or Resistance.",
+        "text": "Damage from this Pokémon's attacks isn't affected by Weakness or Resistance.",
         "type": "Ability"
       }
     ],
@@ -7469,13 +6663,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "60",
-        "text": "If your opponent's Active Pok\u00e9mon isn't a Pok\u00e9mon-EX, this attack does nothing."
+        "text": "If your opponent's Active Pokémon isn't a Pokémon-EX, this attack does nothing."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7538,31 +6732,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-63",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Hawlucha-FFI63",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.63,
         "lowPrice": 0.05,
-        "trendPrice": 0.54,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.06,
-        "reverseHoloLow": 0.19,
-        "reverseHoloTrend": 0.83,
-        "lowPriceExPlus": 0.19,
-        "avg1": 0.5,
-        "avg7": 0.72,
-        "avg30": 0.8,
-        "reverseHoloAvg1": 0.91,
-        "reverseHoloAvg7": 1.12,
-        "reverseHoloAvg30": 1.05
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy3-64",
     "name": "Hawlucha-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -7572,12 +6753,12 @@
       "Fighting"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Counterattack",
-        "text": "If this Pok\u00e9mon is your Active Pok\u00e9mon and is damaged by an opponent's attack (even if this Pok\u00e9mon is Knocked Out), put 2 damage counters on the Attacking Pok\u00e9mon.",
+        "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), put 2 damage counters on the Attacking Pokémon.",
         "type": "Ability"
       }
     ],
@@ -7597,7 +6778,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7656,31 +6837,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-64",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Hawlucha-EX-FFI64",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.22,
         "lowPrice": 1.99,
-        "trendPrice": 4.45,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.24,
-        "lowPriceExPlus": 3.0,
-        "avg1": 4.49,
-        "avg7": 4.03,
-        "avg30": 4.03,
-        "reverseHoloAvg1": 3.87,
-        "reverseHoloAvg7": 4.27,
-        "reverseHoloAvg30": 3.36
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy3-65",
     "name": "Drapion",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7697,7 +6865,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20+",
-        "text": "If your opponent's Active Pok\u00e9mon is Poisoned, this attack does 40 more damage."
+        "text": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage."
       },
       {
         "name": "Venomous Fang",
@@ -7709,13 +6877,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "80",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7784,31 +6952,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-65",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Drapion-FFI65",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.57,
         "lowPrice": 0.1,
-        "trendPrice": 0.53,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.6,
-        "reverseHoloLow": 0.35,
-        "reverseHoloTrend": 0.79,
-        "lowPriceExPlus": 0.15,
-        "avg1": 0.1,
-        "avg7": 0.53,
-        "avg30": 0.52,
-        "reverseHoloAvg1": 0.6,
-        "reverseHoloAvg7": 0.81,
-        "reverseHoloAvg30": 0.9
+        "reverseHoloLow": 0.35
       }
     }
   },
   {
     "id": "xy3-66",
     "name": "Scraggy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7834,7 +6989,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7902,31 +7057,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-66",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Scraggy-FFI66",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.23,
         "lowPrice": 0.02,
-        "trendPrice": 0.28,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.49,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.42,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.14,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.95,
-        "reverseHoloAvg7": 0.45,
-        "reverseHoloAvg30": 0.64
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy3-67",
     "name": "Scrafty",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7953,14 +7095,14 @@
           "Darkness"
         ],
         "convertedEnergyCost": 2,
-        "damage": "50\u00d7",
-        "text": "Flip 3 coins. This attack does 50 damage times the number of heads. This Pok\u00e9mon is now Confused."
+        "damage": "50×",
+        "text": "Flip 3 coins. This attack does 50 damage times the number of heads. This Pokémon is now Confused."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8028,31 +7170,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-67",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Scrafty-FFI67",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.24,
-        "reverseHoloTrend": 0.68,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.11,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.57,
-        "reverseHoloAvg30": 0.59
+        "reverseHoloLow": 0.24
       }
     }
   },
   {
     "id": "xy3-68",
     "name": "Pangoro",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8087,7 +7216,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8156,31 +7285,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-68",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Pangoro-FFI68",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.58,
         "lowPrice": 0.02,
-        "trendPrice": 0.51,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.57,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.19,
-        "lowPriceExPlus": 0.03,
-        "avg1": 0.2,
-        "avg7": 0.49,
-        "avg30": 0.46,
-        "reverseHoloAvg1": 0.8,
-        "reverseHoloAvg7": 1.29,
-        "reverseHoloAvg30": 0.84
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy3-69",
     "name": "Clefairy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8199,7 +7315,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       },
       {
         "name": "Pound",
@@ -8215,7 +7331,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8282,31 +7398,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-69",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Clefairy-FFI69",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.2,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.41,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.29,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.17,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.45,
-        "reverseHoloAvg30": 0.67
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy3-70",
     "name": "Clefairy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8325,13 +7428,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pok\u00e9mon is reduced by 10 (before applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 10 (before applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8398,31 +7501,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-70",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Clefairy-FFI70",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.19,
         "lowPrice": 0.02,
-        "trendPrice": 0.27,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.58,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.59,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.13,
-        "avg7": 0.24,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 0.65,
-        "reverseHoloAvg7": 0.46,
-        "reverseHoloAvg30": 0.53
+        "reverseHoloLow": 0.07
       }
     }
   },
   {
     "id": "xy3-71",
     "name": "Clefable",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8439,7 +7529,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with your opponent's Active Pok\u00e9mon."
+        "text": "Switch 1 of your opponent's Benched Pokémon with your opponent's Active Pokémon."
       },
       {
         "name": "Moonblast",
@@ -8449,13 +7539,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pok\u00e9mon is reduced by 30 (before applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 30 (before applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8523,31 +7613,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-71",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Clefable-FFI71",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.19,
         "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.62,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.24,
-        "avg30": 0.19,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.71,
-        "reverseHoloAvg30": 0.78
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy3-72",
     "name": "Sylveon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8564,7 +7641,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Move an Energy attached to your opponent's Active Pok\u00e9mon to 1 of his or her Benched Pok\u00e9mon."
+        "text": "Move an Energy attached to your opponent's Active Pokémon to 1 of his or her Benched Pokémon."
       },
       {
         "name": "Echoed Voice",
@@ -8575,13 +7652,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
-        "text": "During your next turn, this Pok\u00e9mon's Echoed Voice attack does 50 more damage (before applying Weakness and Resistance)."
+        "text": "During your next turn, this Pokémon's Echoed Voice attack does 50 more damage (before applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8648,31 +7725,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-72",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Sylveon-FFI72",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 6.72,
         "lowPrice": 0.15,
-        "trendPrice": 6.48,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 4.28,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 7.37,
-        "lowPriceExPlus": 2.5,
-        "avg1": 7.25,
-        "avg7": 6.2,
-        "avg30": 5.8,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 4.87,
-        "reverseHoloAvg30": 6.96
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "xy3-73",
     "name": "Klefki",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8683,7 +7747,7 @@
     "abilities": [
       {
         "name": "Secret Key",
-        "text": "Each of your Fairy Pok\u00e9mon's Resistance is now -40.",
+        "text": "Each of your Fairy Pokémon's Resistance is now -40.",
         "type": "Ability"
       }
     ],
@@ -8696,13 +7760,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8769,31 +7833,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-73",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Klefki-FFI73",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.25,
-        "reverseHoloLow": 0.3,
-        "reverseHoloTrend": 0.54,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.77,
-        "avg7": 0.28,
-        "avg30": 0.23,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.48,
-        "reverseHoloAvg30": 0.6
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "xy3-74",
     "name": "Dragonite-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -8803,12 +7854,12 @@
       "Dragon"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Bust In",
-        "text": "When you play this Pok\u00e9mon from your hand onto your Bench, you may move any number of basic Energy attached to your Pok\u00e9mon to this Pok\u00e9mon. If you do, switch this Pok\u00e9mon with your Active Pok\u00e9mon.",
+        "text": "When you play this Pokémon from your hand onto your Bench, you may move any number of basic Energy attached to your Pokémon to this Pokémon. If you do, switch this Pokémon with your Active Pokémon.",
         "type": "Ability"
       }
     ],
@@ -8822,13 +7873,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80+",
-        "text": "You may discard an Energy attached to this Pok\u00e9mon. If you do, this attack does 40 more damage."
+        "text": "You may discard an Energy attached to this Pokémon. If you do, this attack does 40 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8883,31 +7934,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-74",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Dragonite-EX-V1-FFI74",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 11.74,
         "lowPrice": 1.2,
-        "trendPrice": 14.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.17,
-        "lowPriceExPlus": 1.49,
-        "avg1": 8.4,
-        "avg7": 4.21,
-        "avg30": 7.3,
-        "reverseHoloAvg1": 6.75,
-        "reverseHoloAvg7": 4.24,
-        "reverseHoloAvg30": 4.76
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy3-75",
     "name": "Vibrava",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8943,7 +7981,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9004,31 +8042,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-75",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Vibrava-FFI75",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.28,
         "lowPrice": 0.02,
-        "trendPrice": 0.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.09,
-        "reverseHoloTrend": 0.52,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.13,
-        "avg7": 0.22,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.56,
-        "reverseHoloAvg30": 0.57
+        "reverseHoloLow": 0.09
       }
     }
   },
   {
     "id": "xy3-76",
     "name": "Flygon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -9045,7 +8070,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Attach as many basic Energy cards as you like from your hand to your Pok\u00e9mon in any way you like."
+        "text": "Attach as many basic Energy cards as you like from your hand to your Pokémon in any way you like."
       },
       {
         "name": "Sand Sweep",
@@ -9056,13 +8081,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "Heal 30 damage from each of your Pok\u00e9mon that has any Energy attached to it."
+        "text": "Heal 30 damage from each of your Pokémon that has any Energy attached to it."
       }
     ],
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9123,31 +8148,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-76",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Flygon-FFI76",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.45,
         "lowPrice": 0.02,
-        "trendPrice": 1.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.25,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 2.13,
-        "lowPriceExPlus": 0.15,
-        "avg1": 0.7,
-        "avg7": 1.16,
-        "avg30": 0.91,
-        "reverseHoloAvg1": 2.45,
-        "reverseHoloAvg7": 2.14,
-        "reverseHoloAvg30": 1.92
+        "reverseHoloLow": 1.0
       }
     }
   },
   {
     "id": "xy3-77",
     "name": "Noivern",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -9159,7 +8171,7 @@
     "abilities": [
       {
         "name": "Echolocation",
-        "text": "If any damage is done to this Pok\u00e9mon by attacks, flip a coin. If heads, prevent that damage.",
+        "text": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
         "type": "Ability"
       }
     ],
@@ -9173,13 +8185,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "This attack does 30 damage to each of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9240,31 +8252,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-77",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Noivern-FFI77",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.0,
-        "lowPrice": 0.1,
-        "trendPrice": 0.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.68,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 2.31,
-        "lowPriceExPlus": 0.25,
-        "avg1": 0.69,
-        "avg7": 1.06,
-        "avg30": 1.2,
-        "reverseHoloAvg1": 2.2,
-        "reverseHoloAvg7": 2.41,
-        "reverseHoloAvg30": 1.87
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy3-78",
     "name": "Lickitung",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9291,7 +8290,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9354,31 +8353,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-78",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Lickitung-FFI78",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.45,
-        "reverseHoloLow": 0.11,
-        "reverseHoloTrend": 0.39,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.08,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.75,
-        "reverseHoloAvg7": 0.37,
-        "reverseHoloAvg30": 0.42
+        "reverseHoloLow": 0.11
       }
     }
   },
   {
     "id": "xy3-79",
     "name": "Lickilicky",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -9415,7 +8401,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9479,31 +8465,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-79",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Lickilicky-FFI79",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.0,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.75,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.5,
-        "avg7": 0.16,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.79,
-        "reverseHoloAvg30": 0.92
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy3-80",
     "name": "Eevee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9524,7 +8497,7 @@
     "abilities": [
       {
         "name": "Energy Evolution",
-        "text": "When you attach a basic Energy card from your hand to this Pok\u00e9mon, you may search your deck for a card that evolves from this Pok\u00e9mon that is the same type as that Energy card and put it onto this Pok\u00e9mon. (This counts as evolving this Pok\u00e9mon.) Shuffle your deck afterward.",
+        "text": "When you attach a basic Energy card from your hand to this Pokémon, you may search your deck for a card that evolves from this Pokémon that is the same type as that Energy card and put it onto this Pokémon. (This counts as evolving this Pokémon.) Shuffle your deck afterward.",
         "type": "Ability"
       }
     ],
@@ -9543,7 +8516,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9571,7 +8544,7 @@
     "number": "80",
     "artist": "sui",
     "rarity": "Common",
-    "flavorText": "A rare Pok\u00e9mon that adapts to harsh environments by taking on different evolutionary forms.",
+    "flavorText": "A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.",
     "nationalPokedexNumbers": [
       133
     ],
@@ -9604,31 +8577,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-80",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Eevee-FFI80",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.65,
         "lowPrice": 0.02,
-        "trendPrice": 0.58,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.08,
-        "reverseHoloLow": 0.45,
-        "reverseHoloTrend": 2.48,
-        "lowPriceExPlus": 0.03,
-        "avg1": 0.02,
-        "avg7": 0.62,
-        "avg30": 0.64,
-        "reverseHoloAvg1": 4.75,
-        "reverseHoloAvg7": 2.92,
-        "reverseHoloAvg30": 2.56
+        "reverseHoloLow": 0.45
       }
     }
   },
   {
     "id": "xy3-81",
     "name": "Slakoth",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9648,13 +8608,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Both Active Pok\u00e9mon are now Asleep."
+        "text": "Both Active Pokémon are now Asleep."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9717,31 +8677,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-81",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Slakoth-FFI81",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.43,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.37,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.14,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.45,
-        "reverseHoloAvg7": 0.42,
-        "reverseHoloAvg30": 0.39
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy3-82",
     "name": "Vigoroth",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -9772,13 +8719,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "Flip a coin. If tails, this Pok\u00e9mon does 20 damage to itself."
+        "text": "Flip a coin. If tails, this Pokémon does 20 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9840,31 +8787,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-82",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Vigoroth-FFI82",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.0,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.81,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.16,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.79,
-        "reverseHoloAvg30": 0.75
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy3-83",
     "name": "Slaking",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -9883,7 +8817,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
-        "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks. That Pok\u00e9mon can't use that attack during your opponent's next turn."
+        "text": "Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
       },
       {
         "name": "Knuckle Sandwich",
@@ -9895,13 +8829,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "120",
-        "text": "Discard an Energy attached to this Pok\u00e9mon."
+        "text": "Discard an Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9932,7 +8866,7 @@
     "number": "83",
     "artist": "PLANETA",
     "rarity": "Rare Holo",
-    "flavorText": "The world's laziest Pok\u00e9mon. It moves to another spot when there's no food left within its reach.",
+    "flavorText": "The world's laziest Pokémon. It moves to another spot when there's no food left within its reach.",
     "nationalPokedexNumbers": [
       289
     ],
@@ -9965,31 +8899,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-83",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Slaking-FFI83",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.92,
-        "lowPrice": 0.05,
-        "trendPrice": 1.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.1,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 1.09,
-        "lowPriceExPlus": 0.25,
-        "avg1": 1.0,
-        "avg7": 1.11,
-        "avg30": 0.96,
-        "reverseHoloAvg1": 1.08,
-        "reverseHoloAvg7": 1.28,
-        "reverseHoloAvg30": 1.2
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "xy3-84",
     "name": "Patrat",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10014,7 +8935,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10075,31 +8996,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-84",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Patrat-FFI84",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.43,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.36,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.14,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.4,
-        "reverseHoloAvg30": 0.35
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy3-85",
     "name": "Watchog",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -10126,13 +9034,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip 2 coins. For each heads, discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Flip 2 coins. For each heads, discard an Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10193,31 +9101,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-85",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Watchog-FFI85",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.24,
         "lowPrice": 0.05,
-        "trendPrice": 0.31,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.25,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.72,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.5,
-        "avg7": 0.26,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 0.05,
-        "reverseHoloAvg7": 0.41,
-        "reverseHoloAvg30": 0.68
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy3-86",
     "name": "Tornadus",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10234,7 +9129,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "You may have your opponent switch his or her Active Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon."
+        "text": "You may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon."
       },
       {
         "name": "Twister Throw",
@@ -10251,7 +9146,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -10318,31 +9213,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-86",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Tornadus-FFI86",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.36,
         "lowPrice": 0.05,
-        "trendPrice": 0.48,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.65,
-        "reverseHoloLow": 0.4,
-        "reverseHoloTrend": 1.21,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.3,
-        "avg7": 0.36,
-        "avg30": 0.52,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 1.39,
-        "reverseHoloAvg30": 1.43
+        "reverseHoloLow": 0.4
       }
     }
   },
   {
     "id": "xy3-87",
     "name": "Noibat",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10377,7 +9259,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -10444,24 +9326,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-87",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Noibat-FFI87",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.3,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.1,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.15,
-        "reverseHoloAvg7": 0.35,
-        "reverseHoloAvg30": 0.36
+        "reverseHoloLow": 0.08
       }
     }
   },
@@ -10526,24 +9395,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-88",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Battle-Reporter-V1-FFI88",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.61,
-        "lowPrice": 0.3,
-        "trendPrice": 0.79,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.53,
-        "lowPriceExPlus": 0.3,
-        "avg1": 0.3,
-        "avg7": 0.71,
-        "avg30": 1.15,
-        "reverseHoloAvg1": 0.49,
-        "reverseHoloAvg7": 0.54,
-        "reverseHoloAvg30": 0.49
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
       }
     }
   },
@@ -10555,7 +9411,7 @@
       "Item"
     ],
     "rules": [
-      "Move a basic Energy from 1 of your Pok\u00e9mon to another of your Pok\u00e9mon.",
+      "Move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -10609,24 +9465,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-89",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Energy-Switch-FFI89",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.35,
         "lowPrice": 0.02,
-        "trendPrice": 0.23,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.18,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.87,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.19,
-        "avg7": 0.35,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 0.85,
-        "reverseHoloAvg7": 0.86,
-        "reverseHoloAvg30": 0.79
+        "reverseHoloLow": 0.08
       }
     }
   },
@@ -10638,7 +9481,7 @@
       "Stadium"
     ],
     "rules": [
-      "The attacks of each Fighting Pok\u00e9mon in play (both yours and your opponent's) do 20 more damage to the Defending Pok\u00e9mon-EX (before applying Weakness and Resistance).",
+      "The attacks of each Fighting Pokémon in play (both yours and your opponent's) do 20 more damage to the Defending Pokémon-EX (before applying Weakness and Resistance).",
       "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
     ],
     "set": {
@@ -10691,24 +9534,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-90",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Fighting-Stadium-FFI90",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.03,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.79,
-        "reverseHoloLow": 0.29,
-        "reverseHoloTrend": 0.71,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.1,
-        "avg7": 0.07,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.6,
-        "reverseHoloAvg7": 0.72,
-        "reverseHoloAvg30": 0.67
+        "reverseHoloLow": 0.29
       }
     }
   },
@@ -10717,11 +9547,11 @@
     "name": "Focus Sash",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "If the Fighting Pok\u00e9mon this card is attached to has full HP and would be Knocked Out by damage from an opponent's attack, that Pok\u00e9mon is not Knocked Out and its remaining HP becomes 10 instead. Then, discard this card.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "If the Fighting Pokémon this card is attached to has full HP and would be Knocked Out by damage from an opponent's attack, that Pokémon is not Knocked Out and its remaining HP becomes 10 instead. Then, discard this card.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -10774,24 +9604,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-91",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Focus-Sash-FFI91",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.72,
         "lowPrice": 0.02,
-        "trendPrice": 0.88,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.89,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 2.08,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.17,
-        "avg7": 0.74,
-        "avg30": 0.7,
-        "reverseHoloAvg1": 2.5,
-        "reverseHoloAvg7": 1.89,
-        "reverseHoloAvg30": 1.81
+        "reverseHoloLow": 0.25
       }
     }
   },
@@ -10856,24 +9673,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-92",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Fossil-Researcher-FFI92",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.39,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.55,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.25,
-        "avg7": 0.11,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.39,
-        "reverseHoloAvg7": 0.64,
-        "reverseHoloAvg30": 0.65
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -10885,7 +9689,7 @@
       "Item"
     ],
     "rules": [
-      "Remove all Special Conditions from your Active Pok\u00e9mon.",
+      "Remove all Special Conditions from your Active Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -10938,24 +9742,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-93",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Full-Heal-FFI93",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.32,
-        "reverseHoloLow": 0.16,
-        "reverseHoloTrend": 0.48,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.19,
-        "avg7": 0.14,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 0.5,
-        "reverseHoloAvg30": 0.48
+        "reverseHoloLow": 0.16
       }
     }
   },
@@ -11020,24 +9811,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-94",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Jaw-Fossil-FFI94",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.33,
-        "reverseHoloLow": 0.19,
-        "reverseHoloTrend": 0.58,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.13,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.53,
-        "reverseHoloAvg30": 0.6
+        "reverseHoloLow": 0.19
       }
     }
   },
@@ -11049,7 +9827,7 @@
       "Supporter"
     ],
     "rules": [
-      "Search your deck for a Fighting Pok\u00e9mon and an Item card, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "Search your deck for a Fighting Pokémon and an Item card, reveal them, and put them into your hand. Shuffle your deck afterward.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -11102,24 +9880,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-95",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Korrina-FFI95",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.67,
         "lowPrice": 0.02,
-        "trendPrice": 0.78,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.51,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 3.24,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.85,
-        "avg7": 0.95,
-        "avg30": 1.13,
-        "reverseHoloAvg1": 2.75,
-        "reverseHoloAvg7": 2.85,
-        "reverseHoloAvg30": 2.84
+        "reverseHoloLow": 0.2
       }
     }
   },
@@ -11184,24 +9949,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-96",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Maintenance-FFI96",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.75,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.65,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.1,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.75,
-        "reverseHoloAvg7": 0.69,
-        "reverseHoloAvg30": 0.48
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -11213,7 +9965,7 @@
       "Stadium"
     ],
     "rules": [
-      "Prevent all damage done to Benched Pok\u00e9mon by attacks (both yours and your opponent's).",
+      "Prevent all damage done to Benched Pokémon by attacks (both yours and your opponent's).",
       "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
     ],
     "set": {
@@ -11266,24 +10018,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-97",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Mountain-Ring-FFI97",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.22,
         "lowPrice": 0.02,
-        "trendPrice": 0.2,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.55,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.19,
-        "avg7": 0.22,
-        "avg30": 0.18,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.55,
-        "reverseHoloAvg30": 0.72
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -11348,24 +10087,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-98",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Sail-Fossil-FFI98",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.34,
         "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.93,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.18,
-        "avg7": 0.23,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 1.49,
-        "reverseHoloAvg7": 0.82,
-        "reverseHoloAvg30": 0.75
+        "reverseHoloLow": 0.25
       }
     }
   },
@@ -11374,11 +10100,11 @@
     "name": "Sparkling Robe",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "The Pok\u00e9mon this card is attached to can't be affected by any Special Conditions. (Remove any Special Conditions affecting that Pok\u00e9mon.)",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The Pokémon this card is attached to can't be affected by any Special Conditions. (Remove any Special Conditions affecting that Pokémon.)",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -11431,24 +10157,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-99",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Sparkling-Robe-FFI99",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.22,
         "lowPrice": 0.02,
-        "trendPrice": 0.27,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.55,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.88,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.28,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 0.55,
-        "reverseHoloAvg7": 0.78,
-        "reverseHoloAvg30": 0.68
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -11460,7 +10173,7 @@
       "Item"
     ],
     "rules": [
-      "Flip a coin. If heads, put 1 of your Pok\u00e9mon and all cards attached to it into your hand.",
+      "Flip a coin. If heads, put 1 of your Pokémon and all cards attached to it into your hand.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -11513,24 +10226,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-100",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Super-Scoop-Up-FFI100",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.26,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 0.64,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.17,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.58,
-        "reverseHoloAvg30": 0.51
+        "reverseHoloLow": 0.25
       }
     }
   },
@@ -11542,7 +10242,7 @@
       "Item"
     ],
     "rules": [
-      "Choose up to 2 Pok\u00e9mon Tool cards attached to your Pok\u00e9mon and put them into your hand.",
+      "Choose up to 2 Pokémon Tool cards attached to your Pokémon and put them into your hand.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -11595,24 +10295,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-101",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Tool-Retriever-FFI101",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.25,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.72,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.21,
-        "avg7": 0.13,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 0.65,
-        "reverseHoloAvg30": 0.56
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -11624,7 +10311,7 @@
       "Stadium"
     ],
     "rules": [
-      "Each Stage 1 and Stage 2 Pok\u00e9mon in play (both yours and your opponent's) gets +30 HP.",
+      "Each Stage 1 and Stage 2 Pokémon in play (both yours and your opponent's) gets +30 HP.",
       "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
     ],
     "set": {
@@ -11677,24 +10364,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-102",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Training-Center-V1-FFI102",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.05,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.59,
-        "reverseHoloLow": 0.35,
-        "reverseHoloTrend": 0.78,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.1,
-        "avg7": 0.15,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 1.59,
-        "reverseHoloAvg7": 0.74,
-        "reverseHoloAvg30": 0.61
+        "reverseHoloLow": 0.39
       }
     }
   },
@@ -11706,9 +10380,9 @@
       "Special"
     ],
     "rules": [
-      "This card can only be attached to Grass Pok\u00e9mon. This card provides Grass Energy only while this card is attached to a Grass Pok\u00e9mon.",
-      "When you attach this card from your hand to 1 of your Grass Pok\u00e9mon, heal 30 damage from that Pok\u00e9mon.",
-      "(If this card is attached to anything other than a Grass Pok\u00e9mon, discard this card.)"
+      "This card can only be attached to Grass Pokémon. This card provides Grass Energy only while this card is attached to a Grass Pokémon.",
+      "When you attach this card from your hand to 1 of your Grass Pokémon, heal 30 damage from that Pokémon.",
+      "(If this card is attached to anything other than a Grass Pokémon, discard this card.)"
     ],
     "set": {
       "id": "xy3",
@@ -11760,24 +10434,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-103",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Herbal-Energy-FFI103",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.87,
         "lowPrice": 0.02,
-        "trendPrice": 0.73,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.17,
-        "reverseHoloLow": 0.3,
-        "reverseHoloTrend": 0.83,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.5,
-        "avg7": 0.65,
-        "avg30": 0.79,
-        "reverseHoloAvg1": 1.51,
-        "reverseHoloAvg7": 0.99,
-        "reverseHoloAvg30": 1.71
+        "reverseHoloLow": 0.3
       }
     }
   },
@@ -11789,9 +10450,9 @@
       "Special"
     ],
     "rules": [
-      "This card can only be attached to Fighting Pok\u00e9mon. This card provides Fighting Energy only while this card is attached to a Fighting Pok\u00e9mon.",
-      "The attacks of the Fighting Pok\u00e9mon this card is attached to do 20 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance).",
-      "(If this card is attached to anything other than a Fighting Pok\u00e9mon, discard this card.)"
+      "This card can only be attached to Fighting Pokémon. This card provides Fighting Energy only while this card is attached to a Fighting Pokémon.",
+      "The attacks of the Fighting Pokémon this card is attached to do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "(If this card is attached to anything other than a Fighting Pokémon, discard this card.)"
     ],
     "set": {
       "id": "xy3",
@@ -11843,31 +10504,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-104",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Strong-Energy-FFI104",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.35,
         "lowPrice": 0.05,
-        "trendPrice": 1.32,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.0,
-        "reverseHoloLow": 0.3,
-        "reverseHoloTrend": 1.4,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.7,
-        "avg7": 1.35,
-        "avg30": 1.14,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 1.48,
-        "reverseHoloAvg30": 1.54
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "xy3-105",
     "name": "Heracross-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -11880,7 +10528,7 @@
       "M Heracross-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -11891,7 +10539,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
       },
       {
         "name": "Giga Power",
@@ -11902,13 +10550,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80+",
-        "text": "You may do 40 more damage. If you do, this Pok\u00e9mon does 20 damage to itself."
+        "text": "You may do 40 more damage. If you do, this Pokémon does 20 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11963,31 +10611,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-105",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Heracross-EX-FFI105",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 16.13,
         "lowPrice": 5.0,
-        "trendPrice": 15.62,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 30.0,
-        "reverseHoloTrend": 15.52,
-        "lowPriceExPlus": 8.0,
-        "avg1": 19.95,
-        "avg7": 16.92,
-        "avg30": 12.82,
-        "reverseHoloAvg1": 3.49,
-        "reverseHoloAvg7": 12.81,
-        "reverseHoloAvg30": 8.37
+        "reverseHoloLow": 30.0
       }
     }
   },
   {
     "id": "xy3-106",
     "name": "Seismitoad-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -11997,7 +10632,7 @@
       "Water"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12019,13 +10654,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "This attack does 30 damage to 2 of your Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 30 damage to 2 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12080,31 +10715,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-106",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Seismitoad-EX-FFI106",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 9.6,
         "lowPrice": 3.0,
-        "trendPrice": 10.63,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 19.5,
-        "reverseHoloLow": 97.94,
-        "reverseHoloTrend": 16.69,
-        "lowPriceExPlus": 6.0,
-        "avg1": 8.99,
-        "avg7": 9.6,
-        "avg30": 9.38,
-        "reverseHoloAvg1": 17.0,
-        "reverseHoloAvg7": 16.31,
-        "reverseHoloAvg30": 9.82
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy3-107",
     "name": "Lucario-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -12117,7 +10739,7 @@
       "M Lucario-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12154,7 +10776,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12208,31 +10830,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-107",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Lucario-EX-FFI107",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 52.73,
         "lowPrice": 9.0,
-        "trendPrice": 53.78,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 37.0,
-        "reverseHoloTrend": 17.35,
-        "lowPriceExPlus": 49.9,
-        "avg1": 69.0,
-        "avg7": 51.63,
-        "avg30": 41.85,
-        "reverseHoloAvg1": 8.0,
-        "reverseHoloAvg7": 23.12,
-        "reverseHoloAvg30": 18.47
+        "reverseHoloLow": 35.0
       }
     }
   },
   {
     "id": "xy3-108",
     "name": "Dragonite-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -12242,12 +10851,12 @@
       "Dragon"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Bust In",
-        "text": "When you play this Pok\u00e9mon from your hand onto your Bench, you may move any number of basic Energy attached to your Pok\u00e9mon to this Pok\u00e9mon. If you do, switch this Pok\u00e9mon with your Active Pok\u00e9mon.",
+        "text": "When you play this Pokémon from your hand onto your Bench, you may move any number of basic Energy attached to your Pokémon to this Pokémon. If you do, switch this Pokémon with your Active Pokémon.",
         "type": "Ability"
       }
     ],
@@ -12261,13 +10870,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80+",
-        "text": "You may discard an Energy attached to this Pok\u00e9mon. If you do, this attack does 40 more damage."
+        "text": "You may discard an Energy attached to this Pokémon. If you do, this attack does 40 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12322,24 +10931,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-108",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Dragonite-EX-FFI108",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 49.24,
-        "lowPrice": 11.42,
-        "trendPrice": 38.87,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 26.61,
-        "lowPriceExPlus": 15.0,
-        "avg1": 30.0,
-        "avg7": 38.12,
-        "avg30": 26.27,
-        "reverseHoloAvg1": 30.0,
-        "reverseHoloAvg7": 17.0,
-        "reverseHoloAvg30": 17.54
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
       }
     }
   },
@@ -12397,24 +10993,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-109",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Battle-Reporter-V2-FFI109",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 12.25,
-        "lowPrice": 4.0,
-        "trendPrice": 11.86,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 7.99,
-        "reverseHoloTrend": 18.07,
-        "lowPriceExPlus": 8.0,
-        "avg1": 15.0,
-        "avg7": 12.25,
-        "avg30": 10.04,
-        "reverseHoloAvg1": 17.0,
-        "reverseHoloAvg7": 11.27,
-        "reverseHoloAvg30": 7.7
+        "lowPrice": 3.0,
+        "reverseHoloLow": 7.99
       }
     }
   },
@@ -12472,24 +11055,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-110",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Fossil-Researcher-FFI110",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 16.43,
         "lowPrice": 4.99,
-        "trendPrice": 19.3,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 10.0,
-        "reverseHoloTrend": 21.99,
-        "lowPriceExPlus": 9.0,
-        "avg1": 18.0,
-        "avg7": 16.43,
-        "avg30": 19.66,
-        "reverseHoloAvg1": 25.0,
-        "reverseHoloAvg7": 9.57,
-        "reverseHoloAvg30": 7.21
+        "reverseHoloLow": 10.0
       }
     }
   },
@@ -12501,7 +11071,7 @@
       "Supporter"
     ],
     "rules": [
-      "Search your deck for a Fighting Pok\u00e9mon and an Item card, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "Search your deck for a Fighting Pokémon and an Item card, reveal them, and put them into your hand. Shuffle your deck afterward.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -12547,31 +11117,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-111",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/Korrina-FFI111",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 25.61,
         "lowPrice": 5.5,
-        "trendPrice": 31.65,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 34.99,
-        "reverseHoloTrend": 18.79,
-        "lowPriceExPlus": 10.0,
-        "avg1": 35.0,
-        "avg7": 28.9,
-        "avg30": 22.97,
-        "reverseHoloAvg1": 19.99,
-        "reverseHoloAvg7": 18.88,
-        "reverseHoloAvg30": 13.75
+        "reverseHoloLow": 34.99
       }
     }
   },
   {
     "id": "xy3-112",
     "name": "M Heracross-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -12582,8 +11139,8 @@
     ],
     "evolvesFrom": "Heracross-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12595,13 +11152,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "180-",
-        "text": "This attack does 180 damage minus 10 damage for each damage counter on this Pok\u00e9mon."
+        "text": "This attack does 180 damage minus 10 damage for each damage counter on this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12656,31 +11213,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-112",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/MHeracross-EX-FFI112",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 35.0,
-        "lowPrice": 9.05,
-        "trendPrice": 28.64,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 13.63,
-        "lowPriceExPlus": 16.8,
-        "avg1": 60.0,
-        "avg7": 29.63,
-        "avg30": 23.55,
-        "reverseHoloAvg1": 5.5,
-        "reverseHoloAvg7": 12.85,
-        "reverseHoloAvg30": 8.19
+        "lowPrice": 9.06,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy3-113",
     "name": "M Lucario-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -12691,8 +11235,8 @@
     ],
     "evolvesFrom": "Lucario-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12704,13 +11248,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "140",
-        "text": "Discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Discard an Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12764,31 +11308,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy3-113",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Furious-Fists/MLucario-EX-V3-FFI113",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 43.24,
-        "lowPrice": 39.9,
-        "trendPrice": 46.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 17.23,
-        "lowPriceExPlus": 39.9,
-        "avg1": 49.94,
-        "avg7": 42.21,
-        "avg30": 36.55,
-        "reverseHoloAvg1": 13.49,
-        "reverseHoloAvg7": 17.43,
-        "reverseHoloAvg30": 14.99
+        "lowPrice": 34.99,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy3-55a",
     "name": "M Lucario-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -12799,8 +11330,8 @@
     ],
     "evolvesFrom": "Lucario-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12812,13 +11343,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "140",
-        "text": "Discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Discard an Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [

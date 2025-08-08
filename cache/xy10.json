@@ -12316,5 +12316,402 @@
         "reverseHoloAvg30": 16.27
       }
     }
+  },
+  {
+    "id": "xy10-promo-12",
+    "name": "Braixen  (FCO 12) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Fennekin",
+    "evolvesTo": [
+      "Delphox"
+    ],
+    "attacks": [
+      {
+        "name": "Destructive Flame",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+      },
+      {
+        "name": "Crackling Ribbon",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "12",
+    "artist": "kirisAki",
+    "rarity": "Promo",
+    "flavorText": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
+    "nationalPokedexNumbers": [
+      654
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/12.png",
+      "large": "https://images.pokemontcg.io/xy10/12_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-12",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": 0.15
+        },
+        "reverseHolofoil": {
+          "low": 0.08,
+          "mid": 0.39,
+          "high": 4.95,
+          "market": 0.37,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Braixen-V2-FCO12",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy10-promo-13",
+    "name": "Delphox  (FCO 13) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "140",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Braixen",
+    "attacks": [
+      {
+        "name": "Flickering Flames",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40",
+        "text": "Your opponent's Active Pokémon is now Asleep."
+      },
+      {
+        "name": "Psystorm",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20×",
+        "text": "This attack does 20 damage times the amount of Energy attached to all Pokémon in play."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "13",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "Using psychic power, it generates a fiery vortex of 5,400 degree Fahrenheit, incinerating foes swept into this whirl of flame.",
+    "nationalPokedexNumbers": [
+      655
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/13.png",
+      "large": "https://images.pokemontcg.io/xy10/13_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-13",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.12,
+          "mid": 0.44,
+          "high": 4.95,
+          "market": 0.43,
+          "directLow": 0.28
+        },
+        "reverseHolofoil": {
+          "low": 0.24,
+          "mid": 0.62,
+          "high": 4.95,
+          "market": 0.59,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Delphox-V2-FCO13",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.33,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy10-promo-63",
+    "name": "Lucario  (FCO 63) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Riolu",
+    "attacks": [
+      {
+        "name": "Vacuum Wave",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "50",
+        "text": "This attack's damage isn't affected by Weakness or Resistance."
+      },
+      {
+        "name": "Fight Alone",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30+",
+        "text": "If you have fewer Pokémon in play than your opponent, this attack does 60 more damage for each Pokémon fewer you have in play."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "63",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Promo",
+    "flavorText": "By reading the auras of all things, it can tell how others are feeling from over half a mile away.",
+    "nationalPokedexNumbers": [
+      448
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/63.png",
+      "large": "https://images.pokemontcg.io/xy10/63_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-63",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.1,
+          "mid": 0.45,
+          "high": 99.0,
+          "market": 0.44,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 0.8,
+          "high": 7.34,
+          "market": 0.88,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Lucario-V2-FCO63",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 30.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy10-promo-94",
+    "name": "Chaos Tower (FCO 94) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Choose which way this card faces before you play it. This ↓ player's Pokémon can't be Confused or Poisoned. (If those Pokémon are already Confused or Poisoned, remove those Special Conditions.)",
+      "Choose which way this card faces before you play it. This ↓ player's Pokémon can't be Asleep or Paralyzed. (If those Pokémon are already Asleep or Paralyzed, remove those Special Conditions.)",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "xy10",
+      "name": "Fates Collide",
+      "series": "XY",
+      "printedTotal": 124,
+      "total": 129,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "FCO",
+      "releaseDate": "2016/05/02",
+      "updatedAt": "2018/09/03 11:49:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy10/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy10/logo.png"
+      }
+    },
+    "number": "94",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy10/94.png",
+      "large": "https://images.pokemontcg.io/xy10/94_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy10-94",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.02,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.2,
+          "directLow": 0.2
+        },
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 0.49,
+          "high": 4.95,
+          "market": 0.49,
+          "directLow": 0.3
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Chaos-Tower-V2-FCO94",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

@@ -71,6 +71,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/1.png",
       "large": "https://images.pokemontcg.io/pl1/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Ampharos-Lv57-PL1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.6,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -140,6 +148,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/2.png",
       "large": "https://images.pokemontcg.io/pl1/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Blastoise-Lv60-PL2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.95,
+        "reverseHoloLow": 1.95
+      }
     }
   },
   {
@@ -207,6 +223,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/3.png",
       "large": "https://images.pokemontcg.io/pl1/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Blaziken-Lv59-PL3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -273,6 +297,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/4.png",
       "large": "https://images.pokemontcg.io/pl1/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Delcatty-Lv53-PL4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.85,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -338,6 +370,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/5.png",
       "large": "https://images.pokemontcg.io/pl1/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Dialga-Lv72-PL5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 1.2
+      }
     }
   },
   {
@@ -403,6 +443,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/6.png",
       "large": "https://images.pokemontcg.io/pl1/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Dialga-Lv70-PL6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -470,6 +518,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/7.png",
       "large": "https://images.pokemontcg.io/pl1/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Dialga-G-Lv79-V1-PL7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 2.25
+      }
     }
   },
   {
@@ -536,6 +592,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/8.png",
       "large": "https://images.pokemontcg.io/pl1/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Gardevoir-Lv61-PL8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.33
+      }
     }
   },
   {
@@ -600,6 +664,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/9.png",
       "large": "https://images.pokemontcg.io/pl1/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Giratina-Lv55-PL9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -677,6 +749,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/10.png",
       "large": "https://images.pokemontcg.io/pl1/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Giratina-Lv63-PL10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -744,6 +824,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/11.png",
       "large": "https://images.pokemontcg.io/pl1/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Manectric-Lv45-PL11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.68
+      }
     }
   },
   {
@@ -805,6 +893,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/12.png",
       "large": "https://images.pokemontcg.io/pl1/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Palkia-G-Lv78-PL12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -870,6 +966,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/13.png",
       "large": "https://images.pokemontcg.io/pl1/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Rampardos-Lv54-PL13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -934,6 +1038,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/14.png",
       "large": "https://images.pokemontcg.io/pl1/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Shaymin-Lv42-PL14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -951,9 +1063,7 @@
     "attacks": [
       {
         "name": "Growth",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Attach a Grass Energy card from your hand to Shaymin."
@@ -998,6 +1108,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/15.png",
       "large": "https://images.pokemontcg.io/pl1/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Shaymin-Lv56-PL15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.79,
+        "reverseHoloLow": 0.79
+      }
     }
   },
   {
@@ -1060,6 +1178,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/16.png",
       "large": "https://images.pokemontcg.io/pl1/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Slaking-Lv62-PL16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -1078,9 +1204,7 @@
     "attacks": [
       {
         "name": "Call for Family",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 basic Pokémon SP and put them onto your Bench. Shuffle your deck afterward."
@@ -1121,6 +1245,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/17.png",
       "large": "https://images.pokemontcg.io/pl1/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Weavile-G-Lv48-PL17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.96,
+        "reverseHoloLow": 0.96
+      }
     }
   },
   {
@@ -1195,6 +1327,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/18.png",
       "large": "https://images.pokemontcg.io/pl1/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Altaria-Lv48-PL18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -1266,6 +1406,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/19.png",
       "large": "https://images.pokemontcg.io/pl1/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Banette-Lv48-PL19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.22,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1344,6 +1492,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/20.png",
       "large": "https://images.pokemontcg.io/pl1/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Bastiodon-Lv56-PL20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1404,6 +1560,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/21.png",
       "large": "https://images.pokemontcg.io/pl1/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Beautifly-Lv37-PL21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.06,
+        "reverseHoloLow": 0.55
+      }
     }
   },
   {
@@ -1472,6 +1636,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/22.png",
       "large": "https://images.pokemontcg.io/pl1/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Blissey-Lv40-PL22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -1541,6 +1713,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/23.png",
       "large": "https://images.pokemontcg.io/pl1/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Dialga-Lv73-PL23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1610,6 +1790,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/24.png",
       "large": "https://images.pokemontcg.io/pl1/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Dugtrio-Lv50-PL24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.17
+      }
     }
   },
   {
@@ -1673,6 +1861,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/25.png",
       "large": "https://images.pokemontcg.io/pl1/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Dustox-Lv42-PL25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.43
+      }
     }
   },
   {
@@ -1735,6 +1931,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/26.png",
       "large": "https://images.pokemontcg.io/pl1/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Empoleon-Lv47-PL26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.28,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1803,6 +2007,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/27.png",
       "large": "https://images.pokemontcg.io/pl1/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Giratina-Lv59-PL27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -1870,6 +2082,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/28.png",
       "large": "https://images.pokemontcg.io/pl1/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Giratina-Lv70-PL28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -1888,9 +2108,7 @@
     "attacks": [
       {
         "name": "Swim",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "30",
         "text": "If your opponent has any Water Energy attached to any of his or her Pokémon, you may do 30 damage to any 1 Benched Pokémon instead. (Don't apply Weakness and Resistance for Benched Pokémon.)"
@@ -1925,6 +2143,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/29.png",
       "large": "https://images.pokemontcg.io/pl1/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Golduck-Lv47-PL29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.62
+      }
     }
   },
   {
@@ -1989,6 +2215,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/30.png",
       "large": "https://images.pokemontcg.io/pl1/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Gyarados-G-Lv46-PL30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -2044,6 +2278,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/31.png",
       "large": "https://images.pokemontcg.io/pl1/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Infernape-Lv44-PL31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2104,6 +2346,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/32.png",
       "large": "https://images.pokemontcg.io/pl1/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Kricketune-Lv46-PL32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -2170,6 +2420,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/33.png",
       "large": "https://images.pokemontcg.io/pl1/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Lickilicky-Lv52-PL33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2238,6 +2496,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/34.png",
       "large": "https://images.pokemontcg.io/pl1/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Ludicolo-Lv52-PL34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2255,9 +2521,7 @@
     "attacks": [
       {
         "name": "Love Call",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Choose 1 of your opponent's Pokémon. Search your deck for a Pokémon that is the same type as the Pokémon you chose, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
@@ -2295,6 +2559,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/35.png",
       "large": "https://images.pokemontcg.io/pl1/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Luvdisc-Lv33-PL35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2313,9 +2585,7 @@
     "attacks": [
       {
         "name": "Flame Bash",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin until you get tails. Search your deck for a number of basic Fire Energy cards up to the number of heads and attach them to any of your Pokémon in any way you like. Shuffle your deck afterward."
@@ -2350,6 +2620,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/36.png",
       "large": "https://images.pokemontcg.io/pl1/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Ninetales-Lv43-PL36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2411,6 +2689,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/37.png",
       "large": "https://images.pokemontcg.io/pl1/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Palkia-Lv72-PL37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -2428,9 +2714,7 @@
     "attacks": [
       {
         "name": "Energy Blow",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10+",
         "text": "Does 10 damage plus 10 more damage for each Energy attached to Shaymin."
@@ -2476,6 +2760,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/38.png",
       "large": "https://images.pokemontcg.io/pl1/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Shaymin-Lv44-PL38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2542,6 +2834,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/39.png",
       "large": "https://images.pokemontcg.io/pl1/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Torterra-Lv48-PL39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.55
+      }
     }
   },
   {
@@ -2599,6 +2899,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/40.png",
       "large": "https://images.pokemontcg.io/pl1/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Toxicroak-G-Lv40-PL40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -2664,6 +2972,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/41.png",
       "large": "https://images.pokemontcg.io/pl1/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Bronzong-G-Lv58-PL41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2725,6 +3041,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/42.png",
       "large": "https://images.pokemontcg.io/pl1/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Cacturne-Lv44-PL42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2799,6 +3123,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/43.png",
       "large": "https://images.pokemontcg.io/pl1/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Carnivine-Lv38-PL43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2820,9 +3152,7 @@
     "attacks": [
       {
         "name": "Ascension",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a card that evolves from Cascoon and put it onto Cascoon. (This counts as evolving Cascoon.) Shuffle your deck afterward."
@@ -2862,6 +3192,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/44.png",
       "large": "https://images.pokemontcg.io/pl1/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Cascoon-Lv10-PL44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2926,6 +3264,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/45.png",
       "large": "https://images.pokemontcg.io/pl1/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Combusken-Lv27-PL45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.27
+      }
     }
   },
   {
@@ -2988,6 +3334,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/46.png",
       "large": "https://images.pokemontcg.io/pl1/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Cranidos-Lv27-PL46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3046,6 +3400,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/47.png",
       "large": "https://images.pokemontcg.io/pl1/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Crobat-G-Lv44-PL47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3114,6 +3476,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/48.png",
       "large": "https://images.pokemontcg.io/pl1/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Flaaffy-Lv22-PL48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -3186,6 +3556,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/49.png",
       "large": "https://images.pokemontcg.io/pl1/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Grotle-Lv26-PL49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3252,6 +3630,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/50.png",
       "large": "https://images.pokemontcg.io/pl1/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Houndoom-G-Lv45-PL50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.23
+      }
     }
   },
   {
@@ -3317,6 +3703,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/51.png",
       "large": "https://images.pokemontcg.io/pl1/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Kirlia-Lv24-PL51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3381,6 +3775,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/52.png",
       "large": "https://images.pokemontcg.io/pl1/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Lombre-Lv30-PL52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3436,6 +3838,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/53.png",
       "large": "https://images.pokemontcg.io/pl1/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Lucario-Lv42-V1-PL53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -3505,6 +3915,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/54.png",
       "large": "https://images.pokemontcg.io/pl1/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Mightyena-Lv47-PL54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3571,6 +3989,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/55.png",
       "large": "https://images.pokemontcg.io/pl1/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Mismagius-Lv40-PL55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3629,6 +4055,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/56.png",
       "large": "https://images.pokemontcg.io/pl1/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Monferno-Lv27-PL56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3698,6 +4132,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/57.png",
       "large": "https://images.pokemontcg.io/pl1/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Muk-Lv49-PL57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -3716,9 +4158,7 @@
     "attacks": [
       {
         "name": "Water Vein",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "50×",
         "text": "Reveal the top 5 cards of your deck. Flip a coin for each Energy card you find there. This attack does 50 damage times the number of heads. Shuffle the revealed cards back into your deck."
@@ -3758,6 +4198,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/58.png",
       "large": "https://images.pokemontcg.io/pl1/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Octillery-Lv40-PL58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3821,6 +4269,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/59.png",
       "large": "https://images.pokemontcg.io/pl1/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Prinplup-Lv25-PL59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.47
+      }
     }
   },
   {
@@ -3884,6 +4340,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/60.png",
       "large": "https://images.pokemontcg.io/pl1/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Probopass-Lv49-PL60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3901,9 +4365,7 @@
     "attacks": [
       {
         "name": "Shed Skin",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Remove 4 damage counters from Seviper."
@@ -3951,6 +4413,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/61.png",
       "large": "https://images.pokemontcg.io/pl1/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Seviper-Lv30-PL61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4019,6 +4489,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/62.png",
       "large": "https://images.pokemontcg.io/pl1/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Shieldon-Lv21-PL62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4040,9 +4518,7 @@
     "attacks": [
       {
         "name": "Ascension",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a card that evolves from Silcoon and put it onto Silcoon. (This counts as evolving Silcoon.) Shuffle your deck afterward."
@@ -4082,6 +4558,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/63.png",
       "large": "https://images.pokemontcg.io/pl1/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Silcoon-Lv10-PL63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4145,6 +4629,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/64.png",
       "large": "https://images.pokemontcg.io/pl1/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Vigoroth-Lv28-PL64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4207,6 +4699,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/65.png",
       "large": "https://images.pokemontcg.io/pl1/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Wartortle-Lv25-PL65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4272,6 +4772,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/66.png",
       "large": "https://images.pokemontcg.io/pl1/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Zangoose-Lv29-PL66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4338,6 +4846,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/67.png",
       "large": "https://images.pokemontcg.io/pl1/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Cacnea-Lv16-PL67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4355,9 +4871,7 @@
     "attacks": [
       {
         "name": "Poison Breath",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
@@ -4403,6 +4917,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/68.png",
       "large": "https://images.pokemontcg.io/pl1/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Carnivine-Lv39-PL68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4465,6 +4987,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/69.png",
       "large": "https://images.pokemontcg.io/pl1/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Chansey-Lv26-PL69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4526,6 +5056,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/70.png",
       "large": "https://images.pokemontcg.io/pl1/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Chimchar-Lv10-PL70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4546,9 +5084,7 @@
     "attacks": [
       {
         "name": "Collect",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Draw a card."
@@ -4593,6 +5129,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/71.png",
       "large": "https://images.pokemontcg.io/pl1/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Combee-Lv19-PL71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4660,6 +5204,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/72.png",
       "large": "https://images.pokemontcg.io/pl1/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Diglett-Lv13-PL72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -4677,9 +5229,7 @@
     "attacks": [
       {
         "name": "Call for Family",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
@@ -4717,6 +5267,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/73.png",
       "large": "https://images.pokemontcg.io/pl1/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Dunsparce-Lv17-PL73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4780,6 +5338,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/74.png",
       "large": "https://images.pokemontcg.io/pl1/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Electrike-Lv10-PL74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4800,9 +5366,7 @@
     "attacks": [
       {
         "name": "Division",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for Grimer and put it onto your Bench. Shuffle your deck afterward."
@@ -4841,6 +5405,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/75.png",
       "large": "https://images.pokemontcg.io/pl1/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Grimer-Lv23-PL75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -4868,9 +5440,7 @@
     "attacks": [
       {
         "name": "Hospitality",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon. Remove 2 damage counters from the new Defending Pokémon."
@@ -4899,6 +5469,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/76.png",
       "large": "https://images.pokemontcg.io/pl1/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Happiny-Lv5-PL76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4917,9 +5495,7 @@
     "attacks": [
       {
         "name": "Honcho's Command",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 in any combination of Stadium cards or Trainer cards that has Team Galactic's Invention in its name, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
@@ -4963,6 +5539,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/77.png",
       "large": "https://images.pokemontcg.io/pl1/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Honchkrow-G-Lv47-PL77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5024,6 +5608,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/78.png",
       "large": "https://images.pokemontcg.io/pl1/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Kricketot-Lv6-PL78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5084,6 +5676,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/79.png",
       "large": "https://images.pokemontcg.io/pl1/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Lapras-Lv41-PL79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5148,6 +5748,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/80.png",
       "large": "https://images.pokemontcg.io/pl1/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Lickitung-Lv30-PL80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -5208,6 +5816,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/81.png",
       "large": "https://images.pokemontcg.io/pl1/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Lotad-Lv11-PL81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -5228,9 +5844,7 @@
     "attacks": [
       {
         "name": "Minor Errand-Running",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
@@ -5274,6 +5888,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/82.png",
       "large": "https://images.pokemontcg.io/pl1/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Mareep-Lv13-PL82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5294,9 +5916,7 @@
     "attacks": [
       {
         "name": "Take Back",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin. If heads, search your discard pile for a Trainer card, show it to your opponent, and put it into your hand."
@@ -5340,6 +5960,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/83.png",
       "large": "https://images.pokemontcg.io/pl1/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Misdreavus-Lv12-PL83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5401,6 +6029,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/84.png",
       "large": "https://images.pokemontcg.io/pl1/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Nosepass-Lv10-PL84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5462,6 +6098,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/85.png",
       "large": "https://images.pokemontcg.io/pl1/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Piplup-Lv12-PL85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -5482,9 +6126,7 @@
     "attacks": [
       {
         "name": "Howl",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for Poochyena and put it onto your Bench. Shuffle your deck afterward."
@@ -5528,6 +6170,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/86.png",
       "large": "https://images.pokemontcg.io/pl1/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Poochyena-Lv12-PL86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5548,9 +6198,7 @@
     "attacks": [
       {
         "name": "Headache",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin. If heads, your opponent can't play any Trainer, Supporter, or Stadium cards from his or her hand during his or her next turn."
@@ -5589,6 +6237,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/87.png",
       "large": "https://images.pokemontcg.io/pl1/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Psyduck-Lv19-PL87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 2.75
+      }
     }
   },
   {
@@ -5651,6 +6307,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/88.png",
       "large": "https://images.pokemontcg.io/pl1/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Purugly-G-Lv40-PL88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5671,9 +6335,7 @@
     "attacks": [
       {
         "name": "Future Sight",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Look at the top 5 cards in either player's deck and put them back on top of that player's deck in any order."
@@ -5711,6 +6373,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/89.png",
       "large": "https://images.pokemontcg.io/pl1/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Ralts-Lv16-PL89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -5772,6 +6442,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/90.png",
       "large": "https://images.pokemontcg.io/pl1/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Remoraid-Lv18-PL90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5792,9 +6470,7 @@
     "attacks": [
       {
         "name": "Light Punch",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -5833,6 +6509,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/91.png",
       "large": "https://images.pokemontcg.io/pl1/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Riolu-Lv15-PL91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5853,9 +6537,7 @@
     "attacks": [
       {
         "name": "Hypnotic Gaze",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "The Defending Pokémon is now Asleep."
@@ -5899,6 +6581,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/92.png",
       "large": "https://images.pokemontcg.io/pl1/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Shuppet-Lv17-PL92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.11
+      }
     }
   },
   {
@@ -5919,9 +6609,7 @@
     "attacks": [
       {
         "name": "Heal Bell",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Remove 1 damage counter from each of your Pokémon."
@@ -5959,6 +6647,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/93.png",
       "large": "https://images.pokemontcg.io/pl1/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Skitty-Lv20-PL93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6016,6 +6712,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/94.png",
       "large": "https://images.pokemontcg.io/pl1/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Skuntank-G-Lv46-PL94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6077,6 +6781,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/95.png",
       "large": "https://images.pokemontcg.io/pl1/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Slakoth-Lv11-PL95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6138,6 +6850,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/96.png",
       "large": "https://images.pokemontcg.io/pl1/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Squirtle-Lv16-PL96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -6200,6 +6920,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/97.png",
       "large": "https://images.pokemontcg.io/pl1/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Swablu-Lv11-PL97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6217,9 +6945,7 @@
     "attacks": [
       {
         "name": "Show Off",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
@@ -6257,6 +6983,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/98.png",
       "large": "https://images.pokemontcg.io/pl1/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Tauros-Lv23-PL98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6277,9 +7011,7 @@
     "attacks": [
       {
         "name": "Focus Energy",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "During your next turn, Torchic's Fire Shard attack's base damage is 80."
@@ -6317,6 +7049,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/99.png",
       "large": "https://images.pokemontcg.io/pl1/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Torchic-Lv12-PL99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6377,6 +7117,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/100.png",
       "large": "https://images.pokemontcg.io/pl1/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Torkoal-Lv28-PL100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -6445,6 +7193,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/101.png",
       "large": "https://images.pokemontcg.io/pl1/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Turtwig-Lv14-PL101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6465,9 +7221,7 @@
     "attacks": [
       {
         "name": "Reheat",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Discard up to 2 Energy cards from your hand. For each card you discarded, draw 2 cards."
@@ -6506,6 +7260,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/102.png",
       "large": "https://images.pokemontcg.io/pl1/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Vulpix-Lv12-PL102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -6568,6 +7330,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/103.png",
       "large": "https://images.pokemontcg.io/pl1/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Wurmple-Lv5-PL103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6590,6 +7360,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/104.png",
       "large": "https://images.pokemontcg.io/pl1/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Broken-Time-Space-V1-PL104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -6612,6 +7390,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/105.png",
       "large": "https://images.pokemontcg.io/pl1/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Cyruss-Conspiracy-PL105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6634,6 +7420,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/106.png",
       "large": "https://images.pokemontcg.io/pl1/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Galactic-HQ-PL106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6655,6 +7449,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/107.png",
       "large": "https://images.pokemontcg.io/pl1/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Level-Max-PL107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -6677,6 +7479,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/108.png",
       "large": "https://images.pokemontcg.io/pl1/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Life-Herb-PL108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6699,6 +7509,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/109.png",
       "large": "https://images.pokemontcg.io/pl1/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Lookers-Investigation-PL109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -6721,6 +7539,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/110.png",
       "large": "https://images.pokemontcg.io/pl1/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Memory-Berry-PL110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6743,6 +7569,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/111.png",
       "large": "https://images.pokemontcg.io/pl1/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Miasma-Valley-PL111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6766,6 +7600,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/112.png",
       "large": "https://images.pokemontcg.io/pl1/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/PlusPower-V1-PL112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -6789,6 +7631,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/113.png",
       "large": "https://images.pokemontcg.io/pl1/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Poke-Ball-PL113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6810,6 +7660,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/114.png",
       "large": "https://images.pokemontcg.io/pl1/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Pokedex-HANDY910is-PL114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6831,6 +7689,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/115.png",
       "large": "https://images.pokemontcg.io/pl1/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Pokemon-Rescue-PL115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -6853,6 +7719,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/116.png",
       "large": "https://images.pokemontcg.io/pl1/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Team-Galactics-Invention-G-101-Energy-Gain-PL116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -6874,6 +7748,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/117.png",
       "large": "https://images.pokemontcg.io/pl1/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Team-Galactics-Invention-G-103-Power-Spray-PL117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6895,6 +7777,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/118.png",
       "large": "https://images.pokemontcg.io/pl1/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Team-Galactics-Invention-G-105-Poke-Turn-PL118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -6924,6 +7814,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/119.png",
       "large": "https://images.pokemontcg.io/pl1/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Armor-Fossil-PL119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -6953,6 +7851,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/120.png",
       "large": "https://images.pokemontcg.io/pl1/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Skull-Fossil-PL120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -6975,6 +7881,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/121.png",
       "large": "https://images.pokemontcg.io/pl1/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Rainbow-Energy-PL121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7044,6 +7958,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/122.png",
       "large": "https://images.pokemontcg.io/pl1/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Dialga-G-LVX-PL122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": 6.99
+      }
     }
   },
   {
@@ -7107,6 +8029,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/123.png",
       "large": "https://images.pokemontcg.io/pl1/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Drapion-LVX-PL123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.9,
+        "reverseHoloLow": 3.65
+      }
     }
   },
   {
@@ -7176,6 +8106,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/124.png",
       "large": "https://images.pokemontcg.io/pl1/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Giratina-LVX-PL124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.49,
+        "reverseHoloLow": 20.0
+      }
     }
   },
   {
@@ -7239,6 +8177,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/125.png",
       "large": "https://images.pokemontcg.io/pl1/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Palkia-G-LVX-PL125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -7305,6 +8251,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/126.png",
       "large": "https://images.pokemontcg.io/pl1/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Shaymin-LVX-PL126",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7366,6 +8320,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/127.png",
       "large": "https://images.pokemontcg.io/pl1/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Shaymin-LVX-PL127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.95,
+        "reverseHoloLow": 6.5
+      }
     }
   },
   {
@@ -7428,6 +8390,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/128.png",
       "large": "https://images.pokemontcg.io/pl1/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Electabuzz-Lv35-PL128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": 6.5
+      }
     }
   },
   {
@@ -7488,6 +8458,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/129.png",
       "large": "https://images.pokemontcg.io/pl1/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Hitmonchan-Lv33-PL129",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -7552,6 +8530,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/130.png",
       "large": "https://images.pokemontcg.io/pl1/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Scyther-Lv25-PL130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": 6.99
+      }
     }
   },
   {
@@ -7639,9 +8625,7 @@
     "attacks": [
       {
         "name": "Roost",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Remove 4 damage counters from Swablu. Swablu can't retreat during your next turn."
@@ -7713,9 +8697,7 @@
     "attacks": [
       {
         "name": "Find Wildfire",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 Fire Energy cards, show them to your opponent, and put them in your hand. Shuffle your deck afterward."

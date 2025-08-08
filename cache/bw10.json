@@ -6573,5 +6573,77 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "bw10-promo-5",
+    "name": "Tropius  (PLB 5) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "100",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Return",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Draw cards until you have 6 cards in your hand."
+      },
+      {
+        "name": "Energy Press",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "Does 20 more damage for each Energy attached to the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "5",
+    "artist": "Shigenori Negishi",
+    "rarity": "Promo",
+    "flavorText": "It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children.",
+    "nationalPokedexNumbers": [
+      357
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw10/5.png",
+      "large": "https://images.pokemontcg.io/bw10/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Blast/Tropius-V2-PLB5",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

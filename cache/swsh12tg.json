@@ -3276,5 +3276,61 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "swsh12tg-promo-33",
+    "name": "Alolan Vulpix V  (SIT 033) (Promo)",
+    "rarity": "Promo",
+    "number": "33",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Alolan-Vulpix-V-V3-SIT033",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh12tg-promo-49",
+    "name": "Pikachu  (SIT 049) (Promo)",
+    "rarity": "Promo",
+    "number": "49",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Pikachu-V2-SIT049",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh12tg-promo-131",
+    "name": "Dragonite  (SIT 131) (Promo)",
+    "rarity": "Promo",
+    "number": "131",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Dragonite-V2-SIT131",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh12tg-promo-156",
+    "name": "Forest Seal Stone (SIT 156) (Promo)",
+    "rarity": "Promo",
+    "number": "156",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Forest-Seal-Stone-V2-SIT156",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

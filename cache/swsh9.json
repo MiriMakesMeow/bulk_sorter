@@ -11709,5 +11709,384 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "swsh9-promo-21",
+    "name": "Moltres  (BRS 021) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Inferno Wings",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20+",
+        "text": "If this Pokémon has any damage counters on it, this attack does 70 more damage. This attack's damage isn't affected by Weakness."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "21",
+    "artist": "otumami",
+    "rarity": "Promo",
+    "flavorText": "It's one of the legendary bird Pokémon. When Moltres flaps its flaming wings, they glimmer with a dazzling red glow.",
+    "nationalPokedexNumbers": [
+      146
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/21.png",
+      "large": "https://images.pokemontcg.io/swsh9/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Moltres-V3-BRS021",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh9-promo-37",
+    "name": "Empoleon  (BRS 037) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Prinplup",
+    "abilities": [
+      {
+        "name": "Emergency Surfacing",
+        "text": "Once during your turn, if this Pokémon is in your discard pile and you have no cards in your hand, you may put this Pokémon onto your Bench. If you do, draw 3 cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Water Arrow",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 60 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "37",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+    "nationalPokedexNumbers": [
+      395
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/37.png",
+      "large": "https://images.pokemontcg.io/swsh9/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Empoleon-V2-BRS037",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh9-promo-56",
+    "name": "Mewtwo  (BRS 056) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Life Sucker",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Heal 20 damage from this Pokémon."
+      },
+      {
+        "name": "Psyburn",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "110",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "56",
+    "artist": "Anesaki Dynamic",
+    "rarity": "Promo",
+    "flavorText": "A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.",
+    "nationalPokedexNumbers": [
+      150
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/56.png",
+      "large": "https://images.pokemontcg.io/swsh9/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Mewtwo-V2-BRS056",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
+  },
+  {
+    "id": "swsh9-promo-122",
+    "name": "Arceus V  (BRS 122) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "220",
+    "types": [
+      "Colorless"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Trinity Charge",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Search your deck for up to 3 basic Energy cards and attach them to your Pokémon V in any way you like. Then, shuffle your deck."
+      },
+      {
+        "name": "Power Edge",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "122",
+    "artist": "N-DESIGN Inc.",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      493
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/122.png",
+      "large": "https://images.pokemontcg.io/swsh9/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Arceus-V-V4-BRS122",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh9-promo-123",
+    "name": "Arceus VSTAR  (BRS 123) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VSTAR"
+    ],
+    "hp": "280",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Arceus V",
+    "rules": [
+      "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Starbirth",
+        "text": "During your turn, you may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 VSTAR Power in a game.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Trinity Nova",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "Search your deck for up to 3 basic Energy cards and attach them to your Pokémon V in any way you like. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "123",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      493
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/123.png",
+      "large": "https://images.pokemontcg.io/swsh9/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Arceus-VSTAR-V5-BRS123",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh9-promo-132",
+    "name": "Boss's Orders - Cyrus (BRS 132) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "number": "132",
+    "artist": "GIDORA",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh9/132.png",
+      "large": "https://images.pokemontcg.io/swsh9/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Brilliant-Stars/Bosss-Orders-Cyrus-V2-BRS132",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.98,
+        "reverseHoloLow": 3.98
+      }
+    }
   }
 ]

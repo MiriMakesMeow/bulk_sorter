@@ -48,6 +48,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/1.png",
       "large": "https://images.pokemontcg.io/det1/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Bulbasaur-DET1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -108,6 +116,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/2.png",
       "large": "https://images.pokemontcg.io/det1/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Ludicolo-DET2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -159,6 +175,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/3.png",
       "large": "https://images.pokemontcg.io/det1/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Morelull-DET3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -210,6 +234,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/4.png",
       "large": "https://images.pokemontcg.io/det1/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Charmander-DET4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -275,6 +307,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/5.png",
       "large": "https://images.pokemontcg.io/det1/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Charizard-DET5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -335,6 +375,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/6.png",
       "large": "https://images.pokemontcg.io/det1/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Arcanine-DET6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -388,6 +436,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/7.png",
       "large": "https://images.pokemontcg.io/det1/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Psyduck-DET7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -439,6 +495,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/8.png",
       "large": "https://images.pokemontcg.io/det1/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Magikarp-DET8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -496,6 +560,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/9.png",
       "large": "https://images.pokemontcg.io/det1/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Greninja-DET9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -565,6 +637,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/10.png",
       "large": "https://images.pokemontcg.io/det1/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Detective-Pikachu-DET10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -621,6 +701,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/11.png",
       "large": "https://images.pokemontcg.io/det1/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Mr-Mime-DET11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -682,6 +770,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/12.png",
       "large": "https://images.pokemontcg.io/det1/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Mewtwo-DET12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -742,6 +838,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/13.png",
       "large": "https://images.pokemontcg.io/det1/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Machamp-DET13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -799,6 +903,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/14.png",
       "large": "https://images.pokemontcg.io/det1/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Jigglypuff-DET14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -858,6 +970,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/15.png",
       "large": "https://images.pokemontcg.io/det1/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Snubbull-DET15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -912,6 +1032,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/16.png",
       "large": "https://images.pokemontcg.io/det1/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Lickitung-DET16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -960,6 +1088,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/17.png",
       "large": "https://images.pokemontcg.io/det1/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Ditto-DET17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1015,6 +1151,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/18.png",
       "large": "https://images.pokemontcg.io/det1/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Detective-Pikachu/Slaking-DET18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.0
+      }
     }
   }
 ]

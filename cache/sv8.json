@@ -24500,5 +24500,1061 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "sv8-promo-29",
+    "name": "Fuecoco  (SSP 029) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Heat Burn",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "series": "Scarlet & Violet",
+      "printedTotal": 191,
+      "total": 252,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSP",
+      "releaseDate": "2024/11/08",
+      "updatedAt": "2024/11/07 22:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8/logo.png"
+      }
+    },
+    "number": "29",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      909
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/29.png",
+      "large": "https://images.pokemontcg.io/sv8/29_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv8-29",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.04,
+          "directLow": 0.02
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Fuecoco-V2-SSP029",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv8-promo-31",
+    "name": "Skeledirge  (SSP 031) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "180",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Crocalor",
+    "abilities": [
+      {
+        "name": "Unaware",
+        "text": "Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Torcherto",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60+",
+        "text": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "series": "Scarlet & Violet",
+      "printedTotal": 191,
+      "total": 252,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSP",
+      "releaseDate": "2024/11/08",
+      "updatedAt": "2024/11/07 22:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8/logo.png"
+      }
+    },
+    "number": "31",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      911
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/31.png",
+      "large": "https://images.pokemontcg.io/sv8/31_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv8-31",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.13,
+          "high": 5.0,
+          "market": 0.09,
+          "directLow": 0.08
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.23,
+          "high": 5.0,
+          "market": 0.18,
+          "directLow": 0.15
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Skeledirge-V2-SSP031",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv8-promo-48",
+    "name": "Black Kyurem ex  (SSP 048) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "230",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Ice Age",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "If your opponent's Active Pokémon is a Dragon Pokémon, it is now Paralyzed."
+      },
+      {
+        "name": "Black Frost",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "250",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "series": "Scarlet & Violet",
+      "printedTotal": 191,
+      "total": 252,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSP",
+      "releaseDate": "2024/11/08",
+      "updatedAt": "2024/11/07 22:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8/logo.png"
+      }
+    },
+    "number": "48",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      646
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/48.png",
+      "large": "https://images.pokemontcg.io/sv8/48_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv8-48",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.2,
+          "mid": 0.75,
+          "high": 5.99,
+          "market": 0.53,
+          "directLow": 0.47
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Black-Kyurem-ex-V3-SSP048",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv8-promo-50",
+    "name": "Quaxly  (SSP 050) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Aerial Ace",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "series": "Scarlet & Violet",
+      "printedTotal": 191,
+      "total": 252,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSP",
+      "releaseDate": "2024/11/08",
+      "updatedAt": "2024/11/07 22:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8/logo.png"
+      }
+    },
+    "number": "50",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      912
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/50.png",
+      "large": "https://images.pokemontcg.io/sv8/50_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv8-50",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.1,
+          "directLow": 0.08
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Quaxly-V2-SSP050",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv8-promo-72",
+    "name": "Togekiss  (SSP 072) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "140",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Togetic",
+    "abilities": [
+      {
+        "name": "Wonder Kiss",
+        "text": "When your opponent's Active Pokémon is Knocked Out, flip a coin. If heads, take 1 more Prize card. The effect of Wonder Kiss doesn't stack.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Speed Wing",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "140",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "series": "Scarlet & Violet",
+      "printedTotal": 191,
+      "total": 252,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSP",
+      "releaseDate": "2024/11/08",
+      "updatedAt": "2024/11/07 22:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8/logo.png"
+      }
+    },
+    "number": "72",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      468
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/72.png",
+      "large": "https://images.pokemontcg.io/sv8/72_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv8-72",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 5.0,
+          "market": 0.11,
+          "directLow": 0.09
+        },
+        "reverseHolofoil": {
+          "low": 0.04,
+          "mid": 0.25,
+          "high": 5.0,
+          "market": 0.21,
+          "directLow": 0.16
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Togekiss-V2-SSP072",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv8-promo-76",
+    "name": "Latias ex  (SSP 076) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "210",
+    "types": [
+      "Psychic"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Skyliner",
+        "text": "Your Basic Pokémon in play have no Retreat Cost.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Eon Blade",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "series": "Scarlet & Violet",
+      "printedTotal": 191,
+      "total": 252,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSP",
+      "releaseDate": "2024/11/08",
+      "updatedAt": "2024/11/07 22:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8/logo.png"
+      }
+    },
+    "number": "76",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      380
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/76.png",
+      "large": "https://images.pokemontcg.io/sv8/76_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv8-76",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 5.0,
+          "mid": 6.75,
+          "high": 29.99,
+          "market": 6.15,
+          "directLow": 6.15
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Latias-ex-V4-SSP076",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv8-promo-92",
+    "name": "Tapu Lele  (SSP 092) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "110",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Perplex",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      },
+      {
+        "name": "Mental Crush",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90+",
+        "text": "If your opponent's Active Pokémon is Confused, this attack does 90 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "series": "Scarlet & Violet",
+      "printedTotal": 191,
+      "total": 252,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSP",
+      "releaseDate": "2024/11/08",
+      "updatedAt": "2024/11/07 22:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8/logo.png"
+      }
+    },
+    "number": "92",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      786
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/92.png",
+      "large": "https://images.pokemontcg.io/sv8/92_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv8-92",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.15,
+          "directLow": 0.15
+        },
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.13,
+          "high": 5.98,
+          "market": 0.08,
+          "directLow": 0.08
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Tapu-Lele-V2-SSP092",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv8-promo-129",
+    "name": "Duraludon  (SSP 129) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Confront",
+        "cost": [
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Duralubeam",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "series": "Scarlet & Violet",
+      "printedTotal": 191,
+      "total": 252,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSP",
+      "releaseDate": "2024/11/08",
+      "updatedAt": "2024/11/07 22:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8/logo.png"
+      }
+    },
+    "number": "129",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      884
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/129.png",
+      "large": "https://images.pokemontcg.io/sv8/129_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv8-129",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.04,
+          "directLow": 0.02
+        },
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.1,
+          "directLow": 0.07
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Duraludon-V2-SSP129",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv8-promo-130",
+    "name": "Archaludon ex  (SSP 130) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "ex"
+    ],
+    "hp": "300",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Duraludon",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Assemble Alloy",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may attach up to 2 Basic Metal Energy cards from your discard pile to your Metal Pokémon in any way you like.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Metal Defender",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "220",
+        "text": "During your opponent's next turn, this Pokémon has no Weakness."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "series": "Scarlet & Violet",
+      "printedTotal": 191,
+      "total": 252,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSP",
+      "releaseDate": "2024/11/08",
+      "updatedAt": "2024/11/07 22:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8/logo.png"
+      }
+    },
+    "number": "130",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      1018
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/130.png",
+      "large": "https://images.pokemontcg.io/sv8/130_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv8-130",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.39,
+          "mid": 1.07,
+          "high": 999.99,
+          "market": 0.85,
+          "directLow": 0.75
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Archaludon-ex-V4-SSP130",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv8-promo-161",
+    "name": "Terapagos  (SSP 161) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Prism Charge",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 3 Basic Energy cards of different types and attach them to your Tera Pokémon in any way you like. Then, shuffle your deck."
+      },
+      {
+        "name": "Hard Tackle",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "series": "Scarlet & Violet",
+      "printedTotal": 191,
+      "total": 252,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSP",
+      "releaseDate": "2024/11/08",
+      "updatedAt": "2024/11/07 22:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv8/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv8/logo.png"
+      }
+    },
+    "number": "161",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      1024
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv8/161.png",
+      "large": "https://images.pokemontcg.io/sv8/161_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv8-161",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.2,
+          "directLow": 0.16
+        },
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 5.0,
+          "market": 0.11,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Surging-Sparks/Terapagos-V2-SSP161",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.98,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

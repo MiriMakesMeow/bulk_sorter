@@ -10403,5 +10403,808 @@
       "small": "https://images.pokemontcg.io/pl3/SH9.png",
       "large": "https://images.pokemontcg.io/pl3/SH9_hires.png"
     }
+  },
+  {
+    "id": "pl3-promo-5",
+    "name": "Garchomp Lv.71  (SV 5) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "71",
+    "hp": "130",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Gabite",
+    "abilities": [
+      {
+        "name": "Dragon Intimidation",
+        "text": "If Garchomp is your Active Pokémon and is damaged by an opponent's attack (even if Garchomp is Knocked Out), choose an Energy card attached to the Attacking Pokémon and put it into your opponent's hand.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Guard Claw",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": "During your opponent's next turn, any damage done to Garchomp by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      {
+        "name": "Speed Impact",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120-",
+        "text": "Does 120 damage minus 20 damage for each Energy attached to the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "+30"
+      }
+    ],
+    "number": "5",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      445
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl3/5.png",
+      "large": "https://images.pokemontcg.io/pl3/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Garchomp-Lv71-V2-SV5",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl3-promo-15",
+    "name": "Arcanine [G] Lv.60  (SV 15) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "SP"
+    ],
+    "level": "60",
+    "hp": "90",
+    "types": [
+      "Fire"
+    ],
+    "abilities": [
+      {
+        "name": "Extreme Speed",
+        "text": "Arcanine G's Retreat Cost is Colorless less for each Fire Energy attached to Arcanine G.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Overrun",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "15",
+    "artist": "Yusuke Ishikawa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      59
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl3/15.png",
+      "large": "https://images.pokemontcg.io/pl3/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Arcanine-G-Lv60-V2-SV15",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl3-promo-17",
+    "name": "Butterfree [FB] Lv.50  (SV 17) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "SP"
+    ],
+    "level": "50",
+    "hp": "90",
+    "types": [
+      "Grass"
+    ],
+    "abilities": [
+      {
+        "name": "Compound Eyes",
+        "text": "If your opponent's Active Pokémon has any Poké-Bodies, each of Butterfree FB's attacks does 30 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Select Powder",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "Choose either Burned or Poisoned. The Defending Pokémon is now affected by that Special Condition."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "17",
+    "artist": "Lee HyunJung",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      12
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl3/17.png",
+      "large": "https://images.pokemontcg.io/pl3/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Butterfree-FB-Lv50-V2-SV17",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl3-promo-26",
+    "name": "Dusknoir [FB] Lv.50  (SV 26) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "SP"
+    ],
+    "level": "50",
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Ghost Hand",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Put 1 damage counter on 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Cursed Wrath",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "10×",
+        "text": "Does 10 damage times the number of Pokémon SP in your discard pile."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Colorless",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "26",
+    "artist": "Motofumi Fujiwara",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      477
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl3/26.png",
+      "large": "https://images.pokemontcg.io/pl3/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Dusknoir-FB-Lv50-V2-SV26",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl3-promo-27",
+    "name": "Empoleon [FB] Lv.50  (SV 27) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "SP"
+    ],
+    "level": "50",
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Rushing Water",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Move an Energy card attached to the Defending Pokémon to another of your opponent's Pokémon."
+      },
+      {
+        "name": "Escort",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40+",
+        "text": "If you played any Supporter card from your hand during this turn, this attack does 40 damage plus 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "27",
+    "artist": "Hiroki Fuchino",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      395
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl3/27.png",
+      "large": "https://images.pokemontcg.io/pl3/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Empoleon-FB-Lv50-V2-SV27",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl3-promo-35",
+    "name": "Milotic [C] Lv.58  (SV 35) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "SP"
+    ],
+    "level": "58",
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Aqua Tail",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Flip a coin for each Water Energy attached to Milotic C. This attack does 10 damage plus 20 more damage for each heads."
+      },
+      {
+        "name": "Wrap",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "35",
+    "artist": "kawayoo",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      350
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl3/35.png",
+      "large": "https://images.pokemontcg.io/pl3/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Milotic-C-Lv58-V2-SV35",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl3-promo-56",
+    "name": "Dragonite [FB] Lv.50  (SV 56) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "SP"
+    ],
+    "level": "50",
+    "hp": "100",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Mach Blow",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20",
+        "text": "If the Defending Pokémon is a Pokémon SP, this attack's base damage is 80 instead of 20."
+      },
+      {
+        "name": "Giant Tail",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "100",
+        "text": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "56",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      149
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl3/56.png",
+      "large": "https://images.pokemontcg.io/pl3/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Dragonite-FB-Lv50-V2-SV56",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl3-promo-59",
+    "name": "Gabite Lv.36  (SV 59) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "36",
+    "hp": "80",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Gible",
+    "evolvesTo": [
+      "Garchomp"
+    ],
+    "attacks": [
+      {
+        "name": "Healing Scale",
+        "cost": [],
+        "convertedEnergyCost": 0,
+        "damage": "",
+        "text": "Remove 1 damage counter from each of your Pokémon."
+      },
+      {
+        "name": "Sand Tomb",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "59",
+    "artist": "Tomokazu Komiya",
+    "rarity": "Promo",
+    "flavorText": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+    "nationalPokedexNumbers": [
+      444
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl3/59.png",
+      "large": "https://images.pokemontcg.io/pl3/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Gabite-Lv36-V2-SV59",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl3-promo-60",
+    "name": "Garchomp [C] Lv.62  (SV 60) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "SP"
+    ],
+    "level": "62",
+    "hp": "80",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Claw Swipe",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Earthquake",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "60",
+    "artist": "kawayoo",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      445
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl3/60.png",
+      "large": "https://images.pokemontcg.io/pl3/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Garchomp-C-Lv62-V2-SV60",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 110.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl3-promo-83",
+    "name": "Skarmory [FB] Lv.50  (SV 83) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "SP"
+    ],
+    "level": "50",
+    "hp": "80",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Silver Feather",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "During your opponent's next turn, when your opponent puts a Basic Pokémon from his or her hand onto his or her Bench, put 2 damage counters on that Pokémon."
+      },
+      {
+        "name": "Metal Max",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "Discard all Metal Energy attached to Skarmory FB. Flip a coin for each Energy card you discarded. This attack does 20 damage plus 40 damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "83",
+    "artist": "Hironobu Yoshida",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      227
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl3/83.png",
+      "large": "https://images.pokemontcg.io/pl3/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Skarmory-FB-Lv50-V2-SV83",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.44,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl3-promo-106",
+    "name": "Gible Lv.12  (SV 106) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "12",
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Gabite"
+    ],
+    "attacks": [
+      {
+        "name": "Sand Attack",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      {
+        "name": "Bite",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "+10"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "106",
+    "artist": "Kanako Eo",
+    "rarity": "Promo",
+    "flavorText": "It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.",
+    "nationalPokedexNumbers": [
+      443
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl3/106.png",
+      "large": "https://images.pokemontcg.io/pl3/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Gible-Lv12-V2-SV106",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.25,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl3-promo-136",
+    "name": "Cynthia's Guidance (SV 136) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "Look at the top 7 cards of your deck, choose 1 of them, and put it into your hand. Put the other cards back on top of your deck. Shuffle your deck afterward."
+    ],
+    "number": "136",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl3/136.png",
+      "large": "https://images.pokemontcg.io/pl3/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Supreme-Victors/Cynthias-Guidance-V2-SV136",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.76,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

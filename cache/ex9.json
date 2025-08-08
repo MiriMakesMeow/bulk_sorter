@@ -6412,5 +6412,231 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "ex9-promo-3",
+    "name": "Exploud  (EM 3) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Loudred",
+    "attacks": [
+      {
+        "name": "Collect",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw 3 cards."
+      },
+      {
+        "name": "Body Slam",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Hyper Voice",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Mega Throw",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60+",
+        "text": "If the Defending Pokémon is Pokémon-ex, this attack does 60 damage plus 40 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "3",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      295
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex9/3.png",
+      "large": "https://images.pokemontcg.io/ex9/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Exploud-V2-EM3",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.75,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "ex9-promo-35",
+    "name": "Loudred  (EM 35) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Whismur",
+    "evolvesTo": [
+      "Exploud"
+    ],
+    "attacks": [
+      {
+        "name": "Body Slam",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Double-edge",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "Loudred does 10 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "35",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      294
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex9/35.png",
+      "large": "https://images.pokemontcg.io/ex9/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Loudred-V2-EM35",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 11.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "ex9-promo-73",
+    "name": "Whismur  (EM 73) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Loudred"
+    ],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Rollout",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "73",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      293
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex9/73.png",
+      "large": "https://images.pokemontcg.io/ex9/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Whismur-V2-EM73",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

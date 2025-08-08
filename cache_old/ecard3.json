@@ -52,6 +52,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/1.png",
       "large": "https://images.pokemontcg.io/ecard3/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Aerodactyl-SK1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": 4.5
+      }
     }
   },
   {
@@ -109,6 +117,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/2.png",
       "large": "https://images.pokemontcg.io/ecard3/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Alakazam-V2-SK2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.2,
+        "reverseHoloLow": 15.99
+      }
     }
   },
   {
@@ -175,6 +191,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/3.png",
       "large": "https://images.pokemontcg.io/ecard3/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Arcanine-V2-SK3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.95,
+        "reverseHoloLow": 6.0
+      }
     }
   },
   {
@@ -247,6 +271,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/4.png",
       "large": "https://images.pokemontcg.io/ecard3/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Articuno-V2-SK4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.19,
+        "reverseHoloLow": 12.0
+      }
     }
   },
   {
@@ -298,6 +330,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/5.png",
       "large": "https://images.pokemontcg.io/ecard3/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Beedrill-V2-SK5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -350,6 +390,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/6.png",
       "large": "https://images.pokemontcg.io/ecard3/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Crobat-V2-SK6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": 6.49
+      }
     }
   },
   {
@@ -411,6 +459,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/7.png",
       "large": "https://images.pokemontcg.io/ecard3/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Dewgong-V2-SK7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 3.95
+      }
     }
   },
   {
@@ -476,6 +532,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/8.png",
       "large": "https://images.pokemontcg.io/ecard3/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Flareon-V2-SK8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.49,
+        "reverseHoloLow": 9.99
+      }
     }
   },
   {
@@ -542,6 +606,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/9.png",
       "large": "https://images.pokemontcg.io/ecard3/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Forretress-V2-SK9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.85,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -606,6 +678,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/10.png",
       "large": "https://images.pokemontcg.io/ecard3/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Gengar-V2-SK10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 22.49,
+        "reverseHoloLow": 26.99
+      }
     }
   },
   {
@@ -664,6 +744,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/11.png",
       "large": "https://images.pokemontcg.io/ecard3/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Gyarados-V2-SK11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.94,
+        "reverseHoloLow": 19.0
+      }
     }
   },
   {
@@ -729,6 +817,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/12.png",
       "large": "https://images.pokemontcg.io/ecard3/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Houndoom-V2-SK12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.3,
+        "reverseHoloLow": 10.0
+      }
     }
   },
   {
@@ -790,6 +886,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/13.png",
       "large": "https://images.pokemontcg.io/ecard3/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Jolteon-V2-SK13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 7.49
+      }
     }
   },
   {
@@ -847,6 +951,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/14.png",
       "large": "https://images.pokemontcg.io/ecard3/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Kabutops-V2-SK14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -901,6 +1013,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/15.png",
       "large": "https://images.pokemontcg.io/ecard3/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Ledian-V2-SK15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -969,6 +1089,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/16.png",
       "large": "https://images.pokemontcg.io/ecard3/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Machamp-V2-SK16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 4.0
+      }
     }
   },
   {
@@ -1031,6 +1159,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/17.png",
       "large": "https://images.pokemontcg.io/ecard3/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Magcargo-V2-SK17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 3.98
+      }
     }
   },
   {
@@ -1089,6 +1225,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/18.png",
       "large": "https://images.pokemontcg.io/ecard3/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Magcargo-V2-SK18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.25,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -1148,6 +1292,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/19.png",
       "large": "https://images.pokemontcg.io/ecard3/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Magneton-V2-SK19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 3.9
+      }
     }
   },
   {
@@ -1217,6 +1369,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/20.png",
       "large": "https://images.pokemontcg.io/ecard3/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Magneton-V2-SK20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1289,6 +1449,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/21.png",
       "large": "https://images.pokemontcg.io/ecard3/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Moltres-V2-SK21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 8.49
+      }
     }
   },
   {
@@ -1347,6 +1515,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/22.png",
       "large": "https://images.pokemontcg.io/ecard3/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Nidoqueen-V2-SK22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.9,
+        "reverseHoloLow": 7.9
+      }
     }
   },
   {
@@ -1404,6 +1580,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/23.png",
       "large": "https://images.pokemontcg.io/ecard3/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Omastar-SK23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 5.99
+      }
     }
   },
   {
@@ -1470,6 +1654,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/24.png",
       "large": "https://images.pokemontcg.io/ecard3/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Piloswine-V2-SK24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -1542,6 +1734,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/25.png",
       "large": "https://images.pokemontcg.io/ecard3/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Politoed-V2-SK25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": 5.89
+      }
     }
   },
   {
@@ -1599,6 +1799,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/26.png",
       "large": "https://images.pokemontcg.io/ecard3/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Poliwrath-V2-SK26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": 2.98
+      }
     }
   },
   {
@@ -1658,6 +1866,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/27.png",
       "large": "https://images.pokemontcg.io/ecard3/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Raichu-V2-SK27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -1713,6 +1929,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/28.png",
       "large": "https://images.pokemontcg.io/ecard3/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Raikou-V2-SK28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.3,
+        "reverseHoloLow": 6.0
+      }
     }
   },
   {
@@ -1785,6 +2009,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/29.png",
       "large": "https://images.pokemontcg.io/ecard3/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Rhydon-V2-SK29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1843,6 +2075,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/30.png",
       "large": "https://images.pokemontcg.io/ecard3/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Starmie-V2-SK30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.39,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -1920,6 +2160,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/31.png",
       "large": "https://images.pokemontcg.io/ecard3/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Steelix-V2-SK31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.25,
+        "reverseHoloLow": 1.25
+      }
     }
   },
   {
@@ -1981,6 +2229,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/32.png",
       "large": "https://images.pokemontcg.io/ecard3/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Umbreon-V2-SK32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 24.9,
+        "reverseHoloLow": 62.0
+      }
     }
   },
   {
@@ -2047,6 +2303,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/33.png",
       "large": "https://images.pokemontcg.io/ecard3/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Vaporeon-V2-SK33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": 9.99
+      }
     }
   },
   {
@@ -2102,6 +2366,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/34.png",
       "large": "https://images.pokemontcg.io/ecard3/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Wigglytuff-SK34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.3,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2158,6 +2430,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/35.png",
       "large": "https://images.pokemontcg.io/ecard3/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Xatu-V2-SK35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -2218,6 +2498,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/36.png",
       "large": "https://images.pokemontcg.io/ecard3/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Electrode-SK36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 4.0
+      }
     }
   },
   {
@@ -2276,6 +2564,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/37.png",
       "large": "https://images.pokemontcg.io/ecard3/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Kabuto-SK37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -2337,6 +2633,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/38.png",
       "large": "https://images.pokemontcg.io/ecard3/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Machoke-SK38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": 2.89
+      }
     }
   },
   {
@@ -2402,6 +2706,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/39.png",
       "large": "https://images.pokemontcg.io/ecard3/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Misdreavus-SK39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 4.9
+      }
     }
   },
   {
@@ -2459,6 +2771,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/40.png",
       "large": "https://images.pokemontcg.io/ecard3/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Noctowl-SK40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.79,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -2519,6 +2839,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/41.png",
       "large": "https://images.pokemontcg.io/ecard3/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Omanyte-SK41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 2.48
+      }
     }
   },
   {
@@ -2573,6 +2901,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/42.png",
       "large": "https://images.pokemontcg.io/ecard3/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Persian-SK42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2645,6 +2981,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/43.png",
       "large": "https://images.pokemontcg.io/ecard3/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Piloswine-SK43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 2.1
+      }
     }
   },
   {
@@ -2703,6 +3047,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/44.png",
       "large": "https://images.pokemontcg.io/ecard3/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Starmie-SK44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.85,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -2758,6 +3110,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/45.png",
       "large": "https://images.pokemontcg.io/ecard3/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Wobbuffet-SK45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2815,6 +3175,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/46.png",
       "large": "https://images.pokemontcg.io/ecard3/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Abra-SK46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": 12.97
+      }
     }
   },
   {
@@ -2852,6 +3220,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/47.png",
       "large": "https://images.pokemontcg.io/ecard3/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Buried-Fossil-SK47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2898,6 +3274,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/48.png",
       "large": "https://images.pokemontcg.io/ecard3/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Cleffa-SK48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 5.99
+      }
     }
   },
   {
@@ -2954,6 +3338,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/49.png",
       "large": "https://images.pokemontcg.io/ecard3/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Delibird-SK49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": 8.4
+      }
     }
   },
   {
@@ -3009,6 +3401,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/50.png",
       "large": "https://images.pokemontcg.io/ecard3/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Diglett-SK50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 2.6
+      }
     }
   },
   {
@@ -3062,6 +3462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/51.png",
       "large": "https://images.pokemontcg.io/ecard3/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Ditto-SK51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": 15.0
+      }
     }
   },
   {
@@ -3127,6 +3535,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/52.png",
       "large": "https://images.pokemontcg.io/ecard3/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Dugtrio-SK52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 7.0
+      }
     }
   },
   {
@@ -3180,6 +3596,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/53.png",
       "large": "https://images.pokemontcg.io/ecard3/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Dunsparce-SK53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -3246,6 +3670,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/54.png",
       "large": "https://images.pokemontcg.io/ecard3/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Eevee-SK54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 6.0
+      }
     }
   },
   {
@@ -3310,6 +3742,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/55.png",
       "large": "https://images.pokemontcg.io/ecard3/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Farfetchd-SK55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 8.9
+      }
     }
   },
   {
@@ -3377,6 +3817,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/56.png",
       "large": "https://images.pokemontcg.io/ecard3/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Forretress-V1-SK56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -3432,6 +3880,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/57.png",
       "large": "https://images.pokemontcg.io/ecard3/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Gastly-SK57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 5.49
+      }
     }
   },
   {
@@ -3488,6 +3944,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/58.png",
       "large": "https://images.pokemontcg.io/ecard3/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Girafarig-SK58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -3547,6 +4011,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/59.png",
       "large": "https://images.pokemontcg.io/ecard3/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Gligar-SK59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 3.3
+      }
     }
   },
   {
@@ -3609,6 +4081,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/60.png",
       "large": "https://images.pokemontcg.io/ecard3/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Golbat-SK60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": 19.95
+      }
     }
   },
   {
@@ -3669,6 +4149,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/61.png",
       "large": "https://images.pokemontcg.io/ecard3/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Granbull-SK61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": 6.99
+      }
     }
   },
   {
@@ -3728,6 +4216,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/62.png",
       "large": "https://images.pokemontcg.io/ecard3/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Growlithe-SK62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": 4.99
+      }
     }
   },
   {
@@ -3796,6 +4292,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/63.png",
       "large": "https://images.pokemontcg.io/ecard3/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Haunter-SK63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -3854,6 +4358,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/64.png",
       "large": "https://images.pokemontcg.io/ecard3/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Heracross-SK64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -3918,6 +4430,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/65.png",
       "large": "https://images.pokemontcg.io/ecard3/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Hoothoot-SK65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 3.9
+      }
     }
   },
   {
@@ -3976,6 +4496,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/66.png",
       "large": "https://images.pokemontcg.io/ecard3/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Houndour-SK66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -4022,6 +4550,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/67.png",
       "large": "https://images.pokemontcg.io/ecard3/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Igglybuff-SK67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -4081,6 +4617,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/68.png",
       "large": "https://images.pokemontcg.io/ecard3/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Jigglypuff-SK68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 2.9
+      }
     }
   },
   {
@@ -4142,6 +4686,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/69.png",
       "large": "https://images.pokemontcg.io/ecard3/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Kadabra-SK69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -4200,6 +4752,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/70.png",
       "large": "https://images.pokemontcg.io/ecard3/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Kakuna-SK70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4259,6 +4819,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/71.png",
       "large": "https://images.pokemontcg.io/ecard3/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Lapras-SK71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.78,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -4323,6 +4891,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/72.png",
       "large": "https://images.pokemontcg.io/ecard3/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Ledyba-SK72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 3.99
+      }
     }
   },
   {
@@ -4382,6 +4958,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/73.png",
       "large": "https://images.pokemontcg.io/ecard3/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Ledyba-SK73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -4441,6 +5025,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/74.png",
       "large": "https://images.pokemontcg.io/ecard3/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Machop-SK74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": 4.95
+      }
     }
   },
   {
@@ -4499,6 +5091,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/75.png",
       "large": "https://images.pokemontcg.io/ecard3/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Magikarp-SK75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 5.55
+      }
     }
   },
   {
@@ -4557,6 +5157,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/76.png",
       "large": "https://images.pokemontcg.io/ecard3/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Magnemite-SK76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.34,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -4621,6 +5229,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/77.png",
       "large": "https://images.pokemontcg.io/ecard3/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Mantine-SK77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.89
+      }
     }
   },
   {
@@ -4670,6 +5286,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/78.png",
       "large": "https://images.pokemontcg.io/ecard3/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Meowth-SK78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 10.0
+      }
     }
   },
   {
@@ -4735,6 +5359,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/79.png",
       "large": "https://images.pokemontcg.io/ecard3/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Murkrow-SK79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": 6.0
+      }
     }
   },
   {
@@ -4794,6 +5426,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/80.png",
       "large": "https://images.pokemontcg.io/ecard3/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Natu-SK80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -4849,6 +5489,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/81.png",
       "large": "https://images.pokemontcg.io/ecard3/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Nidoran-F-SK81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.95,
+        "reverseHoloLow": 1.95
+      }
     }
   },
   {
@@ -4896,6 +5544,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/82.png",
       "large": "https://images.pokemontcg.io/ecard3/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Nidoran-F-SK82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -4959,6 +5615,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/83.png",
       "large": "https://images.pokemontcg.io/ecard3/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Nidorina-SK83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -5009,6 +5673,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/84.png",
       "large": "https://images.pokemontcg.io/ecard3/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Pikachu-SK84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": 49.0
+      }
     }
   },
   {
@@ -5058,6 +5730,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/85.png",
       "large": "https://images.pokemontcg.io/ecard3/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Pineco-SK85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.8
+      }
     }
   },
   {
@@ -5108,6 +5788,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/86.png",
       "large": "https://images.pokemontcg.io/ecard3/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Pineco-SK86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 2.75
+      }
     }
   },
   {
@@ -5167,6 +5855,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/87.png",
       "large": "https://images.pokemontcg.io/ecard3/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Poliwag-SK87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -5229,6 +5925,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/88.png",
       "large": "https://images.pokemontcg.io/ecard3/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Poliwhirl-SK88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 4.89
+      }
     }
   },
   {
@@ -5286,6 +5990,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/89.png",
       "large": "https://images.pokemontcg.io/ecard3/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Raticate-SK89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.33,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -5344,6 +6056,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/90.png",
       "large": "https://images.pokemontcg.io/ecard3/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Rattata-SK90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.25
+      }
     }
   },
   {
@@ -5410,6 +6130,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/91.png",
       "large": "https://images.pokemontcg.io/ecard3/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Rhyhorn-SK91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -5474,6 +6202,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/92.png",
       "large": "https://images.pokemontcg.io/ecard3/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Sandshrew-SK92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 4.17
+      }
     }
   },
   {
@@ -5539,6 +6275,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/93.png",
       "large": "https://images.pokemontcg.io/ecard3/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Sandslash-SK93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -5588,6 +6332,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/94.png",
       "large": "https://images.pokemontcg.io/ecard3/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Seel-SK94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 3.49
+      }
     }
   },
   {
@@ -5647,6 +6399,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/95.png",
       "large": "https://images.pokemontcg.io/ecard3/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Seel-SK95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -5702,6 +6462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/96.png",
       "large": "https://images.pokemontcg.io/ecard3/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Shuckle-SK96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 4.5
+      }
     }
   },
   {
@@ -5766,6 +6534,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/97.png",
       "large": "https://images.pokemontcg.io/ecard3/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Skarmory-SK97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": 6.9
+      }
     }
   },
   {
@@ -5825,6 +6601,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/98.png",
       "large": "https://images.pokemontcg.io/ecard3/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Slugma-SK98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": 1.75
+      }
     }
   },
   {
@@ -5876,6 +6660,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/99.png",
       "large": "https://images.pokemontcg.io/ecard3/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Slugma-SK99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -5933,6 +6725,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/100.png",
       "large": "https://images.pokemontcg.io/ecard3/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Snorlax-SK100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.4,
+        "reverseHoloLow": 12.95
+      }
     }
   },
   {
@@ -5992,6 +6792,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/101.png",
       "large": "https://images.pokemontcg.io/ecard3/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Snubbull-SK101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -6048,6 +6856,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/102.png",
       "large": "https://images.pokemontcg.io/ecard3/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Stantler-SK102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -6106,6 +6922,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/103.png",
       "large": "https://images.pokemontcg.io/ecard3/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Staryu-SK103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -6165,6 +6989,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/104.png",
       "large": "https://images.pokemontcg.io/ecard3/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Staryu-SK104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.25,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -6230,6 +7062,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/105.png",
       "large": "https://images.pokemontcg.io/ecard3/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Sunflora-SK105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 2.93
+      }
     }
   },
   {
@@ -6294,6 +7134,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/106.png",
       "large": "https://images.pokemontcg.io/ecard3/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Sunkern-SK106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": 2.98
+      }
     }
   },
   {
@@ -6352,6 +7200,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/107.png",
       "large": "https://images.pokemontcg.io/ecard3/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Swinub-SK107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.95,
+        "reverseHoloLow": 6.99
+      }
     }
   },
   {
@@ -6417,6 +7273,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/108.png",
       "large": "https://images.pokemontcg.io/ecard3/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Swinub-SK108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": 4.5
+      }
     }
   },
   {
@@ -6476,6 +7340,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/109.png",
       "large": "https://images.pokemontcg.io/ecard3/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Teddiursa-SK109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 8.6
+      }
     }
   },
   {
@@ -6538,6 +7410,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/110.png",
       "large": "https://images.pokemontcg.io/ecard3/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Ursaring-SK110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -6593,6 +7473,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/111.png",
       "large": "https://images.pokemontcg.io/ecard3/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Venomoth-SK111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -6652,6 +7540,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/112.png",
       "large": "https://images.pokemontcg.io/ecard3/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Venonat-SK112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -6711,6 +7607,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/113.png",
       "large": "https://images.pokemontcg.io/ecard3/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Voltorb-SK113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 3.99
+      }
     }
   },
   {
@@ -6760,6 +7664,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/114.png",
       "large": "https://images.pokemontcg.io/ecard3/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Weedle-SK114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.7,
+        "reverseHoloLow": 3.95
+      }
     }
   },
   {
@@ -6818,6 +7730,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/115.png",
       "large": "https://images.pokemontcg.io/ecard3/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Weedle-SK115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.2,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -6885,6 +7805,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/116.png",
       "large": "https://images.pokemontcg.io/ecard3/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Yanma-SK116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -6949,6 +7877,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/117.png",
       "large": "https://images.pokemontcg.io/ecard3/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Zubat-SK117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -7008,6 +7944,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/118.png",
       "large": "https://images.pokemontcg.io/ecard3/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Zubat-SK118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -7030,6 +7974,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/119.png",
       "large": "https://images.pokemontcg.io/ecard3/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Ancient-Ruins-SK119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -7052,6 +8004,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/120.png",
       "large": "https://images.pokemontcg.io/ecard3/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Relic-Hunter-SK120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.64,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -7074,6 +8034,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/121.png",
       "large": "https://images.pokemontcg.io/ecard3/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Apricorn-Maker-SK121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -7096,6 +8064,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/122.png",
       "large": "https://images.pokemontcg.io/ecard3/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Crystal-Shard-SK122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -7118,6 +8094,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/123.png",
       "large": "https://images.pokemontcg.io/ecard3/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Desert-Shaman-SK123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.65,
+        "reverseHoloLow": 4.88
+      }
     }
   },
   {
@@ -7136,6 +8120,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/124.png",
       "large": "https://images.pokemontcg.io/ecard3/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Fast-Ball-SK124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -7159,6 +8151,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/125.png",
       "large": "https://images.pokemontcg.io/ecard3/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Fisherman-SK125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.24,
+        "reverseHoloLow": 2.35
+      }
     }
   },
   {
@@ -7177,6 +8177,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/126.png",
       "large": "https://images.pokemontcg.io/ecard3/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Friend-Ball-SK126",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.74,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -7196,6 +8204,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/127.png",
       "large": "https://images.pokemontcg.io/ecard3/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Hyper-Potion-SK127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -7215,6 +8231,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/128.png",
       "large": "https://images.pokemontcg.io/ecard3/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Lure-Ball-SK128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -7249,6 +8273,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/129.png",
       "large": "https://images.pokemontcg.io/ecard3/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Miracle-Sphere-alpha-SK129",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.25
+      }
     }
   },
   {
@@ -7283,6 +8315,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/130.png",
       "large": "https://images.pokemontcg.io/ecard3/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Miracle-Sphere-beta-SK130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 2.49
+      }
     }
   },
   {
@@ -7317,6 +8357,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/131.png",
       "large": "https://images.pokemontcg.io/ecard3/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Miracle-Sphere-gamma-SK131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -7339,6 +8387,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/132.png",
       "large": "https://images.pokemontcg.io/ecard3/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Mirage-Stadium-SK132",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": 3.99
+      }
     }
   },
   {
@@ -7371,6 +8427,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/133.png",
       "large": "https://images.pokemontcg.io/ecard3/133_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Mystery-Plate-alpha-SK133",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -7403,6 +8467,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/134.png",
       "large": "https://images.pokemontcg.io/ecard3/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Mystery-Plate-beta-SK134",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -7435,6 +8507,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/135.png",
       "large": "https://images.pokemontcg.io/ecard3/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Mystery-Plate-gamma-SK135",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -7467,6 +8547,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/136.png",
       "large": "https://images.pokemontcg.io/ecard3/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Mystery-Plate-delta-SK136",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 2.2
+      }
     }
   },
   {
@@ -7489,6 +8577,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/137.png",
       "large": "https://images.pokemontcg.io/ecard3/137_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Mystery-Zone-SK137",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 2.27
+      }
     }
   },
   {
@@ -7511,6 +8607,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/138.png",
       "large": "https://images.pokemontcg.io/ecard3/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Oracle-SK138",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -7533,6 +8637,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/139.png",
       "large": "https://images.pokemontcg.io/ecard3/139_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Star-Piece-SK139",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.95
+      }
     }
   },
   {
@@ -7556,6 +8668,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/140.png",
       "large": "https://images.pokemontcg.io/ecard3/140_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Underground-Expedition-SK140",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 8.85
+      }
     }
   },
   {
@@ -7578,6 +8698,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/141.png",
       "large": "https://images.pokemontcg.io/ecard3/141_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Underground-Lake-SK141",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 1.2
+      }
     }
   },
   {
@@ -7599,6 +8727,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/142.png",
       "large": "https://images.pokemontcg.io/ecard3/142_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Bounce-Energy-SK142",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -7620,6 +8756,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/143.png",
       "large": "https://images.pokemontcg.io/ecard3/143_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Cyclone-Energy-SK143",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -7641,6 +8785,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/144.png",
       "large": "https://images.pokemontcg.io/ecard3/144_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Retro-Energy-SK144",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -7706,6 +8858,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/145.png",
       "large": "https://images.pokemontcg.io/ecard3/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Celebi-SK145",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 80.0,
+        "reverseHoloLow": 80.0
+      }
     }
   },
   {
@@ -7777,6 +8937,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/146.png",
       "large": "https://images.pokemontcg.io/ecard3/146_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Charizard-V1-SK146",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 260.0,
+        "reverseHoloLow": 260.0
+      }
     }
   },
   {
@@ -7840,6 +9008,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/147.png",
       "large": "https://images.pokemontcg.io/ecard3/147_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Crobat-V1-SK147",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 53.0,
+        "reverseHoloLow": 53.0
+      }
     }
   },
   {
@@ -7911,6 +9087,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/148.png",
       "large": "https://images.pokemontcg.io/ecard3/148_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Golem-SK148",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 27.99,
+        "reverseHoloLow": 27.99
+      }
     }
   },
   {
@@ -7979,6 +9163,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/149.png",
       "large": "https://images.pokemontcg.io/ecard3/149_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Ho-Oh-V1-SK149",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 59.94,
+        "reverseHoloLow": 59.94
+      }
     }
   },
   {
@@ -8049,6 +9241,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard3/150.png",
       "large": "https://images.pokemontcg.io/ecard3/150_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Skyridge/Kabutops-V1-SK150",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 50.0,
+        "reverseHoloLow": 50.0
+      }
     }
   },
   {

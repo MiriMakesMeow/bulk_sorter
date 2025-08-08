@@ -25187,5 +25187,2706 @@
         "reverseHoloAvg30": 0.0
       }
     }
+  },
+  {
+    "id": "sv2-promo-12",
+    "name": "Sprigatito  (PAL 012) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Gather Sunlight",
+        "damage": "",
+        "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Grass"
+        ],
+        "name": "Seed Bomb",
+        "damage": "10",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "12",
+    "artist": "Megumi Mizutani",
+    "rarity": "Promo",
+    "flavorText": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+    "nationalPokedexNumbers": [
+      906
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/12.png",
+      "large": "https://images.pokemontcg.io/sv2/12_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-12",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.17,
+          "high": 4.95,
+          "market": 0.14,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.02,
+          "mid": 0.13,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Sprigatito-V3-PAL012",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 49.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-13",
+    "name": "Sprigatito  (PAL 013) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Dig Claws",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "13",
+    "artist": "Naoyo Kimura",
+    "rarity": "Promo",
+    "flavorText": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+    "nationalPokedexNumbers": [
+      906
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/13.png",
+      "large": "https://images.pokemontcg.io/sv2/13_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-13",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.11,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Sprigatito-V2-PAL013",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-34",
+    "name": "Fuecoco  (PAL 034) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fire"
+        ],
+        "name": "Tackle",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "34",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
+    "nationalPokedexNumbers": [
+      909
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/34.png",
+      "large": "https://images.pokemontcg.io/sv2/34_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-34",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.06,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.14,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Fuecoco-V2-PAL034",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-43",
+    "name": "Gyarados  (PAL 043) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "180",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Magikarp",
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Revengeful Storm",
+        "damage": "80+",
+        "text": "If you have more Prize cards remaining than your opponent, this attack does 100 more damage.",
+        "convertedEnergyCost": 3
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Berserker Tackle",
+        "damage": "200",
+        "text": "This Pokémon also does 50 damage to itself.",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "43",
+    "artist": "Yuya Oka",
+    "rarity": "Promo",
+    "flavorText": "Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.",
+    "nationalPokedexNumbers": [
+      130
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/43.png",
+      "large": "https://images.pokemontcg.io/sv2/43_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-43",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.19,
+          "directLow": 0.16
+        },
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.23,
+          "directLow": 0.16
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Gyarados-V2-PAL043",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-50",
+    "name": "Quaxly  (PAL 050) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Reckless Charge",
+        "damage": "30",
+        "text": "This Pokémon also does 10 damage to itself.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "50",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "flavorText": "This Pokémon migrated to Paldea from distant lands long ago. The gel secreted by its feathers repels water and grime.",
+    "nationalPokedexNumbers": [
+      912
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/50.png",
+      "large": "https://images.pokemontcg.io/sv2/50_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-50",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.12,
+          "directLow": 0.08
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Quaxly-V2-PAL050",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-53",
+    "name": "Cetoddle  (PAL 053) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "name": "Avalanche",
+        "damage": "30",
+        "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "53",
+    "artist": "Sekio",
+    "rarity": "Promo",
+    "flavorText": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.",
+    "nationalPokedexNumbers": [
+      974
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/53.png",
+      "large": "https://images.pokemontcg.io/sv2/53_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-53",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.16,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Cetoddle-V2-PAL053",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-58",
+    "name": "Frigibax  (PAL 058) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water"
+        ],
+        "name": "Chilly",
+        "damage": "10",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Bite",
+        "damage": "50",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "58",
+    "artist": "AKIRA EGAWA",
+    "rarity": "Promo",
+    "flavorText": "Frigibax absorbs heat through its dorsal fin and converts the heat into ice energy. The higher the temperature, the more energy Frigibax stores.",
+    "nationalPokedexNumbers": [
+      996
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/58.png",
+      "large": "https://images.pokemontcg.io/sv2/58_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-58",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 4.95,
+          "market": 0.12,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.14,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Frigibax-V2-PAL058",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-60",
+    "name": "Baxcalibur  (PAL 060) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Arctibax",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Super Cold",
+        "text": "As often as you like during your turn, you may attach a Basic Water Energy card from your hand to 1 of your Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "name": "Buster Tail",
+        "damage": "130",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "60",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "flavorText": "This Pokémon blasts cryogenic air out from its mouth. This air can instantly freeze even liquid-hot lava.",
+    "nationalPokedexNumbers": [
+      998
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/60.png",
+      "large": "https://images.pokemontcg.io/sv2/60_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-60",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.03,
+          "mid": 0.21,
+          "high": 4.95,
+          "market": 0.18,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.23,
+          "directLow": 0.18
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Baxcalibur-V4-PAL060",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-61",
+    "name": "Chien-Pao ex  (PAL 061) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "220",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Shivery Chill",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may search your deck for up to 2 Basic Water Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "name": "Hail Blade",
+        "damage": "60×",
+        "text": "You may discard any amount of Water Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "61",
+    "artist": "aky CG Works",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      1002
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/61.png",
+      "large": "https://images.pokemontcg.io/sv2/61_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-61",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.3,
+          "mid": 1.0,
+          "high": 13.95,
+          "market": 0.8,
+          "directLow": 0.5
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Chien-Pao-ex-V6-PAL061",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.79,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-62",
+    "name": "Pikachu  (PAL 062) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Growl",
+        "damage": "",
+        "text": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance).",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Pika Bolt",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "62",
+    "artist": "OKACHEKE",
+    "rarity": "Promo",
+    "flavorText": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/62.png",
+      "large": "https://images.pokemontcg.io/sv2/62_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-62",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 5.0,
+          "market": 0.17,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.14,
+          "high": 4.95,
+          "market": 0.06,
+          "directLow": 0.02
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Pikachu-V2-PAL062",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 179.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-63",
+    "name": "Pikachu ex  (PAL 063) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "ex"
+    ],
+    "hp": "190",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Pika Punch",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "name": "Dynamic Bolt",
+        "damage": "220",
+        "text": "Flip a coin. If tails, discard all Energy from this Pokémon.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "63",
+    "artist": "N-DESIGN Inc.",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/63.png",
+      "large": "https://images.pokemontcg.io/sv2/63_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-63",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.7,
+          "mid": 1.99,
+          "high": 9.99,
+          "market": 1.98,
+          "directLow": 1.57
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Pikachu-ex-V2-PAL063",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-71",
+    "name": "Luxray  (PAL 071) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Luxio",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Swelling Flash",
+        "text": "Once during your turn, if this Pokémon is in your hand and you have more Prize cards remaining than your opponent, you may put this Pokémon onto your Bench."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Wild Charge",
+        "damage": "180",
+        "text": "This Pokémon also does 20 damage to itself.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "71",
+    "artist": "aoki",
+    "rarity": "Promo",
+    "flavorText": "It can see clearly through walls to track down its prey and seek its lost young.",
+    "nationalPokedexNumbers": [
+      405
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/71.png",
+      "large": "https://images.pokemontcg.io/sv2/71_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-71",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.19,
+          "high": 4.95,
+          "market": 0.14,
+          "directLow": 0.11
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.19,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Luxray-V2-PAL071",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-74",
+    "name": "Pawmi  (PAL 074) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Static Shock",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "74",
+    "artist": "sowsow",
+    "rarity": "Promo",
+    "flavorText": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
+    "nationalPokedexNumbers": [
+      921
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/74.png",
+      "large": "https://images.pokemontcg.io/sv2/74_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-74",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.1,
+          "directLow": 0.09
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Pawmi-V2-PAL074",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-75",
+    "name": "Pawmo  (PAL 075) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Pawmi",
+    "attacks": [
+      {
+        "cost": [
+          "Lightning"
+        ],
+        "name": "Static Shock",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "name": "Electrobullet",
+        "damage": "50",
+        "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "75",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Promo",
+    "flavorText": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
+    "nationalPokedexNumbers": [
+      922
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/75.png",
+      "large": "https://images.pokemontcg.io/sv2/75_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-75",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 25.0,
+          "market": 0.16,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Pawmo-V2-PAL075",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-98",
+    "name": "Ceruledge  (PAL 098) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "140",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Charcadet",
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Life Sucker",
+        "damage": "50",
+        "text": "Heal 30 damage from this Pokémon.",
+        "convertedEnergyCost": 2
+      },
+      {
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Fighting Sword",
+        "damage": "100+",
+        "text": "If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 100 more damage.",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "98",
+    "artist": "Ryota Murayama",
+    "rarity": "Promo",
+    "flavorText": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
+    "nationalPokedexNumbers": [
+      937
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/98.png",
+      "large": "https://images.pokemontcg.io/sv2/98_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-98",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 4.95,
+          "market": 0.16,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Ceruledge-V2-PAL098",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-105",
+    "name": "Tinkaton  (PAL 105) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "140",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Tinkatuff",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Gather Materials",
+        "text": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 3 cards."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "name": "Special Hammer",
+        "damage": "90+",
+        "text": "If this Pokémon has any Special Energy attached, this attack does 90 more damage.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "105",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "This intelligent Pokémon has a very daring disposition. It knocks rocks into the sky with its hammer, aiming for flying Corviknight.",
+    "nationalPokedexNumbers": [
+      959
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/105.png",
+      "large": "https://images.pokemontcg.io/sv2/105_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-105",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.18,
+          "high": 5.48,
+          "market": 0.11,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.21,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Tinkaton-V3-PAL105",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-106",
+    "name": "Mankey  (PAL 106) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Low Kick",
+        "damage": "10",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Hang Down",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "106",
+    "artist": "kurumitsu",
+    "rarity": "Promo",
+    "flavorText": "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
+    "nationalPokedexNumbers": [
+      56
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/106.png",
+      "large": "https://images.pokemontcg.io/sv2/106_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-106",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.03
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.1,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Mankey-V2-PAL106",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-107",
+    "name": "Primeape  (PAL 107) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Mankey",
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Low Kick",
+        "damage": "30",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "name": "Pummel",
+        "damage": "60+",
+        "text": "Flip a coin. If heads, this attack does 60 more damage.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "107",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "flavorText": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+    "nationalPokedexNumbers": [
+      57
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/107.png",
+      "large": "https://images.pokemontcg.io/sv2/107_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-107",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.06,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.14,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Primeape-V2-PAL107",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-116",
+    "name": "Rockruff  (PAL 116) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Rock Throw",
+        "damage": "10",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Bite",
+        "damage": "40",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "116",
+    "artist": "0313",
+    "rarity": "Promo",
+    "flavorText": "This Pokémon is very friendly when it's young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
+    "nationalPokedexNumbers": [
+      744
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/116.png",
+      "large": "https://images.pokemontcg.io/sv2/116_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-116",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.06,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.11,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Rockruff-V2-PAL116",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-123",
+    "name": "Garganacl  (PAL 123) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "180",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Naclstack",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Blessed Salt",
+        "text": "During Pokémon Checkup, heal 20 damage from each of your Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "name": "Knocking Hammer",
+        "damage": "130",
+        "text": "Discard the top card of your opponent's deck.",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "123",
+    "artist": "Anesaki Dynamic",
+    "rarity": "Promo",
+    "flavorText": "Garganacl will rub its fingertips together and sprinkle injured Pokémon with salt. Even severe wounds will promptly heal afterward.",
+    "nationalPokedexNumbers": [
+      934
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/123.png",
+      "large": "https://images.pokemontcg.io/sv2/123_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-123",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.1,
+          "directLow": 0.08
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.21,
+          "high": 4.95,
+          "market": 0.18,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Garganacl-V2-PAL123",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-126",
+    "name": "Glimmora  (PAL 126) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "130",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Glimmet",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Shattering Crystal",
+        "text": "When this Pokémon is Knocked Out, flip a coin. If heads, your opponent can't take any Prize cards for it."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Fighting"
+        ],
+        "name": "Poison Petals",
+        "damage": "",
+        "text": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 6 damage counters on that Pokémon instead of 1.",
+        "convertedEnergyCost": 1
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "126",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "flavorText": "When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
+    "nationalPokedexNumbers": [
+      970
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/126.png",
+      "large": "https://images.pokemontcg.io/sv2/126_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-126",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.2,
+          "high": 13.0,
+          "market": 0.18,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.15,
+          "directLow": 0.08
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Glimmora-V2-PAL126",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-140",
+    "name": "Hydreigon  (PAL 140) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "180",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Zweilous",
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Tri Howl",
+        "text": "Once during your turn, you may look at the top 3 cards of your deck and attach any number of Energy cards you find there to your Pokémon in any way you like. Discard the other cards."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "name": "Dark Cutter",
+        "damage": "160",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "140",
+    "artist": "Teeziro",
+    "rarity": "Promo",
+    "flavorText": "Only the central head has a brain. It is very intelligent, but it thinks only of destruction.",
+    "nationalPokedexNumbers": [
+      635
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/140.png",
+      "large": "https://images.pokemontcg.io/sv2/140_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-140",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.18,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 5.13,
+          "market": 0.11,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Hydreigon-V2-PAL140",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-142",
+    "name": "Maschiff  (PAL 142) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Smash Kick",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 2
+      },
+      {
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Sharp Fang",
+        "damage": "50",
+        "text": "",
+        "convertedEnergyCost": 3
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "142",
+    "artist": "Shibuzoh.",
+    "rarity": "Promo",
+    "flavorText": "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff's face.",
+    "nationalPokedexNumbers": [
+      942
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/142.png",
+      "large": "https://images.pokemontcg.io/sv2/142_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-142",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.06,
+          "directLow": 0.02
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.11,
+          "directLow": 0.12
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Maschiff-V2-PAL142",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-151",
+    "name": "Orthworm  (PAL 151) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Metal"
+    ],
+    "abilities": [
+      {
+        "type": "Ability",
+        "name": "Nutritional Iron",
+        "text": "If this Pokémon has 3 or more Metal Energy attached, it gets +100 HP."
+      }
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Shoot Through",
+        "damage": "100",
+        "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+        "convertedEnergyCost": 4
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "151",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Promo",
+    "flavorText": "When attacked, this Pokémon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
+    "nationalPokedexNumbers": [
+      968
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/151.png",
+      "large": "https://images.pokemontcg.io/sv2/151_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-151",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.16,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": 0.08
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Orthworm-V3-PAL151",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-167",
+    "name": "Tandemaus  (PAL 167) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "40",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "cost": [
+          "Colorless"
+        ],
+        "name": "Attach",
+        "damage": "10",
+        "text": "",
+        "convertedEnergyCost": 1
+      },
+      {
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "name": "Smash Kick",
+        "damage": "20",
+        "text": "",
+        "convertedEnergyCost": 2
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "167",
+    "artist": "Sekio",
+    "rarity": "Promo",
+    "flavorText": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
+    "nationalPokedexNumbers": [
+      924
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/167.png",
+      "large": "https://images.pokemontcg.io/sv2/167_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-167",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.07,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.02,
+          "mid": 0.14,
+          "high": 4.95,
+          "market": 0.11,
+          "directLow": 0.03
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Tandemaus-V2-PAL167",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv2-promo-185",
+    "name": "Iono (PAL 185) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "series": "Scarlet & Violet",
+      "printedTotal": 193,
+      "total": 279,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/06/09",
+      "updatedAt": "2023/06/09 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv2/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv2/logo.png"
+      }
+    },
+    "number": "185",
+    "artist": "Sanosuke Sakuma",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv2/185.png",
+      "large": "https://images.pokemontcg.io/sv2/185_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv2-185",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.15,
+          "mid": 0.39,
+          "high": 29.0,
+          "market": 0.37,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.19,
+          "mid": 0.73,
+          "high": 7.99,
+          "market": 0.54,
+          "directLow": 0.44
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Iono-V4-PAL185",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

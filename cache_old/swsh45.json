@@ -2,7 +2,7 @@
   {
     "id": "swsh45-1",
     "name": "Yanma",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -37,7 +37,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -101,31 +101,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-1",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Yanma",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.14,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.15,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.15,
-        "reverseHoloAvg7": 0.18,
-        "reverseHoloAvg30": 0.12
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-2",
     "name": "Yanmega",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -152,13 +139,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "120",
-        "text": "This Pok\u00e9mon also does 30 damage to itself."
+        "text": "This Pokémon also does 30 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -183,7 +170,7 @@
     "number": "2",
     "artist": "Souichirou Gunjima",
     "rarity": "Rare",
-    "flavorText": "This six-legged Pok\u00e9mon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
+    "flavorText": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
     "nationalPokedexNumbers": [
       469
     ],
@@ -218,31 +205,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-2",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Yanmega",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.16,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.21,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.06,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.2,
-        "reverseHoloAvg30": 0.24
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-3",
     "name": "Celebi",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -253,7 +227,7 @@
     "abilities": [
       {
         "name": "Woodland Stroll",
-        "text": "Once during your turn, if this Pok\u00e9mon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Energy card you find there, and put it into your hand. Shuffle the other cards back into your deck.",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Energy card you find there, and put it into your hand. Shuffle the other cards back into your deck.",
         "type": "Ability"
       }
     ],
@@ -273,7 +247,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -337,31 +311,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-3",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Celebi-SHF3",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.32,
-        "reverseHoloLow": 0.11,
-        "reverseHoloTrend": 0.33,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.1,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 0.19,
-        "reverseHoloAvg7": 0.37,
-        "reverseHoloAvg30": 0.34
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "swsh45-4",
     "name": "Cacnea",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -387,7 +348,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -452,31 +413,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-4",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Cacnea",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.13,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.18,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.06,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.05,
-        "reverseHoloAvg7": 0.14,
-        "reverseHoloAvg30": 0.15
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-5",
     "name": "Tropius",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -492,7 +440,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Attach up to 2 Grass Energy cards from your discard pile to your Benched Pok\u00e9mon in any way you like."
+        "text": "Attach up to 2 Grass Energy cards from your discard pile to your Benched Pokémon in any way you like."
       },
       {
         "name": "Gust",
@@ -508,7 +456,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -572,31 +520,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-5",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Tropius-SHF5",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.15,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.15,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.15,
-        "reverseHoloAvg30": 0.13
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-6",
     "name": "Rowlet",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -610,7 +545,7 @@
     "abilities": [
       {
         "name": "Sky Circus",
-        "text": "If you played Bird Keeper from your hand during this turn, ignore all Energy in this Pok\u00e9mon's attack costs.",
+        "text": "If you played Bird Keeper from your hand during this turn, ignore all Energy in this Pokémon's attack costs.",
         "type": "Ability"
       }
     ],
@@ -624,13 +559,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "This attack does 60 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -693,31 +628,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-6",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Rowlet-SHF6",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.11,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.02,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.09,
-        "reverseHoloAvg7": 0.11,
-        "reverseHoloAvg30": 0.09
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-7",
     "name": "Dartrix",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -743,7 +665,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -806,31 +728,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-7",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Dartrix",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.13,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.14,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.15,
-        "reverseHoloAvg30": 0.16
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-8",
     "name": "Decidueye",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -842,7 +751,7 @@
     "abilities": [
       {
         "name": "Deep Forest Camo",
-        "text": "Prevent all damage done to this Pok\u00e9mon by attacks from your opponent's Pok\u00e9mon V and Pok\u00e9mon-GX.",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon V and Pokémon-GX.",
         "type": "Ability"
       }
     ],
@@ -855,13 +764,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "90",
-        "text": "This attack also does 20 damage to 2 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack also does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -925,31 +834,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-8",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Decidueye-SHF8",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.29,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.38,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.17,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.8,
-        "reverseHoloAvg7": 0.32,
-        "reverseHoloAvg30": 0.28
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-9",
     "name": "Dhelmise V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -959,7 +855,7 @@
       "Grass"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -969,7 +865,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30+",
-        "text": "If any of your Grass Pok\u00e9mon were Knocked Out by damage from an opponent's attack during their last turn, this attack does 90 more damage."
+        "text": "If any of your Grass Pokémon were Knocked Out by damage from an opponent's attack during their last turn, this attack does 90 more damage."
       },
       {
         "name": "Giga Hammer",
@@ -980,13 +876,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "200",
-        "text": "During your next turn, this Pok\u00e9mon can't use Giga Hammer."
+        "text": "During your next turn, this Pokémon can't use Giga Hammer."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1042,31 +938,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-9",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Dhelmise-V",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.71,
         "lowPrice": 0.17,
-        "trendPrice": 0.61,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.95,
-        "lowPriceExPlus": 0.19,
-        "avg1": 0.44,
-        "avg7": 0.58,
-        "avg30": 0.7,
-        "reverseHoloAvg1": 0.89,
-        "reverseHoloAvg7": 0.94,
-        "reverseHoloAvg30": 1.15
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-10",
     "name": "Dhelmise VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -1076,7 +959,7 @@
     ],
     "evolvesFrom": "Dhelmise V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -1086,7 +969,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 30 damage to 1 of your opponent's Pok\u00e9mon for each Grass Energy attached to this Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 30 damage to 1 of your opponent's Pokémon for each Grass Energy attached to this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Max Anchor",
@@ -1097,13 +980,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "240",
-        "text": "During your next turn, this Pok\u00e9mon can't use Max Anchor."
+        "text": "During your next turn, this Pokémon can't use Max Anchor."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1160,31 +1043,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-10",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Dhelmise-VMAX",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.38,
         "lowPrice": 0.5,
-        "trendPrice": 1.35,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.57,
-        "lowPriceExPlus": 0.7,
-        "avg1": 0.94,
-        "avg7": 1.35,
-        "avg30": 1.36,
-        "reverseHoloAvg1": 2.63,
-        "reverseHoloAvg7": 2.59,
-        "reverseHoloAvg30": 2.97
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-11",
     "name": "Grookey",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1202,14 +1072,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 3 coins. This attack does 10 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1272,31 +1142,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-11",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Grookey",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.16,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.18,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.03,
-        "reverseHoloAvg7": 0.13,
-        "reverseHoloAvg30": 0.15
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-12",
     "name": "Thwackey",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1311,13 +1168,13 @@
     "abilities": [
       {
         "name": "Lay of the Land",
-        "text": "If you have a Stadium in play, this Pok\u00e9mon has no Retreat Cost.",
+        "text": "If you have a Stadium in play, this Pokémon has no Retreat Cost.",
         "type": "Ability"
       }
     ],
     "attacks": [
       {
-        "name": "Branch Pok\u00e9",
+        "name": "Branch Poké",
         "cost": [
           "Grass"
         ],
@@ -1329,7 +1186,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1393,31 +1250,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-12",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Thwackey-SHF12",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.16,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.15,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.02,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.02,
-        "reverseHoloAvg7": 0.14,
-        "reverseHoloAvg30": 0.16
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-13",
     "name": "Rillaboom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -1429,7 +1273,7 @@
     "abilities": [
       {
         "name": "Voltage Beat",
-        "text": "Once during your turn, you may search your deck for up to 2 Grass Energy cards and attach them to 1 of your Pok\u00e9mon. Then, shuffle your deck.",
+        "text": "Once during your turn, you may search your deck for up to 2 Grass Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck.",
         "type": "Ability"
       }
     ],
@@ -1450,7 +1294,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1515,31 +1359,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-13",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Rillaboom-SHF13",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.2,
         "lowPrice": 0.02,
-        "trendPrice": 0.27,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.31,
-        "reverseHoloLow": 0.04,
-        "reverseHoloTrend": 0.38,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.8,
-        "avg7": 0.25,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 0.08,
-        "reverseHoloAvg7": 0.29,
-        "reverseHoloAvg30": 0.27
+        "reverseHoloLow": 0.04
       }
     }
   },
   {
     "id": "swsh45-14",
     "name": "Gossifleur",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1564,7 +1395,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1593,7 +1424,7 @@
     "number": "14",
     "artist": "Yukiko Baba",
     "rarity": "Common",
-    "flavorText": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pok\u00e9mon.",
+    "flavorText": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
     "nationalPokedexNumbers": [
       829
     ],
@@ -1628,31 +1459,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-14",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Gossifleur",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.12,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.02,
-        "reverseHoloAvg7": 0.09,
-        "reverseHoloAvg30": 0.11
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-15",
     "name": "Eldegoss",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1669,7 +1487,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal all damage from 1 of your Benched Pok\u00e9mon."
+        "text": "Heal all damage from 1 of your Benched Pokémon."
       },
       {
         "name": "Surprise Attack",
@@ -1684,7 +1502,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1713,7 +1531,7 @@
     "number": "15",
     "artist": "kodama",
     "rarity": "Uncommon",
-    "flavorText": "The cotton on the head of this Pok\u00e9mon can be spun into a glossy, gorgeous yarn\u2014a Galar regional specialty.",
+    "flavorText": "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty.",
     "nationalPokedexNumbers": [
       830
     ],
@@ -1748,31 +1566,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-15",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Eldegoss-SHF15",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.1,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.09,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.04,
-        "reverseHoloAvg7": 0.08,
-        "reverseHoloAvg30": 0.12
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-16",
     "name": "Zarude",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1789,7 +1594,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       },
       {
         "name": "Jungle Blast",
@@ -1806,7 +1611,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1871,31 +1676,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-16",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Zarude-SHF16",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.22,
-        "reverseHoloLow": 0.04,
-        "reverseHoloTrend": 0.25,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.05,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.12,
-        "reverseHoloAvg7": 0.2,
-        "reverseHoloAvg30": 0.25
+        "reverseHoloLow": 0.04
       }
     }
   },
   {
     "id": "swsh45-17",
     "name": "Reshiram",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1913,13 +1705,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "270",
-        "text": "This Pok\u00e9mon also does 60 damage to itself."
+        "text": "This Pokémon also does 60 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1977,31 +1769,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-17",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Reshiram",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.88,
         "lowPrice": 0.5,
-        "trendPrice": 1.64,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 6.54,
-        "lowPriceExPlus": 0.5,
-        "avg1": 1.44,
-        "avg7": 1.63,
-        "avg30": 1.92,
-        "reverseHoloAvg1": 6.57,
-        "reverseHoloAvg7": 7.14,
-        "reverseHoloAvg30": 7.92
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-18",
     "name": "Cinderace V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -2011,12 +1790,12 @@
       "Fire"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Field Runner",
-        "text": "If a Stadium is in play, this Pok\u00e9mon has no Retreat Cost.",
+        "text": "If a Stadium is in play, this Pokémon has no Retreat Cost.",
         "type": "Ability"
       }
     ],
@@ -2036,7 +1815,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2092,31 +1871,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-18",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Cinderace-V-SHF18",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.84,
         "lowPrice": 0.25,
-        "trendPrice": 0.76,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.21,
-        "lowPriceExPlus": 0.25,
-        "avg1": 0.61,
-        "avg7": 0.74,
-        "avg30": 0.85,
-        "reverseHoloAvg1": 1.03,
-        "reverseHoloAvg7": 1.1,
-        "reverseHoloAvg30": 1.21
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-19",
     "name": "Cinderace VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -2126,7 +1892,7 @@
     ],
     "evolvesFrom": "Cinderace V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -2137,7 +1903,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "If this Pok\u00e9mon was damaged by an attack during your opponent's last turn, this attack does that much more damage."
+        "text": "If this Pokémon was damaged by an attack during your opponent's last turn, this attack does that much more damage."
       },
       {
         "name": "Max Pyro Ball",
@@ -2148,13 +1914,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "170",
-        "text": "Your opponent's Active Pok\u00e9mon is now Burned."
+        "text": "Your opponent's Active Pokémon is now Burned."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2210,31 +1976,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-19",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Cinderace-VMAX",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.9,
-        "lowPrice": 0.89,
-        "trendPrice": 2.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.52,
-        "lowPriceExPlus": 0.89,
-        "avg1": 1.25,
-        "avg7": 1.85,
-        "avg30": 1.81,
-        "reverseHoloAvg1": 2.94,
-        "reverseHoloAvg7": 3.36,
-        "reverseHoloAvg30": 3.79
+        "lowPrice": 0.8,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-20",
     "name": "Horsea",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2259,7 +2012,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -2319,31 +2072,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-20",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Horsea-SHF20",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.13,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.02,
-        "reverseHoloAvg7": 0.13,
-        "reverseHoloAvg30": 0.14
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-21",
     "name": "Kyogre",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2362,13 +2102,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "",
-        "text": "This attack does 80 damage to each of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 80 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2426,31 +2166,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-21",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Kyogre",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.01,
         "lowPrice": 0.5,
-        "trendPrice": 2.2,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 6.73,
-        "lowPriceExPlus": 0.95,
-        "avg1": 2.37,
-        "avg7": 1.89,
-        "avg30": 2.01,
-        "reverseHoloAvg1": 7.14,
-        "reverseHoloAvg7": 7.71,
-        "reverseHoloAvg30": 8.67
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-22",
     "name": "Buizel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2475,7 +2202,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2539,31 +2266,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-22",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Buizel",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.15,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.11,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.15,
-        "reverseHoloAvg30": 0.14
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-23",
     "name": "Floatzel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2586,7 +2300,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2650,31 +2364,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-23",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Floatzel",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.14,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.14,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.02,
-        "reverseHoloAvg7": 0.11,
-        "reverseHoloAvg30": 0.14
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-24",
     "name": "Manaphy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2685,7 +2386,7 @@
     "abilities": [
       {
         "name": "Ocean Search",
-        "text": "Once during your turn, if this Pok\u00e9mon is in the Active Spot, you may look at the top 6 cards of your deck, reveal a Pok\u00e9mon you find there, and put it into your hand. Shuffle the other cards back into your deck.",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal a Pokémon you find there, and put it into your hand. Shuffle the other cards back into your deck.",
         "type": "Ability"
       }
     ],
@@ -2704,7 +2405,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2733,7 +2434,7 @@
     "number": "24",
     "artist": "Narumi Sato",
     "rarity": "Rare",
-    "flavorText": "It starts its life with a wondrous power that permits it to bond with any kind of Pok\u00e9mon.",
+    "flavorText": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
     "nationalPokedexNumbers": [
       490
     ],
@@ -2768,31 +2469,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-24",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Manaphy-SHF24",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.18,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.15,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.1,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.19,
-        "reverseHoloAvg7": 0.13,
-        "reverseHoloAvg30": 0.26
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "swsh45-25",
     "name": "Volcanion",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2820,14 +2508,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 4,
-        "damage": "120\u00d7",
+        "damage": "120×",
         "text": "Flip 2 coins. This attack does 120 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2893,31 +2581,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-25",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Volcanion",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.17,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.17,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.06,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.14,
-        "reverseHoloAvg30": 0.17
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-26",
     "name": "Chewtle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2952,7 +2627,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2982,7 +2657,7 @@
     "number": "26",
     "artist": "sowsow",
     "rarity": "Common",
-    "flavorText": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pok\u00e9mon bites down and never lets go.",
+    "flavorText": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go.",
     "nationalPokedexNumbers": [
       833
     ],
@@ -3017,31 +2692,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-26",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Chewtle",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.14,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.11,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.02,
-        "reverseHoloAvg7": 0.1,
-        "reverseHoloAvg30": 0.1
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-27",
     "name": "Drednaw",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3053,7 +2715,7 @@
     "abilities": [
       {
         "name": "Exoskeleton",
-        "text": "This Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+        "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -3073,7 +2735,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3104,7 +2766,7 @@
     "number": "27",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare",
-    "flavorText": "This Pok\u00e9mon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
+    "flavorText": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
     "nationalPokedexNumbers": [
       834
     ],
@@ -3139,31 +2801,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-27",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Drednaw-SHF27",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.16,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.15,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.07,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.12,
-        "reverseHoloAvg30": 0.16
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-28",
     "name": "Cramorant",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3180,13 +2829,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "This attack does 50 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 50 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3215,7 +2864,7 @@
     "number": "28",
     "artist": "HYOGONOSUKE",
     "rarity": "Uncommon",
-    "flavorText": "This hungry Pok\u00e9mon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pok\u00e9mon other than its preferred prey.",
+    "flavorText": "This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.",
     "nationalPokedexNumbers": [
       845
     ],
@@ -3250,31 +2899,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-28",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Cramorant-SHF28",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.24,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.18,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.06,
-        "reverseHoloAvg7": 0.09,
-        "reverseHoloAvg30": 0.2
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-29",
     "name": "Snom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3293,13 +2929,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a Basic Pok\u00e9mon and put it onto your Bench. Then, shuffle your deck."
+        "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3363,31 +2999,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-29",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Snom",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.13,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.13,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.03,
-        "reverseHoloAvg7": 0.11,
-        "reverseHoloAvg30": 0.15
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-30",
     "name": "Frosmoth",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3399,7 +3022,7 @@
     "abilities": [
       {
         "name": "Ice Dance",
-        "text": "As often as you like during your turn, you may attach a Water Energy card from your hand to 1 of your Benched Water Pok\u00e9mon.",
+        "text": "As often as you like during your turn, you may attach a Water Energy card from your hand to 1 of your Benched Water Pokémon.",
         "type": "Ability"
       }
     ],
@@ -3418,7 +3041,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3482,31 +3105,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-30",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Frosmoth-SHF30",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.28,
         "lowPrice": 0.02,
-        "trendPrice": 0.33,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.35,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.51,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.55,
-        "avg7": 0.37,
-        "avg30": 0.23,
-        "reverseHoloAvg1": 0.49,
-        "reverseHoloAvg7": 0.47,
-        "reverseHoloAvg30": 0.29
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-31",
     "name": "Shinx",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3531,7 +3141,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3594,31 +3204,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-31",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Shinx",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.12,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.1,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.03,
-        "reverseHoloAvg7": 0.1,
-        "reverseHoloAvg30": 0.14
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-32",
     "name": "Luxio",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3633,7 +3230,7 @@
     "abilities": [
       {
         "name": "Top Entry",
-        "text": "Once during your turn, if you drew this Pok\u00e9mon from your deck at the beginning of your turn and your Bench isn't full, before you put it into your hand, you may put it onto your Bench.",
+        "text": "Once during your turn, if you drew this Pokémon from your deck at the beginning of your turn and your Bench isn't full, before you put it into your hand, you may put it onto your Bench.",
         "type": "Ability"
       }
     ],
@@ -3651,7 +3248,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3714,31 +3311,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-32",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Luxio-SHF32",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.13,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.12,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.18,
-        "reverseHoloAvg30": 0.17
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "swsh45-33",
     "name": "Luxray",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -3755,7 +3339,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "60+",
-        "text": "If this Pok\u00e9mon evolved from Luxio during this turn, this attack does 100 more damage."
+        "text": "If this Pokémon evolved from Luxio during this turn, this attack does 100 more damage."
       },
       {
         "name": "Head Bolt",
@@ -3771,7 +3355,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3834,31 +3418,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-33",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Luxray",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.22,
         "lowPrice": 0.02,
-        "trendPrice": 0.43,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.25,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.2,
-        "lowPriceExPlus": 0.02,
-        "avg1": 2.0,
-        "avg7": 0.41,
-        "avg30": 0.24,
-        "reverseHoloAvg1": 0.21,
-        "reverseHoloAvg7": 0.19,
-        "reverseHoloAvg30": 0.28
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "swsh45-34",
     "name": "Rotom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3869,7 +3440,7 @@
     "abilities": [
       {
         "name": "Roto Choice",
-        "text": "When you play this Pok\u00e9mon from your hand onto your Bench during your turn, you may search your deck for up to 2 Item cards that have the word \"Rotom\" in their name, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for up to 2 Item cards that have the word \"Rotom\" in their name, reveal them, and put them into your hand. Then, shuffle your deck.",
         "type": "Ability"
       }
     ],
@@ -3882,13 +3453,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3951,31 +3522,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-34",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Rotom-SHF34",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.14,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.11,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.06,
-        "reverseHoloAvg7": 0.12,
-        "reverseHoloAvg30": 0.14
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-35",
     "name": "Morpeko",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4001,13 +3559,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4036,7 +3594,7 @@
     "number": "35",
     "artist": "Saya Tsuruta",
     "rarity": "Common",
-    "flavorText": "As it eats the seeds stored up in its pocket-like pouches, this Pok\u00e9mon is not just satisfying its constant hunger. It's also generating electricity.",
+    "flavorText": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.",
     "nationalPokedexNumbers": [
       877
     ],
@@ -4070,31 +3628,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-35",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Morpeko",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.15,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.12,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.16,
-        "avg7": 0.06,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.13,
-        "reverseHoloAvg7": 0.17,
-        "reverseHoloAvg30": 0.18
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-36",
     "name": "Morpeko",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4120,13 +3665,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4155,7 +3700,7 @@
     "number": "36",
     "artist": "Hideki Ishikawa",
     "rarity": "Common",
-    "flavorText": "As it eats the seeds stored up in its pocket-like pouches, this Pok\u00e9mon is not just satisfying its constant hunger. It's also generating electricity.",
+    "flavorText": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.",
     "nationalPokedexNumbers": [
       877
     ],
@@ -4189,31 +3734,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-36",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Morpeko-V2",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.15,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.18,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.05,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.03,
-        "reverseHoloAvg7": 0.14,
-        "reverseHoloAvg30": 0.14
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-37",
     "name": "Morpeko V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -4223,7 +3755,7 @@
       "Lightning"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -4233,7 +3765,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Electro Wheel",
@@ -4244,13 +3776,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "150",
-        "text": "Discard an Energy from this Pok\u00e9mon. If you do, switch it with 1 of your Benched Pok\u00e9mon."
+        "text": "Discard an Energy from this Pokémon. If you do, switch it with 1 of your Benched Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4306,31 +3838,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-37",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Morpeko-V",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.89,
         "lowPrice": 0.15,
-        "trendPrice": 1.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.05,
-        "lowPriceExPlus": 0.19,
-        "avg1": 0.8,
-        "avg7": 0.93,
-        "avg30": 0.87,
-        "reverseHoloAvg1": 1.26,
-        "reverseHoloAvg7": 1.09,
-        "reverseHoloAvg30": 1.16
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-38",
     "name": "Morpeko VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -4340,7 +3859,7 @@
     ],
     "evolvesFrom": "Morpeko V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -4352,13 +3871,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "180",
-        "text": "This attack also does 20 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack also does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4413,31 +3932,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-38",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Morpeko-VMAX",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.08,
-        "lowPrice": 1.0,
-        "trendPrice": 2.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.08,
-        "lowPriceExPlus": 1.0,
-        "avg1": 1.0,
-        "avg7": 1.8,
-        "avg30": 2.01,
-        "reverseHoloAvg1": 3.16,
-        "reverseHoloAvg7": 3.19,
-        "reverseHoloAvg30": 3.45
+        "lowPrice": 1.2,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-39",
     "name": "Indeedee V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -4447,12 +3953,12 @@
       "Psychic"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Watch Over",
-        "text": "Once during your turn, you may heal 20 damage from your Active Pok\u00e9mon.",
+        "text": "Once during your turn, you may heal 20 damage from your Active Pokémon.",
         "type": "Ability"
       }
     ],
@@ -4466,13 +3972,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "10+",
-        "text": "This attack does 60 more damage for each Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "This attack does 60 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4534,31 +4040,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-39",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Indeedee-V-V1-SHF39",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.76,
         "lowPrice": 0.2,
-        "trendPrice": 0.74,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.98,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.99,
-        "avg7": 0.94,
-        "avg30": 0.8,
-        "reverseHoloAvg1": 1.12,
-        "reverseHoloAvg7": 1.07,
-        "reverseHoloAvg30": 1.06
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-40",
     "name": "Trapinch",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4583,7 +4076,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4646,31 +4139,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-40",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Trapinch",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.13,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.15,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.02,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.06,
-        "reverseHoloAvg7": 0.15,
-        "reverseHoloAvg30": 0.11
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-41",
     "name": "Koffing",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4689,13 +4169,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a card that evolves from this Pok\u00e9mon and put it onto this Pok\u00e9mon to evolve it. Then, shuffle your deck."
+        "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4758,31 +4238,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-41",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Koffing",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.11,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.09,
-        "reverseHoloAvg30": 0.14
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-42",
     "name": "Galarian Weezing",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4794,7 +4261,7 @@
     "abilities": [
       {
         "name": "Neutralizing Gas",
-        "text": "As long as this Pok\u00e9mon is in the Active Spot, your opponent's Pok\u00e9mon in play have no Abilities, except for Neutralizing Gas.",
+        "text": "As long as this Pokémon is in the Active Spot, your opponent's Pokémon in play have no Abilities, except for Neutralizing Gas.",
         "type": "Ability"
       }
     ],
@@ -4806,13 +4273,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned. Put 4 damage counters instead of 1 on that Pok\u00e9mon during Pok\u00e9mon Checkup."
+        "text": "Your opponent's Active Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon during Pokémon Checkup."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4843,7 +4310,7 @@
     "number": "42",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
-    "flavorText": "This Pok\u00e9mon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
+    "flavorText": "This Pokémon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
     "nationalPokedexNumbers": [
       110
     ],
@@ -4877,31 +4344,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-42",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Galarian-Weezing-SHF42",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.24,
         "lowPrice": 0.02,
-        "trendPrice": 0.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.25,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.3,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.3,
-        "avg7": 0.22,
-        "avg30": 0.25,
-        "reverseHoloAvg1": 0.26,
-        "reverseHoloAvg7": 0.27,
-        "reverseHoloAvg30": 0.26
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "swsh45-43",
     "name": "Spinarak",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4936,7 +4390,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4999,31 +4453,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-43",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Spinarak",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.1,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.02,
-        "reverseHoloAvg7": 0.08,
-        "reverseHoloAvg30": 0.1
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-44",
     "name": "Crobat V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -5033,12 +4474,12 @@
       "Darkness"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Dark Asset",
-        "text": "When you play this Pok\u00e9mon from your hand onto your Bench during your turn, you may draw cards until you have 6 cards in your hand. You can't use more than 1 Dark Asset Ability each turn.",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may draw cards until you have 6 cards in your hand. You can't use more than 1 Dark Asset Ability each turn.",
         "type": "Ability"
       }
     ],
@@ -5051,13 +4492,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "70",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5112,31 +4553,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-44",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Crobat-V-SHF44",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.95,
         "lowPrice": 0.2,
-        "trendPrice": 0.83,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.01,
-        "lowPriceExPlus": 0.3,
-        "avg1": 0.45,
-        "avg7": 0.82,
-        "avg30": 0.92,
-        "reverseHoloAvg1": 3.58,
-        "reverseHoloAvg7": 3.16,
-        "reverseHoloAvg30": 3.12
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-45",
     "name": "Crobat VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -5146,7 +4574,7 @@
     ],
     "evolvesFrom": "Crobat V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -5157,7 +4585,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "70",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned. Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon."
+        "text": "Your opponent's Active Pokémon is now Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
       },
       {
         "name": "Max Cutter",
@@ -5174,7 +4602,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5229,31 +4657,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-45",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Crobat-VMAX",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.42,
         "lowPrice": 0.5,
-        "trendPrice": 1.46,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.84,
-        "lowPriceExPlus": 0.65,
-        "avg1": 1.5,
-        "avg7": 1.29,
-        "avg30": 1.44,
-        "reverseHoloAvg1": 2.42,
-        "reverseHoloAvg7": 3.11,
-        "reverseHoloAvg30": 3.57
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-46",
     "name": "Yveltal",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5273,13 +4688,13 @@
         ],
         "convertedEnergyCost": 5,
         "damage": "",
-        "text": "Your opponent's Active Pok\u00e9mon is Knocked Out."
+        "text": "Your opponent's Active Pokémon is Knocked Out."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5342,31 +4757,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-46",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Yveltal-SHF46",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.71,
         "lowPrice": 0.49,
-        "trendPrice": 2.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.55,
-        "lowPriceExPlus": 0.5,
-        "avg1": 2.5,
-        "avg7": 1.64,
-        "avg30": 1.71,
-        "reverseHoloAvg1": 5.38,
-        "reverseHoloAvg7": 6.06,
-        "reverseHoloAvg30": 6.78
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-47",
     "name": "Nickit",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5391,7 +4793,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5420,7 +4822,7 @@
     "number": "47",
     "artist": "kirisAki",
     "rarity": "Common",
-    "flavorText": "Aided by the soft pads on its feet, it silently raids the food stores of other Pok\u00e9mon. It survives off its ill-gotten gains.",
+    "flavorText": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
     "nationalPokedexNumbers": [
       827
     ],
@@ -5454,31 +4856,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-47",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Nickit",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.15,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.15,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.14,
-        "reverseHoloAvg30": 0.16
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-48",
     "name": "Thievul",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5495,7 +4884,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for up to 3 Basic Pok\u00e9mon and put them onto your Bench. Then, shuffle your deck."
+        "text": "Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
       },
       {
         "name": "Corner",
@@ -5506,13 +4895,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5575,31 +4964,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-48",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Thievul",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.16,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.24,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.14,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 0.55,
-        "reverseHoloAvg7": 0.28,
-        "reverseHoloAvg30": 0.2
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "swsh45-49",
     "name": "Cufant",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5626,7 +5002,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5697,31 +5073,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-49",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Cufant",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.09,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.02,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.02,
-        "reverseHoloAvg7": 0.08,
-        "reverseHoloAvg30": 0.1
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-50",
     "name": "Ditto V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -5731,12 +5094,12 @@
       "Colorless"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "V Transformation",
-        "text": "Once during your turn, you may choose a Basic Pok\u00e9mon V from your discard pile and switch it with this Pok\u00e9mon. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pok\u00e9mon.",
+        "text": "Once during your turn, you may choose a Basic Pokémon V from your discard pile and switch it with this Pokémon. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.",
         "type": "Ability"
       }
     ],
@@ -5748,13 +5111,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Attach a basic Energy card from your discard pile to this Pok\u00e9mon."
+        "text": "Attach a basic Energy card from your discard pile to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5810,31 +5173,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-50",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Ditto-V-SHF50",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.01,
         "lowPrice": 0.3,
-        "trendPrice": 0.94,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.09,
-        "lowPriceExPlus": 0.4,
-        "avg1": 1.0,
-        "avg7": 0.97,
-        "avg30": 0.99,
-        "reverseHoloAvg1": 1.49,
-        "reverseHoloAvg7": 1.14,
-        "reverseHoloAvg30": 1.24
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-51",
     "name": "Ditto VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -5844,7 +5194,7 @@
     ],
     "evolvesFrom": "Ditto V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -5856,13 +5206,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks and use it as this attack."
+        "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5919,31 +5269,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-51",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Ditto-VMAX",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.07,
-        "lowPrice": 0.94,
-        "trendPrice": 2.39,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.94,
-        "lowPriceExPlus": 0.94,
-        "avg1": 2.41,
-        "avg7": 2.26,
-        "avg30": 2.07,
-        "reverseHoloAvg1": 2.5,
-        "reverseHoloAvg7": 3.03,
-        "reverseHoloAvg30": 3.34
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-52",
     "name": "Eevee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5985,7 +5322,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6048,31 +5385,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-52",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Eevee",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.28,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.28,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.08,
-        "reverseHoloAvg7": 0.17,
-        "reverseHoloAvg30": 0.26
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "swsh45-53",
     "name": "Greedent V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -6082,7 +5406,7 @@
       "Colorless"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -6093,7 +5417,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "Discard an Energy from your opponent's Active Pok\u00e9mon."
+        "text": "Discard an Energy from your opponent's Active Pokémon."
       },
       {
         "name": "Stumbling Press",
@@ -6110,7 +5434,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6166,31 +5490,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-53",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Greedent-V-SHF53",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.72,
-        "lowPrice": 0.18,
-        "trendPrice": 0.81,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.93,
-        "lowPriceExPlus": 0.18,
-        "avg1": 0.3,
-        "avg7": 0.79,
-        "avg30": 0.71,
-        "reverseHoloAvg1": 0.87,
-        "reverseHoloAvg7": 0.96,
-        "reverseHoloAvg30": 1.13
+        "lowPrice": 0.19,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-54",
     "name": "Cramorant V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -6200,7 +5511,7 @@
       "Colorless"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -6221,13 +5532,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "Discard all Energy from this Pok\u00e9mon. This attack does 160 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "Discard all Energy from this Pokémon. This attack does 160 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6288,31 +5599,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-54",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Cramorant-V",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.87,
-        "lowPrice": 0.15,
-        "trendPrice": 0.82,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.14,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.66,
-        "avg7": 0.77,
-        "avg30": 0.84,
-        "reverseHoloAvg1": 1.15,
-        "reverseHoloAvg7": 1.09,
-        "reverseHoloAvg30": 1.2
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-55",
     "name": "Cramorant VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -6322,7 +5620,7 @@
     ],
     "evolvesFrom": "Cramorant V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -6333,14 +5631,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "80\u00d7",
-        "text": "Flip a coin for each Energy attached to this Pok\u00e9mon. This attack does 80 damage for each heads."
+        "damage": "80×",
+        "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 80 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6402,31 +5700,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-55",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Cramorant-VMAX-SHF55",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.32,
-        "lowPrice": 0.85,
-        "trendPrice": 1.33,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.58,
-        "lowPriceExPlus": 0.85,
-        "avg1": 1.38,
-        "avg7": 1.34,
-        "avg30": 1.37,
-        "reverseHoloAvg1": 2.45,
-        "reverseHoloAvg7": 2.63,
-        "reverseHoloAvg30": 2.91
+        "lowPrice": 0.7,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-56",
     "name": "Indeedee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6442,7 +5727,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a basic Energy card and attach it to 1 of your Benched Pok\u00e9mon. Then, shuffle your deck."
+        "text": "Search your deck for a basic Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck."
       },
       {
         "name": "Psychic",
@@ -6452,13 +5737,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6521,24 +5806,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-56",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Indeedee",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.18,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.18,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.09,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.18,
-        "reverseHoloAvg7": 0.17,
-        "reverseHoloAvg30": 0.18
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6605,24 +5877,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-57",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Ball-Guy",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.19,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.13,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.05,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.15,
-        "reverseHoloAvg7": 0.25,
-        "reverseHoloAvg30": 0.2
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6634,7 +5893,7 @@
       "Supporter"
     ],
     "rules": [
-      "Switch 1 of your opponent's Benched Pok\u00e9mon with their Active Pok\u00e9mon.",
+      "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -6690,24 +5949,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-58",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Bosss-Orders-Lysandre-SHF58",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.24,
         "lowPrice": 0.02,
-        "trendPrice": 0.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.34,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.34,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.33,
-        "avg7": 0.26,
-        "avg30": 0.24,
-        "reverseHoloAvg1": 0.16,
-        "reverseHoloAvg7": 0.32,
-        "reverseHoloAvg30": 0.39
+        "reverseHoloLow": 0.07
       }
     }
   },
@@ -6719,7 +5965,7 @@
       "Supporter"
     ],
     "rules": [
-      "Draw 2 cards. If any of your Pok\u00e9mon were Knocked Out during your opponent's last turn, draw 2 more cards.",
+      "Draw 2 cards. If any of your Pokémon were Knocked Out during your opponent's last turn, draw 2 more cards.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -6774,24 +6020,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-59",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Gym-Trainer",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.19,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.16,
-        "reverseHoloAvg30": 0.16
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6859,24 +6092,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-60",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Professors-Research-Professor-Juniper-V1-SHF60",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.15,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.17,
-        "avg7": 0.16,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6885,10 +6105,10 @@
     "name": "Rusted Shield",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
       "The Zamazenta V this card is attached to gets +70 HP.",
       "You may play any number of Item cards during your turn."
     ],
@@ -6944,24 +6164,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-61",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Rusted-Shield",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.09,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.05,
-        "reverseHoloAvg7": 0.11,
-        "reverseHoloAvg30": 0.1
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6970,11 +6177,11 @@
     "name": "Rusted Sword",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached.",
-      "The attacks of the Zacian V this card is attached to do 30 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance).",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+      "The attacks of the Zacian V this card is attached to do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
       "You may play any number of Item cards during your turn."
     ],
     "set": {
@@ -7029,24 +6236,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-62",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Rusted-Sword",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.06,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.02,
-        "reverseHoloAvg7": 0.06,
-        "reverseHoloAvg30": 0.09
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -7058,7 +6252,7 @@
       "Item"
     ],
     "rules": [
-      "Heal 50 damage from both Active Pok\u00e9mon.",
+      "Heal 50 damage from both Active Pokémon.",
       "You may play any number of Item cards during your turn."
     ],
     "set": {
@@ -7113,31 +6307,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-63",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Team-Yell-Towel-SHF63",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.12,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.05,
-        "reverseHoloAvg7": 0.12,
-        "reverseHoloAvg30": 0.09
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh45-64",
     "name": "Alcremie V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -7147,7 +6328,7 @@
       "Psychic"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -7157,7 +6338,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 30 damage from each of your Benched Pok\u00e9mon."
+        "text": "Heal 30 damage from each of your Benched Pokémon."
       },
       {
         "name": "Sweet Splash",
@@ -7168,13 +6349,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "If the Defending Pok\u00e9mon is a Basic Pok\u00e9mon, it can't attack during your opponent's next turn."
+        "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7230,24 +6411,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-64",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Alcremie-V",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.23,
         "lowPrice": 0.08,
-        "trendPrice": 2.25,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.14,
-        "lowPriceExPlus": 1.5,
-        "avg1": 2.17,
-        "avg7": 2.3,
-        "avg30": 2.22,
-        "reverseHoloAvg1": 7.49,
-        "reverseHoloAvg7": 5.73,
-        "reverseHoloAvg30": 6.02
+        "reverseHoloLow": null
       }
     }
   },
@@ -7307,24 +6475,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-65",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Ball-Guy-V2",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.42,
-        "lowPrice": 0.99,
-        "trendPrice": 3.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 8.51,
-        "lowPriceExPlus": 0.99,
-        "avg1": 2.55,
-        "avg7": 3.13,
-        "avg30": 2.49,
-        "reverseHoloAvg1": 9.98,
-        "reverseHoloAvg7": 9.13,
-        "reverseHoloAvg30": 9.26
+        "lowPrice": 0.95,
+        "reverseHoloLow": null
       }
     }
   },
@@ -7336,7 +6491,7 @@
       "Supporter"
     ],
     "rules": [
-      "Switch your Active Pok\u00e9mon with 1 of your Benched Pok\u00e9mon. If you do, draw 3 cards.",
+      "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, draw 3 cards.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -7384,24 +6539,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-66",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Bird-Keeper",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.71,
-        "lowPrice": 1.5,
-        "trendPrice": 2.72,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 8.48,
-        "lowPriceExPlus": 1.5,
-        "avg1": 2.95,
-        "avg7": 2.77,
-        "avg30": 2.74,
-        "reverseHoloAvg1": 8.49,
-        "reverseHoloAvg7": 8.75,
-        "reverseHoloAvg30": 9.63
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
       }
     }
   },
@@ -7461,24 +6603,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-67",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Cara-Liss",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.04,
         "lowPrice": 0.95,
-        "trendPrice": 2.53,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 7.27,
-        "lowPriceExPlus": 0.95,
-        "avg1": 1.5,
-        "avg7": 2.66,
-        "avg30": 2.04,
-        "reverseHoloAvg1": 7.63,
-        "reverseHoloAvg7": 7.85,
-        "reverseHoloAvg30": 8.85
+        "reverseHoloLow": null
       }
     }
   },
@@ -7490,7 +6619,7 @@
       "Supporter"
     ],
     "rules": [
-      "Draw 2 cards. If any of your Pok\u00e9mon were Knocked Out during your opponent's last turn, draw 2 more cards.",
+      "Draw 2 cards. If any of your Pokémon were Knocked Out during your opponent's last turn, draw 2 more cards.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -7538,24 +6667,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-68",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Gym-Trainer-V2",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.45,
-        "lowPrice": 0.95,
-        "trendPrice": 1.45,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.9,
-        "lowPriceExPlus": 0.95,
-        "avg1": 1.0,
-        "avg7": 1.8,
-        "avg30": 1.63,
-        "reverseHoloAvg1": 5.75,
-        "reverseHoloAvg7": 6.37,
-        "reverseHoloAvg30": 7.57
+        "lowPrice": 0.85,
+        "reverseHoloLow": null
       }
     }
   },
@@ -7567,7 +6683,7 @@
       "Supporter"
     ],
     "rules": [
-      "Search your deck for an Energy card and a Darkness Pok\u00e9mon, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "Search your deck for an Energy card and a Darkness Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -7615,36 +6731,23 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-69",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Piers",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.66,
-        "lowPrice": 1.5,
-        "trendPrice": 2.59,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 9.29,
-        "lowPriceExPlus": 1.5,
-        "avg1": 2.49,
-        "avg7": 2.52,
-        "avg30": 2.52,
-        "reverseHoloAvg1": 9.12,
-        "reverseHoloAvg7": 9.54,
-        "reverseHoloAvg30": 10.48
+        "lowPrice": 1.43,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-70",
-    "name": "Pok\u00e9 Kid",
+    "name": "Poké Kid",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
     ],
     "rules": [
-      "Search your deck for a Pok\u00e9mon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -7692,24 +6795,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-70",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Poke-Kid",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.99,
-        "lowPrice": 2.0,
-        "trendPrice": 8.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 13.78,
-        "lowPriceExPlus": 3.0,
-        "avg1": 5.9,
-        "avg7": 8.41,
-        "avg30": 6.69,
-        "reverseHoloAvg1": 16.33,
-        "reverseHoloAvg7": 14.71,
-        "reverseHoloAvg30": 17.38
+        "lowPrice": 2.48,
+        "reverseHoloLow": null
       }
     }
   },
@@ -7721,7 +6811,7 @@
       "Supporter"
     ],
     "rules": [
-      "Attach up to 2 basic Energy cards from your discard pile to 1 of your Pok\u00e9mon VMAX. If you attached any Energy cards in this way, discard your hand.",
+      "Attach up to 2 basic Energy cards from your discard pile to 1 of your Pokémon VMAX. If you attached any Energy cards in this way, discard your hand.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -7769,24 +6859,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-71",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Rose",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.52,
         "lowPrice": 0.5,
-        "trendPrice": 1.72,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 8.41,
-        "lowPriceExPlus": 0.5,
-        "avg1": 3.45,
-        "avg7": 1.63,
-        "avg30": 1.55,
-        "reverseHoloAvg1": 7.86,
-        "reverseHoloAvg7": 8.95,
-        "reverseHoloAvg30": 9.89
+        "reverseHoloLow": null
       }
     }
   },
@@ -7846,31 +6923,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-72",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Skyla",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 12.48,
-        "lowPrice": 7.83,
-        "trendPrice": 13.86,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 27.35,
-        "lowPriceExPlus": 7.83,
-        "avg1": 11.5,
-        "avg7": 13.33,
-        "avg30": 12.38,
-        "reverseHoloAvg1": 32.88,
-        "reverseHoloAvg7": 29.55,
-        "reverseHoloAvg30": 29.73
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh45-73",
     "name": "Alcremie VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -7880,7 +6944,7 @@
     ],
     "evolvesFrom": "Alcremie V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -7890,7 +6954,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "For each of your Benched Pok\u00e9mon, search your deck for a Psychic Energy card and attach it to that Pok\u00e9mon. Then, shuffle your deck."
+        "text": "For each of your Benched Pokémon, search your deck for a Psychic Energy card and attach it to that Pokémon. Then, shuffle your deck."
       },
       {
         "name": "G-Max Whisk",
@@ -7899,14 +6963,14 @@
           "Psychic"
         ],
         "convertedEnergyCost": 2,
-        "damage": "60\u00d7",
-        "text": "Discard any amount of Energy from your Pok\u00e9mon. This attack does 60 damage for each card you discarded in this way."
+        "damage": "60×",
+        "text": "Discard any amount of Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7963,24 +7027,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh45-73",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Alcremie-VMAX",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.4,
-        "lowPrice": 1.49,
-        "trendPrice": 2.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.73,
-        "lowPriceExPlus": 1.49,
-        "avg1": 2.04,
-        "avg7": 2.29,
-        "avg30": 2.35,
-        "reverseHoloAvg1": 4.1,
-        "reverseHoloAvg7": 4.02,
-        "reverseHoloAvg30": 4.37
+        "lowPrice": 1.25,
+        "reverseHoloLow": null
       }
     }
   }

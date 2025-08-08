@@ -62,6 +62,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/1.png",
       "large": "https://images.pokemontcg.io/base3/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Aerodactyl-V1-FO1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -125,6 +133,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/2.png",
       "large": "https://images.pokemontcg.io/base3/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Articuno-V1-FO2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -175,6 +191,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/3.png",
       "large": "https://images.pokemontcg.io/base3/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Ditto-V1-FO3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -234,6 +258,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/4.png",
       "large": "https://images.pokemontcg.io/base3/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Dragonite-V1-FO4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 24.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -292,6 +324,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/5.png",
       "large": "https://images.pokemontcg.io/base3/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Gengar-V1-FO5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -348,6 +388,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/6.png",
       "large": "https://images.pokemontcg.io/base3/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Haunter-V1-FO6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -408,6 +456,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/7.png",
       "large": "https://images.pokemontcg.io/base3/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Hitmonlee-V1-FO7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.85,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -469,6 +525,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/8.png",
       "large": "https://images.pokemontcg.io/base3/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Hypno-V1-FO8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -531,6 +595,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/9.png",
       "large": "https://images.pokemontcg.io/base3/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Kabutops-V1-FO9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -590,6 +662,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/10.png",
       "large": "https://images.pokemontcg.io/base3/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Lapras-V1-FO10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -656,6 +736,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/11.png",
       "large": "https://images.pokemontcg.io/base3/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Magneton-V1-FO11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -717,6 +805,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/12.png",
       "large": "https://images.pokemontcg.io/base3/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Moltres-V1-FO12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -776,6 +872,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/13.png",
       "large": "https://images.pokemontcg.io/base3/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Muk-V1-FO13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -828,6 +932,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/14.png",
       "large": "https://images.pokemontcg.io/base3/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Raichu-V1-FO14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -880,6 +992,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/15.png",
       "large": "https://images.pokemontcg.io/base3/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Zapdos-V1-FO15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -945,6 +1065,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/16.png",
       "large": "https://images.pokemontcg.io/base3/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Aerodactyl-V2-FO16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1008,6 +1136,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/17.png",
       "large": "https://images.pokemontcg.io/base3/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Articuno-V2-FO17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.85,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1058,6 +1194,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/18.png",
       "large": "https://images.pokemontcg.io/base3/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Ditto-V2-FO18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1117,6 +1261,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/19.png",
       "large": "https://images.pokemontcg.io/base3/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Dragonite-V2-FO19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1175,6 +1327,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/20.png",
       "large": "https://images.pokemontcg.io/base3/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Gengar-V2-FO20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1231,6 +1391,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/21.png",
       "large": "https://images.pokemontcg.io/base3/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Haunter-V2-FO21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.09,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1291,6 +1459,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/22.png",
       "large": "https://images.pokemontcg.io/base3/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Hitmonlee-V2-FO22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1352,6 +1528,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/23.png",
       "large": "https://images.pokemontcg.io/base3/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Hypno-V2-FO23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.79,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1414,6 +1598,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/24.png",
       "large": "https://images.pokemontcg.io/base3/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Kabutops-V2-FO24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1473,6 +1665,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/25.png",
       "large": "https://images.pokemontcg.io/base3/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Lapras-V2-FO25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.89,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1539,6 +1739,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/26.png",
       "large": "https://images.pokemontcg.io/base3/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Magneton-V2-FO26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1600,6 +1808,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/27.png",
       "large": "https://images.pokemontcg.io/base3/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Moltres-V2-FO27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1659,6 +1875,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/28.png",
       "large": "https://images.pokemontcg.io/base3/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Muk-V2-FO28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1711,6 +1935,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/29.png",
       "large": "https://images.pokemontcg.io/base3/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Raichu-V2-FO29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1763,6 +1995,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/30.png",
       "large": "https://images.pokemontcg.io/base3/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Zapdos-V2-FO30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1824,6 +2064,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/31.png",
       "large": "https://images.pokemontcg.io/base3/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Arbok-FO31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1885,6 +2133,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/32.png",
       "large": "https://images.pokemontcg.io/base3/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Cloyster-FO32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1942,6 +2198,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/33.png",
       "large": "https://images.pokemontcg.io/base3/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Gastly-FO33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2009,6 +2273,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/34.png",
       "large": "https://images.pokemontcg.io/base3/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Golbat-FO34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2069,6 +2341,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/35.png",
       "large": "https://images.pokemontcg.io/base3/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Golduck-FO35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2136,6 +2416,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/36.png",
       "large": "https://images.pokemontcg.io/base3/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Golem-FO36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2201,6 +2489,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/37.png",
       "large": "https://images.pokemontcg.io/base3/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Graveler-FO37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2263,6 +2559,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/38.png",
       "large": "https://images.pokemontcg.io/base3/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Kingler-FO38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2324,6 +2628,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/39.png",
       "large": "https://images.pokemontcg.io/base3/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Magmar-FO39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2384,6 +2696,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/40.png",
       "large": "https://images.pokemontcg.io/base3/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Omastar-FO40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2450,6 +2770,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/41.png",
       "large": "https://images.pokemontcg.io/base3/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Sandslash-FO41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2514,6 +2842,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/42.png",
       "large": "https://images.pokemontcg.io/base3/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Seadra-FO42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2571,6 +2907,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/43.png",
       "large": "https://images.pokemontcg.io/base3/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Slowbro-FO43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2626,6 +2970,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/44.png",
       "large": "https://images.pokemontcg.io/base3/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Tentacruel-FO44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2687,6 +3039,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/45.png",
       "large": "https://images.pokemontcg.io/base3/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Weezing-FO45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2748,6 +3108,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/46.png",
       "large": "https://images.pokemontcg.io/base3/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Ekans-FO46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2800,6 +3168,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/47.png",
       "large": "https://images.pokemontcg.io/base3/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Geodude-FO47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2860,6 +3236,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/48.png",
       "large": "https://images.pokemontcg.io/base3/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Grimer-FO48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2907,6 +3291,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/49.png",
       "large": "https://images.pokemontcg.io/base3/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Horsea-FO49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2966,6 +3358,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/50.png",
       "large": "https://images.pokemontcg.io/base3/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Kabuto-FO50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3028,6 +3428,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/51.png",
       "large": "https://images.pokemontcg.io/base3/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Krabby-FO51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3087,6 +3495,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/52.png",
       "large": "https://images.pokemontcg.io/base3/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Omanyte-FO52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3147,6 +3563,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/53.png",
       "large": "https://images.pokemontcg.io/base3/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Psyduck-FO53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3207,6 +3631,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/54.png",
       "large": "https://images.pokemontcg.io/base3/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Shellder-FO54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3269,6 +3701,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/55.png",
       "large": "https://images.pokemontcg.io/base3/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Slowpoke-FO55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3323,6 +3763,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/56.png",
       "large": "https://images.pokemontcg.io/base3/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Tentacool-FO56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3387,6 +3835,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/57.png",
       "large": "https://images.pokemontcg.io/base3/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Zubat-FO57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3405,6 +3861,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/58.png",
       "large": "https://images.pokemontcg.io/base3/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Mr-Fuji-FO58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3425,6 +3889,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/59.png",
       "large": "https://images.pokemontcg.io/base3/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Energy-Search-FO59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3443,6 +3915,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/60.png",
       "large": "https://images.pokemontcg.io/base3/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Gambler-FO60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3462,6 +3942,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/61.png",
       "large": "https://images.pokemontcg.io/base3/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Recycle-FO61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3481,6 +3969,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/62.png",
       "large": "https://images.pokemontcg.io/base3/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Mysterious-Fossil-FO62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

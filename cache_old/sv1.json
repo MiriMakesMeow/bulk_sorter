@@ -213,7 +213,15 @@
       "small": "https://images.pokemontcg.io/sv1/4.png",
       "large": "https://images.pokemontcg.io/sv1/4_hires.png"
     },
-    "flavorText": "It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores."
+    "flavorText": "It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Budew-PRE004",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
   },
   {
     "id": "sv1-5",
@@ -271,7 +279,15 @@
       "small": "https://images.pokemontcg.io/sv1/5.png",
       "large": "https://images.pokemontcg.io/sv1/5_hires.png"
     },
-    "flavorText": "It prefers harsh environments, such as deserts. It can survive for 30 days on water stored in its body."
+    "flavorText": "It prefers harsh environments, such as deserts. It can survive for 30 days on water stored in its body.",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Pikachu-V1-CEL005",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
   },
   {
     "id": "sv1-6",
@@ -572,7 +588,15 @@
       "small": "https://images.pokemontcg.io/sv1/10.png",
       "large": "https://images.pokemontcg.io/sv1/10_hires.png"
     },
-    "flavorText": "This Pokémon was born in a land where flowers bloom. It scatters colorful, toxic scales from its wings during battle."
+    "flavorText": "This Pokémon was born in a land where flowers bloom. It scatters colorful, toxic scales from its wings during battle.",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Shaymin-V1-DRI010",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
+    }
   },
   {
     "id": "sv1-11",
@@ -2581,7 +2605,15 @@
       "small": "https://images.pokemontcg.io/sv1/44.png",
       "large": "https://images.pokemontcg.io/sv1/44_hires.png"
     },
-    "flavorText": "An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet."
+    "flavorText": "An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet.",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Munkidori-PRE044",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
   },
   {
     "id": "sv1-45",
@@ -3005,7 +3037,15 @@
       "small": "https://images.pokemontcg.io/sv1/51.png",
       "large": "https://images.pokemontcg.io/sv1/51_hires.png"
     },
-    "flavorText": "It grinds its teeth with great force to stimulate its brain. It fires the psychic energy created by this process from the protuberance on its head."
+    "flavorText": "It grinds its teeth with great force to stimulate its brain. It fires the psychic energy created by this process from the protuberance on its head.",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Snorlax-V1-SVP051",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
   },
   {
     "id": "sv1-52",
@@ -3607,7 +3647,15 @@
       "small": "https://images.pokemontcg.io/sv1/61.png",
       "large": "https://images.pokemontcg.io/sv1/61_hires.png"
     },
-    "flavorText": "This Pokémon is a glutton, but it's bad at getting food. It teams up with a Tatsugiri to catch prey."
+    "flavorText": "This Pokémon is a glutton, but it's bad at getting food. It teams up with a Tatsugiri to catch prey.",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Night-Stretcher-SFA061",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
   },
   {
     "id": "sv1-62",
@@ -4742,7 +4790,15 @@
       "small": "https://images.pokemontcg.io/sv1/80.png",
       "large": "https://images.pokemontcg.io/sv1/80_hires.png"
     },
-    "flavorText": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful."
+    "flavorText": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Iono-V1-PAF080",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
   },
   {
     "id": "sv1-81",
@@ -5666,7 +5722,15 @@
       "small": "https://images.pokemontcg.io/sv1/95.png",
       "large": "https://images.pokemontcg.io/sv1/95_hires.png"
     },
-    "flavorText": "It's small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people's homes and charge itself."
+    "flavorText": "It's small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people's homes and charge itself.",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Twilight-Masquerade/Munkidori-V1-TWM095",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
   },
   {
     "id": "sv1-96",
@@ -6004,7 +6068,15 @@
       "small": "https://images.pokemontcg.io/sv1/101.png",
       "large": "https://images.pokemontcg.io/sv1/101_hires.png"
     },
-    "flavorText": "Flittle's toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon's belly."
+    "flavorText": "Flittle's toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokémon's belly.",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Buddy-Buddy-Poffin-PRE101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
   },
   {
     "id": "sv1-102",
@@ -6311,7 +6383,15 @@
       "small": "https://images.pokemontcg.io/sv1/106.png",
       "large": "https://images.pokemontcg.io/sv1/106_hires.png"
     },
-    "flavorText": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn't like anyone touching the protuberance atop its head."
+    "flavorText": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn't like anyone touching the protuberance atop its head.",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Earthen-Vessel-PRE106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
   },
   {
     "id": "sv1-107",
@@ -8117,7 +8197,15 @@
       "small": "https://images.pokemontcg.io/sv1/136.png",
       "large": "https://images.pokemontcg.io/sv1/136_hires.png"
     },
-    "flavorText": "Its well-developed jaw and fangs are strong enough to crunch through boulders, and its thick fat makes for an excellent defense."
+    "flavorText": "Its well-developed jaw and fangs are strong enough to crunch through boulders, and its thick fat makes for an excellent defense.",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Marnies-Grimmsnarl-ex-DRI136",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
   },
   {
     "id": "sv1-137",
@@ -9360,7 +9448,15 @@
       "small": "https://images.pokemontcg.io/sv1/156.png",
       "large": "https://images.pokemontcg.io/sv1/156_hires.png"
     },
-    "flavorText": "It searches for food all day. It possesses a keen sense of smell but doesn't use it for anything other than foraging."
+    "flavorText": "It searches for food all day. It possesses a keen sense of smell but doesn't use it for anything other than foraging.",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Air-Balloon-V1-SSH156",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
+    }
   },
   {
     "id": "sv1-157",
@@ -9592,7 +9688,15 @@
       "small": "https://images.pokemontcg.io/sv1/160.png",
       "large": "https://images.pokemontcg.io/sv1/160_hires.png"
     },
-    "flavorText": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together."
+    "flavorText": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Counter-Catcher-V1-PAR160",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.9
+      }
+    }
   },
   {
     "id": "sv1-161",
@@ -9919,6 +10023,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv1/166.png",
       "large": "https://images.pokemontcg.io/sv1/166_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Arven-V1-SVI166",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.25
+      }
     }
   },
   {
@@ -10294,6 +10406,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv1/181.png",
       "large": "https://images.pokemontcg.io/sv1/181_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Nest-Ball-V1-SVI181",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -10544,6 +10664,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv1/191.png",
       "large": "https://images.pokemontcg.io/sv1/191_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Luminous-Energy-PAL191",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13873,6 +14001,20 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv1/258.png",
       "large": "https://images.pokemontcg.io/sv1/258_hires.png"
+    }
+  },
+  {
+    "id": "sv1-promo-291",
+    "name": "Lucario VSTAR  (SWSH 291) (Promo)",
+    "rarity": "Promo",
+    "number": "291",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SWSH-Black-Star-Promos/Lucario-VSTAR-SWSH291",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

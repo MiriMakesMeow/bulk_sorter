@@ -1981,5 +1981,308 @@
         "reverseHoloLow": 24.99
       }
     }
+  },
+  {
+    "id": "dv1-promo-6",
+    "name": "Bagon  (DRV 6) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesTo": [
+      "Shelgon"
+    ],
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Dragon Claw",
+        "cost": [
+          "Fire",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "dv1",
+      "name": "Dragon Vault",
+      "series": "Black & White",
+      "printedTotal": 20,
+      "total": 21,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DRV",
+      "releaseDate": "2012/10/05",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dv1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dv1/logo.png"
+      }
+    },
+    "number": "6",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+    "nationalPokedexNumbers": [
+      371
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dv1/6.png",
+      "large": "https://images.pokemontcg.io/dv1/6_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dv1-6",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.6,
+          "mid": 1.06,
+          "high": 8.89,
+          "market": 1.06,
+          "directLow": 0.69
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Vault/Bagon-V2-DRV6",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dv1-promo-7",
+    "name": "Shelgon  (DRV 7) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Bagon",
+    "evolvesTo": [
+      "Salamence"
+    ],
+    "attacks": [
+      {
+        "name": "Knock Away",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 20 more damage."
+      },
+      {
+        "name": "Rollout",
+        "cost": [
+          "Fire",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "dv1",
+      "name": "Dragon Vault",
+      "series": "Black & White",
+      "printedTotal": 20,
+      "total": 21,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DRV",
+      "releaseDate": "2012/10/05",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dv1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dv1/logo.png"
+      }
+    },
+    "number": "7",
+    "artist": "Akira Komayama",
+    "rarity": "Promo",
+    "flavorText": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+    "nationalPokedexNumbers": [
+      372
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dv1/7.png",
+      "large": "https://images.pokemontcg.io/dv1/7_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dv1-7",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.5,
+          "mid": 1.43,
+          "high": 3.98,
+          "market": 1.43,
+          "directLow": 1.49
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Vault/Shelgon-V2-DRV7",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dv1-promo-8",
+    "name": "Salamence  (DRV 8) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "140",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Shelgon",
+    "abilities": [
+      {
+        "name": "Scornful Storm",
+        "text": "Once during your turn (before your attack), you may have your opponent discard cards from his or her hand until he or she has 4 cards left in his or her hand.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Shred",
+        "cost": [
+          "Fire",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "90",
+        "text": "This attack's damage isn't affected by any effects on the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "dv1",
+      "name": "Dragon Vault",
+      "series": "Black & White",
+      "printedTotal": 20,
+      "total": 21,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "DRV",
+      "releaseDate": "2012/10/05",
+      "updatedAt": "2019/01/28 16:44:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/dv1/symbol.png",
+        "logo": "https://images.pokemontcg.io/dv1/logo.png"
+      }
+    },
+    "number": "8",
+    "artist": "BERUBURI",
+    "rarity": "Promo",
+    "flavorText": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+    "nationalPokedexNumbers": [
+      373
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dv1/8.png",
+      "large": "https://images.pokemontcg.io/dv1/8_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/dv1-8",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 2.0,
+          "mid": 5.0,
+          "high": 89.0,
+          "market": 4.43,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dragon-Vault/Salamence-V2-DRV8",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 18.5,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

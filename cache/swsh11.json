@@ -21644,5 +21644,227 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "swsh11-promo-51",
+    "name": "Glastrier  (LOR 051) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Freeze Down",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+      },
+      {
+        "name": "Wild Tackle",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "51",
+    "artist": "Jiro Sasumo",
+    "rarity": "Promo",
+    "flavorText": "Glastrier emits intense cold from its hooves. It's also a belligerent Pokémon—anything it wants, it takes by force.",
+    "nationalPokedexNumbers": [
+      896
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/51.png",
+      "large": "https://images.pokemontcg.io/swsh11/51_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-51",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.1,
+          "mid": 0.28,
+          "high": 4.95,
+          "market": 0.27,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.28,
+          "high": 4.95,
+          "market": 0.28,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Glastrier-V2-LOR051",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh11-promo-76",
+    "name": "Hisuian Zoroark  (LOR 076) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Hisuian Zorua",
+    "attacks": [
+      {
+        "name": "Doom Curse",
+        "cost": [],
+        "convertedEnergyCost": 0,
+        "damage": "",
+        "text": "At the end of your opponent's next turn, the Defending Pokémon will be Knocked Out."
+      },
+      {
+        "name": "Call Back",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Put a card from your discard pile into your hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "series": "Sword & Shield",
+      "printedTotal": 196,
+      "total": 217,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "LOR",
+      "releaseDate": "2022/09/09",
+      "updatedAt": "2022/09/09 13:45:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh11/logo.png"
+      }
+    },
+    "number": "76",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.",
+    "nationalPokedexNumbers": [
+      571
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh11/76.png",
+      "large": "https://images.pokemontcg.io/swsh11/76_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-76",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.09,
+          "mid": 0.3,
+          "high": 4.95,
+          "market": 0.27,
+          "directLow": 0.25
+        },
+        "holofoil": {
+          "low": 0.08,
+          "mid": 0.3,
+          "high": 4.95,
+          "market": 0.3,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Hisuian-Zoroark-V2-LOR076",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

@@ -9584,5 +9584,325 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "sv6pt5-promo-10",
+    "name": "Horsea  (SFA 010) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Seadra"
+    ],
+    "attacks": [
+      {
+        "name": "Hold Still",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Heal 30 damage from this Pokémon."
+      },
+      {
+        "name": "Razor Fin",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv6pt5",
+      "name": "Shrouded Fable",
+      "series": "Scarlet & Violet",
+      "printedTotal": 64,
+      "total": 99,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SFA",
+      "releaseDate": "2024/08/02",
+      "updatedAt": "2024/08/02 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6pt5/logo.png"
+      }
+    },
+    "number": "10",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      116
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6pt5/10.png",
+      "large": "https://images.pokemontcg.io/sv6pt5/10_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6pt5-10",
+      "updatedAt": "2025/07/24",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.12,
+          "directLow": 0.07
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.02
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Horsea-V3-SFA010",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv6pt5-promo-11",
+    "name": "Seadra  (SFA 011) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Horsea",
+    "evolvesTo": [
+      "Kingdra"
+    ],
+    "attacks": [
+      {
+        "name": "Call for Backup",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 3 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "Sharp Fin",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv6pt5",
+      "name": "Shrouded Fable",
+      "series": "Scarlet & Violet",
+      "printedTotal": 64,
+      "total": 99,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SFA",
+      "releaseDate": "2024/08/02",
+      "updatedAt": "2024/08/02 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6pt5/logo.png"
+      }
+    },
+    "number": "11",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      117
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6pt5/11.png",
+      "large": "https://images.pokemontcg.io/sv6pt5/11_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6pt5-11",
+      "updatedAt": "2025/07/24",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.11,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Seadra-V2-SFA011",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv6pt5-promo-12",
+    "name": "Kingdra ex  (SFA 012) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2",
+      "ex"
+    ],
+    "hp": "310",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Seadra",
+    "rules": [
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "King's Order",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Put up to 3 Water Pokémon from your discard pile onto your Bench."
+      },
+      {
+        "name": "Hydro Pump",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50+",
+        "text": "This attack does 50 more damage for each Water Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv6pt5",
+      "name": "Shrouded Fable",
+      "series": "Scarlet & Violet",
+      "printedTotal": 64,
+      "total": 99,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SFA",
+      "releaseDate": "2024/08/02",
+      "updatedAt": "2024/08/02 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv6pt5/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv6pt5/logo.png"
+      }
+    },
+    "number": "12",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      230
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv6pt5/12.png",
+      "large": "https://images.pokemontcg.io/sv6pt5/12_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv6pt5-12",
+      "updatedAt": "2025/07/24",
+      "prices": {
+        "holofoil": {
+          "low": 0.25,
+          "mid": 0.67,
+          "high": 6.0,
+          "market": 0.55,
+          "directLow": 0.47
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Kingdra-ex-V3-SFA012",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

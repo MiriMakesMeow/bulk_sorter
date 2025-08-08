@@ -8745,5 +8745,204 @@
       "small": "https://images.pokemontcg.io/pl1/SH6.png",
       "large": "https://images.pokemontcg.io/pl1/SH6_hires.png"
     }
+  },
+  {
+    "id": "pl1-promo-7",
+    "name": "Dialga [G] Lv.79  (PL 7) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "SP"
+    ],
+    "level": "79",
+    "hp": "100",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Deafen",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "Your opponent can't play any Trainer cards or Stadium cards from his or her hand during your opponent's next turn."
+      },
+      {
+        "name": "Second Strike",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50+",
+        "text": "If the Defending Pokémon already has 2 or more damage counters on it, this attack does 50 damage plus 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "7",
+    "artist": "Yusuke Ishikawa",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      483
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl1/7.png",
+      "large": "https://images.pokemontcg.io/pl1/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Dialga-G-Lv79-V2-PL7",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl1-promo-53",
+    "name": "Lucario Lv.42  (PL 53) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "42",
+    "hp": "90",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Riolu",
+    "attacks": [
+      {
+        "name": "Aura Sphere",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Do the Wave",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "Does 20 damage plus 10 more damage for each of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "+20"
+      }
+    ],
+    "number": "53",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.",
+    "nationalPokedexNumbers": [
+      448
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl1/53.png",
+      "large": "https://images.pokemontcg.io/pl1/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Lucario-Lv42-V2-PL53",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 33.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl1-promo-104",
+    "name": "Broken Time-Space (PL 104) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.",
+      "Each player may evolve a Pokémon that he or she just played or evolved during that turn."
+    ],
+    "number": "104",
+    "artist": "Kent Kanetsuna",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl1/104.png",
+      "large": "https://images.pokemontcg.io/pl1/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/Broken-Time-Space-V2-PL104",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl1-promo-112",
+    "name": "PlusPower (PL 112) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Attach PlusPower to 1 of your Pokémon. Discard this card at the end of your turn.",
+      "If the Pokémon PlusPower is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance)."
+    ],
+    "number": "112",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl1/112.png",
+      "large": "https://images.pokemontcg.io/pl1/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Platinum/PlusPower-V2-PL112",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 15.59,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

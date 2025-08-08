@@ -25055,5 +25055,1892 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "sv4-promo-26",
+    "name": "Charcadet  (PAR 026) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Fiery Fighting Spirit",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a Basic Fire Energy card and attach it to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Knuckle Punch",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "26",
+    "artist": "Mizue",
+    "rarity": "Promo",
+    "flavorText": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
+    "nationalPokedexNumbers": [
+      935
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/26.png",
+      "large": "https://images.pokemontcg.io/sv4/26_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-26",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": 0.08
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Charcadet-V2-PAR026",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-28",
+    "name": "Iron Moth  (PAR 028) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Future"
+    ],
+    "hp": "130",
+    "types": [
+      "Fire"
+    ],
+    "abilities": [
+      {
+        "name": "Thermal Reactor",
+        "text": "Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may move any amount of Fire Energy from your other Pokémon to it.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Heat Ray",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "During your next turn, this Pokémon can't use Heat Ray."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "28",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "No records exist of this species being caught. Data is lacking, but the Pokémon's traits match up with an object described in an old book.",
+    "nationalPokedexNumbers": [
+      994
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/28.png",
+      "large": "https://images.pokemontcg.io/sv4/28_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-28",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.07,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Moth-V3-PAR028",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-32",
+    "name": "Kingdra  (PAR 032) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Seadra",
+    "attacks": [
+      {
+        "name": "Whirltide",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Reveal the top 6 cards of your deck. This attack does 60 damage to 1 of your opponent's Pokémon for each Energy card you find there. Then, discard those Energy cards and shuffle the other cards back into your deck. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Hydro Splash",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "32",
+    "artist": "Tonji Matsuno",
+    "rarity": "Promo",
+    "flavorText": "Scales shed by this Pokémon have such a splendorous gleam to them that they've been given to royalty as gifts.",
+    "nationalPokedexNumbers": [
+      230
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/32.png",
+      "large": "https://images.pokemontcg.io/sv4/32_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-32",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.16,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.23,
+          "high": 4.95,
+          "market": 0.21,
+          "directLow": 0.18
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Kingdra-V2-PAR032",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-37",
+    "name": "Snorunt  (PAR 037) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Glalie",
+      "Froslass"
+    ],
+    "attacks": [
+      {
+        "name": "Ice Shard",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "If your opponent's Active Pokémon is a Fighting Pokémon, this attack does 30 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "37",
+    "artist": "satoma",
+    "rarity": "Promo",
+    "flavorText": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+    "nationalPokedexNumbers": [
+      361
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/37.png",
+      "large": "https://images.pokemontcg.io/sv4/37_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-37",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.11,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.04,
+          "mid": 0.17,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Snorunt-V3-PAR037",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-45",
+    "name": "Vanilluxe  (PAR 045) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Vanillish",
+    "abilities": [
+      {
+        "name": "Frigid Room",
+        "text": "Your opponent's Pokémon that have 40 HP or less remaining can't attack.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Icicle Missile",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "110",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "45",
+    "artist": "Nelnal",
+    "rarity": "Promo",
+    "flavorText": "People believe this Pokémon formed when two Vanillish stuck together. Its body temperature is roughly 21 degrees Fahrenheit.",
+    "nationalPokedexNumbers": [
+      584
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/45.png",
+      "large": "https://images.pokemontcg.io/sv4/45_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-45",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": 0.04
+        },
+        "reverseHolofoil": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.18,
+          "directLow": 0.18
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Vanilluxe-V2-PAR045",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-57",
+    "name": "Chien-Pao  (PAR 057) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Snow Bringer",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach up to 2 Basic Water Energy cards from your discard pile to 1 of your Pokémon."
+      },
+      {
+        "name": "Wrathful Blade",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "57",
+    "artist": "Anesaki Dynamic",
+    "rarity": "Promo",
+    "flavorText": "The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon.",
+    "nationalPokedexNumbers": [
+      1002
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/57.png",
+      "large": "https://images.pokemontcg.io/sv4/57_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-57",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.06,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.16,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.99,
+          "market": 0.12,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Chien-Pao-V2-PAR057",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-66",
+    "name": "Zekrom  (PAR 066) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Crushing Short",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
+      },
+      {
+        "name": "Raging Thunder",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "This attack also does 40 damage to 1 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "66",
+    "artist": "Shiburingaru",
+    "rarity": "Promo",
+    "flavorText": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+    "nationalPokedexNumbers": [
+      644
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/66.png",
+      "large": "https://images.pokemontcg.io/sv4/66_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-66",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.18,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.02,
+          "mid": 0.19,
+          "high": 4.95,
+          "market": 0.18,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Zekrom-V2-PAR066",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-81",
+    "name": "Espathra  (PAR 081) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Flittle",
+    "abilities": [
+      {
+        "name": "Stance",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may prevent all damage from and effects of attacks from your opponent's Pokémon done to this Pokémon until the end of your opponent's next turn.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Glittering Eyes",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70+",
+        "text": "If Tulip is in your discard pile, this attack does 70 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "81",
+    "artist": "Teeziro",
+    "rarity": "Promo",
+    "flavorText": "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph.",
+    "nationalPokedexNumbers": [
+      956
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/81.png",
+      "large": "https://images.pokemontcg.io/sv4/81_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-81",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.16,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.18,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Espathra-V4-PAR081",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-107",
+    "name": "Slither Wing  (PAR 107) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Ancient"
+    ],
+    "hp": "140",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Stomp Off",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard the top card of your opponent's deck."
+      },
+      {
+        "name": "Burning Turbulence",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": "This Pokémon also does 90 damage to itself. Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "107",
+    "artist": "Anesaki Dynamic",
+    "rarity": "Promo",
+    "flavorText": "This mysterious Pokémon has some similarities to a creature that an old book introduced as Slither Wing.",
+    "nationalPokedexNumbers": [
+      988
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/107.png",
+      "large": "https://images.pokemontcg.io/sv4/107_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-107",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.25,
+          "high": 25.0,
+          "market": 0.24,
+          "directLow": 0.23
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Slither-Wing-V3-PAR107",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-122",
+    "name": "Lokix  (PAR 122) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Nymble",
+    "attacks": [
+      {
+        "name": "Bounce",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Punishing Kick",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "This attack does 40 more damage for each damage counter on your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "122",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Promo",
+    "flavorText": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
+    "nationalPokedexNumbers": [
+      920
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/122.png",
+      "large": "https://images.pokemontcg.io/sv4/122_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-122",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": 0.07
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.22,
+          "high": 20.0,
+          "market": 0.21,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Lokix-V3-PAR122",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-123",
+    "name": "Brute Bonnet  (PAR 123) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Ancient"
+    ],
+    "hp": "120",
+    "types": [
+      "Darkness"
+    ],
+    "abilities": [
+      {
+        "name": "Toxic Powder",
+        "text": "Once during your turn, if this Pokémon has an Ancient Booster Energy Capsule attached, you may make both Active Pokémon Poisoned.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Rampaging Hammer",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "123",
+    "artist": "Anesaki Dynamic",
+    "rarity": "Promo",
+    "flavorText": "It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokémon.",
+    "nationalPokedexNumbers": [
+      986
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/123.png",
+      "large": "https://images.pokemontcg.io/sv4/123_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-123",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.13,
+          "mid": 0.38,
+          "high": 4.95,
+          "market": 0.29,
+          "directLow": 0.2
+        },
+        "holofoil": {
+          "low": 0.02,
+          "mid": 0.27,
+          "high": 38.0,
+          "market": 0.2,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Brute-Bonnet-V3-PAR123",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-125",
+    "name": "Steelix  (PAR 125) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "180",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Onix",
+    "attacks": [
+      {
+        "name": "Earthquake",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "130",
+        "text": "This attack also does 30 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Heavy Impact",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "180",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "125",
+    "artist": "Po-Suzuki",
+    "rarity": "Promo",
+    "flavorText": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+    "nationalPokedexNumbers": [
+      208
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/125.png",
+      "large": "https://images.pokemontcg.io/sv4/125_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-125",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.07,
+          "mid": 0.2,
+          "high": 20.0,
+          "market": 0.17,
+          "directLow": 0.14
+        },
+        "holofoil": {
+          "low": 0.02,
+          "mid": 0.17,
+          "high": 4.95,
+          "market": 0.15,
+          "directLow": 0.1
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Steelix-V3-PAR125",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-131",
+    "name": "Honedge  (PAR 131) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [
+      "Doublade"
+    ],
+    "attacks": [
+      {
+        "name": "Reckless Charge",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "This Pokémon also does 10 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "131",
+    "artist": "Nagomi Nijo",
+    "rarity": "Promo",
+    "flavorText": "The blue eye on the sword's handguard is the true body of Honedge. With its old cloth, it drains people's lives away.",
+    "nationalPokedexNumbers": [
+      679
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/131.png",
+      "large": "https://images.pokemontcg.io/sv4/131_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-131",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.15,
+          "high": 10.0,
+          "market": 0.11,
+          "directLow": 0.09
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.05,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Honedge-V2-PAR131",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-132",
+    "name": "Doublade  (PAR 132) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Honedge",
+    "evolvesTo": [
+      "Aegislash"
+    ],
+    "attacks": [
+      {
+        "name": "Slash",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Slashing Strike",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "80",
+        "text": "During your next turn, this Pokémon can't use Slashing Strike."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "132",
+    "artist": "Bun Toujo",
+    "rarity": "Promo",
+    "flavorText": "The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey.",
+    "nationalPokedexNumbers": [
+      680
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/132.png",
+      "large": "https://images.pokemontcg.io/sv4/132_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-132",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.12,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.1,
+          "high": 4.95,
+          "market": 0.07,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Doublade-V2-PAR132",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-144",
+    "name": "Porygon-Z  (PAR 144) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Porygon2",
+    "abilities": [
+      {
+        "name": "Buggy Turbo",
+        "text": "Once during your turn, you may flip a coin. If heads, attach up to 4 Basic Energy cards from your discard pile to this Pokémon. If tails, discard an Energy from this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Energized Attack",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40×",
+        "text": "This attack does 40 damage for each Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "144",
+    "artist": "hatachu",
+    "rarity": "Promo",
+    "flavorText": "Some say an additional program made this Pokémon evolve, but even academics can't agree on whether Porygon-Z is really an evolution.",
+    "nationalPokedexNumbers": [
+      474
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/144.png",
+      "large": "https://images.pokemontcg.io/sv4/144_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-144",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.11,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.15,
+          "directLow": 0.09
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Porygon-Z-V3-PAR144",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-158",
+    "name": "Iron Jugulis  (PAR 158) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Future"
+    ],
+    "hp": "130",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Homing Headbutt",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "This attack does 50 damage to 3 of your opponent's Pokémon that have any damage counters on them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Baryon Beam",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "150",
+        "text": "If this Pokémon has a Future Booster Energy Capsule attached, this attack can be used for ColorlessColorlessColorless."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "158",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Promo",
+    "flavorText": "It's possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon.",
+    "nationalPokedexNumbers": [
+      993
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/158.png",
+      "large": "https://images.pokemontcg.io/sv4/158_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-158",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.03,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.13,
+          "directLow": 0.13
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Jugulis-V3-PAR158",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-159",
+    "name": "Ancient Booster Energy Capsule (PAR 159) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "Ancient"
+    ],
+    "rules": [
+      "The Ancient Pokémon this card is attached to gets +60 HP, recovers from all Special Conditions, and can't be affected by any Special Conditions.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "159",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/159.png",
+      "large": "https://images.pokemontcg.io/sv4/159_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-159",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.13,
+          "high": 4.95,
+          "market": 0.08,
+          "directLow": 0.07
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.15,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Ancient-Booster-Energy-Capsule-V2-PAR159",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4-promo-164",
+    "name": "Future Booster Energy Capsule (PAR 164) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool",
+      "Future"
+    ],
+    "rules": [
+      "The Future Pokémon this card is attached to has no Retreat Cost, and the attacks it uses do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
+    ],
+    "set": {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "series": "Scarlet & Violet",
+      "printedTotal": 182,
+      "total": 266,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "releaseDate": "2023/11/03",
+      "updatedAt": "2023/11/03 15:00:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sv4/symbol.png",
+        "logo": "https://images.pokemontcg.io/sv4/logo.png"
+      }
+    },
+    "number": "164",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4/164.png",
+      "large": "https://images.pokemontcg.io/sv4/164_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sv4-164",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.12,
+          "high": 4.95,
+          "market": 0.06,
+          "directLow": 0.05
+        },
+        "reverseHolofoil": {
+          "low": 0.08,
+          "mid": 0.22,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": 0.17
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Future-Booster-Energy-Capsule-V2-PAR164",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

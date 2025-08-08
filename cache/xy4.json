@@ -7752,5 +7752,108 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "xy4-promo-66",
+    "name": "Klefki  (PHF 66) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+      },
+      {
+        "name": "Dull Light",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "66",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "flavorText": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
+    "nationalPokedexNumbers": [
+      707
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy4/66.png",
+      "large": "https://images.pokemontcg.io/xy4/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantom-Forces/Klefki-V2-PHF66",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy4-promo-93",
+    "name": "Dimension Valley (PHF 93) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Each Psychic Pokémon's attacks (both yours and your opponent's) cost Colorless less.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "number": "93",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy4/93.png",
+      "large": "https://images.pokemontcg.io/xy4/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantom-Forces/Dimension-Valley-V2-PHF93",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

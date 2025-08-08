@@ -57,6 +57,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/1.png",
       "large": "https://images.pokemontcg.io/dp4/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Blaziken-Lv56-GE1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.39
+      }
     }
   },
   {
@@ -116,6 +124,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/2.png",
       "large": "https://images.pokemontcg.io/dp4/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Cresselia-Lv48-GE2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -133,9 +149,7 @@
     "attacks": [
       {
         "name": "Reach Over",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for an Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
@@ -181,6 +195,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/3.png",
       "large": "https://images.pokemontcg.io/dp4/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Darkrai-Lv38-GE3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -246,6 +268,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/4.png",
       "large": "https://images.pokemontcg.io/dp4/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Darkrai-Lv40-GE4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -309,6 +339,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/5.png",
       "large": "https://images.pokemontcg.io/dp4/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Pachirisu-Lv30-GE5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -367,6 +405,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/6.png",
       "large": "https://images.pokemontcg.io/dp4/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Porygon-Z-Lv54-GE6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -432,6 +478,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/7.png",
       "large": "https://images.pokemontcg.io/dp4/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Rotom-Lv38-GE7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -499,6 +553,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/8.png",
       "large": "https://images.pokemontcg.io/dp4/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Sceptile-Lv52-GE8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": 1.4
+      }
     }
   },
   {
@@ -559,6 +621,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/9.png",
       "large": "https://images.pokemontcg.io/dp4/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Swampert-Lv53-GE9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -627,6 +697,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/10.png",
       "large": "https://images.pokemontcg.io/dp4/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Tangrowth-Lv38-GE10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -691,6 +769,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/11.png",
       "large": "https://images.pokemontcg.io/dp4/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Togekiss-Lv51-GE11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -757,6 +843,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/12.png",
       "large": "https://images.pokemontcg.io/dp4/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Altaria-Lv42-GE12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.34
+      }
     }
   },
   {
@@ -813,6 +907,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/13.png",
       "large": "https://images.pokemontcg.io/dp4/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Beedrill-Lv41-GE13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -869,6 +971,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/14.png",
       "large": "https://images.pokemontcg.io/dp4/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Butterfree-Lv36-GE14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -927,6 +1037,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/15.png",
       "large": "https://images.pokemontcg.io/dp4/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Claydol-Lv45-V1-GE15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.69
+      }
     }
   },
   {
@@ -993,6 +1111,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/16.png",
       "large": "https://images.pokemontcg.io/dp4/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Dialga-Lv68-GE16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -1057,6 +1183,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/17.png",
       "large": "https://images.pokemontcg.io/dp4/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Exploud-Lv58-GE17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1122,6 +1256,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/18.png",
       "large": "https://images.pokemontcg.io/dp4/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Houndoom-Lv41-GE18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -1184,6 +1326,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/19.png",
       "large": "https://images.pokemontcg.io/dp4/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Hypno-Lv28-GE19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.14,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1247,6 +1397,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/20.png",
       "large": "https://images.pokemontcg.io/dp4/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Kingler-Lv33-GE20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1305,6 +1463,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/21.png",
       "large": "https://images.pokemontcg.io/dp4/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Lapras-Lv47-GE21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -1370,6 +1536,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/22.png",
       "large": "https://images.pokemontcg.io/dp4/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Latias-Lv45-GE22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -1437,6 +1611,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/23.png",
       "large": "https://images.pokemontcg.io/dp4/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Latios-Lv47-GE23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1454,9 +1636,7 @@
     "attacks": [
       {
         "name": "Pick Out",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Choose 1 face-down Prize card (yours or your opponent's) and put it face up. If that card is a Supporter card, use the effect of that card as the effect of this attack. (That card remains face up for the rest of the game.)"
@@ -1501,6 +1681,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/24.png",
       "large": "https://images.pokemontcg.io/dp4/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Mawile-Lv32-GE24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1560,6 +1748,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/25.png",
       "large": "https://images.pokemontcg.io/dp4/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Milotic-Lv47-GE25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1620,6 +1816,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/26.png",
       "large": "https://images.pokemontcg.io/dp4/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Palkia-Lv67-GE26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1678,6 +1882,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/27.png",
       "large": "https://images.pokemontcg.io/dp4/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Primeape-Lv41-GE27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1736,6 +1948,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/28.png",
       "large": "https://images.pokemontcg.io/dp4/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Slowking-Lv41-GE28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1791,6 +2011,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/29.png",
       "large": "https://images.pokemontcg.io/dp4/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Unown-H-Lv12-GE29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 1.7
+      }
     }
   },
   {
@@ -1853,6 +2081,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/30.png",
       "large": "https://images.pokemontcg.io/dp4/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Wailord-Lv43-GE30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1911,6 +2147,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/31.png",
       "large": "https://images.pokemontcg.io/dp4/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Weezing-Lv42-GE31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1968,6 +2212,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/32.png",
       "large": "https://images.pokemontcg.io/dp4/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Wigglytuff-Lv46-GE32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2029,6 +2281,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/33.png",
       "large": "https://images.pokemontcg.io/dp4/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Arbok-Lv31-GE33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2096,6 +2356,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/34.png",
       "large": "https://images.pokemontcg.io/dp4/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Cacturne-Lv36-GE34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2159,6 +2427,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/35.png",
       "large": "https://images.pokemontcg.io/dp4/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Combusken-Lv24-GE35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -2176,9 +2452,7 @@
     "attacks": [
       {
         "name": "Present",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin. If heads, search your deck for any 1 card and put it into your hand. Shuffle your deck afterward."
@@ -2216,6 +2490,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/36.png",
       "large": "https://images.pokemontcg.io/dp4/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Delibird-Lv26-GE36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2277,6 +2559,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/37.png",
       "large": "https://images.pokemontcg.io/dp4/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Floatzel-Lv32-GE37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2295,9 +2585,7 @@
     "attacks": [
       {
         "name": "Sweet Temptation",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. This attack does 10 damage to the new Defending Pokémon."
@@ -2332,6 +2620,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/38.png",
       "large": "https://images.pokemontcg.io/dp4/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Gorebyss-Lv34-GE38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -2395,6 +2691,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/39.png",
       "large": "https://images.pokemontcg.io/dp4/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Granbull-Lv34-GE39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2416,9 +2720,7 @@
     "attacks": [
       {
         "name": "Greenness",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 Grass Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
@@ -2463,6 +2765,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/40.png",
       "large": "https://images.pokemontcg.io/dp4/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Grovyle-Lv26-GE40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2526,6 +2836,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/41.png",
       "large": "https://images.pokemontcg.io/dp4/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Hariyama-Lv38-GE41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2544,9 +2862,7 @@
     "attacks": [
       {
         "name": "Scary Face",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin. If heads, the Defending Pokémon can't attack or retreat during your opponent's next turn."
@@ -2585,6 +2901,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/42.png",
       "large": "https://images.pokemontcg.io/dp4/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Huntail-Lv33-GE42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2603,9 +2927,7 @@
     "attacks": [
       {
         "name": "Switcheroo",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Move a Pokémon Tool card attached to 1 of your opponent's Pokémon to another of your opponent's Pokémon (excluding Pokémon that already has a Pokémon Tool attached to it). (If an effect of this attack is prevented, this attack does nothing.)"
@@ -2641,6 +2963,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/43.png",
       "large": "https://images.pokemontcg.io/dp4/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Linoone-Lv24-GE43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2706,6 +3036,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/44.png",
       "large": "https://images.pokemontcg.io/dp4/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Loudred-Lv31-GE44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -2766,6 +3104,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/45.png",
       "large": "https://images.pokemontcg.io/dp4/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Magcargo-Lv35-GE45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2831,6 +3177,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/46.png",
       "large": "https://images.pokemontcg.io/dp4/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Marshtomp-Lv23-GE46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2892,6 +3246,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/47.png",
       "large": "https://images.pokemontcg.io/dp4/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Metapod-Lv9-GE47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2910,9 +3272,7 @@
     "attacks": [
       {
         "name": "Guzzle",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Choose up to 2 basic Water Energy cards from your hand and attach them to Pelipper. Remove 2 damage counters for each Energy card attached in this way."
@@ -2958,6 +3318,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/48.png",
       "large": "https://images.pokemontcg.io/dp4/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Pelipper-Lv45-GE48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3019,6 +3387,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/49.png",
       "large": "https://images.pokemontcg.io/dp4/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Porygon2-Lv39-GE49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3081,6 +3457,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/50.png",
       "large": "https://images.pokemontcg.io/dp4/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Purugly-Lv47-GE50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3098,9 +3482,7 @@
     "attacks": [
       {
         "name": "Primal Calling",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 3 Trainer Cards that have Fossil in their names, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
@@ -3139,6 +3521,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/51.png",
       "large": "https://images.pokemontcg.io/dp4/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Relicanth-Lv31-GE51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.13
+      }
     }
   },
   {
@@ -3199,6 +3589,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/52.png",
       "large": "https://images.pokemontcg.io/dp4/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Seviper-Lv26-GE52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3264,6 +3662,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/53.png",
       "large": "https://images.pokemontcg.io/dp4/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Skarmory-Lv31-GE53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3326,6 +3732,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/54.png",
       "large": "https://images.pokemontcg.io/dp4/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Slowbro-Lv39-GE54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3396,6 +3810,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/55.png",
       "large": "https://images.pokemontcg.io/dp4/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Togetic-Lv23-GE55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3451,6 +3873,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/56.png",
       "large": "https://images.pokemontcg.io/dp4/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Unown-F-Lv13-GE56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3507,6 +3937,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/57.png",
       "large": "https://images.pokemontcg.io/dp4/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Unown-G-Lv17-GE57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -3572,6 +4010,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/58.png",
       "large": "https://images.pokemontcg.io/dp4/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Wailmer-Lv14-GE58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3631,6 +4077,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/59.png",
       "large": "https://images.pokemontcg.io/dp4/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Zangoose-Lv23-GE59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3692,6 +4146,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/60.png",
       "large": "https://images.pokemontcg.io/dp4/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Baltoy-Lv11-GE60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3712,9 +4174,7 @@
     "attacks": [
       {
         "name": "Headbutt",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -3753,6 +4213,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/61.png",
       "large": "https://images.pokemontcg.io/dp4/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Buizel-Lv14-GE61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.34
+      }
     }
   },
   {
@@ -3820,6 +4288,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/62.png",
       "large": "https://images.pokemontcg.io/dp4/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Cacnea-Lv12-GE62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3878,6 +4354,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/63.png",
       "large": "https://images.pokemontcg.io/dp4/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Caterpie-Lv6-GE63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -3940,6 +4424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/64.png",
       "large": "https://images.pokemontcg.io/dp4/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Clamperl-Lv15-GE64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4001,6 +4493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/65.png",
       "large": "https://images.pokemontcg.io/dp4/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Drowzee-Lv13-GE65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4062,6 +4562,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/66.png",
       "large": "https://images.pokemontcg.io/dp4/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Ekans-Lv16-GE66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4122,6 +4630,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/67.png",
       "large": "https://images.pokemontcg.io/dp4/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Feebas-Lv4-GE67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.21
+      }
     }
   },
   {
@@ -4183,6 +4699,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/68.png",
       "large": "https://images.pokemontcg.io/dp4/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Glameow-Lv14-GE68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -4244,6 +4768,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/69.png",
       "large": "https://images.pokemontcg.io/dp4/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Houndour-Lv13-GE69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -4271,9 +4803,7 @@
     "attacks": [
       {
         "name": "Inquire",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Draw a card. If you didn't play any Supporter card from your hand during this turn, draw 2 more cards."
@@ -4302,6 +4832,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/70.png",
       "large": "https://images.pokemontcg.io/dp4/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Igglybuff-Lv6-GE70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -4358,6 +4896,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/71.png",
       "large": "https://images.pokemontcg.io/dp4/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Illumise-Lv29-GE71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4419,6 +4965,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/72.png",
       "large": "https://images.pokemontcg.io/dp4/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Jigglypuff-Lv23-GE72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -4440,9 +4994,7 @@
     "attacks": [
       {
         "name": "Stiffen",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "During your opponent's next turn, any damage done to Kakuna by attacks is reduced by 30 (after applying Weakness and Resistance)."
@@ -4481,6 +5033,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/73.png",
       "large": "https://images.pokemontcg.io/dp4/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Kakuna-Lv9-GE73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4543,6 +5103,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/74.png",
       "large": "https://images.pokemontcg.io/dp4/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Koffing-Lv18-GE74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4605,6 +5173,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/75.png",
       "large": "https://images.pokemontcg.io/dp4/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Krabby-Lv8-GE75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -4660,6 +5236,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/76.png",
       "large": "https://images.pokemontcg.io/dp4/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Lunatone-Lv31-GE76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4717,6 +5301,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/77.png",
       "large": "https://images.pokemontcg.io/dp4/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Luvdisc-Lv28-GE77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4779,6 +5371,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/78.png",
       "large": "https://images.pokemontcg.io/dp4/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Makuhita-Lv15-GE78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4840,6 +5440,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/79.png",
       "large": "https://images.pokemontcg.io/dp4/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Mankey-Lv14-GE79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.34
+      }
     }
   },
   {
@@ -4902,6 +5510,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/80.png",
       "large": "https://images.pokemontcg.io/dp4/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Mudkip-Lv7-GE80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -4963,6 +5579,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/81.png",
       "large": "https://images.pokemontcg.io/dp4/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Porygon-Lv7-GE81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5025,6 +5649,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/82.png",
       "large": "https://images.pokemontcg.io/dp4/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Slowpoke-Lv10-GE82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -5087,6 +5719,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/83.png",
       "large": "https://images.pokemontcg.io/dp4/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Slugma-Lv11-GE83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5149,6 +5789,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/84.png",
       "large": "https://images.pokemontcg.io/dp4/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Snubbull-Lv11-GE84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5204,6 +5852,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/85.png",
       "large": "https://images.pokemontcg.io/dp4/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Solrock-Lv29-GE85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5271,6 +5927,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/86.png",
       "large": "https://images.pokemontcg.io/dp4/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Swablu-Lv7-GE86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.11
+      }
     }
   },
   {
@@ -5333,6 +5997,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/87.png",
       "large": "https://images.pokemontcg.io/dp4/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Tangela-Lv12-GE87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -5393,6 +6065,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/88.png",
       "large": "https://images.pokemontcg.io/dp4/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Togepi-Lv4-GE88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5413,9 +6093,7 @@
     "attacks": [
       {
         "name": "Peck",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -5453,6 +6131,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/89.png",
       "large": "https://images.pokemontcg.io/dp4/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Torchic-Lv7-GE89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5520,6 +6206,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/90.png",
       "large": "https://images.pokemontcg.io/dp4/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Treecko-Lv7-GE90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -5576,6 +6270,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/91.png",
       "large": "https://images.pokemontcg.io/dp4/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Unown-L-Lv18-GE91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -5632,6 +6334,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/92.png",
       "large": "https://images.pokemontcg.io/dp4/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Volbeat-Lv34-GE92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5692,6 +6402,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/93.png",
       "large": "https://images.pokemontcg.io/dp4/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Weedle-Lv5-GE93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5712,9 +6430,7 @@
     "attacks": [
       {
         "name": "Mumble",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -5752,6 +6468,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/94.png",
       "large": "https://images.pokemontcg.io/dp4/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Whismur-Lv8-GE94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5819,6 +6543,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/95.png",
       "large": "https://images.pokemontcg.io/dp4/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Wingull-Lv6-GE95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5879,6 +6611,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/96.png",
       "large": "https://images.pokemontcg.io/dp4/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Zigzagoon-Lv6-GE96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -5901,6 +6641,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/97.png",
       "large": "https://images.pokemontcg.io/dp4/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Amulet-Coin-GE97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5923,6 +6671,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/98.png",
       "large": "https://images.pokemontcg.io/dp4/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Felicitys-Drawing-V1-GE98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5945,6 +6701,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/99.png",
       "large": "https://images.pokemontcg.io/dp4/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Leftovers-GE99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -5967,6 +6731,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/100.png",
       "large": "https://images.pokemontcg.io/dp4/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Moonlight-Stadium-GE100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -5988,6 +6760,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/101.png",
       "large": "https://images.pokemontcg.io/dp4/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Premier-Ball-GE101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6011,6 +6791,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/102.png",
       "large": "https://images.pokemontcg.io/dp4/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Rare-Candy-GE102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -6071,6 +6859,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/103.png",
       "large": "https://images.pokemontcg.io/dp4/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Cresselia-LVX-GE103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6137,6 +6933,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/104.png",
       "large": "https://images.pokemontcg.io/dp4/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Darkrai-LVX-GE104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6205,6 +7009,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/105.png",
       "large": "https://images.pokemontcg.io/dp4/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Dialga-LVX-GE105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6267,6 +7079,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp4/106.png",
       "large": "https://images.pokemontcg.io/dp4/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Palkia-LVX-GE106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

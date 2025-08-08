@@ -61,6 +61,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/1.png",
       "large": "https://images.pokemontcg.io/base5/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Alakazam-V1-TR1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -123,6 +131,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/2.png",
       "large": "https://images.pokemontcg.io/base5/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Arbok-V1-TR2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -185,6 +201,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/3.png",
       "large": "https://images.pokemontcg.io/base5/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Blastoise-V2-TR3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 25.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -252,6 +276,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/4.png",
       "large": "https://images.pokemontcg.io/base5/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Charizard-TR4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 47.36,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -312,6 +344,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/5.png",
       "large": "https://images.pokemontcg.io/base5/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Dragonite-TR5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 20.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -376,6 +416,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/6.png",
       "large": "https://images.pokemontcg.io/base5/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Dugtrio-TR6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.8,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -438,6 +486,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/7.png",
       "large": "https://images.pokemontcg.io/base5/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Golbat-TR7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -503,6 +559,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/8.png",
       "large": "https://images.pokemontcg.io/base5/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Gyarados-V1-TR8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -564,6 +628,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/9.png",
       "large": "https://images.pokemontcg.io/base5/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Hypno-TR9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -628,6 +700,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/10.png",
       "large": "https://images.pokemontcg.io/base5/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Machamp-TR10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 12.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -692,6 +772,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/11.png",
       "large": "https://images.pokemontcg.io/base5/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Magneton-TR11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -750,6 +838,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/12.png",
       "large": "https://images.pokemontcg.io/base5/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Slowbro-TR12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -809,6 +905,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/13.png",
       "large": "https://images.pokemontcg.io/base5/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Vileplume-TR13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -870,6 +974,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/14.png",
       "large": "https://images.pokemontcg.io/base5/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Weezing-TR14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -888,6 +1000,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/15.png",
       "large": "https://images.pokemontcg.io/base5/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Here-Comes-Team-Rocket-TR15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -906,6 +1026,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/16.png",
       "large": "https://images.pokemontcg.io/base5/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Rockets-Sneak-Attack-TR16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -927,6 +1055,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/17.png",
       "large": "https://images.pokemontcg.io/base5/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Rainbow-Energy-V1-TR17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -991,6 +1127,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/18.png",
       "large": "https://images.pokemontcg.io/base5/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Alakazam-V2-TR18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1053,6 +1197,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/19.png",
       "large": "https://images.pokemontcg.io/base5/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Arbok-V2-TR19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1115,6 +1267,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/20.png",
       "large": "https://images.pokemontcg.io/base5/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Blastoise-V1-TR20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1182,6 +1342,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/21.png",
       "large": "https://images.pokemontcg.io/base5/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Charizard-TR21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 13.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1242,6 +1410,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/22.png",
       "large": "https://images.pokemontcg.io/base5/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Dragonite-TR22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1306,6 +1482,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/23.png",
       "large": "https://images.pokemontcg.io/base5/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Dugtrio-TR23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1368,6 +1552,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/24.png",
       "large": "https://images.pokemontcg.io/base5/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Golbat-TR24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1433,6 +1625,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/25.png",
       "large": "https://images.pokemontcg.io/base5/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Gyarados-V3-TR25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.8,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1494,6 +1694,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/26.png",
       "large": "https://images.pokemontcg.io/base5/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Hypno-TR26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1558,6 +1766,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/27.png",
       "large": "https://images.pokemontcg.io/base5/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Machamp-TR27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1622,6 +1838,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/28.png",
       "large": "https://images.pokemontcg.io/base5/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Magneton-TR28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1680,6 +1904,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/29.png",
       "large": "https://images.pokemontcg.io/base5/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Slowbro-TR29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.59,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1739,6 +1971,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/30.png",
       "large": "https://images.pokemontcg.io/base5/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Vileplume-TR30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1800,6 +2040,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/31.png",
       "large": "https://images.pokemontcg.io/base5/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Weezing-TR31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.79,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1865,6 +2113,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/32.png",
       "large": "https://images.pokemontcg.io/base5/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Charmeleon-TR32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1927,6 +2183,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/33.png",
       "large": "https://images.pokemontcg.io/base5/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Dragonair-TR33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.33,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1986,6 +2250,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/34.png",
       "large": "https://images.pokemontcg.io/base5/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Electrode-TR34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2045,6 +2317,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/35.png",
       "large": "https://images.pokemontcg.io/base5/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Flareon-TR35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.85,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2107,6 +2387,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/36.png",
       "large": "https://images.pokemontcg.io/base5/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Gloom-TR36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2168,6 +2456,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/37.png",
       "large": "https://images.pokemontcg.io/base5/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Golduck-TR37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2228,6 +2524,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/38.png",
       "large": "https://images.pokemontcg.io/base5/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Jolteon-TR38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2289,6 +2593,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/39.png",
       "large": "https://images.pokemontcg.io/base5/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Kadabra-TR39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2355,6 +2667,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/40.png",
       "large": "https://images.pokemontcg.io/base5/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Machoke-TR40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2413,6 +2733,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/41.png",
       "large": "https://images.pokemontcg.io/base5/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Muk-TR41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2474,6 +2802,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/42.png",
       "large": "https://images.pokemontcg.io/base5/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Persian-TR42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2531,6 +2867,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/43.png",
       "large": "https://images.pokemontcg.io/base5/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Primeape-TR43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2587,6 +2931,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/44.png",
       "large": "https://images.pokemontcg.io/base5/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Rapidash-TR44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2649,6 +3001,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/45.png",
       "large": "https://images.pokemontcg.io/base5/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Vaporeon-TR45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2711,6 +3071,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/46.png",
       "large": "https://images.pokemontcg.io/base5/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Wartortle-TR46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2773,6 +3141,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/47.png",
       "large": "https://images.pokemontcg.io/base5/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Magikarp-TR47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2837,6 +3213,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/48.png",
       "large": "https://images.pokemontcg.io/base5/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Porygon-TR48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2897,6 +3281,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/49.png",
       "large": "https://images.pokemontcg.io/base5/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Abra-TR49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2955,6 +3347,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/50.png",
       "large": "https://images.pokemontcg.io/base5/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Charmander-TR50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3022,6 +3422,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/51.png",
       "large": "https://images.pokemontcg.io/base5/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Raticate-TR51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3085,6 +3493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/52.png",
       "large": "https://images.pokemontcg.io/base5/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Diglett-TR52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3137,6 +3553,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/53.png",
       "large": "https://images.pokemontcg.io/base5/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dratini-TR53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3196,6 +3620,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/54.png",
       "large": "https://images.pokemontcg.io/base5/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Drowzee-TR54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3270,6 +3702,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/55.png",
       "large": "https://images.pokemontcg.io/base5/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Eevee-TR55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3331,6 +3771,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/56.png",
       "large": "https://images.pokemontcg.io/base5/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Ekans-TR56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3392,6 +3840,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/57.png",
       "large": "https://images.pokemontcg.io/base5/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Grimer-TR57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3453,6 +3909,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/58.png",
       "large": "https://images.pokemontcg.io/base5/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Koffing-TR58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3516,6 +3980,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/59.png",
       "large": "https://images.pokemontcg.io/base5/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Machop-TR59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3578,6 +4050,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/60.png",
       "large": "https://images.pokemontcg.io/base5/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Magnemite-TR60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3635,6 +4115,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/61.png",
       "large": "https://images.pokemontcg.io/base5/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Mankey-TR61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3693,6 +4181,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/62.png",
       "large": "https://images.pokemontcg.io/base5/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Meowth-TR62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3753,6 +4249,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/63.png",
       "large": "https://images.pokemontcg.io/base5/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Oddish-TR63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3805,6 +4309,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/64.png",
       "large": "https://images.pokemontcg.io/base5/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Ponyta-TR64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3866,6 +4378,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/65.png",
       "large": "https://images.pokemontcg.io/base5/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Psyduck-TR65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3926,6 +4446,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/66.png",
       "large": "https://images.pokemontcg.io/base5/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Rattata-TR66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3987,6 +4515,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/67.png",
       "large": "https://images.pokemontcg.io/base5/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Slowpoke-TR67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4039,6 +4575,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/68.png",
       "large": "https://images.pokemontcg.io/base5/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Squirtle-TR68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4090,6 +4634,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/69.png",
       "large": "https://images.pokemontcg.io/base5/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Voltorb-TR69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4153,6 +4705,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/70.png",
       "large": "https://images.pokemontcg.io/base5/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Zubat-TR70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4171,6 +4731,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/71.png",
       "large": "https://images.pokemontcg.io/base5/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Here-Comes-Team-Rocket-TR71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4189,6 +4757,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/72.png",
       "large": "https://images.pokemontcg.io/base5/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Rockets-Sneak-Attack-TR72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.8,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4207,6 +4783,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/73.png",
       "large": "https://images.pokemontcg.io/base5/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/The-Bosss-Way-TR73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4225,6 +4809,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/74.png",
       "large": "https://images.pokemontcg.io/base5/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Challenge-TR74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4246,6 +4838,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/75.png",
       "large": "https://images.pokemontcg.io/base5/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Digger-TR75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4264,6 +4864,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/76.png",
       "large": "https://images.pokemontcg.io/base5/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Imposter-Oaks-Revenge-TR76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4285,6 +4893,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/77.png",
       "large": "https://images.pokemontcg.io/base5/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Nightly-Garbage-Run-TR77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4303,6 +4919,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/78.png",
       "large": "https://images.pokemontcg.io/base5/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Goop-Gas-Attack-TR78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4324,6 +4948,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/79.png",
       "large": "https://images.pokemontcg.io/base5/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Sleep-TR79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4345,6 +4977,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/80.png",
       "large": "https://images.pokemontcg.io/base5/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Rainbow-Energy-V2-TR80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4367,6 +5007,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/81.png",
       "large": "https://images.pokemontcg.io/base5/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Full-Heal-Energy-TR81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4389,6 +5037,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/82.png",
       "large": "https://images.pokemontcg.io/base5/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Potion-Energy-TR82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4440,6 +5096,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base5/83.png",
       "large": "https://images.pokemontcg.io/base5/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Team-Rocket/Dark-Raichu-TR83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

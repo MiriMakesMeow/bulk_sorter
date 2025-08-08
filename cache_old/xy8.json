@@ -48,6 +48,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/1.png",
       "large": "https://images.pokemontcg.io/xy8/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Paras-BKT1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -108,6 +116,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/2.png",
       "large": "https://images.pokemontcg.io/xy8/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Parasect-BKT2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -168,6 +184,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/3.png",
       "large": "https://images.pokemontcg.io/xy8/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Pinsir-BKT3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -219,6 +243,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/4.png",
       "large": "https://images.pokemontcg.io/xy8/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Cacnea-BKT4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -270,6 +302,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/5.png",
       "large": "https://images.pokemontcg.io/xy8/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Pansage-BKT5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -329,6 +369,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/6.png",
       "large": "https://images.pokemontcg.io/xy8/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Simisage-BKT6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -391,6 +439,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/7.png",
       "large": "https://images.pokemontcg.io/xy8/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Chespin-BKT7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -453,6 +509,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/8.png",
       "large": "https://images.pokemontcg.io/xy8/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Chespin-BKT8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -515,6 +579,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/9.png",
       "large": "https://images.pokemontcg.io/xy8/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Chespin-BKT9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -581,6 +653,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/10.png",
       "large": "https://images.pokemontcg.io/xy8/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Quilladin-BKT10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -647,6 +727,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/11.png",
       "large": "https://images.pokemontcg.io/xy8/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Chesnaught-BKT11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -691,6 +779,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/12.png",
       "large": "https://images.pokemontcg.io/xy8/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Chesnaught-BREAK-BKT12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -752,6 +848,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/13.png",
       "large": "https://images.pokemontcg.io/xy8/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Scatterbug-BKT13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -815,6 +919,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/14.png",
       "large": "https://images.pokemontcg.io/xy8/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Spewpa-BKT14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -873,6 +985,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/15.png",
       "large": "https://images.pokemontcg.io/xy8/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Vivillon-BKT15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -935,6 +1055,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/16.png",
       "large": "https://images.pokemontcg.io/xy8/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Skiddo-BKT16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -996,6 +1124,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/17.png",
       "large": "https://images.pokemontcg.io/xy8/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Gogoat-BKT17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -1057,6 +1193,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/18.png",
       "large": "https://images.pokemontcg.io/xy8/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Cyndaquil-BKT18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1110,6 +1254,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/19.png",
       "large": "https://images.pokemontcg.io/xy8/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Quilava-BKT19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -1172,6 +1324,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/20.png",
       "large": "https://images.pokemontcg.io/xy8/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Typhlosion-BKT20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.35,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1237,6 +1397,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/21.png",
       "large": "https://images.pokemontcg.io/xy8/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Houndoom-EX-BKT21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1291,6 +1459,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/22.png",
       "large": "https://images.pokemontcg.io/xy8/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/MHoundoom-EX-BKT22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1342,6 +1518,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/23.png",
       "large": "https://images.pokemontcg.io/xy8/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Pansear-BKT23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1401,6 +1585,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/24.png",
       "large": "https://images.pokemontcg.io/xy8/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Simisear-BKT24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1453,6 +1645,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/25.png",
       "large": "https://images.pokemontcg.io/xy8/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Fennekin-BKT25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1507,6 +1707,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/26.png",
       "large": "https://images.pokemontcg.io/xy8/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Braixen-BKT26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1558,6 +1766,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/27.png",
       "large": "https://images.pokemontcg.io/xy8/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Goldeen-BKT27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1617,6 +1833,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/28.png",
       "large": "https://images.pokemontcg.io/xy8/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Seaking-BKT28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1668,6 +1892,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/29.png",
       "large": "https://images.pokemontcg.io/xy8/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Staryu-BKT29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1727,6 +1959,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/30.png",
       "large": "https://images.pokemontcg.io/xy8/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Starmie-BKT30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1788,6 +2028,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/31.png",
       "large": "https://images.pokemontcg.io/xy8/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Remoraid-BKT31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1849,6 +2097,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/32.png",
       "large": "https://images.pokemontcg.io/xy8/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Remoraid-BKT32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1908,6 +2164,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/33.png",
       "large": "https://images.pokemontcg.io/xy8/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Octillery-BKT33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -1975,6 +2239,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/34.png",
       "large": "https://images.pokemontcg.io/xy8/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Glalie-EX-BKT34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2035,6 +2307,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/35.png",
       "large": "https://images.pokemontcg.io/xy8/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/MGlalie-EX-BKT35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2087,6 +2367,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/36.png",
       "large": "https://images.pokemontcg.io/xy8/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Piplup-BKT36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2140,6 +2428,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/37.png",
       "large": "https://images.pokemontcg.io/xy8/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Prinplup-BKT37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2198,6 +2494,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/38.png",
       "large": "https://images.pokemontcg.io/xy8/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Empoleon-BKT38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.74
+      }
     }
   },
   {
@@ -2262,6 +2566,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/39.png",
       "large": "https://images.pokemontcg.io/xy8/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Snover-BKT39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -2328,6 +2640,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/40.png",
       "large": "https://images.pokemontcg.io/xy8/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Abomasnow-BKT40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2379,6 +2699,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/41.png",
       "large": "https://images.pokemontcg.io/xy8/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Panpour-BKT41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2438,6 +2766,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/42.png",
       "large": "https://images.pokemontcg.io/xy8/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Simipour-BKT42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2499,6 +2835,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/43.png",
       "large": "https://images.pokemontcg.io/xy8/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Vanillite-BKT43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2562,6 +2906,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/44.png",
       "large": "https://images.pokemontcg.io/xy8/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Vanillish-BKT44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2623,6 +2975,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/45.png",
       "large": "https://images.pokemontcg.io/xy8/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Vanilluxe-BKT45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -2674,6 +3034,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/46.png",
       "large": "https://images.pokemontcg.io/xy8/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Froakie-BKT46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2727,6 +3095,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/47.png",
       "large": "https://images.pokemontcg.io/xy8/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Frogadier-BKT47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -2794,6 +3170,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/48.png",
       "large": "https://images.pokemontcg.io/xy8/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Pikachu-BKT48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2857,6 +3241,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/49.png",
       "large": "https://images.pokemontcg.io/xy8/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Raichu-BKT49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2900,6 +3292,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/50.png",
       "large": "https://images.pokemontcg.io/xy8/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Raichu-BREAK-BKT50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": 15.0
+      }
     }
   },
   {
@@ -2965,6 +3365,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/51.png",
       "large": "https://images.pokemontcg.io/xy8/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Magnemite-BKT51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -3032,6 +3440,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/52.png",
       "large": "https://images.pokemontcg.io/xy8/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Magnemite-BKT52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3101,6 +3517,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/53.png",
       "large": "https://images.pokemontcg.io/xy8/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Magneton-BKT53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -3167,6 +3591,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/54.png",
       "large": "https://images.pokemontcg.io/xy8/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Magnezone-BKT54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3230,6 +3662,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/55.png",
       "large": "https://images.pokemontcg.io/xy8/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Raikou-BKT55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.65,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3298,6 +3738,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/56.png",
       "large": "https://images.pokemontcg.io/xy8/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Stunfisk-BKT56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3352,6 +3800,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/57.png",
       "large": "https://images.pokemontcg.io/xy8/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Dedenne-BKT57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3409,6 +3865,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/58.png",
       "large": "https://images.pokemontcg.io/xy8/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Gastly-BKT58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -3475,6 +3939,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/59.png",
       "large": "https://images.pokemontcg.io/xy8/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Haunter-BKT59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3536,6 +4008,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/60.png",
       "large": "https://images.pokemontcg.io/xy8/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Gengar-BKT60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -3604,6 +4084,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/61.png",
       "large": "https://images.pokemontcg.io/xy8/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Mewtwo-EX-V1-BKT61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.8,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3670,6 +4158,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/62.png",
       "large": "https://images.pokemontcg.io/xy8/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Mewtwo-EX-V1-BKT62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3728,6 +4224,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/63.png",
       "large": "https://images.pokemontcg.io/xy8/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/MMewtwo-EX-V1-BKT63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3783,6 +4287,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/64.png",
       "large": "https://images.pokemontcg.io/xy8/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/MMewtwo-EX-V1-BKT64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3840,6 +4352,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/65.png",
       "large": "https://images.pokemontcg.io/xy8/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Misdreavus-BKT65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3904,6 +4424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/66.png",
       "large": "https://images.pokemontcg.io/xy8/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Mismagius-BKT66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.81
+      }
     }
   },
   {
@@ -3965,6 +4493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/67.png",
       "large": "https://images.pokemontcg.io/xy8/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Wobbuffet-BKT67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4026,6 +4562,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/68.png",
       "large": "https://images.pokemontcg.io/xy8/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Ralts-BKT68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4089,6 +4633,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/69.png",
       "large": "https://images.pokemontcg.io/xy8/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Kirlia-BKT69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.58
+      }
     }
   },
   {
@@ -4147,6 +4699,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/70.png",
       "large": "https://images.pokemontcg.io/xy8/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Cresselia-BKT70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4213,6 +4773,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/71.png",
       "large": "https://images.pokemontcg.io/xy8/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Woobat-BKT71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -4277,6 +4845,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/72.png",
       "large": "https://images.pokemontcg.io/xy8/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Swoobat-BKT72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4328,6 +4904,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/73.png",
       "large": "https://images.pokemontcg.io/xy8/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Elgyem-BKT73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4387,6 +4971,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/74.png",
       "large": "https://images.pokemontcg.io/xy8/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Beheeyem-BKT74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4448,6 +5040,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/75.png",
       "large": "https://images.pokemontcg.io/xy8/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Sandshrew-BKT75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4508,6 +5108,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/76.png",
       "large": "https://images.pokemontcg.io/xy8/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Sandslash-BKT76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4561,6 +5169,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/77.png",
       "large": "https://images.pokemontcg.io/xy8/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Cubone-BKT77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4621,6 +5237,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/78.png",
       "large": "https://images.pokemontcg.io/xy8/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Marowak-V1-BKT78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4663,6 +5287,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/79.png",
       "large": "https://images.pokemontcg.io/xy8/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Marowak-BREAK-BKT79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 9.8
+      }
     }
   },
   {
@@ -4725,6 +5357,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/80.png",
       "large": "https://images.pokemontcg.io/xy8/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Swinub-BKT80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -4790,6 +5430,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/81.png",
       "large": "https://images.pokemontcg.io/xy8/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Piloswine-BKT81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -4852,6 +5500,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/82.png",
       "large": "https://images.pokemontcg.io/xy8/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Mamoswine-BKT82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -4907,6 +5563,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/83.png",
       "large": "https://images.pokemontcg.io/xy8/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Hippopotas-BKT83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -4965,6 +5629,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/84.png",
       "large": "https://images.pokemontcg.io/xy8/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Gallade-BKT84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.24,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5024,6 +5696,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/85.png",
       "large": "https://images.pokemontcg.io/xy8/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Meloetta-BKT85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -5077,6 +5757,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/86.png",
       "large": "https://images.pokemontcg.io/xy8/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Pancham-BKT86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5141,6 +5829,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/87.png",
       "large": "https://images.pokemontcg.io/xy8/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Hawlucha-BKT87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5207,6 +5903,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/88.png",
       "large": "https://images.pokemontcg.io/xy8/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Cacturne-BKT88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5274,6 +5978,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/89.png",
       "large": "https://images.pokemontcg.io/xy8/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Zorua-BKT89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -5341,6 +6053,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/90.png",
       "large": "https://images.pokemontcg.io/xy8/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Zorua-BKT90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5405,6 +6125,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/91.png",
       "large": "https://images.pokemontcg.io/xy8/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Zoroark-BKT91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5446,6 +6174,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/92.png",
       "large": "https://images.pokemontcg.io/xy8/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Zoroark-BREAK-BKT92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -5504,6 +6240,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/93.png",
       "large": "https://images.pokemontcg.io/xy8/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Inkay-BKT93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.28
+      }
     }
   },
   {
@@ -5568,6 +6312,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/94.png",
       "large": "https://images.pokemontcg.io/xy8/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Yveltal-BKT94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5627,6 +6379,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/95.png",
       "large": "https://images.pokemontcg.io/xy8/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Bronzor-BKT95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5696,6 +6456,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/96.png",
       "large": "https://images.pokemontcg.io/xy8/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Bronzong-BKT96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5758,6 +6526,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/97.png",
       "large": "https://images.pokemontcg.io/xy8/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Mr-Mime-BKT97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.18,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5827,6 +6603,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/98.png",
       "large": "https://images.pokemontcg.io/xy8/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Snubbull-BKT98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.13
+      }
     }
   },
   {
@@ -5896,6 +6680,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/99.png",
       "large": "https://images.pokemontcg.io/xy8/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Granbull-BKT99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5963,6 +6755,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/100.png",
       "large": "https://images.pokemontcg.io/xy8/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Ralts-BKT100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6020,6 +6820,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/101.png",
       "large": "https://images.pokemontcg.io/xy8/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Flabebe-V1-BKT101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6088,6 +6896,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/102.png",
       "large": "https://images.pokemontcg.io/xy8/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Floette-BKT102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -6152,6 +6968,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/103.png",
       "large": "https://images.pokemontcg.io/xy8/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Florges-BKT103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6189,6 +7013,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/104.png",
       "large": "https://images.pokemontcg.io/xy8/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Florges-BREAK-BKT104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -6246,6 +7078,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/105.png",
       "large": "https://images.pokemontcg.io/xy8/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Spritzee-BKT105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6310,6 +7150,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/106.png",
       "large": "https://images.pokemontcg.io/xy8/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Aromatisse-BKT106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -6379,6 +7227,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/107.png",
       "large": "https://images.pokemontcg.io/xy8/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Xerneas-BKT107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -6442,6 +7298,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/108.png",
       "large": "https://images.pokemontcg.io/xy8/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Axew-BKT108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6505,6 +7369,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/109.png",
       "large": "https://images.pokemontcg.io/xy8/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Axew-BKT109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -6569,6 +7441,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/110.png",
       "large": "https://images.pokemontcg.io/xy8/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Fraxure-BKT110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.13
+      }
     }
   },
   {
@@ -6639,6 +7519,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/111.png",
       "large": "https://images.pokemontcg.io/xy8/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Haxorus-BKT111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.79,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -6699,6 +7587,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/112.png",
       "large": "https://images.pokemontcg.io/xy8/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Noivern-BKT112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6742,6 +7638,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/113.png",
       "large": "https://images.pokemontcg.io/xy8/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Noivern-BREAK-BKT113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -6793,6 +7697,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/114.png",
       "large": "https://images.pokemontcg.io/xy8/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Meowth-BKT114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6860,6 +7772,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/115.png",
       "large": "https://images.pokemontcg.io/xy8/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Doduo-BKT115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6927,6 +7847,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/116.png",
       "large": "https://images.pokemontcg.io/xy8/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Doduo-BKT116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6991,6 +7919,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/117.png",
       "large": "https://images.pokemontcg.io/xy8/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Dodrio-BKT117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -7052,6 +7988,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/118.png",
       "large": "https://images.pokemontcg.io/xy8/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Snorlax-BKT118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -7110,6 +8054,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/119.png",
       "large": "https://images.pokemontcg.io/xy8/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Hoothoot-BKT119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7177,6 +8129,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/120.png",
       "large": "https://images.pokemontcg.io/xy8/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Noctowl-BKT120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -7230,6 +8190,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/121.png",
       "large": "https://images.pokemontcg.io/xy8/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Teddiursa-BKT121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7295,6 +8263,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/122.png",
       "large": "https://images.pokemontcg.io/xy8/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Ursaring-BKT122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -7351,6 +8327,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/123.png",
       "large": "https://images.pokemontcg.io/xy8/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Smeargle-BKT123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -7408,6 +8392,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/124.png",
       "large": "https://images.pokemontcg.io/xy8/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Swablu-BKT124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -7465,6 +8457,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/125.png",
       "large": "https://images.pokemontcg.io/xy8/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Starly-BKT125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -7533,6 +8533,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/126.png",
       "large": "https://images.pokemontcg.io/xy8/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Staravia-BKT126",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7600,6 +8608,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/127.png",
       "large": "https://images.pokemontcg.io/xy8/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Staraptor-BKT127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7664,6 +8680,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/128.png",
       "large": "https://images.pokemontcg.io/xy8/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Chatot-BKT128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -7722,6 +8746,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/129.png",
       "large": "https://images.pokemontcg.io/xy8/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Rufflet-BKT129",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -7791,6 +8823,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/130.png",
       "large": "https://images.pokemontcg.io/xy8/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Braviary-BKT130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7848,6 +8888,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/131.png",
       "large": "https://images.pokemontcg.io/xy8/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Noibat-BKT131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -7915,6 +8963,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/132.png",
       "large": "https://images.pokemontcg.io/xy8/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Noibat-BKT132",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7939,6 +8995,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/133.png",
       "large": "https://images.pokemontcg.io/xy8/133_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Assault-Vest-BKT133",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -7962,6 +9026,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/134.png",
       "large": "https://images.pokemontcg.io/xy8/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Brigette-BKT134",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -7985,6 +9057,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/135.png",
       "large": "https://images.pokemontcg.io/xy8/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Buddy-Buddy-Rescue-BKT135",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -8008,6 +9088,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/136.png",
       "large": "https://images.pokemontcg.io/xy8/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Fisherman-BKT136",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -8032,6 +9120,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/137.png",
       "large": "https://images.pokemontcg.io/xy8/137_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Float-Stone-BKT137",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.9,
+        "reverseHoloLow": 6.0
+      }
     }
   },
   {
@@ -8055,6 +9151,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/138.png",
       "large": "https://images.pokemontcg.io/xy8/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Giovannis-Scheme-V1-BKT138",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -8079,6 +9183,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/139.png",
       "large": "https://images.pokemontcg.io/xy8/139_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Glalie-Spirit-Link-BKT139",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -8102,6 +9214,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/140.png",
       "large": "https://images.pokemontcg.io/xy8/140_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Heavy-Ball-BKT140",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -8126,6 +9246,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/141.png",
       "large": "https://images.pokemontcg.io/xy8/141_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Heavy-Boots-BKT141",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -8150,6 +9278,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/142.png",
       "large": "https://images.pokemontcg.io/xy8/142_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Houndoom-Spirit-Link-BKT142",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -8174,6 +9310,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/143.png",
       "large": "https://images.pokemontcg.io/xy8/143_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Judge-BKT143",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -8198,6 +9342,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/144.png",
       "large": "https://images.pokemontcg.io/xy8/144_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Mewtwo-Spirit-Link-BKT144",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -8222,6 +9374,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/145.png",
       "large": "https://images.pokemontcg.io/xy8/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Parallel-City-V1-BKT145",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -8245,6 +9405,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/146.png",
       "large": "https://images.pokemontcg.io/xy8/146_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Professors-Letter-V1-BKT146",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -8291,6 +9459,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/147.png",
       "large": "https://images.pokemontcg.io/xy8/147_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Reserved-Ticket-BKT147",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -8314,6 +9490,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/148.png",
       "large": "https://images.pokemontcg.io/xy8/148_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Skyla-BKT148",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -8338,6 +9522,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/149.png",
       "large": "https://images.pokemontcg.io/xy8/149_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Super-Rod-BKT149",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -8361,6 +9553,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/150.png",
       "large": "https://images.pokemontcg.io/xy8/150_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Town-Map-BKT150",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -8385,6 +9585,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/151.png",
       "large": "https://images.pokemontcg.io/xy8/151_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Burning-Energy-BKT151",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.25
+      }
     }
   },
   {
@@ -8407,6 +9615,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/152.png",
       "large": "https://images.pokemontcg.io/xy8/152_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Rainbow-Energy-BKT152",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -8472,6 +9688,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/153.png",
       "large": "https://images.pokemontcg.io/xy8/153_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Houndoom-EX-BKT153",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8526,6 +9750,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/154.png",
       "large": "https://images.pokemontcg.io/xy8/154_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/MHoundoom-EX-BKT154",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8593,6 +9825,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/155.png",
       "large": "https://images.pokemontcg.io/xy8/155_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Glalie-EX-BKT155",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8653,6 +9893,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/156.png",
       "large": "https://images.pokemontcg.io/xy8/156_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/MGlalie-EX-BKT156",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8721,6 +9969,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/157.png",
       "large": "https://images.pokemontcg.io/xy8/157_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Mewtwo-EX-V2-BKT157",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8787,6 +10043,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/158.png",
       "large": "https://images.pokemontcg.io/xy8/158_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Mewtwo-EX-V2-BKT158",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 12.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8845,6 +10109,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/159.png",
       "large": "https://images.pokemontcg.io/xy8/159_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/MMewtwo-EX-V2-BKT159",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8900,6 +10172,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/160.png",
       "large": "https://images.pokemontcg.io/xy8/160_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/MMewtwo-EX-V2-BKT160",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8923,6 +10203,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/161.png",
       "large": "https://images.pokemontcg.io/xy8/161_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Brigette-BKT161",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8946,6 +10234,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/162.png",
       "large": "https://images.pokemontcg.io/xy8/162_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Giovannis-Scheme-V2-BKT162",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9014,6 +10310,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/163.png",
       "large": "https://images.pokemontcg.io/xy8/163_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Mewtwo-EX-V3-BKT163",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9080,6 +10384,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy8/164.png",
       "large": "https://images.pokemontcg.io/xy8/164_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Mewtwo-EX-V3-BKT164",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 25.0,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

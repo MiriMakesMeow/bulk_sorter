@@ -6596,5 +6596,107 @@
         "reverseHoloLow": 0.99
       }
     }
+  },
+  {
+    "id": "bw2-promo-82",
+    "name": "Unfezant  (EPO 82) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Tranquill",
+    "attacks": [
+      {
+        "name": "Tailwind",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach an Energy from your hand to 1 of your Pokémon."
+      },
+      {
+        "name": "Feather Strike",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40+",
+        "text": "Flip a coin. If heads, this attack does 40 more damage. If tails, discard an Energy attached to the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "number": "82",
+    "artist": "kawayoo",
+    "rarity": "Promo",
+    "flavorText": "Males have plumage on their heads. They will never let themselves fell close to anyone other than their Trainers.",
+    "nationalPokedexNumbers": [
+      521
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw2/82.png",
+      "large": "https://images.pokemontcg.io/bw2/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Unfezant-V2-EPO82",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw2-promo-95",
+    "name": "Pokémon Catcher (EPO 95) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Switch your opponent's Active Pokémon with 1 of his or her Benched Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "95",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw2/95.png",
+      "large": "https://images.pokemontcg.io/bw2/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Pokemon-Catcher-V2-EPO95",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 90.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

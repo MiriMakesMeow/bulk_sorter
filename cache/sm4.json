@@ -8383,5 +8383,416 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "sm4-promo-28",
+    "name": "Regice  (CIN 28) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Water"
+    ],
+    "abilities": [
+      {
+        "name": "Iceberg Shield",
+        "text": "If you have Regirock in play, prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Stage 2 Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Frost Smash",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "28",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "flavorText": "It is said to have slept in a glacier for thousands of years. Its body can't be melted, even by magma.",
+    "nationalPokedexNumbers": [
+      378
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm4/28.png",
+      "large": "https://images.pokemontcg.io/sm4/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crimson-Invasion/Regice-V2-CIN28",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm4-promo-53",
+    "name": "Regirock  (CIN 53) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Fighting"
+    ],
+    "abilities": [
+      {
+        "name": "Rock Peak Growl",
+        "text": "Your Registeel's attacks do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Tough Swing",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "110",
+        "text": "This attack's damage isn't affected by Resistance."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "53",
+    "artist": "kawayoo",
+    "rarity": "Promo",
+    "flavorText": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.",
+    "nationalPokedexNumbers": [
+      377
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm4/53.png",
+      "large": "https://images.pokemontcg.io/sm4/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crimson-Invasion/Regirock-V2-CIN53",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm4-promo-68",
+    "name": "Registeel  (CIN 68) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Turbo Arm",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Iron Hand",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "If Regice is on your Bench, heal 30 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "68",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "flavorText": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+    "nationalPokedexNumbers": [
+      379
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm4/68.png",
+      "large": "https://images.pokemontcg.io/sm4/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crimson-Invasion/Registeel-V2-CIN68",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.18,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm4-promo-75",
+    "name": "Jangmo-o  (CIN 75) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesTo": [
+      "Hakamo-o"
+    ],
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Gentle Slap",
+        "cost": [
+          "Lightning",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "75",
+    "artist": "Atsuko Nishida",
+    "rarity": "Promo",
+    "flavorText": "It expresses its feelings by smacking its scales. Metallic sounds echo through the tall mountains where Jangmo-o lives.",
+    "nationalPokedexNumbers": [
+      782
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm4/75.png",
+      "large": "https://images.pokemontcg.io/sm4/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crimson-Invasion/Jangmo-o-V2-CIN75",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm4-promo-84",
+    "name": "Regigigas  (CIN 84) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "180",
+    "types": [
+      "Colorless"
+    ],
+    "abilities": [
+      {
+        "name": "Seal of Antiquity",
+        "text": "This Pokémon can't attack unless Regirock, Regice, and Registeel are on your Bench.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Giant Stomp",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "160",
+        "text": "Discard any Stadium card in play."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "84",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.",
+    "nationalPokedexNumbers": [
+      486
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm4/84.png",
+      "large": "https://images.pokemontcg.io/sm4/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crimson-Invasion/Regigigas-V3-CIN84",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm4-promo-91",
+    "name": "Counter Catcher (CIN 91) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can play this card only if you have more Prize cards remaining than your opponent.",
+      "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "91",
+    "artist": "Toyste Beach",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm4/91.png",
+      "large": "https://images.pokemontcg.io/sm4/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crimson-Invasion/Counter-Catcher-V3-CIN91",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm4-promo-95",
+    "name": "Gladion (CIN 95) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Look at your face-down Prize cards and put 1 of them into your hand. Then, shuffle this Gladion into your remaining Prize cards and put them back face down. If you didn't play this Gladion from your hand, it does nothing.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "95",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm4/95.png",
+      "large": "https://images.pokemontcg.io/sm4/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Crimson-Invasion/Gladion-V3-CIN95",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

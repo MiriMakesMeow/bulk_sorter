@@ -11061,5 +11061,351 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "sm5-promo-9",
+    "name": "Torterra  (UPR 9) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "180",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Grotle",
+    "attacks": [
+      {
+        "name": "Giga Drain",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+      },
+      {
+        "name": "Earthquake",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "180",
+        "text": "This attack does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "9",
+    "artist": "kawayoo",
+    "rarity": "Promo",
+    "flavorText": "Small Pokémon occasionally gather on its unmoving back to begin building their nests.",
+    "nationalPokedexNumbers": [
+      389
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm5/9.png",
+      "large": "https://images.pokemontcg.io/sm5/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ultra-Prism/Torterra-V2-UPR9",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm5-promo-23",
+    "name": "Infernape  (UPR 23) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "130",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Monferno",
+    "abilities": [
+      {
+        "name": "Flaming Fighter",
+        "text": "Put 6 damage counters instead of 2 on your opponent's Burned Pokémon between turns.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Burst Punch",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "23",
+    "artist": "nagimiso",
+    "rarity": "Promo",
+    "flavorText": "It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style.",
+    "nationalPokedexNumbers": [
+      392
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm5/23.png",
+      "large": "https://images.pokemontcg.io/sm5/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ultra-Prism/Infernape-V2-UPR23",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm5-promo-34",
+    "name": "Empoleon  (UPR 34) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Prinplup",
+    "attacks": [
+      {
+        "name": "Total Command",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
+      },
+      {
+        "name": "Whirlpool",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "Discard an Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "34",
+    "artist": "nagimiso",
+    "rarity": "Promo",
+    "flavorText": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+    "nationalPokedexNumbers": [
+      395
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm5/34.png",
+      "large": "https://images.pokemontcg.io/sm5/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ultra-Prism/Empoleon-V2-UPR34",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.24,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm5-promo-83",
+    "name": "Magnezone  (UPR 83) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Magneton",
+    "abilities": [
+      {
+        "name": "Magnetic Circuit",
+        "text": "As often as you like during your turn (before your attack), you may attach a Metal Energy card from your hand to 1 of your Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Zap Cannon",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "130",
+        "text": "This Pokémon can't use Zap Cannon during your next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "83",
+    "artist": "Yoshinobu Saito",
+    "rarity": "Promo",
+    "flavorText": "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin, while transmitting signals of unknown purpose.",
+    "nationalPokedexNumbers": [
+      462
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm5/83.png",
+      "large": "https://images.pokemontcg.io/sm5/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ultra-Prism/Magnezone-V2-UPR83",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm5-promo-119",
+    "name": "Cynthia (UPR 119) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Shuffle your hand into your deck. Then, draw 6 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "119",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm5/119.png",
+      "large": "https://images.pokemontcg.io/sm5/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ultra-Prism/Cynthia-V3-UPR126",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm5-promo-122",
+    "name": "Escape Board (UPR 122) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The Retreat Cost of the Pokémon this card is attached to is Colorless less, and it can retreat even if it's Asleep or Paralyzed.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "122",
+    "artist": "Toyste Beach",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm5/122.png",
+      "large": "https://images.pokemontcg.io/sm5/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ultra-Prism/Escape-Board-V3-UPR122",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

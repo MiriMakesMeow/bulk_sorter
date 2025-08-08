@@ -14680,5 +14680,285 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "swsh7-promo-40",
+    "name": "Glaceon V  (EVS 040) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "210",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Frozen Awakening",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
+      },
+      {
+        "name": "Heavy Snow",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "Discard a Stadium in play."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "40",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      471
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/40.png",
+      "large": "https://images.pokemontcg.io/swsh7/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Glaceon-V-V4-EVS040",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh7-promo-41",
+    "name": "Glaceon VMAX  (EVS 041) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX"
+    ],
+    "hp": "310",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Glaceon V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Crystal Veil",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon VMAX, except any Glaceon VMAX.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Max Icicle",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "41",
+    "artist": "PLANETA Tsuji",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      471
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/41.png",
+      "large": "https://images.pokemontcg.io/swsh7/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Glaceon-VMAX-V4-EVS041",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh7-promo-43",
+    "name": "Cryogonal  (EVS 043) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Element Chain",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Look at the top 6 cards of your deck and attach any number of basic Energy cards you find there to your Pokémon in any way you like. Shuffle the other cards back into your deck."
+      },
+      {
+        "name": "Icy Snow",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "43",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148 degrees Fahrenheit.",
+    "nationalPokedexNumbers": [
+      615
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/43.png",
+      "large": "https://images.pokemontcg.io/swsh7/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Cryogonal-V2-EVS043",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh7-promo-49",
+    "name": "Pikachu  (EVS 049) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "attacks": [
+      {
+        "name": "Energize",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Attach a Lightning Energy card from your discard pile to this Pokémon."
+      },
+      {
+        "name": "Electro Ball",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "49",
+    "artist": "chibi",
+    "rarity": "Promo",
+    "flavorText": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/49.png",
+      "large": "https://images.pokemontcg.io/swsh7/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolving-Skies/Pikachu-V2-EVS049",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 2.0
+      }
+    }
   }
 ]

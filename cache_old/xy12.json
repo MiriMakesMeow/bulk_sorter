@@ -2,7 +2,7 @@
   {
     "id": "xy12-1",
     "name": "Venusaur-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -15,7 +15,7 @@
       "M Venusaur-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -27,7 +27,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Your opponent's Active Pokémon is now Poisoned."
       },
       {
         "name": "Jungle Hammer",
@@ -39,13 +39,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "90",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -101,31 +101,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-1",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Venusaur-EX-EVO1",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.0,
         "lowPrice": 1.0,
-        "trendPrice": 5.41,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.71,
-        "lowPriceExPlus": 2.99,
-        "avg1": 5.95,
-        "avg7": 4.77,
-        "avg30": 4.86,
-        "reverseHoloAvg1": 8.0,
-        "reverseHoloAvg7": 5.67,
-        "reverseHoloAvg30": 8.46
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-2",
     "name": "M Venusaur-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -136,8 +123,8 @@
     ],
     "evolvesFrom": "Venusaur-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -150,13 +137,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "120",
-        "text": "Your opponent's Active Pok\u00e9mon is now Paralyzed and Poisoned."
+        "text": "Your opponent's Active Pokémon is now Paralyzed and Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -212,31 +199,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-2",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MVenusaur-EX-EVO2",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 13.86,
         "lowPrice": 2.5,
-        "trendPrice": 24.87,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 11.77,
-        "lowPriceExPlus": 8.5,
-        "avg1": 12.0,
-        "avg7": 18.47,
-        "avg30": 15.36,
-        "reverseHoloAvg1": 13.0,
-        "reverseHoloAvg7": 12.69,
-        "reverseHoloAvg30": 10.91
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-3",
     "name": "Caterpie",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -256,13 +230,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -323,31 +297,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-3",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Caterpie-EVO3",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.74,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.59,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.07,
-        "avg7": 0.06,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.57,
-        "reverseHoloAvg30": 0.61
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-4",
     "name": "Metapod",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -369,7 +330,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 40 (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 40 (after applying Weakness and Resistance)."
       },
       {
         "name": "Stun Spore",
@@ -379,13 +340,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -447,31 +408,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-4",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Metapod-EVO4",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.63,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 1.1,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.07,
-        "avg7": 0.11,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.65,
-        "reverseHoloAvg7": 1.27,
-        "reverseHoloAvg30": 0.73
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy12-5",
     "name": "Weedle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -491,13 +439,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -558,31 +506,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-5",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Weedle-EVO5",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.36,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.64,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.06,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.39,
-        "reverseHoloAvg7": 0.68,
-        "reverseHoloAvg30": 0.47
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy12-6",
     "name": "Kakuna",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -604,7 +539,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 40 (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 40 (after applying Weakness and Resistance)."
       },
       {
         "name": "Poison Powder",
@@ -614,13 +549,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -649,7 +584,7 @@
     "number": "6",
     "artist": "Keiji Kinebuchi",
     "rarity": "Uncommon",
-    "flavorText": "This Pok\u00e9mon is in a temporary stage while making its body. It is almost completely unable to move on its own.",
+    "flavorText": "This Pokémon is in a temporary stage while making its body. It is almost completely unable to move on its own.",
     "nationalPokedexNumbers": [
       14
     ],
@@ -682,31 +617,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-6",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Kakuna-EVO6",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.44,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.67,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.09,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.49,
-        "reverseHoloAvg7": 0.75,
-        "reverseHoloAvg30": 0.51
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-7",
     "name": "Beedrill",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -724,7 +646,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Your opponent's Active Pokémon is now Poisoned."
       },
       {
         "name": "Swarming Sting",
@@ -734,13 +656,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "This attack does 40 damage times the number of Beedrill you have in play to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 40 damage times the number of Beedrill you have in play to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -797,31 +719,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-7",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Beedrill-EVO7",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.21,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.95,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 1.21,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.14,
-        "avg7": 0.19,
-        "avg30": 0.21,
-        "reverseHoloAvg1": 2.99,
-        "reverseHoloAvg7": 1.97,
-        "reverseHoloAvg30": 2.31
+        "reverseHoloLow": 0.19
       }
     }
   },
   {
     "id": "xy12-8",
     "name": "Tangela",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -842,7 +751,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Poison Powder",
@@ -853,13 +762,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -888,7 +797,7 @@
     "number": "8",
     "artist": "Mitsuhiro Arita",
     "rarity": "Common",
-    "flavorText": "Blue plant vines cloak the Pok\u00e9mon's identity in a tangled mass. It entangles anything that gets close.",
+    "flavorText": "Blue plant vines cloak the Pokémon's identity in a tangled mass. It entangles anything that gets close.",
     "nationalPokedexNumbers": [
       114
     ],
@@ -921,31 +830,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-8",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Tangela-EVO8",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.49,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.61,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.06,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.44,
-        "reverseHoloAvg7": 0.56,
-        "reverseHoloAvg30": 0.48
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy12-9",
     "name": "Charmander",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -975,13 +871,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Discard a Fire Energy attached to this Pok\u00e9mon."
+        "text": "Discard a Fire Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1042,31 +938,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-9",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Charmander-V1-EVO9",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.06,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 1.95,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.13,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 1.8,
-        "reverseHoloAvg7": 2.07,
-        "reverseHoloAvg30": 2.55
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy12-10",
     "name": "Charmeleon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1100,13 +983,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90",
-        "text": "Discard a Fire Energy attached to this Pok\u00e9mon."
+        "text": "Discard a Fire Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1167,31 +1050,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-10",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Charmeleon-EVO10",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.25,
         "lowPrice": 0.02,
-        "trendPrice": 0.22,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.58,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 2.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.24,
-        "avg7": 0.25,
-        "avg30": 0.26,
-        "reverseHoloAvg1": 0.88,
-        "reverseHoloAvg7": 2.65,
-        "reverseHoloAvg30": 2.71
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy12-11",
     "name": "Charizard",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -1204,7 +1074,7 @@
     "abilities": [
       {
         "name": "Energy Burn",
-        "text": "All Energy attached to this Pok\u00e9mon are Fire Energy instead of their usual type.",
+        "text": "All Energy attached to this Pokémon are Fire Energy instead of their usual type.",
         "type": "Ability"
       }
     ],
@@ -1219,13 +1089,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "200",
-        "text": "Discard 3 Energy attached to this Pok\u00e9mon."
+        "text": "Discard 3 Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1261,7 +1131,7 @@
     "number": "11",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
-    "flavorText": "Its wings can carry this Pok\u00e9mon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+    "flavorText": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
     "nationalPokedexNumbers": [
       6
     ],
@@ -1294,31 +1164,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-11",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Charizard-V1-EVO11",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 58.75,
-        "lowPrice": 19.9,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 50.65,
-        "reverseHoloLow": 24.9,
-        "reverseHoloTrend": 50.5,
-        "lowPriceExPlus": 39.0,
-        "avg1": 38.67,
-        "avg7": 53.7,
-        "avg30": 88.81,
-        "reverseHoloAvg1": 50.5,
-        "reverseHoloAvg7": 51.8,
-        "reverseHoloAvg30": 51.19
+        "lowPrice": 24.5,
+        "reverseHoloLow": 24.9
       }
     }
   },
   {
     "id": "xy12-12",
     "name": "Charizard-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -1331,7 +1188,7 @@
       "M Charizard-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1355,13 +1212,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "150",
-        "text": "This Pok\u00e9mon can't use Combustion Blast during your next turn."
+        "text": "This Pokémon can't use Combustion Blast during your next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1415,31 +1272,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-12",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Charizard-EX-EVO12",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 16.27,
-        "lowPrice": 5.0,
-        "trendPrice": 15.34,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 20.41,
-        "lowPriceExPlus": 10.75,
-        "avg1": 11.99,
-        "avg7": 16.29,
-        "avg30": 15.62,
-        "reverseHoloAvg1": 22.96,
-        "reverseHoloAvg7": 21.81,
-        "reverseHoloAvg30": 25.05
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-13",
     "name": "M Charizard-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -1450,8 +1294,8 @@
     ],
     "evolvesFrom": "Charizard-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1465,13 +1309,13 @@
         ],
         "convertedEnergyCost": 5,
         "damage": "300",
-        "text": "This Pok\u00e9mon does 50 damage to itself."
+        "text": "This Pokémon does 50 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1524,31 +1368,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-13",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MCharizard-EX-EVO13",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 41.65,
-        "lowPrice": 11.99,
-        "trendPrice": 48.55,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 33.2,
-        "lowPriceExPlus": 24.26,
-        "avg1": 32.25,
-        "avg7": 33.41,
-        "avg30": 36.57,
-        "reverseHoloAvg1": 33.75,
-        "reverseHoloAvg7": 33.06,
-        "reverseHoloAvg30": 35.29
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-14",
     "name": "Vulpix",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1569,13 +1400,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Confused."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1636,31 +1467,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-14",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Vulpix-EVO14",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.83,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.94,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.86,
-        "reverseHoloAvg30": 0.73
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy12-15",
     "name": "Ninetales",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1678,7 +1496,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with his or her Active Pok\u00e9mon. The new Active Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon. The new Active Pokémon can't retreat during your opponent's next turn."
       },
       {
         "name": "Fire Blast",
@@ -1689,13 +1507,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "Discard a Fire Energy attached to this Pok\u00e9mon."
+        "text": "Discard a Fire Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1756,31 +1574,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-15",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Ninetales-EVO15",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.97,
         "lowPrice": 1.0,
-        "trendPrice": 5.73,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 4.0,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 3.48,
-        "lowPriceExPlus": 2.5,
-        "avg1": 3.97,
-        "avg7": 4.69,
-        "avg30": 4.85,
-        "reverseHoloAvg1": 4.4,
-        "reverseHoloAvg7": 3.78,
-        "reverseHoloAvg30": 4.3
+        "reverseHoloLow": 1.45
       }
     }
   },
   {
     "id": "xy12-16",
     "name": "Ninetales BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -1801,7 +1606,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "10+",
-        "text": "Discard all Fire Energy attached to this Pok\u00e9mon. This attack does 60 more damage for each Energy card discarded in this way."
+        "text": "Discard all Fire Energy attached to this Pokémon. This attack does 60 more damage for each Energy card discarded in this way."
       }
     ],
     "set": {
@@ -1850,31 +1655,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-16",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Ninetales-BREAK-EVO16",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.18,
         "lowPrice": 0.5,
-        "trendPrice": 3.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 10.0,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 6.62,
-        "lowPriceExPlus": 1.98,
-        "avg1": 2.3,
-        "avg7": 3.39,
-        "avg30": 2.96,
-        "reverseHoloAvg1": 10.0,
-        "reverseHoloAvg7": 5.16,
-        "reverseHoloAvg30": 5.51
+        "reverseHoloLow": 1.0
       }
     }
   },
   {
     "id": "xy12-17",
     "name": "Growlithe",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1894,7 +1686,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon."
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon."
       },
       {
         "name": "Flare",
@@ -1910,7 +1702,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1972,31 +1764,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-17",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Growlithe-EVO17",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.61,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.65,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.55,
-        "reverseHoloAvg7": 0.51,
-        "reverseHoloAvg30": 0.6
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-18",
     "name": "Arcanine",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2009,7 +1788,7 @@
     "abilities": [
       {
         "name": "Burning Road",
-        "text": "Once during your turn (before your attack), if this Pok\u00e9mon was on the Bench and became your Active Pok\u00e9mon this turn, you may move any number of Fire Energy attached to your Pok\u00e9mon to this Pok\u00e9mon.",
+        "text": "Once during your turn (before your attack), if this Pokémon was on the Bench and became your Active Pokémon this turn, you may move any number of Fire Energy attached to your Pokémon to this Pokémon.",
         "type": "Ability"
       }
     ],
@@ -2024,13 +1803,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "150",
-        "text": "This Pok\u00e9mon can't attack during your next turn."
+        "text": "This Pokémon can't attack during your next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2059,7 +1838,7 @@
     "number": "18",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
-    "flavorText": "A Pok\u00e9mon that is described in Chinese legends. It is said to race at an unbelievable speed.",
+    "flavorText": "A Pokémon that is described in Chinese legends. It is said to race at an unbelievable speed.",
     "nationalPokedexNumbers": [
       59
     ],
@@ -2092,31 +1871,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-18",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Arcanine-EVO18",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.41,
         "lowPrice": 0.02,
-        "trendPrice": 0.43,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 4.04,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 4.02,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.35,
-        "avg7": 0.32,
-        "avg30": 0.38,
-        "reverseHoloAvg1": 3.5,
-        "reverseHoloAvg7": 3.86,
-        "reverseHoloAvg30": 3.31
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy12-19",
     "name": "Ponyta",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2153,7 +1919,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2214,31 +1980,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-19",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Ponyta-EVO19",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.6,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.35,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.05,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.52,
-        "reverseHoloAvg30": 0.6
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-20",
     "name": "Magmar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2270,13 +2023,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "Discard a Fire Energy attached to this Pok\u00e9mon."
+        "text": "Discard a Fire Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2338,31 +2091,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-20",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Magmar-EVO20",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.15,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.66,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.6,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.08,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.33,
-        "reverseHoloAvg7": 0.75,
-        "reverseHoloAvg30": 0.59
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "xy12-21",
     "name": "Blastoise-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -2375,7 +2115,7 @@
       "M Blastoise-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -2386,7 +2126,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon. Then, your opponent switches his or her Active Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon."
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon. Then, your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
       },
       {
         "name": "Splash Bomb",
@@ -2397,13 +2137,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "Flip a coin. If tails, this Pok\u00e9mon does 30 damage to itself."
+        "text": "Flip a coin. If tails, this Pokémon does 30 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2458,31 +2198,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-21",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Blastoise-EX-EVO21",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 8.07,
         "lowPrice": 1.75,
-        "trendPrice": 6.35,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 8.9,
-        "lowPriceExPlus": 3.0,
-        "avg1": 5.5,
-        "avg7": 5.86,
-        "avg30": 6.78,
-        "reverseHoloAvg1": 9.7,
-        "reverseHoloAvg7": 10.1,
-        "reverseHoloAvg30": 10.19
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-22",
     "name": "M Blastoise-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -2493,8 +2220,8 @@
     ],
     "evolvesFrom": "Blastoise-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -2506,13 +2233,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "This attack does 30 damage to 2 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 30 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2567,31 +2294,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-22",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MBlastoise-EX-EVO22",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 18.34,
-        "lowPrice": 3.5,
-        "trendPrice": 21.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 10.14,
-        "lowPriceExPlus": 8.95,
-        "avg1": 19.72,
-        "avg7": 13.52,
-        "avg30": 16.6,
-        "reverseHoloAvg1": 10.73,
-        "reverseHoloAvg7": 12.12,
-        "reverseHoloAvg30": 13.97
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-23",
     "name": "Poliwag",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2618,7 +2332,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2679,31 +2393,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-23",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Poliwag-EVO23",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.67,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.93,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.52,
-        "reverseHoloAvg7": 0.79,
-        "reverseHoloAvg30": 0.64
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy12-24",
     "name": "Poliwhirl",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2726,7 +2427,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks. That Pok\u00e9mon can't use that attack during your opponent's next turn."
+        "text": "Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
       },
       {
         "name": "Double Slap",
@@ -2736,14 +2437,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "50\u00d7",
+        "damage": "50×",
         "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2804,31 +2505,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-24",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Poliwhirl-EVO24",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.15,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.52,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 1.79,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.09,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.45,
-        "reverseHoloAvg7": 0.91,
-        "reverseHoloAvg30": 1.56
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy12-25",
     "name": "Poliwrath",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -2846,7 +2534,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "50+",
-        "text": "If this Pok\u00e9mon was on the Bench and became your Active Pok\u00e9mon this turn, this attack does 50 more damage."
+        "text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 50 more damage."
       },
       {
         "name": "Whirlpool",
@@ -2857,13 +2545,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "Discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Discard an Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2925,31 +2613,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-25",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Poliwrath-EVO25",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.91,
-        "lowPrice": 0.4,
-        "trendPrice": 3.01,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.0,
-        "reverseHoloLow": 0.4,
-        "reverseHoloTrend": 2.72,
-        "lowPriceExPlus": 0.99,
-        "avg1": 2.0,
-        "avg7": 2.66,
-        "avg30": 2.55,
-        "reverseHoloAvg1": 4.0,
-        "reverseHoloAvg7": 2.61,
-        "reverseHoloAvg30": 3.07
+        "lowPrice": 0.7,
+        "reverseHoloLow": 0.79
       }
     }
   },
   {
     "id": "xy12-26",
     "name": "Slowbro-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -2962,7 +2637,7 @@
       "M Slowbro-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -2973,7 +2648,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Heal 60 damage from this Pok\u00e9mon. This Pok\u00e9mon can't attack during your next turn."
+        "text": "Heal 60 damage from this Pokémon. This Pokémon can't attack during your next turn."
       },
       {
         "name": "Flash Splash",
@@ -2990,7 +2665,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3045,31 +2720,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-26",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Slowbro-EX-EVO26",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.22,
-        "lowPrice": 0.9,
-        "trendPrice": 2.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.98,
-        "lowPriceExPlus": 1.5,
-        "avg1": 1.94,
-        "avg7": 2.3,
-        "avg30": 2.91,
-        "reverseHoloAvg1": 1.89,
-        "reverseHoloAvg7": 2.26,
-        "reverseHoloAvg30": 2.12
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-27",
     "name": "M Slowbro-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -3080,8 +2742,8 @@
     ],
     "evolvesFrom": "Slowbro-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -3093,13 +2755,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100+",
-        "text": "This Pok\u00e9mon is now Confused. During your next turn, this Pok\u00e9mon's Loll Roll Spin attack does 100 more damage (before applying Weakness and Resistance)."
+        "text": "This Pokémon is now Confused. During your next turn, this Pokémon's Loll Roll Spin attack does 100 more damage (before applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3154,31 +2816,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-27",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MSlowbro-EX-EVO27",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 8.2,
         "lowPrice": 1.0,
-        "trendPrice": 8.63,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.67,
-        "lowPriceExPlus": 3.0,
-        "avg1": 10.0,
-        "avg7": 8.4,
-        "avg30": 8.01,
-        "reverseHoloAvg1": 2.79,
-        "reverseHoloAvg7": 4.03,
-        "reverseHoloAvg30": 4.48
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-28",
     "name": "Seel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3198,7 +2847,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pok\u00e9mon is reduced by 20 (before applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
       },
       {
         "name": "Headbutt",
@@ -3214,7 +2863,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3276,31 +2925,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-28",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Seel-EVO28",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.57,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.46,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.05,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.58,
-        "reverseHoloAvg7": 0.39,
-        "reverseHoloAvg30": 0.49
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-29",
     "name": "Dewgong",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3318,7 +2954,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 40 damage from this Pok\u00e9mon. Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon."
+        "text": "Heal 40 damage from this Pokémon. Switch this Pokémon with 1 of your Benched Pokémon."
       },
       {
         "name": "Take Down",
@@ -3329,13 +2965,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90",
-        "text": "This Pok\u00e9mon does 20 damage to itself."
+        "text": "This Pokémon does 20 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3398,31 +3034,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-29",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Dewgong-EVO29",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.23,
         "lowPrice": 0.02,
-        "trendPrice": 0.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.97,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 2.42,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.4,
-        "avg7": 0.23,
-        "avg30": 0.24,
-        "reverseHoloAvg1": 1.99,
-        "reverseHoloAvg7": 2.83,
-        "reverseHoloAvg30": 2.19
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-30",
     "name": "Staryu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3448,7 +3071,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3509,31 +3132,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-30",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Staryu-EVO30",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.51,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.45,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.06,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.25,
-        "reverseHoloAvg7": 0.28,
-        "reverseHoloAvg30": 0.4
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy12-31",
     "name": "Starmie",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3559,13 +3169,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3593,7 +3203,7 @@
     "number": "31",
     "artist": "Keiji Kinebuchi",
     "rarity": "Rare",
-    "flavorText": "This Pok\u00e9mon has a geometric body. Because of its body, the locals suspect that it is an alien creature.",
+    "flavorText": "This Pokémon has a geometric body. Because of its body, the locals suspect that it is an alien creature.",
     "nationalPokedexNumbers": [
       121
     ],
@@ -3626,31 +3236,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-31",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Starmie-EVO31",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.24,
         "lowPrice": 0.02,
-        "trendPrice": 0.22,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.68,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 2.89,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.24,
-        "avg7": 0.2,
-        "avg30": 0.23,
-        "reverseHoloAvg1": 4.0,
-        "reverseHoloAvg7": 2.85,
-        "reverseHoloAvg30": 2.89
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "xy12-32",
     "name": "Starmie BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -3670,7 +3267,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 100 damage to each of your opponent's Pok\u00e9mon BREAK. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 100 damage to each of your opponent's Pokémon BREAK. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "set": {
@@ -3719,31 +3316,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-32",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Starmie-BREAK-EVO32",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.39,
-        "lowPrice": 0.1,
-        "trendPrice": 2.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.0,
-        "reverseHoloLow": 2.97,
-        "reverseHoloTrend": 4.13,
-        "lowPriceExPlus": 0.95,
-        "avg1": 1.0,
-        "avg7": 2.19,
-        "avg30": 2.24,
-        "reverseHoloAvg1": 3.25,
-        "reverseHoloAvg7": 3.3,
-        "reverseHoloAvg30": 3.49
+        "lowPrice": 0.4,
+        "reverseHoloLow": 2.97
       }
     }
   },
   {
     "id": "xy12-33",
     "name": "Magikarp",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3762,14 +3346,14 @@
           "Water"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
-        "text": "This attack does 10 damage times the number of damage counters on this Pok\u00e9mon."
+        "damage": "10×",
+        "text": "This attack does 10 damage times the number of damage counters on this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3797,7 +3381,7 @@
     "number": "33",
     "artist": "Mitsuhiro Arita",
     "rarity": "Common",
-    "flavorText": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pok\u00e9mon in the world.",
+    "flavorText": "It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.",
     "nationalPokedexNumbers": [
       129
     ],
@@ -3830,31 +3414,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-33",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Magikarp-EVO33",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.22,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.1,
-        "reverseHoloLow": 0.06,
-        "reverseHoloTrend": 0.62,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.07,
-        "avg7": 0.08,
-        "avg30": 0.22,
-        "reverseHoloAvg1": 0.7,
-        "reverseHoloAvg7": 0.51,
-        "reverseHoloAvg30": 0.85
+        "reverseHoloLow": 0.06
       }
     }
   },
   {
     "id": "xy12-34",
     "name": "Gyarados",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3874,7 +3445,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Dragon Rage",
@@ -3892,7 +3463,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3955,31 +3526,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-34",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Gyarados-V1-EVO34",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 70.0,
-        "lowPrice": 78.31,
-        "trendPrice": 109.0,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 95.0,
-        "avg1": 70.0,
-        "avg7": 140.71,
-        "avg30": 103.47,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 1.2,
+        "reverseHoloLow": 1.2
       }
     }
   },
   {
     "id": "xy12-35",
     "name": "Pikachu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4009,13 +3567,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If tails, this Pok\u00e9mon does 10 damage to itself."
+        "text": "Flip a coin. If tails, this Pokémon does 10 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4082,31 +3640,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-35",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Pikachu-EVO35",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.68,
         "lowPrice": 0.02,
-        "trendPrice": 0.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.93,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 2.99,
-        "lowPriceExPlus": 0.03,
-        "avg1": 2.33,
-        "avg7": 0.7,
-        "avg30": 0.68,
-        "reverseHoloAvg1": 2.23,
-        "reverseHoloAvg7": 3.09,
-        "reverseHoloAvg30": 3.27
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy12-36",
     "name": "Raichu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4124,7 +3669,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Attach a Lightning Energy card from your discard pile to this Pok\u00e9mon."
+        "text": "Attach a Lightning Energy card from your discard pile to this Pokémon."
       },
       {
         "name": "Spark Bolt",
@@ -4135,13 +3680,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70+",
-        "text": "You may discard all Energy attached to this Pok\u00e9mon. If you do, this attack does 70 more damage."
+        "text": "You may discard all Energy attached to this Pokémon. If you do, this attack does 70 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4208,31 +3753,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-36",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Raichu-EVO36",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.1,
-        "lowPrice": 1.0,
-        "trendPrice": 5.49,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 4.77,
-        "reverseHoloLow": 1.99,
-        "reverseHoloTrend": 5.13,
-        "lowPriceExPlus": 2.5,
-        "avg1": 3.0,
-        "avg7": 3.92,
-        "avg30": 3.96,
-        "reverseHoloAvg1": 4.99,
-        "reverseHoloAvg7": 4.78,
-        "reverseHoloAvg30": 4.45
+        "lowPrice": 0.99,
+        "reverseHoloLow": 1.99
       }
     }
   },
   {
     "id": "xy12-37",
     "name": "Magnemite",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4252,7 +3784,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Self-Destruct",
@@ -4262,13 +3794,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
-        "text": "This Pok\u00e9mon does 50 damage to itself."
+        "text": "This Pokémon does 50 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4335,31 +3867,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-37",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Magnemite-EVO37",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.58,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.48,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.07,
-        "avg7": 0.07,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.34,
-        "reverseHoloAvg7": 0.42,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy12-38",
     "name": "Magneton",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4381,7 +3900,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Self-Destruct",
@@ -4392,13 +3911,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "This Pok\u00e9mon does 80 damage to itself."
+        "text": "This Pokémon does 80 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4465,31 +3984,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-38",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Magneton-EVO38",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.61,
         "lowPrice": 0.45,
-        "trendPrice": 1.27,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.99,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 2.45,
-        "lowPriceExPlus": 0.7,
-        "avg1": 2.0,
-        "avg7": 1.5,
-        "avg30": 2.48,
-        "reverseHoloAvg1": 1.99,
-        "reverseHoloAvg7": 3.12,
-        "reverseHoloAvg30": 2.65
+        "reverseHoloLow": 0.95
       }
     }
   },
   {
     "id": "xy12-39",
     "name": "Voltorb",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4508,14 +4014,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip a coin until you get tails. This attack does 10 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4582,31 +4088,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-39",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Voltorb-EVO39",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.69,
-        "reverseHoloLow": 0.09,
-        "reverseHoloTrend": 0.89,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.07,
-        "avg7": 0.06,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.43,
-        "reverseHoloAvg7": 0.68,
-        "reverseHoloAvg30": 0.57
+        "reverseHoloLow": 0.09
       }
     }
   },
   {
     "id": "xy12-40",
     "name": "Electrode",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4619,7 +4112,7 @@
     "abilities": [
       {
         "name": "Buzzap Thunder",
-        "text": "Once during your turn (before your attack), you may Knock Out this Pok\u00e9mon and attach it to one of your Lightning Pok\u00e9mon as a Special Energy card. This card provides 2 Lightning Energy only while this card is attached to a Pok\u00e9mon.",
+        "text": "Once during your turn (before your attack), you may Knock Out this Pokémon and attach it to one of your Lightning Pokémon as a Special Energy card. This card provides 2 Lightning Energy only while this card is attached to a Pokémon.",
         "type": "Ability"
       }
     ],
@@ -4639,7 +4132,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4706,31 +4199,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-40",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Electrode-EVO40",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.23,
         "lowPrice": 0.02,
-        "trendPrice": 0.24,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.67,
-        "reverseHoloLow": 0.29,
-        "reverseHoloTrend": 1.49,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.4,
-        "avg7": 0.31,
-        "avg30": 0.24,
-        "reverseHoloAvg1": 0.05,
-        "reverseHoloAvg7": 1.22,
-        "reverseHoloAvg30": 1.92
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy12-41",
     "name": "Electabuzz",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4750,7 +4230,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Thunder Punch",
@@ -4760,13 +4240,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "Flip a coin. If heads, this attack does 10 more damage. If tails, this Pok\u00e9mon does 10 damage to itself."
+        "text": "Flip a coin. If heads, this attack does 10 more damage. If tails, this Pokémon does 10 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4834,31 +4314,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-41",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Electabuzz-EVO41",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.32,
         "lowPrice": 0.02,
-        "trendPrice": 2.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.57,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.63,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.92,
-        "avg30": 0.46,
-        "reverseHoloAvg1": 0.49,
-        "reverseHoloAvg7": 0.55,
-        "reverseHoloAvg30": 0.67
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy12-42",
     "name": "Zapdos",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4878,7 +4345,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "90",
-        "text": "This Pok\u00e9mon does 30 damage to itself."
+        "text": "This Pokémon does 30 damage to itself."
       },
       {
         "name": "Thunderbolt",
@@ -4890,7 +4357,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "170",
-        "text": "Discard all Energy attached to this Pok\u00e9mon."
+        "text": "Discard all Energy attached to this Pokémon."
       }
     ],
     "resistances": [
@@ -4925,7 +4392,7 @@
     "number": "42",
     "artist": "Ken Sugimori",
     "rarity": "Rare Holo",
-    "flavorText": "One of the legendary bird Pok\u00e9mon. While it is flying, it makes crackling and snapping sounds.",
+    "flavorText": "One of the legendary bird Pokémon. While it is flying, it makes crackling and snapping sounds.",
     "nationalPokedexNumbers": [
       145
     ],
@@ -4958,31 +4425,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-42",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Zapdos-EVO42",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 6.32,
         "lowPrice": 0.8,
-        "trendPrice": 6.29,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 5.96,
-        "reverseHoloLow": 0.8,
-        "reverseHoloTrend": 5.93,
-        "lowPriceExPlus": 2.5,
-        "avg1": 4.66,
-        "avg7": 5.16,
-        "avg30": 5.01,
-        "reverseHoloAvg1": 7.0,
-        "reverseHoloAvg7": 6.32,
-        "reverseHoloAvg30": 5.74
+        "reverseHoloLow": 0.8
       }
     }
   },
   {
     "id": "xy12-43",
-    "name": "Nidoran \u2642",
-    "supertype": "Pok\u00e9mon",
+    "name": "Nidoran ♂",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5001,14 +4455,14 @@
           "Psychic"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5069,31 +4523,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-43",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Nidoran-EVO43",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.66,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.63,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.09,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.65,
-        "reverseHoloAvg7": 0.66,
-        "reverseHoloAvg30": 0.68
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy12-44",
     "name": "Nidorino",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5102,7 +4543,7 @@
     "types": [
       "Psychic"
     ],
-    "evolvesFrom": "Nidoran \u2642",
+    "evolvesFrom": "Nidoran ♂",
     "evolvesTo": [
       "Nidoking"
     ],
@@ -5124,14 +4565,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "30\u00d7",
+        "damage": "30×",
         "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5193,31 +4634,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-44",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Nidorino-EVO44",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.55,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.77,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.12,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.24,
-        "reverseHoloAvg7": 0.8,
-        "reverseHoloAvg30": 0.61
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-45",
     "name": "Nidoking",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -5236,7 +4664,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       },
       {
         "name": "Tail Swing",
@@ -5247,13 +4675,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "This attack does 20 damage to each of your opponent's Benched Basic Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 20 damage to each of your opponent's Benched Basic Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5316,31 +4744,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-45",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Nidoking-EVO45",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.45,
         "lowPrice": 0.4,
-        "trendPrice": 4.61,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 5.62,
-        "reverseHoloLow": 1.99,
-        "reverseHoloTrend": 5.07,
-        "lowPriceExPlus": 0.99,
-        "avg1": 2.5,
-        "avg7": 4.19,
-        "avg30": 4.01,
-        "reverseHoloAvg1": 5.0,
-        "reverseHoloAvg7": 4.29,
-        "reverseHoloAvg30": 4.86
+        "reverseHoloLow": 1.99
       }
     }
   },
   {
     "id": "xy12-46",
     "name": "Nidoking BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -5362,7 +4777,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned. Put 2 damage counters instead of 1 on that Pok\u00e9mon between turns."
+        "text": "Your opponent's Active Pokémon is now Poisoned. Put 2 damage counters instead of 1 on that Pokémon between turns."
       }
     ],
     "set": {
@@ -5411,31 +4826,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-46",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Nidoking-BREAK-EVO46",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.24,
         "lowPrice": 0.5,
-        "trendPrice": 2.99,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 9.99,
-        "reverseHoloLow": 5.0,
-        "reverseHoloTrend": 4.23,
-        "lowPriceExPlus": 1.0,
-        "avg1": 2.9,
-        "avg7": 2.55,
-        "avg30": 3.05,
-        "reverseHoloAvg1": 9.99,
-        "reverseHoloAvg7": 3.85,
-        "reverseHoloAvg30": 3.77
+        "reverseHoloLow": 1.5
       }
     }
   },
   {
     "id": "xy12-47",
     "name": "Gastly",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5455,7 +4857,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "During your opponent's next turn, if this Pok\u00e9mon is Knocked Out by damage from an attack, discard an Energy attached to the Attacking Pok\u00e9mon."
+        "text": "During your opponent's next turn, if this Pokémon is Knocked Out by damage from an attack, discard an Energy attached to the Attacking Pokémon."
       },
       {
         "name": "Nightmare",
@@ -5465,13 +4867,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5538,31 +4940,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-47",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Gastly-EVO47",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.59,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.76,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.07,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.45,
-        "reverseHoloAvg7": 0.66,
-        "reverseHoloAvg30": 0.62
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-48",
     "name": "Haunter",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5583,7 +4972,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Your opponent's Active Pokémon is now Asleep."
       },
       {
         "name": "Dream Eater",
@@ -5593,13 +4982,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "80",
-        "text": "If your opponent's Active Pok\u00e9mon is not Asleep, this attack does nothing."
+        "text": "If your opponent's Active Pokémon is not Asleep, this attack does nothing."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5666,31 +5055,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-48",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Haunter-EVO48",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.15,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.73,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.93,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.12,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 1.75,
-        "reverseHoloAvg7": 0.86,
-        "reverseHoloAvg30": 0.8
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-49",
     "name": "Drowzee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5720,13 +5096,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "10",
-        "text": "Your opponent's Active Pok\u00e9mon is now Confused."
+        "text": "Your opponent's Active Pokémon is now Confused."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5787,31 +5163,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-49",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Drowzee-EVO49",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.71,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.66,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.05,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.43,
-        "reverseHoloAvg7": 0.6,
-        "reverseHoloAvg30": 0.61
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-50",
     "name": "Koffing",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5832,13 +5195,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "10",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Poisoned. If tails, your opponent's Active Pok\u00e9mon is now Confused."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned. If tails, your opponent's Active Pokémon is now Confused."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5899,31 +5262,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-50",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Koffing-EVO50",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.47,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.33,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.07,
-        "avg7": 0.08,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 0.29,
-        "reverseHoloAvg7": 0.42,
-        "reverseHoloAvg30": 0.51
+        "reverseHoloLow": 0.09
       }
     }
   },
   {
     "id": "xy12-51",
     "name": "Mewtwo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5941,7 +5291,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
       },
       {
         "name": "Barrier",
@@ -5951,13 +5301,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to this Pok\u00e9mon. If 1 of your Pok\u00e9mon used Barrier during your last turn, this attack can't be used."
+        "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon. If 1 of your Pokémon used Barrier during your last turn, this attack can't be used."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5986,7 +5336,7 @@
     "number": "51",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
-    "flavorText": "A Pok\u00e9mon whose genetic code was repeatedly recombined for research. It turned vicious as a result.",
+    "flavorText": "A Pokémon whose genetic code was repeatedly recombined for research. It turned vicious as a result.",
     "nationalPokedexNumbers": [
       150
     ],
@@ -6019,31 +5369,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-51",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mewtwo-V1-EVO51",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.32,
         "lowPrice": 0.16,
-        "trendPrice": 3.89,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 5.64,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 5.11,
-        "lowPriceExPlus": 0.2,
-        "avg1": 1.46,
-        "avg7": 1.34,
-        "avg30": 2.1,
-        "reverseHoloAvg1": 9.98,
-        "reverseHoloAvg7": 4.09,
-        "reverseHoloAvg30": 5.19
+        "reverseHoloLow": 1.0
       }
     }
   },
   {
     "id": "xy12-52",
     "name": "Mewtwo-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -6056,7 +5393,7 @@
       "M Mewtwo-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -6066,7 +5403,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Attach an Energy card from your discard pile to this Pok\u00e9mon."
+        "text": "Attach an Energy card from your discard pile to this Pokémon."
       },
       {
         "name": "Regeneration",
@@ -6075,7 +5412,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 60 damage from this Pok\u00e9mon."
+        "text": "Heal 60 damage from this Pokémon."
       },
       {
         "name": "Psyburn",
@@ -6093,7 +5430,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6147,31 +5484,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-52",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mewtwo-EX-V1-EVO52",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 8.25,
-        "lowPrice": 3.0,
-        "trendPrice": 11.24,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.8,
-        "lowPriceExPlus": 4.45,
-        "avg1": 27.83,
-        "avg7": 10.69,
-        "avg30": 8.2,
-        "reverseHoloAvg1": 5.0,
-        "reverseHoloAvg7": 6.08,
-        "reverseHoloAvg30": 6.02
+        "lowPrice": 1.9,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-53",
     "name": "Mew",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6183,7 +5507,7 @@
     "abilities": [
       {
         "name": "Neutral Shield",
-        "text": "Prevent all effects of attacks, including damage, done to this Pok\u00e9mon by your opponent's Evolution Pok\u00e9mon.",
+        "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Evolution Pokémon.",
         "type": "Ability"
       }
     ],
@@ -6196,13 +5520,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6263,31 +5587,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-53",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mew-V1-EVO53",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 65.0,
-        "lowPrice": 48.0,
-        "trendPrice": 40.72,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 21.8,
-        "lowPriceExPlus": 50.0,
-        "avg1": 65.0,
-        "avg7": 41.21,
-        "avg30": 45.04,
-        "reverseHoloAvg1": 19.89,
-        "reverseHoloAvg7": 18.19,
-        "reverseHoloAvg30": 11.44
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
       }
     }
   },
   {
     "id": "xy12-54",
     "name": "Sandshrew",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6307,13 +5618,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6374,31 +5685,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-54",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Sandshrew-EVO54",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.49,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.83,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.82,
-        "reverseHoloAvg7": 0.88,
-        "reverseHoloAvg30": 0.58
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy12-55",
     "name": "Diglett",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6413,7 +5711,7 @@
     "abilities": [
       {
         "name": "Submerge",
-        "text": "As long as this Pok\u00e9mon is on your Bench, prevent all damage done to this Pok\u00e9mon by attacks (both yours and your opponent's).",
+        "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
         "type": "Ability"
       }
     ],
@@ -6426,13 +5724,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6493,31 +5791,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-55",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Diglett-EVO55",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.45,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.4,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.07,
-        "avg7": 0.06,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.6,
-        "reverseHoloAvg7": 0.67,
-        "reverseHoloAvg30": 0.42
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy12-56",
     "name": "Dugtrio",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6547,13 +5832,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "This attack does 20 damage to each of your Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6614,31 +5899,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-56",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Dugtrio-EVO56",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.24,
         "lowPrice": 0.02,
-        "trendPrice": 0.31,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.01,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.82,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.24,
-        "avg30": 0.23,
-        "reverseHoloAvg1": 1.99,
-        "reverseHoloAvg7": 2.09,
-        "reverseHoloAvg30": 2.39
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy12-57",
     "name": "Machop",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6658,14 +5930,14 @@
           "Fighting"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6727,31 +5999,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-57",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Machop-EVO57",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.58,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.66,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.05,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.66,
-        "reverseHoloAvg30": 0.54
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-58",
     "name": "Machoke",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6773,7 +6032,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "60-",
-        "text": "This attack does 60 damage minus 10 damage for each damage counter on this Pok\u00e9mon."
+        "text": "This attack does 60 damage minus 10 damage for each damage counter on this Pokémon."
       },
       {
         "name": "Submission",
@@ -6784,13 +6043,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "This Pok\u00e9mon does 20 damage to itself."
+        "text": "This Pokémon does 20 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6852,31 +6111,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-58",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Machoke-EVO58",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.7,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.64,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.12,
-        "avg7": 0.09,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 0.71,
-        "reverseHoloAvg30": 0.77
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-59",
     "name": "Machamp",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -6889,7 +6135,7 @@
     "abilities": [
       {
         "name": "Counterattack",
-        "text": "If this Pok\u00e9mon is your Active Pok\u00e9mon and is damaged by an opponent's attack (even if this Pok\u00e9mon is Knocked Out), put 3 damage counters on the Attacking Pok\u00e9mon.",
+        "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon.",
         "type": "Ability"
       }
     ],
@@ -6909,7 +6155,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6971,31 +6217,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-59",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Machamp-V1-EVO59",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.28,
-        "lowPrice": 0.75,
-        "trendPrice": 4.3,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.48,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 3.52,
-        "lowPriceExPlus": 1.75,
-        "avg1": 1.79,
-        "avg7": 3.0,
-        "avg30": 3.58,
-        "reverseHoloAvg1": 2.86,
-        "reverseHoloAvg7": 3.16,
-        "reverseHoloAvg30": 3.55
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.19
       }
     }
   },
   {
     "id": "xy12-60",
     "name": "Machamp BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -7017,7 +6250,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "During your next turn, this Pok\u00e9mon's attacks do 100 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance)."
+        "text": "During your next turn, this Pokémon's attacks do 100 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
       }
     ],
     "set": {
@@ -7066,31 +6299,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-60",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Machamp-BREAK-EVO60",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.85,
-        "lowPrice": 0.75,
-        "trendPrice": 2.72,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.0,
-        "reverseHoloLow": 1.99,
-        "reverseHoloTrend": 2.96,
-        "lowPriceExPlus": 1.49,
-        "avg1": 1.49,
-        "avg7": 1.97,
-        "avg30": 2.73,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 3.09,
-        "reverseHoloAvg30": 3.64
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.99
       }
     }
   },
   {
     "id": "xy12-61",
     "name": "Onix",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7110,7 +6330,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "During your opponent's next turn, if this Pok\u00e9mon would be damaged by an attack, prevent that attack's damage done to this Pok\u00e9mon if that damage is 60 or less."
+        "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 60 or less."
       },
       {
         "name": "Rock Throw",
@@ -7126,7 +6346,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7189,31 +6409,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-61",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Onix-EVO61",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.54,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.63,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.06,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.75,
-        "reverseHoloAvg7": 0.63,
-        "reverseHoloAvg30": 0.51
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-62",
     "name": "Hitmonchan",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7247,7 +6454,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7276,7 +6483,7 @@
     "number": "62",
     "artist": "Ken Sugimori",
     "rarity": "Rare Holo",
-    "flavorText": "The spirit of a pro boxer has infused this Pok\u00e9mon. It throws punches that are faster than a bullet train.",
+    "flavorText": "The spirit of a pro boxer has infused this Pokémon. It throws punches that are faster than a bullet train.",
     "nationalPokedexNumbers": [
       107
     ],
@@ -7309,31 +6516,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-62",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Hitmonchan-EVO62",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.8,
         "lowPrice": 0.09,
-        "trendPrice": 1.69,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.18,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 2.04,
-        "lowPriceExPlus": 0.8,
-        "avg1": 1.65,
-        "avg7": 1.78,
-        "avg30": 2.08,
-        "reverseHoloAvg1": 2.5,
-        "reverseHoloAvg7": 1.71,
-        "reverseHoloAvg30": 2.04
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy12-63",
     "name": "Clefairy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7353,7 +6547,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep."
       },
       {
         "name": "Metronome",
@@ -7364,13 +6558,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks and use it as this attack."
+        "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7437,31 +6631,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-63",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Clefairy-EVO63",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.74,
         "lowPrice": 0.5,
-        "trendPrice": 3.24,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.39,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 2.77,
-        "lowPriceExPlus": 0.8,
-        "avg1": 3.99,
-        "avg7": 3.3,
-        "avg30": 2.75,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 2.12,
-        "reverseHoloAvg30": 3.14
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "xy12-64",
     "name": "Pidgeot-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -7474,7 +6655,7 @@
       "M Pidgeot-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -7484,7 +6665,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "If this Pok\u00e9mon was damaged by an attack during your opponent's last turn, this attack does the same amount of damage to your opponent's Active Pok\u00e9mon."
+        "text": "If this Pokémon was damaged by an attack during your opponent's last turn, this attack does the same amount of damage to your opponent's Active Pokémon."
       },
       {
         "name": "Feather Lance",
@@ -7495,13 +6676,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "This attack does 20 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7560,31 +6741,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-64",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Pidgeot-EX-EVO64",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.59,
         "lowPrice": 0.5,
-        "trendPrice": 6.91,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.04,
-        "lowPriceExPlus": 1.0,
-        "avg1": 35.0,
-        "avg7": 5.29,
-        "avg30": 3.01,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 2.16,
-        "reverseHoloAvg30": 2.04
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-65",
     "name": "M Pidgeot-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -7595,8 +6763,8 @@
     ],
     "evolvesFrom": "Pidgeot-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -7608,13 +6776,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "You may have your opponent switch his or her Active Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon."
+        "text": "You may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7669,31 +6837,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-65",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MPidgeot-EX-EVO65",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.19,
         "lowPrice": 1.0,
-        "trendPrice": 4.8,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 4.82,
-        "lowPriceExPlus": 3.0,
-        "avg1": 4.53,
-        "avg7": 4.82,
-        "avg30": 4.4,
-        "reverseHoloAvg1": 2.9,
-        "reverseHoloAvg7": 5.14,
-        "reverseHoloAvg30": 4.7
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-66",
     "name": "Rattata",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7708,7 +6863,7 @@
     "abilities": [
       {
         "name": "Mischievous Fang",
-        "text": "When you play this Pok\u00e9mon from your hand onto your Bench, you may discard all Pok\u00e9mon Tool cards attached to your opponent's Active Pok\u00e9mon.",
+        "text": "When you play this Pokémon from your hand onto your Bench, you may discard all Pokémon Tool cards attached to your opponent's Active Pokémon.",
         "type": "Ability"
       }
     ],
@@ -7726,7 +6881,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7787,31 +6942,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-66",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Rattata-EVO66",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.39,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.4,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.05,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.31,
-        "reverseHoloAvg30": 0.35
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "xy12-67",
     "name": "Raticate",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7829,7 +6971,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Discard an Energy attached to your opponent's Active Pokémon."
       },
       {
         "name": "Shadowy Bite",
@@ -7837,14 +6979,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "60\u00d7",
+        "damage": "60×",
         "text": "This attack does 60 damage times the number of Special Energy cards in your opponent's discard pile."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7905,31 +7047,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-67",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Raticate-EVO67",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.19,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.02,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 1.13,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.09,
-        "avg30": 0.19,
-        "reverseHoloAvg1": 0.75,
-        "reverseHoloAvg7": 1.22,
-        "reverseHoloAvg30": 1.97
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "xy12-68",
     "name": "Farfetch'd",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7949,7 +7078,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "50",
-        "text": "This Pok\u00e9mon can't use Leek Slap during your next turn."
+        "text": "This Pokémon can't use Leek Slap during your next turn."
       },
       {
         "name": "Pot Smash",
@@ -7966,7 +7095,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8033,31 +7162,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-68",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Farfetchd-EVO68",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.23,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.88,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 1.41,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.11,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 1.99,
-        "reverseHoloAvg7": 1.27,
-        "reverseHoloAvg30": 1.25
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy12-69",
     "name": "Doduo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8076,14 +7192,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8117,7 +7233,7 @@
     "number": "69",
     "artist": "Mitsuhiro Arita",
     "rarity": "Common",
-    "flavorText": "A two-headed Pok\u00e9mon that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.",
+    "flavorText": "A two-headed Pokémon that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.",
     "nationalPokedexNumbers": [
       84
     ],
@@ -8150,31 +7266,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-69",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Doduo-EVO69",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.45,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.57,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.08,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 1.12,
-        "reverseHoloAvg7": 0.54,
-        "reverseHoloAvg30": 0.48
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "xy12-70",
     "name": "Chansey",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8195,7 +7298,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Flip a coin. If heads, prevent all damage done to this Pok\u00e9mon by attacks during your opponent's next turn."
+        "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn."
       },
       {
         "name": "Double-Edge",
@@ -8207,13 +7310,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "80",
-        "text": "This Pok\u00e9mon does 80 damage to itself."
+        "text": "This Pokémon does 80 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8276,31 +7379,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-70",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Chansey-EVO70",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.29,
-        "lowPrice": 0.5,
-        "trendPrice": 4.41,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 4.16,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 4.61,
-        "lowPriceExPlus": 1.5,
-        "avg1": 2.48,
-        "avg7": 2.6,
-        "avg30": 3.84,
-        "reverseHoloAvg1": 4.99,
-        "reverseHoloAvg7": 2.9,
-        "reverseHoloAvg30": 3.73
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
       }
     }
   },
   {
     "id": "xy12-71",
     "name": "Porygon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8320,13 +7410,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Choose Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness, Metal, Fairy, or Dragon type. The Defending Pok\u00e9mon's Weakness is now that type until the end of your next turn. (The amount of Weakness doesn't change.)"
+        "text": "Choose Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness, Metal, Fairy, or Dragon type. The Defending Pokémon's Weakness is now that type until the end of your next turn. (The amount of Weakness doesn't change.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8354,7 +7444,7 @@
     "number": "71",
     "artist": "Tomoaki Imakuni",
     "rarity": "Uncommon",
-    "flavorText": "Using the most advanced technologies, scientists finally succeeded in making the first artificial Pok\u00e9mon.",
+    "flavorText": "Using the most advanced technologies, scientists finally succeeded in making the first artificial Pokémon.",
     "nationalPokedexNumbers": [
       137
     ],
@@ -8387,31 +7477,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-71",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Porygon-EVO71",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.55,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.71,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.07,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.41,
-        "reverseHoloAvg7": 0.9,
-        "reverseHoloAvg30": 0.61
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy12-72",
     "name": "Dragonite-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -8421,12 +7498,12 @@
       "Colorless"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Pull Up",
-        "text": "When you play this Pok\u00e9mon from your hand onto your Bench, you may put 2 Basic Pok\u00e9mon (except for Dragonite-EX) from your discard pile into your hand.",
+        "text": "When you play this Pokémon from your hand onto your Bench, you may put 2 Basic Pokémon (except for Dragonite-EX) from your discard pile into your hand.",
         "type": "Ability"
       }
     ],
@@ -8441,13 +7518,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "130",
-        "text": "Discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Discard an Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8508,24 +7585,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-72",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Dragonite-EX-V1-EVO72",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.48,
-        "lowPrice": 1.69,
-        "trendPrice": 2.77,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 16.0,
-        "lowPriceExPlus": 1.69,
-        "avg1": 2.0,
-        "avg7": 2.42,
-        "avg30": 2.66,
-        "reverseHoloAvg1": 13.99,
-        "reverseHoloAvg7": 12.48,
-        "reverseHoloAvg30": 12.48
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
       }
     }
   },
@@ -8534,11 +7598,11 @@
     "name": "Blastoise Spirit Link",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "Your turn does not end if the Pok\u00e9mon this card is attached to becomes M Blastoise-EX.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Blastoise-EX.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -8591,24 +7655,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-73",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Blastoise-Spirit-Link-EVO73",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.99,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.65,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.13,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 1.33,
-        "reverseHoloAvg7": 0.88,
-        "reverseHoloAvg30": 1.35
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -8620,7 +7671,7 @@
       "Supporter"
     ],
     "rules": [
-      "Shuffle 6 in any combination of Pok\u00e9mon and basic Energy cards from your discard pile into your deck.",
+      "Shuffle 6 in any combination of Pokémon and basic Energy cards from your discard pile into your deck.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -8673,24 +7724,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-74",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Brocks-Grit-EVO74",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.54,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.44,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.08,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.33,
-        "reverseHoloAvg7": 0.67,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -8699,11 +7737,11 @@
     "name": "Charizard Spirit Link",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "Your turn does not end if the Pok\u00e9mon this card is attached to becomes M Charizard-EX.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Charizard-EX.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -8756,24 +7794,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-75",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Charizard-Spirit-Link-EVO75",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.25,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.7,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 3.87,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.75,
-        "avg7": 0.22,
-        "avg30": 0.18,
-        "reverseHoloAvg1": 5.48,
-        "reverseHoloAvg7": 3.95,
-        "reverseHoloAvg30": 4.07
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -8785,7 +7810,7 @@
       "Item"
     ],
     "rules": [
-      "Devolve 1 of your evolved Pok\u00e9mon and put the highest Stage Evolution card on it into your hand. (That Pok\u00e9mon can't evolve this turn.)",
+      "Devolve 1 of your evolved Pokémon and put the highest Stage Evolution card on it into your hand. (That Pokémon can't evolve this turn.)",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -8838,24 +7863,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-76",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Devolution-Spray-EVO76",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.51,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 1.4,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.08,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 1.45,
-        "reverseHoloAvg7": 1.38,
-        "reverseHoloAvg30": 1.31
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -8921,24 +7933,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-77",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Energy-Retrieval-EVO77",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.86,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 1.62,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.1,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 2.27,
-        "reverseHoloAvg7": 1.83,
-        "reverseHoloAvg30": 1.9
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -8950,7 +7949,7 @@
       "Item"
     ],
     "rules": [
-      "Remove all Special Conditions from your Active Pok\u00e9mon.",
+      "Remove all Special Conditions from your Active Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -9003,24 +8002,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-78",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Full-Heal-EVO78",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.49,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 1.61,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.13,
-        "avg7": 0.08,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.97,
-        "reverseHoloAvg7": 1.42,
-        "reverseHoloAvg30": 1.26
+        "reverseHoloLow": 0.09
       }
     }
   },
@@ -9085,24 +8071,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-79",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Maintenance-EVO79",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.59,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.8,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.08,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 2.93,
-        "reverseHoloAvg7": 1.68,
-        "reverseHoloAvg30": 1.49
+        "reverseHoloLow": 0.2
       }
     }
   },
@@ -9167,24 +8140,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-80",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mistys-Determination-V1-EVO80",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.68,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.76,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.12,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 0.14,
-        "reverseHoloAvg7": 0.8,
-        "reverseHoloAvg30": 0.59
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -9193,11 +8153,11 @@
     "name": "Pidgeot Spirit Link",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "Your turn does not end if the Pok\u00e9mon this card is attached to becomes M Pidgeot-EX.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Pidgeot-EX.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -9250,30 +8210,17 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-81",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Pidgeot-Spirit-Link-EVO81",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.32,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 1.56,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.45,
-        "avg7": 0.09,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 2.5,
-        "reverseHoloAvg7": 1.67,
-        "reverseHoloAvg30": 1.26
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy12-82",
-    "name": "Pok\u00e9dex",
+    "name": "Pokédex",
     "supertype": "Trainer",
     "subtypes": [
       "Item"
@@ -9332,24 +8279,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-82",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Pokedex-EVO82",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.55,
-        "reverseHoloLow": 0.4,
-        "reverseHoloTrend": 1.55,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.14,
-        "avg7": 0.09,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 1.18,
-        "reverseHoloAvg7": 1.44,
-        "reverseHoloAvg30": 1.65
+        "reverseHoloLow": 0.4
       }
     }
   },
@@ -9361,7 +8295,7 @@
       "Item"
     ],
     "rules": [
-      "Heal 30 damage from 1 of your Pok\u00e9mon.",
+      "Heal 30 damage from 1 of your Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -9415,24 +8349,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-83",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Potion-EVO83",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.0,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.96,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.08,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 1.62,
-        "reverseHoloAvg30": 1.37
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -9497,24 +8418,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-84",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Professor-Oaks-Hint-EVO84",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.6,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.66,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.09,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.62,
-        "reverseHoloAvg30": 0.5
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -9526,7 +8434,7 @@
       "Item"
     ],
     "rules": [
-      "Put a Basic Pok\u00e9mon from your discard pile onto your Bench.",
+      "Put a Basic Pokémon from your discard pile onto your Bench.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -9579,24 +8487,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-85",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Revive-EVO85",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.83,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 1.31,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.11,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 2.49,
-        "reverseHoloAvg7": 1.68,
-        "reverseHoloAvg30": 1.78
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -9605,11 +8500,11 @@
     "name": "Slowbro Spirit Link",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "Your turn does not end if the Pok\u00e9mon this card is attached to becomes M Slowbro-EX.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Slowbro-EX.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -9662,24 +8557,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-86",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Slowbro-Spirit-Link-EVO86",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.24,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 1.59,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.09,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 1.48,
-        "reverseHoloAvg7": 1.47,
-        "reverseHoloAvg30": 1.59
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -9691,7 +8573,7 @@
       "Item"
     ],
     "rules": [
-      "Heal 60 damage from 1 of your Pok\u00e9mon. If you do, discard an Energy attached to that Pok\u00e9mon.",
+      "Heal 60 damage from 1 of your Pokémon. If you do, discard an Energy attached to that Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -9744,24 +8626,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-87",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Super-Potion-EVO87",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.88,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.95,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.1,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 1.7,
-        "reverseHoloAvg7": 1.17,
-        "reverseHoloAvg30": 1.12
+        "reverseHoloLow": 0.08
       }
     }
   },
@@ -9773,7 +8642,7 @@
       "Item"
     ],
     "rules": [
-      "Switch your Active Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.",
+      "Switch your Active Pokémon with 1 of your Benched Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -9827,24 +8696,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-88",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Switch-EVO88",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.57,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.63,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.11,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.58,
-        "reverseHoloAvg30": 0.58
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -9853,11 +8709,11 @@
     "name": "Venusaur Spirit Link",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "Your turn does not end if the Pok\u00e9mon this card is attached to becomes M Venusaur-EX.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Venusaur-EX.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -9910,24 +8766,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-89",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Venusaur-Spirit-Link-EVO89",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.97,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.38,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.14,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 2.25,
-        "reverseHoloAvg7": 2.09,
-        "reverseHoloAvg30": 2.28
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -9991,24 +8834,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-90",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Double-Colorless-Energy-V1-EVO90",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 36.24,
-        "lowPrice": 9.95,
-        "trendPrice": 34.55,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 18.87,
-        "lowPriceExPlus": 19.95,
-        "avg1": 41.67,
-        "avg7": 27.68,
-        "avg30": 27.07,
-        "reverseHoloAvg1": 22.0,
-        "reverseHoloAvg7": 20.4,
-        "reverseHoloAvg30": 13.51
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.75
       }
     }
   },
@@ -10069,24 +8899,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-91",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Grass-Energy-EVO91",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.32,
         "lowPrice": 0.02,
-        "trendPrice": 0.25,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.94,
-        "reverseHoloLow": 0.12,
-        "reverseHoloTrend": 1.85,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.25,
-        "avg30": 0.24,
-        "reverseHoloAvg1": 1.99,
-        "reverseHoloAvg7": 2.06,
-        "reverseHoloAvg30": 2.48
+        "reverseHoloLow": 0.12
       }
     }
   },
@@ -10147,24 +8964,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-92",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Fire-Energy-EVO92",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.48,
         "lowPrice": 0.02,
-        "trendPrice": 0.51,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.58,
-        "reverseHoloLow": 0.8,
-        "reverseHoloTrend": 2.82,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.7,
-        "avg30": 0.43,
-        "reverseHoloAvg1": 4.0,
-        "reverseHoloAvg7": 2.91,
-        "reverseHoloAvg30": 3.18
+        "reverseHoloLow": 0.95
       }
     }
   },
@@ -10225,24 +9029,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-93",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Water-Energy-EVO93",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.47,
         "lowPrice": 0.02,
-        "trendPrice": 0.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.8,
-        "reverseHoloLow": 0.3,
-        "reverseHoloTrend": 3.62,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.24,
-        "avg30": 0.47,
-        "reverseHoloAvg1": 3.93,
-        "reverseHoloAvg7": 3.21,
-        "reverseHoloAvg30": 2.82
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -10303,24 +9094,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-94",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Lightning-Energy-EVO94",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.25,
         "lowPrice": 0.02,
-        "trendPrice": 0.32,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.55,
-        "reverseHoloLow": 0.6,
-        "reverseHoloTrend": 2.06,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.29,
-        "avg30": 0.23,
-        "reverseHoloAvg1": 2.45,
-        "reverseHoloAvg7": 2.13,
-        "reverseHoloAvg30": 3.23
+        "reverseHoloLow": 0.6
       }
     }
   },
@@ -10381,24 +9159,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-95",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Psychic-Energy-EVO95",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.21,
         "lowPrice": 0.02,
-        "trendPrice": 0.22,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.79,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 2.66,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.35,
-        "avg7": 0.18,
-        "avg30": 0.19,
-        "reverseHoloAvg1": 2.95,
-        "reverseHoloAvg7": 2.57,
-        "reverseHoloAvg30": 2.97
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -10459,24 +9224,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-96",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Fighting-Energy-EVO96",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.24,
         "lowPrice": 0.02,
-        "trendPrice": 0.33,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.82,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 3.01,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.31,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 3.43,
-        "reverseHoloAvg7": 2.58,
-        "reverseHoloAvg30": 2.72
+        "reverseHoloLow": 0.25
       }
     }
   },
@@ -10537,24 +9289,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-97",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Darkness-Energy-EVO97",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.95,
-        "lowPrice": 0.04,
-        "trendPrice": 1.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.95,
-        "avg7": 0.93,
-        "avg30": 0.87,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.99
       }
     }
   },
@@ -10615,24 +9354,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-98",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Metal-Energy-EVO98",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.99,
         "lowPrice": 0.1,
-        "trendPrice": 0.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.86,
-        "reverseHoloLow": 0.71,
-        "reverseHoloTrend": 3.26,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.22,
-        "avg7": 0.59,
-        "avg30": 0.71,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 4.15,
-        "reverseHoloAvg30": 3.47
+        "reverseHoloLow": 0.3
       }
     }
   },
@@ -10692,31 +9418,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-99",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Fairy-Energy-EVO99",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.7,
         "lowPrice": 0.05,
-        "trendPrice": 0.76,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.46,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 3.22,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.5,
-        "avg7": 0.88,
-        "avg30": 0.54,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 3.91,
-        "reverseHoloAvg30": 3.54
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy12-100",
     "name": "M Venusaur-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -10727,8 +9440,8 @@
     ],
     "evolvesFrom": "Venusaur-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -10741,13 +9454,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "120",
-        "text": "Your opponent's Active Pok\u00e9mon is now Paralyzed and Poisoned."
+        "text": "Your opponent's Active Pokémon is now Paralyzed and Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10803,31 +9516,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-100",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MVenusaur-EX-EVO100",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 32.41,
-        "lowPrice": 6.0,
-        "trendPrice": 36.99,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 21.78,
-        "lowPriceExPlus": 28.0,
-        "avg1": 76.04,
-        "avg7": 51.0,
-        "avg30": 37.89,
-        "reverseHoloAvg1": 23.98,
-        "reverseHoloAvg7": 22.67,
-        "reverseHoloAvg30": 26.14
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-101",
     "name": "M Charizard-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -10838,8 +9538,8 @@
     ],
     "evolvesFrom": "Charizard-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -10853,13 +9553,13 @@
         ],
         "convertedEnergyCost": 5,
         "damage": "300",
-        "text": "This Pok\u00e9mon does 50 damage to itself."
+        "text": "This Pokémon does 50 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10912,31 +9612,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-101",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MCharizard-EX-EVO101",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 124.15,
-        "lowPrice": 22.9,
-        "trendPrice": 135.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 71.79,
-        "lowPriceExPlus": 59.95,
-        "avg1": 63.49,
-        "avg7": 128.42,
-        "avg30": 117.5,
-        "reverseHoloAvg1": 105.0,
-        "reverseHoloAvg7": 81.99,
-        "reverseHoloAvg30": 79.01
+        "lowPrice": 24.99,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-102",
     "name": "M Blastoise-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -10947,8 +9634,8 @@
     ],
     "evolvesFrom": "Blastoise-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -10960,13 +9647,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "This attack does 30 damage to 2 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 30 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11021,31 +9708,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-102",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MBlastoise-EX-EVO102",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 50.14,
-        "lowPrice": 7.85,
-        "trendPrice": 68.66,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 29.85,
-        "lowPriceExPlus": 25.0,
-        "avg1": 82.5,
-        "avg7": 87.58,
-        "avg30": 57.9,
-        "reverseHoloAvg1": 39.99,
-        "reverseHoloAvg7": 31.41,
-        "reverseHoloAvg30": 35.63
+        "lowPrice": 8.99,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-103",
     "name": "Mewtwo-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -11058,7 +9732,7 @@
       "M Mewtwo-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -11068,7 +9742,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Attach an Energy card from your discard pile to this Pok\u00e9mon."
+        "text": "Attach an Energy card from your discard pile to this Pokémon."
       },
       {
         "name": "Regeneration",
@@ -11077,7 +9751,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 60 damage from this Pok\u00e9mon."
+        "text": "Heal 60 damage from this Pokémon."
       },
       {
         "name": "Psyburn",
@@ -11095,7 +9769,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11149,31 +9823,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-103",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mewtwo-EX-V2-EVO103",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 29.45,
-        "lowPrice": 6.5,
-        "trendPrice": 25.25,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 29.82,
-        "lowPriceExPlus": 16.0,
-        "avg1": 26.0,
-        "avg7": 25.33,
-        "avg30": 28.31,
-        "reverseHoloAvg1": 25.0,
-        "reverseHoloAvg7": 28.03,
-        "reverseHoloAvg30": 33.81
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-104",
     "name": "Pidgeot-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -11186,7 +9847,7 @@
       "M Pidgeot-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -11196,7 +9857,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "If this Pok\u00e9mon was damaged by an attack during your opponent's last turn, this attack does the same amount of damage to your opponent's Active Pok\u00e9mon."
+        "text": "If this Pokémon was damaged by an attack during your opponent's last turn, this attack does the same amount of damage to your opponent's Active Pokémon."
       },
       {
         "name": "Feather Lance",
@@ -11207,13 +9868,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "This attack does 20 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11272,31 +9933,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-104",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Pidgeot-EX-EVO104",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 10.04,
         "lowPrice": 2.5,
-        "trendPrice": 10.9,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 10.88,
-        "lowPriceExPlus": 5.99,
-        "avg1": 10.0,
-        "avg7": 14.25,
-        "avg30": 12.6,
-        "reverseHoloAvg1": 11.99,
-        "reverseHoloAvg7": 12.44,
-        "reverseHoloAvg30": 13.52
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-105",
     "name": "M Pidgeot-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -11307,8 +9955,8 @@
     ],
     "evolvesFrom": "Pidgeot-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -11320,13 +9968,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "You may have your opponent switch his or her Active Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon."
+        "text": "You may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11381,31 +10029,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-105",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MPidgeot-EX-EVO105",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 21.17,
         "lowPrice": 2.0,
-        "trendPrice": 34.24,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 11.81,
-        "lowPriceExPlus": 9.99,
-        "avg1": 15.0,
-        "avg7": 27.94,
-        "avg30": 20.19,
-        "reverseHoloAvg1": 10.99,
-        "reverseHoloAvg7": 12.8,
-        "reverseHoloAvg30": 15.18
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-106",
     "name": "Dragonite-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -11415,12 +10050,12 @@
       "Colorless"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Pull Up",
-        "text": "When you play this Pok\u00e9mon from your hand onto your Bench, you may put 2 Basic Pok\u00e9mon (except for Dragonite-EX) from your discard pile into your hand.",
+        "text": "When you play this Pokémon from your hand onto your Bench, you may put 2 Basic Pokémon (except for Dragonite-EX) from your discard pile into your hand.",
         "type": "Ability"
       }
     ],
@@ -11435,13 +10070,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "130",
-        "text": "Discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Discard an Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11502,24 +10137,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-106",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Dragonite-EX-V2-EVO106",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 24.79,
         "lowPrice": 5.0,
-        "trendPrice": 25.89,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 30.6,
-        "lowPriceExPlus": 15.0,
-        "avg1": 24.0,
-        "avg7": 26.16,
-        "avg30": 24.37,
-        "reverseHoloAvg1": 27.99,
-        "reverseHoloAvg7": 34.5,
-        "reverseHoloAvg30": 36.55
+        "reverseHoloLow": null
       }
     }
   },
@@ -11531,7 +10153,7 @@
       "Supporter"
     ],
     "rules": [
-      "Shuffle 6 in any combination of Pok\u00e9mon and basic Energy cards from your discard pile into your deck.",
+      "Shuffle 6 in any combination of Pokémon and basic Energy cards from your discard pile into your deck.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -11577,24 +10199,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-107",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Brocks-Grit-EVO107",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 12.58,
         "lowPrice": 1.5,
-        "trendPrice": 12.78,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 11.14,
-        "lowPriceExPlus": 6.5,
-        "avg1": 11.95,
-        "avg7": 10.79,
-        "avg30": 12.24,
-        "reverseHoloAvg1": 12.44,
-        "reverseHoloAvg7": 13.18,
-        "reverseHoloAvg30": 10.84
+        "reverseHoloLow": null
       }
     }
   },
@@ -11652,31 +10261,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-108",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mistys-Determination-V2-EVO108",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 34.22,
         "lowPrice": 4.99,
-        "trendPrice": 37.9,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 20.36,
-        "lowPriceExPlus": 14.5,
-        "avg1": 7.9,
-        "avg7": 34.14,
-        "avg30": 34.74,
-        "reverseHoloAvg1": 18.69,
-        "reverseHoloAvg7": 17.03,
-        "reverseHoloAvg30": 17.7
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-109",
-    "name": "\u30ca\u30c3\u30b7\u30fc[Exeggutor]",
-    "supertype": "Pok\u00e9mon",
+    "name": "ナッシー[Exeggutor]",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -11684,23 +10280,23 @@
     "types": [
       "Grass"
     ],
-    "evolvesFrom": "\u30bf\u30de\u30bf\u30de[Exeggcute]",
+    "evolvesFrom": "タマタマ[Exeggcute]",
     "attacks": [
       {
-        "name": "\u3075\u307f\u3064\u3051[Stomp]",
+        "name": "ふみつけ[Stomp]",
         "cost": [
           "Colorless",
           "Colorless"
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "\u30b3\u30a4\u30f3\u30921\u56de\u6295\u3052\u30aa\u30e2\u30c6\u306a\u3089\u300110\u30c0\u30e1\u30fc\u30b8\u3092\u8ffd\u52a0\u3002 Flip a coin. If heads, this attack does 10 more damage."
+        "text": "コインを1回投げオモテなら、10ダメージを追加。 Flip a coin. If heads, this attack does 10 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11729,7 +10325,7 @@
     "number": "109",
     "artist": "Dr.Ooyama",
     "rarity": "Rare Secret",
-    "flavorText": "Dr.\u30aa\u30fc\u30e4\u30de\u8003\u6848\u300c\u65e5\u7c73\u4ea4\u6d41\u30ab\u30fc\u30c9\u300d\u30d1\u30fc\u30c6\u30a3\u6c17\u5206\u3067\u548c\u6d0b\u305b\u3063\u3061\u3085\u3046\u3002",
+    "flavorText": "Dr.オーヤマ考案「日米交流カード」パーティ気分で和洋せっちゅう。",
     "nationalPokedexNumbers": [
       103
     ],
@@ -11755,31 +10351,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-109",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Exeggutor-EVO109",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.12,
         "lowPrice": 0.3,
-        "trendPrice": 2.61,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.88,
-        "lowPriceExPlus": 1.0,
-        "avg1": 1.85,
-        "avg7": 2.77,
-        "avg30": 2.26,
-        "reverseHoloAvg1": 1.49,
-        "reverseHoloAvg7": 2.21,
-        "reverseHoloAvg30": 1.41
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-110",
     "name": "Flying Pikachu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -11799,7 +10382,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Fly",
@@ -11810,7 +10393,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
-        "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage, done to this Pok\u00e9mon during your opponent's next turn."
+        "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
       }
     ],
     "resistances": [
@@ -11844,7 +10427,7 @@
     "number": "110",
     "artist": "Toshinao Aoki",
     "rarity": "Rare Secret",
-    "flavorText": "By learning how to fly, Pikachu overcame its weakness to Fighting Pok\u00e9mon.",
+    "flavorText": "By learning how to fly, Pikachu overcame its weakness to Fighting Pokémon.",
     "nationalPokedexNumbers": [
       25
     ],
@@ -11870,31 +10453,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-110",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Flying-Pikachu-EVO110",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.85,
-        "lowPrice": 0.99,
-        "trendPrice": 5.25,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 10.69,
-        "lowPriceExPlus": 3.0,
-        "avg1": 5.4,
-        "avg7": 4.33,
-        "avg30": 5.45,
-        "reverseHoloAvg1": 5.0,
-        "reverseHoloAvg7": 14.05,
-        "reverseHoloAvg30": 6.62
+        "lowPrice": 1.9,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-111",
     "name": "Surfing Pikachu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -11921,7 +10491,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11975,31 +10545,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-111",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Surfing-Pikachu-EVO111",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 6.02,
-        "lowPrice": 2.94,
-        "trendPrice": 7.41,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 10.72,
-        "lowPriceExPlus": 5.0,
-        "avg1": 7.58,
-        "avg7": 6.84,
-        "avg30": 6.27,
-        "reverseHoloAvg1": 7.99,
-        "reverseHoloAvg7": 9.17,
-        "reverseHoloAvg30": 6.16
+        "lowPrice": 2.9,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy12-112",
     "name": "Imakuni?'s Doduo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -12015,7 +10572,7 @@
       {
         "name": "Frenzied Escape",
         "text": "When this Doduo retreats, hold this card and throw it as hard as you can because Doduo is running away. Throw the card horizontally with a snap to get the farthest distance!",
-        "type": "Pok\u00e9mon Power"
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -12033,7 +10590,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -12087,24 +10644,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-112",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Imakunis-Doduo-EVO112",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.31,
         "lowPrice": 0.2,
-        "trendPrice": 2.33,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.78,
-        "lowPriceExPlus": 1.0,
-        "avg1": 1.94,
-        "avg7": 2.48,
-        "avg30": 2.38,
-        "reverseHoloAvg1": 2.95,
-        "reverseHoloAvg7": 2.86,
-        "reverseHoloAvg30": 1.26
+        "reverseHoloLow": null
       }
     }
   },
@@ -12162,24 +10706,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy12-113",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Here-Comes-Team-Rocket-EVO113",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.29,
         "lowPrice": 0.16,
-        "trendPrice": 1.64,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.5,
-        "lowPriceExPlus": 0.25,
-        "avg1": 0.89,
-        "avg7": 1.71,
-        "avg30": 1.57,
-        "reverseHoloAvg1": 5.0,
-        "reverseHoloAvg7": 1.42,
-        "reverseHoloAvg30": 1.46
+        "reverseHoloLow": null
       }
     }
   }

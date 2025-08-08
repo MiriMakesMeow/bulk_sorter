@@ -20238,5 +20238,3729 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "smp-promo-1",
+    "name": "Snorlax GX  (SM-P 1) (Promo)",
+    "rarity": "Promo",
+    "number": "1",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Snorlax-GX-SM-P1",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.6,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-2",
+    "name": "Togedemaru  (SM-P 2) (Promo)",
+    "rarity": "Promo",
+    "number": "2",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Togedemaru-SM-P2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-3",
+    "name": "Pikachu  (SM-P 3) (Promo)",
+    "rarity": "Promo",
+    "number": "3",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-V1-SM-P3",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-4",
+    "name": "Yungoos  (SM-P 4) (Promo)",
+    "rarity": "Promo",
+    "number": "4",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Yungoos-SM-P4",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-5",
+    "name": "Sapporo's Pikachu  (SM-P 5) (Promo)",
+    "rarity": "Promo",
+    "number": "5",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Sapporos-Pikachu-SM-P5",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 255.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-6",
+    "name": "Tsareena  (SM-P 6) (Promo)",
+    "rarity": "Promo",
+    "number": "6",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Tsareena-SM-P6",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-7",
+    "name": "Vikavolt  (SM-P 7) (Promo)",
+    "rarity": "Promo",
+    "number": "7",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Vikavolt-V1-SM-P7",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-8",
+    "name": "Pikachu  (SM-P 8) (Promo)",
+    "rarity": "Promo",
+    "number": "8",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-V2-SM-P8",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 30.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-9",
+    "name": "Mimikyu  (SM-P 9) (Promo)",
+    "rarity": "Promo",
+    "number": "9",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Mimikyu-SM-P9",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 650.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-10",
+    "name": "Alolan Meowth  (SM-P 10) (Promo)",
+    "rarity": "Promo",
+    "number": "10",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Meowth-SM-P10",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-11",
+    "name": "Togedemaru  (SM-P 11) (Promo)",
+    "rarity": "Promo",
+    "number": "11",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Togedemaru-SM-P11",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-12",
+    "name": "Turtonator  (SM-P 12) (Promo)",
+    "rarity": "Promo",
+    "number": "12",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Turtonator-SM-P12",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-13",
+    "name": "Pretend Team Skull Pikachu  (SM-P 13) (Promo)",
+    "rarity": "Promo",
+    "number": "13",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pretend-Team-Skull-Pikachu-SM-P13",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-14",
+    "name": "Pretend Grunt Pikachu  (SM-P 14) (Promo)",
+    "rarity": "Promo",
+    "number": "14",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pretend-Grunt-Pikachu-SM-P13",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 800.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-15",
+    "name": "Rotom Dex (SM-P 15) (Promo)",
+    "rarity": "Promo",
+    "number": "15",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Rotom-Dex-SM-P15",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.8,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-16",
+    "name": "Drampa  (SM-P 16) (Promo)",
+    "rarity": "Promo",
+    "number": "16",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Drampa-SM-P16",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-17",
+    "name": "Decidueye  (SM-P 17) (Promo)",
+    "rarity": "Promo",
+    "number": "17",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Decidueye-V1-SM-P17",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-18",
+    "name": "Incineroar  (SM-P 18) (Promo)",
+    "rarity": "Promo",
+    "number": "18",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Incineroar-SM-P18",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-19",
+    "name": "Primarina  (SM-P 19) (Promo)",
+    "rarity": "Promo",
+    "number": "19",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Primarina-SM-P19",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-20",
+    "name": "Hau (SM-P 20) (Promo)",
+    "rarity": "Promo",
+    "number": "20",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Hau-V1-SM-P20",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 49.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-21",
+    "name": "Rockruff  (SM-P 21) (Promo)",
+    "rarity": "Promo",
+    "number": "21",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Rockruff-SM-P21",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-22",
+    "name": "Turtonator  (SM-P 22) (Promo)",
+    "rarity": "Promo",
+    "number": "22",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Turtonator-V2-SM-P22",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-23",
+    "name": "Alolan Vulpix  (SM-P 23) (Promo)",
+    "rarity": "Promo",
+    "number": "23",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Vulpix-SM-P23",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-24",
+    "name": "Togedemaru  (SM-P 24) (Promo)",
+    "rarity": "Promo",
+    "number": "24",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Togedemaru-SM-P24",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 39.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-25",
+    "name": "Rare Candy (SM-P 25) (Promo)",
+    "rarity": "Promo",
+    "number": "25",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Rare-Candy-V1-SM-P25",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-26",
+    "name": "Crabrawler  (SM-P 26) (Promo)",
+    "rarity": "Promo",
+    "number": "26",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Crabrawler-SM-P26",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-27",
+    "name": "Oranguru  (SM-P 27) (Promo)",
+    "rarity": "Promo",
+    "number": "27",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Oranguru-SM-P27",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-28",
+    "name": "Decidueye  (SM-P 28) (Promo)",
+    "rarity": "Promo",
+    "number": "28",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Decidueye-V2-SM-P28",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-29",
+    "name": "Bruxish  (SM-P 29) (Promo)",
+    "rarity": "Promo",
+    "number": "29",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Bruxish-SM-P29",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-30",
+    "name": "Cosmog  (SM-P 30) (Promo)",
+    "rarity": "Promo",
+    "number": "30",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Cosmog-SM-P30",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.8,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-31",
+    "name": "Passimian  (SM-P 31) (Promo)",
+    "rarity": "Promo",
+    "number": "31",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Passimian-SM-P31",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-32",
+    "name": "Alolan Meowth  (SM-P 32) (Promo)",
+    "rarity": "Promo",
+    "number": "32",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Meowth-SM-P32",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-33",
+    "name": "Jangmo-o  (SM-P 33) (Promo)",
+    "rarity": "Promo",
+    "number": "33",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Jangmo-o-SM-P33",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-34",
+    "name": "Stufful  (SM-P 34) (Promo)",
+    "rarity": "Promo",
+    "number": "34",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Stufful-SM-P34",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-35",
+    "name": "Bewear GX  (SM-P 35) (Promo)",
+    "rarity": "Promo",
+    "number": "35",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Bewear-GX-SM-P35",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-36",
+    "name": "Lana (SM-P 36) (Promo)",
+    "rarity": "Promo",
+    "number": "36",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Lana-SM-P36",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-37",
+    "name": "Poncho-wearing Pikachu  (SM-P 37) (Promo)",
+    "rarity": "Promo",
+    "number": "37",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Poncho-wearing-Pikachu-V1-SM-P37",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-38",
+    "name": "Poncho-wearing Pikachu  (SM-P 38) (Promo)",
+    "rarity": "Promo",
+    "number": "38",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Poncho-wearing-Pikachu-V2-SM-P38",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 500.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-39",
+    "name": "Togedemaru  (SM-P 39) (Promo)",
+    "rarity": "Promo",
+    "number": "39",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Togedemaru-V2-SM-P39",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 25.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-40",
+    "name": "Choice Band (SM-P 40) (Promo)",
+    "rarity": "Promo",
+    "number": "40",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Choice-Band-SM-P40",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 18.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-41",
+    "name": "Golisopod  (SM-P 41) (Promo)",
+    "rarity": "Promo",
+    "number": "41",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Golisopod-SM-P41",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-42",
+    "name": "Dhelmise  (SM-P 42) (Promo)",
+    "rarity": "Promo",
+    "number": "42",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Dhelmise-SM-P42",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.47,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-43",
+    "name": "Komala  (SM-P 43) (Promo)",
+    "rarity": "Promo",
+    "number": "43",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Komala-SM-P43",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-44",
+    "name": "Pikachu  (SM-P 44) (Promo)",
+    "rarity": "Promo",
+    "number": "44",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-SM-P44",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 38.88,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-45",
+    "name": "Jangmo-o  (SM-P 45) (Promo)",
+    "rarity": "Promo",
+    "number": "45",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Jangmo-o-SM-P45",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-46",
+    "name": "Salandit  (SM-P 46) (Promo)",
+    "rarity": "Promo",
+    "number": "46",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Salandit-SM-P46",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-47",
+    "name": "Tapu Koko  (SM-P 47) (Promo)",
+    "rarity": "Promo",
+    "number": "47",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Tapu-Koko-SM-P47",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.6,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-48",
+    "name": "Tapu Koko GX  (SM-P 48) (Promo)",
+    "rarity": "Promo",
+    "number": "48",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Tapu-Koko-GX-SM-P48",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 12.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-49",
+    "name": "Rowlet  (SM-P 49) (Promo)",
+    "rarity": "Promo",
+    "number": "49",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Rowlet-SM-P49",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 99.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-50",
+    "name": "Litten  (SM-P 50) (Promo)",
+    "rarity": "Promo",
+    "number": "50",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Litten-SM-P50",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-51",
+    "name": "Popplio  (SM-P 51) (Promo)",
+    "rarity": "Promo",
+    "number": "51",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Popplio-SM-P51",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-52",
+    "name": "Alolan Vulpix  (SM-P 52) (Promo)",
+    "rarity": "Promo",
+    "number": "52",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Vulpix-V1-SM-P52",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 13.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-53",
+    "name": "Olivia (SM-P 53) (Promo)",
+    "rarity": "Promo",
+    "number": "53",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Olivia-SM-P53",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 125.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-54",
+    "name": "Turtonator  (SM-P 54) (Promo)",
+    "rarity": "Promo",
+    "number": "54",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Turtonator-SM-P54",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-55",
+    "name": "Easter's Pikachu  (SM-P 55) (Promo)",
+    "rarity": "Promo",
+    "number": "55",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Easters-Pikachu-SM-P55",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 499.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-56",
+    "name": "Mareanie  (SM-P 56) (Promo)",
+    "rarity": "Promo",
+    "number": "56",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Mareanie-SM-P56",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-57",
+    "name": "Passimian  (SM-P 57) (Promo)",
+    "rarity": "Promo",
+    "number": "57",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Passimian-V2-SM-P57",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-58",
+    "name": "Bewear  (SM-P 58) (Promo)",
+    "rarity": "Promo",
+    "number": "58",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Bewear-SM-P58",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.65,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-59",
+    "name": "Litten  (SM-P 59) (Promo)",
+    "rarity": "Promo",
+    "number": "59",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Litten-SM-P59",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-60",
+    "name": "Charmander  (SM-P 60) (Promo)",
+    "rarity": "Promo",
+    "number": "60",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Charmander-SM-P60",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-61",
+    "name": "Pikachu  (SM-P 61) (Promo)",
+    "rarity": "Promo",
+    "number": "61",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-V1-SM-P61",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 600.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-62",
+    "name": "Rowlet  (SM-P 62) (Promo)",
+    "rarity": "Promo",
+    "number": "62",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Rowlet-SM-P62",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 14.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-63",
+    "name": "Litten  (SM-P 63) (Promo)",
+    "rarity": "Promo",
+    "number": "63",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Litten-SM-P63",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 19.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-64",
+    "name": "Popplio  (SM-P 64) (Promo)",
+    "rarity": "Promo",
+    "number": "64",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Popplio-SM-P64",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-65",
+    "name": "Tsareena GX  (SM-P 65) (Promo)",
+    "rarity": "Promo",
+    "number": "65",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Tsareena-GX-SM-P65",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 19.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-66",
+    "name": "Lunala  (SM-P 66) (Promo)",
+    "rarity": "Promo",
+    "number": "66",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Lunala-SM-P66",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-67",
+    "name": "Solgaleo  (SM-P 67) (Promo)",
+    "rarity": "Promo",
+    "number": "67",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Solgaleo-SM-P67",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-68",
+    "name": "Pikachu  (SM-P 68) (Promo)",
+    "rarity": "Promo",
+    "number": "68",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-V2-SM-P68",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-69",
+    "name": "Lucario  (SM-P 69) (Promo)",
+    "rarity": "Promo",
+    "number": "69",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Lucario-SM-P69",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 27.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-70",
+    "name": "Porygon-Z  (SM-P 70) (Promo)",
+    "rarity": "Promo",
+    "number": "70",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Porygon-Z-SM-P70",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-71",
+    "name": "Ash's Pikachu  (SM-P 71) (Promo)",
+    "rarity": "Promo",
+    "number": "71",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Ashs-Pikachu-SM-P71",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 44.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-72",
+    "name": "Ash's Pikachu  (SM-P 72) (Promo)",
+    "rarity": "Promo",
+    "number": "72",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Ashs-Pikachu-SM-P72",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 64.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-73",
+    "name": "Ash's Pikachu  (SM-P 73) (Promo)",
+    "rarity": "Promo",
+    "number": "73",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Ashs-Pikachu-SM-P73",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 74.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-74",
+    "name": "Ash's Pikachu  (SM-P 74) (Promo)",
+    "rarity": "Promo",
+    "number": "74",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Ashs-Pikachu-SM-P74",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 44.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-75",
+    "name": "Ash's Pikachu  (SM-P 75) (Promo)",
+    "rarity": "Promo",
+    "number": "75",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Ashs-Pikachu-SM-P75",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 59.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-76",
+    "name": "Ash's Pikachu  (SM-P 76) (Promo)",
+    "rarity": "Promo",
+    "number": "76",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Ashs-Pikachu-SM-P76",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 45.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-77",
+    "name": "Alolan Sandshrew  (SM-P 77) (Promo)",
+    "rarity": "Promo",
+    "number": "77",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Sandshrew-SM-P77",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-78",
+    "name": "Mareanie  (SM-P 78) (Promo)",
+    "rarity": "Promo",
+    "number": "78",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Mareanie-SM-P78",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-79",
+    "name": "Water Energy (SM-P 79) (Promo)",
+    "rarity": "Promo",
+    "number": "79",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Water-Energy-V1-SM-P79",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.89,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-80",
+    "name": "Lillie (SM-P 80) (Promo)",
+    "rarity": "Promo",
+    "number": "80",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Lillie-SM-P80",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 687.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-81",
+    "name": "Cosmog  (SM-P 81) (Promo)",
+    "rarity": "Promo",
+    "number": "81",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Cosmog-V2-SM-P81",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-82",
+    "name": "Hala (SM-P 82) (Promo)",
+    "rarity": "Promo",
+    "number": "82",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Hala-SM-P82",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-83",
+    "name": "Shining Ho-Oh  (SM-P 83) (Promo)",
+    "rarity": "Promo",
+    "number": "83",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Shining-Ho-Oh-SM-P83",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-84",
+    "name": "The Masked Royal (SM-P 84) (Promo)",
+    "rarity": "Promo",
+    "number": "84",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/The-Masked-Royal-V1-SM-P84",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-85",
+    "name": "The Masked Royal (SM-P 85) (Promo)",
+    "rarity": "Promo",
+    "number": "85",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/The-Masked-Royal-V2-SM-P85",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-86",
+    "name": "Ash's Pikachu  (SM-P 86) (Promo)",
+    "rarity": "Promo",
+    "number": "86",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Ashs-Pikachu-SM-P86",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 34.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-87",
+    "name": "Bewear  (SM-P 87) (Promo)",
+    "rarity": "Promo",
+    "number": "87",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Bewear-SM-P87",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-88",
+    "name": "Tohoku's Pikachu  (SM-P 88) (Promo)",
+    "rarity": "Promo",
+    "number": "88",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Tohokus-Pikachu-SM-P88",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 600.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-89",
+    "name": "Jirachi  (SM-P 89) (Promo)",
+    "rarity": "Promo",
+    "number": "89",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Jirachi-SM-P89",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 45.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-90",
+    "name": "Big Malasada (SM-P 90) (Promo)",
+    "rarity": "Promo",
+    "number": "90",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Big-Malasada-SM-P90",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-91",
+    "name": "Ultra Ball (SM-P 91) (Promo)",
+    "rarity": "Promo",
+    "number": "91",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Ultra-Ball-SM-P91",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 34.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-92",
+    "name": "Switch (SM-P 92) (Promo)",
+    "rarity": "Promo",
+    "number": "92",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Switch-SM-P92",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-93",
+    "name": "Pokémon Catcher (SM-P 93) (Promo)",
+    "rarity": "Promo",
+    "number": "93",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pokemon-Catcher-SM-P93",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-94",
+    "name": "Poison Barb (SM-P 94) (Promo)",
+    "rarity": "Promo",
+    "number": "94",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Poison-Barb-SM-P94",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-95",
+    "name": "Ilima (SM-P 95) (Promo)",
+    "rarity": "Promo",
+    "number": "95",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Ilima-SM-P95",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.88,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-96",
+    "name": "Professor Kukui (SM-P 96) (Promo)",
+    "rarity": "Promo",
+    "number": "96",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Professor-Kukui-SM-P96",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-97",
+    "name": "Hau (SM-P 97) (Promo)",
+    "rarity": "Promo",
+    "number": "97",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Hau-V2-SM-P97",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-98",
+    "name": "Rainbow Energy (SM-P 98) (Promo)",
+    "rarity": "Promo",
+    "number": "98",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Rainbow-Energy-SM-P98",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-99",
+    "name": "Exeggcute  (SM-P 99) (Promo)",
+    "rarity": "Promo",
+    "number": "99",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Exeggcute-SM-P99",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.25,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-100",
+    "name": "Alolan Raichu  (SM-P 100) (Promo)",
+    "rarity": "Promo",
+    "number": "100",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Raichu-SM-P100",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-101",
+    "name": "Latias  (SM-P 101) (Promo)",
+    "rarity": "Promo",
+    "number": "101",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Latias-SM-P101",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-102",
+    "name": "Crabominable  (SM-P 102) (Promo)",
+    "rarity": "Promo",
+    "number": "102",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Crabominable-SM-P102",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-103",
+    "name": "Lycanroc  (SM-P 103) (Promo)",
+    "rarity": "Promo",
+    "number": "103",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Lycanroc-SM-P103",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-104",
+    "name": "Palossand GX  (SM-P 104) (Promo)",
+    "rarity": "Promo",
+    "number": "104",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Palossand-GX-SM-P104",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.4,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-105",
+    "name": "Zorua  (SM-P 105) (Promo)",
+    "rarity": "Promo",
+    "number": "105",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Zorua-SM-P105",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-106",
+    "name": "Kirlia  (SM-P 106) (Promo)",
+    "rarity": "Promo",
+    "number": "106",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Kirlia-SM-P106",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.25,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-107",
+    "name": "Hiker (SM-P 107) (Promo)",
+    "rarity": "Promo",
+    "number": "107",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Hiker-SM-P107",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-108",
+    "name": "Pikachu  (SM-P 108) (Promo)",
+    "rarity": "Promo",
+    "number": "108",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-V1-SM-P108",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 22.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-109",
+    "name": "Tapu Koko  (SM-P 109) (Promo)",
+    "rarity": "Promo",
+    "number": "109",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Tapu-Koko-V2-SM-P109",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-110",
+    "name": "Togedemaru  (SM-P 110) (Promo)",
+    "rarity": "Promo",
+    "number": "110",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Togedemaru-V3-SM-P110",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-111",
+    "name": "Butterfree  (SM-P 111) (Promo)",
+    "rarity": "Promo",
+    "number": "111",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Butterfree-SM-P111",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-112",
+    "name": "Charmander  (SM-P 112) (Promo)",
+    "rarity": "Promo",
+    "number": "112",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Charmander-V2-SM-P112",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-113",
+    "name": "Incineroar  (SM-P 113) (Promo)",
+    "rarity": "Promo",
+    "number": "113",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Incineroar-V2-SM-P113",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-114",
+    "name": "Pikachu  (SM-P 114) (Promo)",
+    "rarity": "Promo",
+    "number": "114",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-V3-SM-P114",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-115",
+    "name": "Lycanroc  (SM-P 115) (Promo)",
+    "rarity": "Promo",
+    "number": "115",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Lycanroc-SM-P115",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-116",
+    "name": "Marshadow GX  (SM-P 116) (Promo)",
+    "rarity": "Promo",
+    "number": "116",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Marshadow-GX-SM-P116",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 35.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-117",
+    "name": "Regigigas  (SM-P 117) (Promo)",
+    "rarity": "Promo",
+    "number": "117",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Regigigas-SM-P117",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-118",
+    "name": "Hydreigon  (SM-P 118) (Promo)",
+    "rarity": "Promo",
+    "number": "118",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Hydreigon-SM-P118",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-119",
+    "name": "Sneasel  (SM-P 119) (Promo)",
+    "rarity": "Promo",
+    "number": "119",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Sneasel-SM-P119",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-120",
+    "name": "Type: Null  (SM-P 120) (Promo)",
+    "rarity": "Promo",
+    "number": "120",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Type-Null-SM-P120",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-121",
+    "name": "Silvally  (SM-P 121) (Promo)",
+    "rarity": "Promo",
+    "number": "121",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Silvally-SM-P120",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-122",
+    "name": "Silvally GX  (SM-P 122) (Promo)",
+    "rarity": "Promo",
+    "number": "122",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Silvally-GX-SM-P121",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-123",
+    "name": "Marshadow  (SM-P 123) (Promo)",
+    "rarity": "Promo",
+    "number": "123",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Marshadow-SM-P122",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-124",
+    "name": "Espeon GX  (SM-P 124) (Promo)",
+    "rarity": "Promo",
+    "number": "124",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Espeon-GX-SM-P124",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-125",
+    "name": "Umbreon GX  (SM-P 125) (Promo)",
+    "rarity": "Promo",
+    "number": "125",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Umbreon-GX-SM-P125",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-126",
+    "name": "Bodybuilding Dumbbells (SM-P 126) (Promo)",
+    "rarity": "Promo",
+    "number": "126",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Bodybuilding-Dumbbells-SM-P126",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-127",
+    "name": "Tapu Koko  (SM-P 127) (Promo)",
+    "rarity": "Promo",
+    "number": "127",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Tapu-Koko-V3-SM-P127",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-128",
+    "name": "Grass Energy (SM-P 128) (Promo)",
+    "rarity": "Promo",
+    "number": "128",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Grass-Energy-V2-SM-P128",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-129",
+    "name": "Fire Energy (SM-P 129) (Promo)",
+    "rarity": "Promo",
+    "number": "129",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Fire-Energy-V2-SM-P129",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 18.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-130",
+    "name": "Water Energy (SM-P 130) (Promo)",
+    "rarity": "Promo",
+    "number": "130",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Water-Energy-V2-SM-P130",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-131",
+    "name": "Lightning Energy (SM-P 131) (Promo)",
+    "rarity": "Promo",
+    "number": "131",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Lightning-Energy-V2-SM-P131",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-132",
+    "name": "Psychic Energy (SM-P 132) (Promo)",
+    "rarity": "Promo",
+    "number": "132",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Psychic-Energy-V2-SM-P132",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-133",
+    "name": "Fighting Energy (SM-P 133) (Promo)",
+    "rarity": "Promo",
+    "number": "133",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Fighting-Energy-V2-SM-P133",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 12.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-134",
+    "name": "Darkness Energy (SM-P 134) (Promo)",
+    "rarity": "Promo",
+    "number": "134",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Darkness-Energy-V2-SM-P134",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-135",
+    "name": "Metal Energy (SM-P 135) (Promo)",
+    "rarity": "Promo",
+    "number": "135",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Metal-Energy-V2-SM-P135",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-136",
+    "name": "Fairy Energy (SM-P 136) (Promo)",
+    "rarity": "Promo",
+    "number": "136",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Fairy-Energy-V2-SM-P136",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 19.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-137",
+    "name": "Poncho-wearing Eevee  (SM-P 137) (Promo)",
+    "rarity": "Promo",
+    "number": "137",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Poncho-wearing-Eevee-SM-P137",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 799.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-138",
+    "name": "Poncho-wearing Eevee  (SM-P 138) (Promo)",
+    "rarity": "Promo",
+    "number": "138",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Poncho-wearing-Eevee-SM-P138",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 750.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-139",
+    "name": "Poncho-wearing Eevee  (SM-P 139) (Promo)",
+    "rarity": "Promo",
+    "number": "139",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Poncho-wearing-Eevee-SM-P139",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 849.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-140",
+    "name": "Poncho-wearing Eevee  (SM-P 140) (Promo)",
+    "rarity": "Promo",
+    "number": "140",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Poncho-wearing-Eevee-SM-P140",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 500.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-141",
+    "name": "Poncho-wearing Eevee  (SM-P 141) (Promo)",
+    "rarity": "Promo",
+    "number": "141",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Poncho-wearing-Eevee-SM-P141",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-142",
+    "name": "Poncho-wearing Eevee  (SM-P 142) (Promo)",
+    "rarity": "Promo",
+    "number": "142",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Poncho-wearing-Eevee-SM-P142",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 900.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-143",
+    "name": "Poncho-wearing Eevee  (SM-P 143) (Promo)",
+    "rarity": "Promo",
+    "number": "143",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Poncho-wearing-Eevee-SM-P143",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 590.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-144",
+    "name": "Poncho-wearing Eevee  (SM-P 144) (Promo)",
+    "rarity": "Promo",
+    "number": "144",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Poncho-wearing-Eevee-SM-P144",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 550.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-145",
+    "name": "Garbodor  (SM-P 145) (Promo)",
+    "rarity": "Promo",
+    "number": "145",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Garbodor-SM-P145",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-146",
+    "name": "Vulpix  (SM-P 146) (Promo)",
+    "rarity": "Promo",
+    "number": "146",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Vulpix-SM-P146",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 125.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-147",
+    "name": "Vulpix  (SM-P 147) (Promo)",
+    "rarity": "Promo",
+    "number": "147",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Vulpix-SM-P147",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 125.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-148",
+    "name": "Lillie (SM-P 148) (Promo)",
+    "rarity": "Promo",
+    "number": "148",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Lillie-V2-SM-P148",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-149",
+    "name": "Rotom Dex (SM-P 149) (Promo)",
+    "rarity": "Promo",
+    "number": "149",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Rotom-Dex-V2-SM-P149",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-150",
+    "name": "Rockruff  (SM-P 150) (Promo)",
+    "rarity": "Promo",
+    "number": "150",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Rockruff-SM-P150",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-151",
+    "name": "Lycanroc  (SM-P 151) (Promo)",
+    "rarity": "Promo",
+    "number": "151",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Lycanroc-SM-P151",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.98,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-152",
+    "name": "Tapu Lele  (SM-P 152) (Promo)",
+    "rarity": "Promo",
+    "number": "152",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Tapu-Lele-SM-P152",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-153",
+    "name": "Tapu Fini  (SM-P 153) (Promo)",
+    "rarity": "Promo",
+    "number": "153",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Tapu-Fini-SM-P153",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-154",
+    "name": "Tapu Koko  (SM-P 154) (Promo)",
+    "rarity": "Promo",
+    "number": "154",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Tapu-Koko-V4-SM-P154",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 40.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-155",
+    "name": "Marshadow  (SM-P 155) (Promo)",
+    "rarity": "Promo",
+    "number": "155",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Marshadow-SM-P155",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 14.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-156",
+    "name": "Phione  (SM-P 156) (Promo)",
+    "rarity": "Promo",
+    "number": "156",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Phione-SM-P156",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.59,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-157",
+    "name": "Alolan Raichu  (SM-P 157) (Promo)",
+    "rarity": "Promo",
+    "number": "157",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Raichu-V2-SM-P157",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-158",
+    "name": "Luxio  (SM-P 158) (Promo)",
+    "rarity": "Promo",
+    "number": "158",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Luxio-SM-P158",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-159",
+    "name": "Riolu  (SM-P 159) (Promo)",
+    "rarity": "Promo",
+    "number": "159",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Riolu-SM-P159",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.45,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-160",
+    "name": "Alolan Rattata  (SM-P 160) (Promo)",
+    "rarity": "Promo",
+    "number": "160",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Rattata-SM-P160",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.59,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-161",
+    "name": "Alolan Raticate GX  (SM-P 161) (Promo)",
+    "rarity": "Promo",
+    "number": "161",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Raticate-GX-SM-P161",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-162",
+    "name": "Zoroark  (SM-P 162) (Promo)",
+    "rarity": "Promo",
+    "number": "162",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Zoroark-SM-P162",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-163",
+    "name": "Alolan Diglett  (SM-P 163) (Promo)",
+    "rarity": "Promo",
+    "number": "163",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Diglett-SM-P163",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.75,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-164",
+    "name": "Beast Ball (SM-P 164) (Promo)",
+    "rarity": "Promo",
+    "number": "164",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Beast-Ball-SM-P164",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.67,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-165",
+    "name": "Weavile  (SM-P 165) (Promo)",
+    "rarity": "Promo",
+    "number": "165",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Weavile-SM-P165",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 19.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-166",
+    "name": "Cresselia  (SM-P 166) (Promo)",
+    "rarity": "Promo",
+    "number": "166",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Cresselia-SM-P166",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-167",
+    "name": "Heatran  (SM-P 167) (Promo)",
+    "rarity": "Promo",
+    "number": "167",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Heatran-SM-P167",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-168",
+    "name": "Pikachu  (SM-P 168) (Promo)",
+    "rarity": "Promo",
+    "number": "168",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-V2-SM-P168",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 24.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-169",
+    "name": "Rowlet  (SM-P 169) (Promo)",
+    "rarity": "Promo",
+    "number": "169",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Rowlet-V2-SM-P169",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-170",
+    "name": "Grass Energy (SM-P 170) (Promo)",
+    "rarity": "Promo",
+    "number": "170",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Grass-Energy-V3-SM-P170",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-171",
+    "name": "Grass Energy (SM-P 171) (Promo)",
+    "rarity": "Promo",
+    "number": "171",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Grass-Energy-V4-SM-P171",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 50.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-172",
+    "name": "Litten  (SM-P 172) (Promo)",
+    "rarity": "Promo",
+    "number": "172",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Litten-V2-SM-P172",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 44.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-173",
+    "name": "Fire Energy (SM-P 173) (Promo)",
+    "rarity": "Promo",
+    "number": "173",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Fire-Energy-V3-SM-P173",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-174",
+    "name": "Fire Energy (SM-P 174) (Promo)",
+    "rarity": "Promo",
+    "number": "174",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Fire-Energy-V4-SM-P174",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-175",
+    "name": "Popplio  (SM-P 175) (Promo)",
+    "rarity": "Promo",
+    "number": "175",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Popplio-V2-SM-P175",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 24.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-176",
+    "name": "Water Energy (SM-P 176) (Promo)",
+    "rarity": "Promo",
+    "number": "176",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Water-Energy-V3-SM-P176",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-177",
+    "name": "Water Energy (SM-P 177) (Promo)",
+    "rarity": "Promo",
+    "number": "177",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Water-Energy-V4-SM-P177",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-178",
+    "name": "Zygarde  (SM-P 178) (Promo)",
+    "rarity": "Promo",
+    "number": "178",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Zygarde-SM-P178",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-179",
+    "name": "Pikachu  (SM-P 179) (Promo)",
+    "rarity": "Promo",
+    "number": "179",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-V2-SM-P178",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 65.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-180",
+    "name": "Guzma (SM-P 180) (Promo)",
+    "rarity": "Promo",
+    "number": "180",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Guzma-V1-SM-P181",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 19.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-181",
+    "name": "Xurkitree  (SM-P 181) (Promo)",
+    "rarity": "Promo",
+    "number": "181",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Xurkitree-SM-P182",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-182",
+    "name": "Grass Energy (SM-P 182) (Promo)",
+    "rarity": "Promo",
+    "number": "182",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Grass-Energy-V5-SM-P182",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-183",
+    "name": "Fire Energy (SM-P 183) (Promo)",
+    "rarity": "Promo",
+    "number": "183",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Fire-Energy-V5-SM-P183",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-184",
+    "name": "Water Energy (SM-P 184) (Promo)",
+    "rarity": "Promo",
+    "number": "184",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Water-Energy-V5-SM-P184",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-185",
+    "name": "Lightning Energy (SM-P 185) (Promo)",
+    "rarity": "Promo",
+    "number": "185",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Lightning-Energy-V3-SM-P185",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-186",
+    "name": "Psychic Energy (SM-P 186) (Promo)",
+    "rarity": "Promo",
+    "number": "186",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Psychic-Energy-V3-SM-P186",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.88,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-207",
+    "name": "Pikachu  (SM-P 207) (Promo)",
+    "rarity": "Promo",
+    "number": "207",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-V4-SM-P207",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-208",
+    "name": "Hakama Pikachu  (SM-P 208) (Promo)",
+    "rarity": "Promo",
+    "number": "208",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Hakama-Pikachu-SM-P208",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 429.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-209",
+    "name": "Firefighter Pikachu  (SM-P 209) (Promo)",
+    "rarity": "Promo",
+    "number": "209",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Firefighter-Pikachu-SM-P208",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 500.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-210",
+    "name": "Gentleman Pikachu  (SM-P 210) (Promo)",
+    "rarity": "Promo",
+    "number": "210",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Gentleman-Pikachu-SM-P210",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 140.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-211",
+    "name": "Cherry Blossom Afro Pikachu  (SM-P 211) (Promo)",
+    "rarity": "Promo",
+    "number": "211",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Cherry-Blossom-Afro-Pikachu-SM-P211",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 225.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-212",
+    "name": "Carbink  (SM-P 212) (Promo)",
+    "rarity": "Promo",
+    "number": "212",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Carbink-SM-P212",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.25,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-213",
+    "name": "Wash Rotom  (SM-P 213) (Promo)",
+    "rarity": "Promo",
+    "number": "213",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Wash-Rotom-SM-P213",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-214",
+    "name": "Pikachu  (SM-P 214) (Promo)",
+    "rarity": "Promo",
+    "number": "214",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-V3-SM-P214",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 13.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-215",
+    "name": "Dedenne  (SM-P 215) (Promo)",
+    "rarity": "Promo",
+    "number": "215",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Dedenne-SM-P215",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-216",
+    "name": "Zygarde GX  (SM-P 216) (Promo)",
+    "rarity": "Promo",
+    "number": "216",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Zygarde-GX-SM-P216",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 19.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-217",
+    "name": "Alolan Sandslash  (SM-P 217) (Promo)",
+    "rarity": "Promo",
+    "number": "217",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Sandslash-SM-P217",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 12.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-218",
+    "name": "Alolan Ninetales  (SM-P 218) (Promo)",
+    "rarity": "Promo",
+    "number": "218",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Ninetales-SM-P218",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-219",
+    "name": "Aether Foundation Employee (SM-P 219) (Promo)",
+    "rarity": "Promo",
+    "number": "219",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Aether-Foundation-Employee-SM-P219",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-220",
+    "name": "Necrozma GX  (SM-P 220) (Promo)",
+    "rarity": "Promo",
+    "number": "220",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Necrozma-GX-SM-P220",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 30.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-221",
+    "name": "Lycanroc  (SM-P 221) (Promo)",
+    "rarity": "Promo",
+    "number": "221",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Lycanroc-SM-P221",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-222",
+    "name": "Altaria  (SM-P 222) (Promo)",
+    "rarity": "Promo",
+    "number": "222",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Altaria-SM-P222",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-223",
+    "name": "Acerola (SM-P 223) (Promo)",
+    "rarity": "Promo",
+    "number": "223",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Acerola-V1-SM-P223",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-224",
+    "name": "Pikachu  (SM-P 224) (Promo)",
+    "rarity": "Promo",
+    "number": "224",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-SM-P224",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 35.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-225",
+    "name": "Shaymin  (SM-P 225) (Promo)",
+    "rarity": "Promo",
+    "number": "225",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Shaymin-SM-P225",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-226",
+    "name": "Zangoose  (SM-P 226) (Promo)",
+    "rarity": "Promo",
+    "number": "226",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Zangoose-SM-P226",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-227",
+    "name": "Pikachu  (SM-P 227) (Promo)",
+    "rarity": "Promo",
+    "number": "227",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-SM-P227",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 16.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-228",
+    "name": "Sceptile  (SM-P 228) (Promo)",
+    "rarity": "Promo",
+    "number": "228",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Sceptile-SM-P228",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-229",
+    "name": "Nuzleaf  (SM-P 229) (Promo)",
+    "rarity": "Promo",
+    "number": "229",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Nuzleaf-SM-P229",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-230",
+    "name": "Wailmer  (SM-P 230) (Promo)",
+    "rarity": "Promo",
+    "number": "230",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Wailmer-SM-P230",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-231",
+    "name": "Mr. Mime GX  (SM-P 231) (Promo)",
+    "rarity": "Promo",
+    "number": "231",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Mr-Mime-GX-SM-P231",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.85,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-232",
+    "name": "Deoxys  (SM-P 232) (Promo)",
+    "rarity": "Promo",
+    "number": "232",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Deoxys-SM-P232",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.75,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-233",
+    "name": "Heatran  (SM-P 233) (Promo)",
+    "rarity": "Promo",
+    "number": "233",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Heatran-SM-P233",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-234",
+    "name": "Delcatty  (SM-P 234) (Promo)",
+    "rarity": "Promo",
+    "number": "234",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Delcatty-SM-P234",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-235",
+    "name": "Return Label (SM-P 235) (Promo)",
+    "rarity": "Promo",
+    "number": "235",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Return-Label-SM-P235",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-236",
+    "name": "Ultra Necrozma  (SM-P 236) (Promo)",
+    "rarity": "Promo",
+    "number": "236",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Ultra-Necrozma-SM-P236",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 69.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-237",
+    "name": "Lugia  (SM-P 237) (Promo)",
+    "rarity": "Promo",
+    "number": "237",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Lugia-SM-P237",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-238",
+    "name": "Zekrom GX  (SM-P 238) (Promo)",
+    "rarity": "Promo",
+    "number": "238",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Zekrom-GX-V1-SM-P238",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-239",
+    "name": "Zekrom GX  (SM-P 239) (Promo)",
+    "rarity": "Promo",
+    "number": "239",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Zekrom-GX-V2-SM-P239",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-240",
+    "name": "Zekrom GX  (SM-P 240) (Promo)",
+    "rarity": "Promo",
+    "number": "240",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Zekrom-GX-V3-SM-P240",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-241",
+    "name": "Zeraora  (SM-P 241) (Promo)",
+    "rarity": "Promo",
+    "number": "241",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Zeraora-V1-SM-P241",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 18.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-242",
+    "name": "Pikachu  (SM-P 242) (Promo)",
+    "rarity": "Promo",
+    "number": "242",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-SM-P242",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 39.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-243",
+    "name": "Eevee  (SM-P 243) (Promo)",
+    "rarity": "Promo",
+    "number": "243",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Eevee-SM-P243",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.45,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-244",
+    "name": "Samson Oak (SM-P 244) (Promo)",
+    "rarity": "Promo",
+    "number": "244",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Samson-Oak-SM-P244",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-245",
+    "name": "Eevee  (SM-P 245) (Promo)",
+    "rarity": "Promo",
+    "number": "245",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Eevee-SM-P245",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-246",
+    "name": "Mallow (SM-P 246) (Promo)",
+    "rarity": "Promo",
+    "number": "246",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Mallow-V1-SM-P246",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-247",
+    "name": "Eevee  (SM-P 247) (Promo)",
+    "rarity": "Promo",
+    "number": "247",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Eevee-SM-P247",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 140.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-248",
+    "name": "Player's Ceremony (SM-P 248) (Promo)",
+    "rarity": "Promo",
+    "number": "248",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Players-Ceremony-V1-SM-P248",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-249",
+    "name": "Pikachu  (SM-P 249) (Promo)",
+    "rarity": "Promo",
+    "number": "249",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-SM-P249",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 29.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-250",
+    "name": "Professor Elm's Lecture (SM-P 250) (Promo)",
+    "rarity": "Promo",
+    "number": "250",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Professor-Elms-Lecture-SM-P250",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 12.47,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-251",
+    "name": "Nanu (SM-P 251) (Promo)",
+    "rarity": "Promo",
+    "number": "251",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Nanu-SM-P251",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-252",
+    "name": "Alolan Marowak GX  (SM-P 252) (Promo)",
+    "rarity": "Promo",
+    "number": "252",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Marowak-GX-SM-P252",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.89,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-253",
+    "name": "Slowpoke  (SM-P 253) (Promo)",
+    "rarity": "Promo",
+    "number": "253",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Slowpoke-SM-P253",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-254",
+    "name": "Cubone  (SM-P 254) (Promo)",
+    "rarity": "Promo",
+    "number": "254",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Cubone-SM-P254",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 12.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-255",
+    "name": "Alolan Meowth  (SM-P 255) (Promo)",
+    "rarity": "Promo",
+    "number": "255",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Alolan-Meowth-SM-P255",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-256",
+    "name": "Latias  (SM-P 256) (Promo)",
+    "rarity": "Promo",
+    "number": "256",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Latias-SM-P256",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-257",
+    "name": "Latios  (SM-P 257) (Promo)",
+    "rarity": "Promo",
+    "number": "257",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Latios-SM-P257",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-258",
+    "name": "Energy Spinner (SM-P 258) (Promo)",
+    "rarity": "Promo",
+    "number": "258",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Energy-Spinner-SM-P258",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-259",
+    "name": "Litten  (SM-P 259) (Promo)",
+    "rarity": "Promo",
+    "number": "259",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Litten-SM-P259",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 31.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-260",
+    "name": "Chespin  (SM-P 260) (Promo)",
+    "rarity": "Promo",
+    "number": "260",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Chespin-SM-P260",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-261",
+    "name": "Inkay  (SM-P 261) (Promo)",
+    "rarity": "Promo",
+    "number": "261",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Inkay-SM-P261",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 14.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-262",
+    "name": "Pikachu  (SM-P 262) (Promo)",
+    "rarity": "Promo",
+    "number": "262",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-SM-P262",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 44.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-263",
+    "name": "Tauros GX  (SM-P 263) (Promo)",
+    "rarity": "Promo",
+    "number": "263",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Tauros-GX-SM-P263",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 30.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-264",
+    "name": "Mimikyu  (SM-P 264) (Promo)",
+    "rarity": "Promo",
+    "number": "264",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Mimikyu-SM-P264",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 59.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-265",
+    "name": "Typhlosion  (SM-P 265) (Promo)",
+    "rarity": "Promo",
+    "number": "265",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Typhlosion-SM-P265",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-266",
+    "name": "Cynthia (SM-P 266) (Promo)",
+    "rarity": "Promo",
+    "number": "266",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Cynthia-SM-P266",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-267",
+    "name": "Poipole  (SM-P 267) (Promo)",
+    "rarity": "Promo",
+    "number": "267",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Poipole-SM-P267",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 24.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-268",
+    "name": "Leafeon GX  (SM-P 268) (Promo)",
+    "rarity": "Promo",
+    "number": "268",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Leafeon-GX-SM-P268",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-269",
+    "name": "Glaceon GX  (SM-P 269) (Promo)",
+    "rarity": "Promo",
+    "number": "269",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Glaceon-GX-SM-P269",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-270",
+    "name": "Red's Pikachu  (SM-P 270) (Promo)",
+    "rarity": "Promo",
+    "number": "270",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Reds-Pikachu-SM-P270",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 239.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-271",
+    "name": "Escape Board (SM-P 271) (Promo)",
+    "rarity": "Promo",
+    "number": "271",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Escape-Board-SM-P271",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 39.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-272",
+    "name": "Pal Pad (SM-P 272) (Promo)",
+    "rarity": "Promo",
+    "number": "272",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pal-Pad-SM-P272",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 19.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-273",
+    "name": "Pokémon Fan Club (SM-P 273) (Promo)",
+    "rarity": "Promo",
+    "number": "273",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pokemon-Fan-Club-SM-P273",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 24.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-274",
+    "name": "Flareon  (SM-P 274) (Promo)",
+    "rarity": "Promo",
+    "number": "274",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Flareon-SM-P274",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-275",
+    "name": "Vaporeon  (SM-P 275) (Promo)",
+    "rarity": "Promo",
+    "number": "275",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Vaporeon-SM-P275",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-276",
+    "name": "Pikachu  (SM-P 276) (Promo)",
+    "rarity": "Promo",
+    "number": "276",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Pikachu-V1-SM-P276",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 100.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-277",
+    "name": "Moltres  (SM-P 277) (Promo)",
+    "rarity": "Promo",
+    "number": "277",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Moltres-SM-P277",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 19.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-278",
+    "name": "Articuno  (SM-P 278) (Promo)",
+    "rarity": "Promo",
+    "number": "278",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Articuno-SM-P278",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 29.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-279",
+    "name": "Zapdos  (SM-P 279) (Promo)",
+    "rarity": "Promo",
+    "number": "279",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Zapdos-SM-P279",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 23.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-280",
+    "name": "Yokohama's Pikachu  (SM-P 280) (Promo)",
+    "rarity": "Promo",
+    "number": "280",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Yokohamas-Pikachu-SM-P280",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 799.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-281",
+    "name": "Yokohama's Pikachu  (SM-P 281) (Promo)",
+    "rarity": "Promo",
+    "number": "281",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Yokohamas-Pikachu-SM-P281",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 300.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-282",
+    "name": "Yokohama's Pikachu  (SM-P 282) (Promo)",
+    "rarity": "Promo",
+    "number": "282",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Yokohamas-Pikachu-SM-P282",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 229.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-283",
+    "name": "Yokohama's Pikachu  (SM-P 283) (Promo)",
+    "rarity": "Promo",
+    "number": "283",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Yokohamas-Pikachu-SM-P283",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 159.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-284",
+    "name": "Meltan  (SM-P 284) (Promo)",
+    "rarity": "Promo",
+    "number": "284",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Meltan-SM-P284",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-285",
+    "name": "Melmetal GX  (SM-P 285) (Promo)",
+    "rarity": "Promo",
+    "number": "285",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Melmetal-GX-SM-P285",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "smp-promo-286",
+    "name": "Psyduck  (SM-P 286) (Promo)",
+    "rarity": "Promo",
+    "number": "286",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon-Promos/Psyduck-SM-P286",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 499.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

@@ -68,6 +68,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/1.png",
       "large": "https://images.pokemontcg.io/g1/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Venusaur-EX-GEN1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -127,6 +135,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/2.png",
       "large": "https://images.pokemontcg.io/g1/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/MVenusaur-EX-GEN2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.85,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -185,6 +201,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/3.png",
       "large": "https://images.pokemontcg.io/g1/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Caterpie-GEN3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -246,6 +270,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/4.png",
       "large": "https://images.pokemontcg.io/g1/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Metapod-GEN4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.13
+      }
     }
   },
   {
@@ -312,6 +344,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/5.png",
       "large": "https://images.pokemontcg.io/g1/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Butterfree-GEN5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -363,6 +403,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/6.png",
       "large": "https://images.pokemontcg.io/g1/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Paras-GEN6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -423,6 +471,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/7.png",
       "large": "https://images.pokemontcg.io/g1/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Parasect-GEN7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -487,6 +543,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/8.png",
       "large": "https://images.pokemontcg.io/g1/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Tangela-V1-GEN8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -547,6 +611,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/9.png",
       "large": "https://images.pokemontcg.io/g1/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Pinsir-GEN9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -611,6 +683,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/10.png",
       "large": "https://images.pokemontcg.io/g1/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Leafeon-EX-GEN10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -679,6 +759,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/11.png",
       "large": "https://images.pokemontcg.io/g1/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Charizard-EX-GEN11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -737,6 +825,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/12.png",
       "large": "https://images.pokemontcg.io/g1/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/MCharizard-EX-GEN12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 24.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -800,6 +896,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/13.png",
       "large": "https://images.pokemontcg.io/g1/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Ninetales-EX-GEN13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.55,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -861,6 +965,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/14.png",
       "large": "https://images.pokemontcg.io/g1/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Ponyta-V1-GEN14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -916,6 +1028,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/15.png",
       "large": "https://images.pokemontcg.io/g1/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Rapidash-GEN15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -978,6 +1098,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/16.png",
       "large": "https://images.pokemontcg.io/g1/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Magmar-GEN16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.28
+      }
     }
   },
   {
@@ -1048,6 +1176,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/17.png",
       "large": "https://images.pokemontcg.io/g1/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Blastoise-EX-GEN17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.45,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1106,6 +1242,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/18.png",
       "large": "https://images.pokemontcg.io/g1/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/MBlastoise-EX-GEN18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.78,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1158,6 +1302,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/19.png",
       "large": "https://images.pokemontcg.io/g1/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Shellder-GEN19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1221,6 +1373,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/20.png",
       "large": "https://images.pokemontcg.io/g1/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Cloyster-GEN20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1284,6 +1444,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/21.png",
       "large": "https://images.pokemontcg.io/g1/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Krabby-GEN21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1335,6 +1503,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/22.png",
       "large": "https://images.pokemontcg.io/g1/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Magikarp-V1-GEN22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.44
+      }
     }
   },
   {
@@ -1400,6 +1576,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/23.png",
       "large": "https://images.pokemontcg.io/g1/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Gyarados-GEN23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -1465,6 +1649,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/24.png",
       "large": "https://images.pokemontcg.io/g1/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Vaporeon-EX-GEN24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1531,6 +1723,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/25.png",
       "large": "https://images.pokemontcg.io/g1/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Articuno-GEN25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.95,
+        "reverseHoloLow": 15.0
+      }
     }
   },
   {
@@ -1598,6 +1798,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/26.png",
       "large": "https://images.pokemontcg.io/g1/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Pikachu-V1-GEN26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 4.99
+      }
     }
   },
   {
@@ -1661,6 +1869,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/27.png",
       "large": "https://images.pokemontcg.io/g1/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Raichu-V1-GEN27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -1725,6 +1941,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/28.png",
       "large": "https://images.pokemontcg.io/g1/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Jolteon-EX-V1-GEN28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1855,6 +2079,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/29.png",
       "large": "https://images.pokemontcg.io/g1/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Zapdos-GEN29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": 15.0
+      }
     }
   },
   {
@@ -1912,6 +2144,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/30.png",
       "large": "https://images.pokemontcg.io/g1/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Zubat-GEN30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -1973,6 +2213,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/31.png",
       "large": "https://images.pokemontcg.io/g1/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Golbat-GEN31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2035,6 +2283,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/32.png",
       "large": "https://images.pokemontcg.io/g1/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Slowpoke-V1-GEN32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2092,6 +2348,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/33.png",
       "large": "https://images.pokemontcg.io/g1/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Gastly-GEN33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2158,6 +2422,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/34.png",
       "large": "https://images.pokemontcg.io/g1/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Haunter-GEN34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -2219,6 +2491,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/35.png",
       "large": "https://images.pokemontcg.io/g1/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Gengar-GEN35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": 7.0
+      }
     }
   },
   {
@@ -2276,6 +2556,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/36.png",
       "large": "https://images.pokemontcg.io/g1/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Jynx-GEN36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -2335,6 +2623,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/37.png",
       "large": "https://images.pokemontcg.io/g1/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Meowstic-EX-GEN37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2396,6 +2692,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/38.png",
       "large": "https://images.pokemontcg.io/g1/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Diglett-GEN38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2456,6 +2760,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/39.png",
       "large": "https://images.pokemontcg.io/g1/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Dugtrio-GEN39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2508,6 +2820,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/40.png",
       "large": "https://images.pokemontcg.io/g1/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Machop-GEN40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2562,6 +2882,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/41.png",
       "large": "https://images.pokemontcg.io/g1/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Machoke-GEN41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -2621,6 +2949,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/42.png",
       "large": "https://images.pokemontcg.io/g1/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Machamp-GEN42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.55,
+        "reverseHoloLow": 0.79
+      }
     }
   },
   {
@@ -2683,6 +3019,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/43.png",
       "large": "https://images.pokemontcg.io/g1/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Geodude-V1-GEN43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2751,6 +3095,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/44.png",
       "large": "https://images.pokemontcg.io/g1/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Graveler-GEN44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2816,6 +3168,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/45.png",
       "large": "https://images.pokemontcg.io/g1/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Golem-GEN45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": 0.85
+      }
     }
   },
   {
@@ -2884,6 +3244,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/46.png",
       "large": "https://images.pokemontcg.io/g1/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Golem-EX-GEN46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2942,6 +3310,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/47.png",
       "large": "https://images.pokemontcg.io/g1/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Hitmonlee-GEN47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3002,6 +3378,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/48.png",
       "large": "https://images.pokemontcg.io/g1/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Hitmonchan-GEN48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -3056,6 +3440,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/49.png",
       "large": "https://images.pokemontcg.io/g1/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Rhyhorn-GEN49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3123,6 +3515,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/50.png",
       "large": "https://images.pokemontcg.io/g1/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Clefairy-V1-GEN50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.55
+      }
     }
   },
   {
@@ -3189,6 +3589,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/51.png",
       "large": "https://images.pokemontcg.io/g1/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Clefable-GEN51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -3251,6 +3659,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/52.png",
       "large": "https://images.pokemontcg.io/g1/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Mr-Mime-GEN52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3302,6 +3718,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/53.png",
       "large": "https://images.pokemontcg.io/g1/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Meowth-V1-GEN53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3361,6 +3785,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/54.png",
       "large": "https://images.pokemontcg.io/g1/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Persian-GEN54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -3428,6 +3860,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/55.png",
       "large": "https://images.pokemontcg.io/g1/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Doduo-GEN55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.21
+      }
     }
   },
   {
@@ -3492,6 +3932,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/56.png",
       "large": "https://images.pokemontcg.io/g1/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Dodrio-GEN56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.65
+      }
     }
   },
   {
@@ -3552,6 +4000,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/57.png",
       "large": "https://images.pokemontcg.io/g1/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Tauros-GEN57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3613,6 +4069,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/58.png",
       "large": "https://images.pokemontcg.io/g1/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Snorlax-GEN58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -3636,6 +4100,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/59.png",
       "large": "https://images.pokemontcg.io/g1/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Clemont-GEN59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3660,6 +4132,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/60.png",
       "large": "https://images.pokemontcg.io/g1/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Crushing-Hammer-GEN60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3684,6 +4164,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/61.png",
       "large": "https://images.pokemontcg.io/g1/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Energy-Switch-GEN61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -3707,6 +4195,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/62.png",
       "large": "https://images.pokemontcg.io/g1/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Evosoda-GEN62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3729,6 +4225,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/63.png",
       "large": "https://images.pokemontcg.io/g1/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Imakuni-GEN63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3752,6 +4256,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/64.png",
       "large": "https://images.pokemontcg.io/g1/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Maintenance-GEN64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3775,6 +4287,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/65.png",
       "large": "https://images.pokemontcg.io/g1/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Max-Revive-GEN65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3798,6 +4318,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/66.png",
       "large": "https://images.pokemontcg.io/g1/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Olympia-GEN66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3822,6 +4350,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/67.png",
       "large": "https://images.pokemontcg.io/g1/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Poke-Ball-GEN67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3845,6 +4381,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/68.png",
       "large": "https://images.pokemontcg.io/g1/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Pokemon-Center-Lady-GEN68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3868,6 +4412,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/69.png",
       "large": "https://images.pokemontcg.io/g1/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Pokemon-Fan-Club-GEN69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3891,6 +4443,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/70.png",
       "large": "https://images.pokemontcg.io/g1/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Revitalizer-GEN70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -3914,6 +4474,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/71.png",
       "large": "https://images.pokemontcg.io/g1/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Red-Card-GEN71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -3937,6 +4505,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/72.png",
       "large": "https://images.pokemontcg.io/g1/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Shauna-GEN72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3960,6 +4536,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/73.png",
       "large": "https://images.pokemontcg.io/g1/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Team-Flare-Grunt-V1-GEN73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4005,6 +4589,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/74.png",
       "large": "https://images.pokemontcg.io/g1/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Double-Colorless-Energy-GEN74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4024,6 +4616,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/75.png",
       "large": "https://images.pokemontcg.io/g1/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Grass-Energy-GEN75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4043,6 +4643,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/76.png",
       "large": "https://images.pokemontcg.io/g1/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Fire-Energy-GEN76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -4062,6 +4670,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/77.png",
       "large": "https://images.pokemontcg.io/g1/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Water-Energy-GEN77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4081,6 +4697,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/78.png",
       "large": "https://images.pokemontcg.io/g1/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Lightning-Energy-GEN78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.8
+      }
     }
   },
   {
@@ -4100,6 +4724,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/79.png",
       "large": "https://images.pokemontcg.io/g1/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Psychic-Energy-GEN79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.49
+      }
     }
   },
   {
@@ -4119,6 +4751,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/80.png",
       "large": "https://images.pokemontcg.io/g1/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Fighting-Energy-GEN80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.69
+      }
     }
   },
   {
@@ -4138,6 +4778,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/81.png",
       "large": "https://images.pokemontcg.io/g1/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Darkness-Energy-GEN81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -4157,6 +4805,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/82.png",
       "large": "https://images.pokemontcg.io/g1/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Metal-Energy-GEN82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4175,6 +4831,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/g1/83.png",
       "large": "https://images.pokemontcg.io/g1/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Fairy-Energy-GEN83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.44
+      }
     }
   },
   {

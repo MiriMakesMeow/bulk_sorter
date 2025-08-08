@@ -2,7 +2,7 @@
   {
     "id": "bw9-1",
     "name": "Weedle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -20,14 +20,14 @@
           "Grass"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -88,31 +88,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-1",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Weedle-PLF1",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.72,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.46,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.1,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.95,
-        "reverseHoloAvg7": 0.47,
-        "reverseHoloAvg30": 0.39
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "bw9-2",
     "name": "Kakuna",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -132,13 +119,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pok\u00e9mon during your opponent's next turn."
+        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -200,31 +187,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-2",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Kakuna-PLF2",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.29,
         "lowPrice": 0.02,
-        "trendPrice": 0.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.47,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.43,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.05,
-        "avg7": 0.29,
-        "avg30": 0.19,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.44,
-        "reverseHoloAvg30": 0.5
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "bw9-3",
     "name": "Beedrill",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -241,7 +215,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20+",
-        "text": "If this Pok\u00e9mon has full HP, this attack does 40 more damage, and the Defending Pok\u00e9mon is now Confused and Poisoned."
+        "text": "If this Pokémon has full HP, this attack does 40 more damage, and the Defending Pokémon is now Confused and Poisoned."
       },
       {
         "name": "Pierce",
@@ -258,7 +232,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -315,31 +289,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-3",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Beedrill-PLF3",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.52,
-        "lowPrice": 0.05,
-        "trendPrice": 0.42,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 2.31,
-        "lowPriceExPlus": 0.28,
-        "avg1": 0.1,
-        "avg7": 0.46,
-        "avg30": 0.56,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 3.02,
-        "reverseHoloAvg30": 2.32
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "bw9-4",
     "name": "Exeggcute",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -353,7 +314,7 @@
     "abilities": [
       {
         "name": "Propagation",
-        "text": "Once during your turn (before your attack), if this Pok\u00e9mon is in your discard pile, you may put this Pok\u00e9mon into your hand.",
+        "text": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put this Pokémon into your hand.",
         "type": "Ability"
       }
     ],
@@ -372,7 +333,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -439,31 +400,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-4",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Exeggcute-PLF4",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.4,
         "lowPrice": 0.1,
-        "trendPrice": 2.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 3.46,
-        "lowPriceExPlus": 0.5,
-        "avg1": 4.39,
-        "avg7": 2.44,
-        "avg30": 1.95,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 1.62,
-        "reverseHoloAvg30": 4.35
+        "reverseHoloLow": 1.0
       }
     }
   },
   {
     "id": "bw9-5",
     "name": "Exeggutor",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -497,7 +445,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -565,31 +513,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-5",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Exeggutor-PLF5",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.86,
-        "lowPrice": 0.09,
-        "trendPrice": 0.76,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.97,
-        "reverseHoloLow": 0.45,
-        "reverseHoloTrend": 2.72,
-        "lowPriceExPlus": 0.23,
-        "avg1": 0.35,
-        "avg7": 0.78,
-        "avg30": 0.56,
-        "reverseHoloAvg1": 9.99,
-        "reverseHoloAvg7": 2.83,
-        "reverseHoloAvg30": 1.9
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.45
       }
     }
   },
   {
     "id": "bw9-6",
     "name": "Treecko",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -618,13 +553,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "This Pok\u00e9mon does 10 damage to itself."
+        "text": "This Pokémon does 10 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -691,31 +626,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-6",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Treecko-PLF6",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.69,
-        "reverseHoloLow": 0.09,
-        "reverseHoloTrend": 0.75,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.19,
-        "avg7": 0.17,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.66,
-        "reverseHoloAvg30": 0.81
+        "reverseHoloLow": 0.09
       }
     }
   },
   {
     "id": "bw9-7",
     "name": "Grovyle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -751,7 +673,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -818,31 +740,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-7",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Grovyle-PLF7",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.2,
         "lowPrice": 0.02,
-        "trendPrice": 0.2,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.1,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.2,
-        "avg30": 0.21,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 1.19,
-        "reverseHoloAvg30": 0.89
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "bw9-8",
     "name": "Sceptile",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -871,13 +780,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "Heal 20 damage from each of your Pok\u00e9mon that has any Energy attached to it."
+        "text": "Heal 20 damage from each of your Pokémon that has any Energy attached to it."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -945,31 +854,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-8",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Sceptile-PLF8",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.13,
         "lowPrice": 0.8,
-        "trendPrice": 2.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 5.0,
-        "reverseHoloLow": 1.99,
-        "reverseHoloTrend": 4.78,
-        "lowPriceExPlus": 1.49,
-        "avg1": 3.0,
-        "avg7": 2.11,
-        "avg30": 2.47,
-        "reverseHoloAvg1": 5.0,
-        "reverseHoloAvg7": 4.53,
-        "reverseHoloAvg30": 3.28
+        "reverseHoloLow": 1.5
       }
     }
   },
   {
     "id": "bw9-9",
     "name": "Cacnea",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -988,13 +884,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1062,31 +958,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-9",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Cacnea-PLF9",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.46,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.06,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.51,
-        "reverseHoloAvg30": 0.43
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "bw9-10",
     "name": "Cacturne",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1103,7 +986,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "60",
-        "text": "Does 30 damage to 1 of your Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "Does 30 damage to 1 of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Payback",
@@ -1113,13 +996,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "If your opponent has only 1 Prize card left, this attack does 60 more damage and discard an Energy attached to the Defending Pok\u00e9mon."
+        "text": "If your opponent has only 1 Prize card left, this attack does 60 more damage and discard an Energy attached to the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1186,31 +1069,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-10",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Cacturne-PLF10",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.33,
         "lowPrice": 0.05,
-        "trendPrice": 0.46,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.99,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 1.84,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.5,
-        "avg7": 0.43,
-        "avg30": 0.43,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 1.83,
-        "reverseHoloAvg30": 1.31
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "bw9-11",
     "name": "Leafeon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -1227,8 +1097,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "20\u00d7",
-        "text": "Does 20 damage times the amount of Energy attached to all of your opponent's Pok\u00e9mon."
+        "damage": "20×",
+        "text": "Does 20 damage times the amount of Energy attached to all of your opponent's Pokémon."
       },
       {
         "name": "Leaf Blade",
@@ -1245,7 +1115,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1313,31 +1183,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-11",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Leafeon-V1-PLF11",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.2,
         "lowPrice": 0.1,
-        "trendPrice": 3.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 9.5,
-        "reverseHoloLow": 0.4,
-        "reverseHoloTrend": 12.3,
-        "lowPriceExPlus": 0.4,
-        "avg1": 2.33,
-        "avg7": 2.51,
-        "avg30": 3.65,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 4.6,
-        "reverseHoloAvg30": 9.8
+        "reverseHoloLow": 0.4
       }
     }
   },
   {
     "id": "bw9-12",
     "name": "Flareon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -1356,7 +1213,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "Does 10 more damage for each Pok\u00e9mon in your discard pile."
+        "text": "Does 10 more damage for each Pokémon in your discard pile."
       },
       {
         "name": "Heat Tackle",
@@ -1367,13 +1224,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90",
-        "text": "This Pok\u00e9mon does 10 damage to itself."
+        "text": "This Pokémon does 10 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1435,31 +1292,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-12",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Flareon-PLF12",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.98,
         "lowPrice": 0.05,
-        "trendPrice": 2.77,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 7.95,
-        "reverseHoloLow": 1.3,
-        "reverseHoloTrend": 11.23,
-        "lowPriceExPlus": 0.05,
-        "avg1": 9.95,
-        "avg7": 4.64,
-        "avg30": 2.81,
-        "reverseHoloAvg1": 7.95,
-        "reverseHoloAvg7": 9.1,
-        "reverseHoloAvg30": 9.69
+        "reverseHoloLow": 1.3
       }
     }
   },
   {
     "id": "bw9-13",
     "name": "Heatran-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX",
@@ -1470,7 +1314,7 @@
       "Fire"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1482,7 +1326,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
-        "text": "If this Pok\u00e9mon is affected by a Special Condition, this attack does 60 more damage."
+        "text": "If this Pokémon is affected by a Special Condition, this attack does 60 more damage."
       },
       {
         "name": "Dynamite Press",
@@ -1494,13 +1338,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "80+",
-        "text": "If this Pok\u00e9mon has any Plasma Energy attached to it, this attack does 10 more damage for each damage counter on the Defending Pok\u00e9mon."
+        "text": "If this Pokémon has any Plasma Energy attached to it, this attack does 10 more damage for each damage counter on the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1555,31 +1399,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-13",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Heatran-EX-PLF13",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.72,
         "lowPrice": 1.2,
-        "trendPrice": 6.28,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.78,
-        "lowPriceExPlus": 3.99,
-        "avg1": 4.0,
-        "avg7": 6.41,
-        "avg30": 6.28,
-        "reverseHoloAvg1": 1.95,
-        "reverseHoloAvg7": 4.18,
-        "reverseHoloAvg30": 3.64
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "bw9-14",
     "name": "Litwick",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1598,7 +1429,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Burned."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
       },
       {
         "name": "Live Coal",
@@ -1614,7 +1445,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1642,7 +1473,7 @@
     "number": "14",
     "artist": "Naoyo Kimura",
     "rarity": "Common",
-    "flavorText": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pok\u00e9mon.",
+    "flavorText": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon.",
     "nationalPokedexNumbers": [
       607
     ],
@@ -1675,31 +1506,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-14",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Litwick-PLF14",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.85,
-        "reverseHoloLow": 0.24,
-        "reverseHoloTrend": 0.64,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.12,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.55,
-        "reverseHoloAvg30": 0.65
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "bw9-15",
     "name": "Lampent",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1731,13 +1549,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "40",
-        "text": "The Defending Pok\u00e9mon is now Burned."
+        "text": "The Defending Pokémon is now Burned."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1798,31 +1616,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-15",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Lampent-PLF15",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.07,
-        "reverseHoloTrend": 0.69,
-        "lowPriceExPlus": 0.03,
-        "avg1": 0.2,
-        "avg7": 0.18,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.76,
-        "reverseHoloAvg30": 0.61
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "bw9-16",
     "name": "Chandelure",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
       "Team Plasma"
@@ -1835,7 +1640,7 @@
     "abilities": [
       {
         "name": "Flare Navigate",
-        "text": "Once during your turn (before your attack), you may search your deck for a Fire Energy card and attach it to 1 of your Pok\u00e9mon. If you do, put 1 damage counter on that Pok\u00e9mon. Shuffle your deck afterward.",
+        "text": "Once during your turn (before your attack), you may search your deck for a Fire Energy card and attach it to 1 of your Pokémon. If you do, put 1 damage counter on that Pokémon. Shuffle your deck afterward.",
         "type": "Ability"
       }
     ],
@@ -1849,13 +1654,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1917,31 +1722,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-16",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Chandelure-PLF16",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.64,
-        "lowPrice": 0.8,
-        "trendPrice": 2.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.5,
-        "reverseHoloLow": 0.95,
-        "reverseHoloTrend": 3.04,
-        "lowPriceExPlus": 0.8,
-        "avg1": 1.99,
-        "avg7": 2.18,
-        "avg30": 1.39,
-        "reverseHoloAvg1": 3.99,
-        "reverseHoloAvg7": 3.36,
-        "reverseHoloAvg30": 3.08
+        "lowPrice": 0.6,
+        "reverseHoloLow": 0.97
       }
     }
   },
   {
     "id": "bw9-17",
     "name": "Reshiram",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1959,7 +1751,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
-        "text": "Remove all Special Conditions from this Pok\u00e9mon."
+        "text": "Remove all Special Conditions from this Pokémon."
       },
       {
         "name": "Fusion Flare",
@@ -1977,7 +1769,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2006,7 +1798,7 @@
     "number": "17",
     "artist": "Shin Nagasawa",
     "rarity": "Rare Holo",
-    "flavorText": "This legendary Pok\u00e9mon can scorch the world with fire. It helps those who want to build a world of truth.",
+    "flavorText": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
     "nationalPokedexNumbers": [
       643
     ],
@@ -2039,31 +1831,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-17",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Reshiram-PLF17",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.8,
         "lowPrice": 0.57,
-        "trendPrice": 4.58,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 5.2,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 2.62,
-        "lowPriceExPlus": 1.0,
-        "avg1": 3.0,
-        "avg7": 5.28,
-        "avg30": 3.19,
-        "reverseHoloAvg1": 5.2,
-        "reverseHoloAvg7": 4.23,
-        "reverseHoloAvg30": 3.84
+        "reverseHoloLow": 1.0
       }
     }
   },
   {
     "id": "bw9-18",
     "name": "Horsea",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2081,14 +1860,14 @@
           "Water"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2149,31 +1928,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-18",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Horsea-PLF18",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.49,
-        "reverseHoloLow": 0.11,
-        "reverseHoloTrend": 0.63,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.13,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.77,
-        "reverseHoloAvg30": 0.52
+        "reverseHoloLow": 0.11
       }
     }
   },
   {
     "id": "bw9-19",
     "name": "Seadra",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2193,13 +1959,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2260,31 +2026,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-19",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Seadra-PLF19",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.9,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.21,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.05,
-        "avg7": 0.13,
-        "avg30": 0.19,
-        "reverseHoloAvg1": 0.8,
-        "reverseHoloAvg7": 1.15,
-        "reverseHoloAvg30": 0.86
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "bw9-20",
     "name": "Vaporeon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -2302,7 +2055,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 30 damage from each of your Pok\u00e9mon."
+        "text": "Heal 30 damage from each of your Pokémon."
       },
       {
         "name": "Gold Breaker",
@@ -2312,13 +2065,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "If the Defending Pok\u00e9mon is a Pok\u00e9mon-EX, this attack does 50 more damage."
+        "text": "If the Defending Pokémon is a Pokémon-EX, this attack does 50 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2380,31 +2133,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-20",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Vaporeon-PLF20",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.95,
         "lowPrice": 0.04,
-        "trendPrice": 2.34,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 6.25,
-        "reverseHoloLow": 1.9,
-        "reverseHoloTrend": 11.51,
-        "lowPriceExPlus": 0.15,
-        "avg1": 3.6,
-        "avg7": 2.33,
-        "avg30": 1.97,
-        "reverseHoloAvg1": 6.25,
-        "reverseHoloAvg7": 13.53,
-        "reverseHoloAvg30": 9.21
+        "reverseHoloLow": 1.89
       }
     }
   },
   {
     "id": "bw9-21",
     "name": "Wooper",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2423,14 +2163,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2492,31 +2232,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-21",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Wooper-PLF21",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.19,
         "lowPrice": 0.02,
-        "trendPrice": 0.2,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.9,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.94,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.16,
-        "avg30": 0.21,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 1.07,
-        "reverseHoloAvg30": 0.77
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "bw9-22",
     "name": "Quagsire",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2528,7 +2255,7 @@
     "abilities": [
       {
         "name": "Laid-Back",
-        "text": "Any damage done to this Pok\u00e9mon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+        "text": "Any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -2542,13 +2269,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
-        "text": "If this Pok\u00e9mon has any Fighting Energy attached to it, this attack does 30 more damage."
+        "text": "If this Pokémon has any Fighting Energy attached to it, this attack does 30 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2611,31 +2338,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-22",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Quagsire-PLF22",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.71,
         "lowPrice": 0.09,
-        "trendPrice": 0.73,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.1,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.87,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.34,
-        "avg7": 0.7,
-        "avg30": 0.68,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 1.61,
-        "reverseHoloAvg30": 1.45
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "bw9-23",
     "name": "Glaceon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -2648,7 +2362,7 @@
     "abilities": [
       {
         "name": "Freeze Zone",
-        "text": "The Retreat Cost of each of your Team Plasma Pok\u00e9mon in play is ColorlessColorless less.",
+        "text": "The Retreat Cost of each of your Team Plasma Pokémon in play is ColorlessColorless less.",
         "type": "Ability"
       }
     ],
@@ -2662,13 +2376,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "The Defending Pok\u00e9mon is now Asleep."
+        "text": "The Defending Pokémon is now Asleep."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2730,31 +2444,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-23",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Glaceon-V1-PLF23",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 18.87,
-        "lowPrice": 18.0,
-        "trendPrice": 35.63,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 6.39,
-        "lowPriceExPlus": 19.95,
-        "avg1": 60.0,
-        "avg7": 24.78,
-        "avg30": 22.16,
-        "reverseHoloAvg1": 4.5,
-        "reverseHoloAvg7": 5.22,
-        "reverseHoloAvg30": 4.23
+        "lowPrice": 0.15,
+        "reverseHoloLow": 1.2
       }
     }
   },
   {
     "id": "bw9-24",
     "name": "Tympole",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2779,7 +2480,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2840,31 +2541,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-24",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Tympole-PLF24",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.3,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.59,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.12,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.78,
-        "reverseHoloAvg30": 0.45
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "bw9-25",
     "name": "Palpitoad",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2896,13 +2584,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Confused."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2964,31 +2652,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-25",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Palpitoad-PLF25",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.2,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.12,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.51,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.14,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 0.17,
-        "reverseHoloAvg7": 0.51,
-        "reverseHoloAvg30": 0.44
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "bw9-26",
     "name": "Seismitoad",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
       "Team Plasma"
@@ -3007,7 +2682,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Does 30 damage to each Benched Pok\u00e9mon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "Does 30 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Splashing Turn",
@@ -3019,13 +2694,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "80",
-        "text": "Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon."
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3088,31 +2763,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-26",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Seismitoad-PLF26",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.5,
         "lowPrice": 0.15,
-        "trendPrice": 0.96,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 1.64,
-        "lowPriceExPlus": 0.4,
-        "avg1": 0.49,
-        "avg7": 0.55,
-        "avg30": 0.88,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 1.31,
-        "reverseHoloAvg30": 1.69
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "bw9-27",
     "name": "Vanillite",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3138,7 +2800,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3166,7 +2828,7 @@
     "number": "27",
     "artist": "Akira Komayama",
     "rarity": "Common",
-    "flavorText": "Theoretically, this Pok\u00e9mon formed from icicles bathed in energy from the morning sun. Their breath is -58\u00b0 F.",
+    "flavorText": "Theoretically, this Pokémon formed from icicles bathed in energy from the morning sun. Their breath is -58° F.",
     "nationalPokedexNumbers": [
       582
     ],
@@ -3199,31 +2861,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-27",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Vanillite-PLF27",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.71,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.1,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.38,
-        "reverseHoloAvg30": 0.53
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "bw9-28",
     "name": "Vanillish",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3250,7 +2899,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3311,31 +2960,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-28",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Vanillish-PLF28",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.54,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.53,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.1,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.9,
-        "reverseHoloAvg7": 0.49,
-        "reverseHoloAvg30": 0.53
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "bw9-29",
     "name": "Vanilluxe",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
       "Team Plasma"
@@ -3352,8 +2988,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "60\u00d7",
-        "text": "Flip a coin for each Energy attached to this Pok\u00e9mon. This attack does 60 damage for each heads."
+        "damage": "60×",
+        "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 60 damage for each heads."
       },
       {
         "name": "Cold Breath",
@@ -3363,13 +2999,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "The Defending Pok\u00e9mon is now Asleep."
+        "text": "The Defending Pokémon is now Asleep."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3430,31 +3066,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-29",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Vanilluxe-PLF29",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.7,
-        "lowPrice": 0.03,
-        "trendPrice": 0.66,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.49,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.48,
-        "avg7": 0.71,
-        "avg30": 0.58,
-        "reverseHoloAvg1": 1.41,
-        "reverseHoloAvg7": 1.97,
-        "reverseHoloAvg30": 1.49
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "bw9-30",
     "name": "Cryogonal",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "Team Plasma"
@@ -3471,7 +3094,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a Water Pok\u00e9mon, reveal it, and put it into your hand. Shuffle your deck afterward."
+        "text": "Search your deck for a Water Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
       },
       {
         "name": "Cryofreeze",
@@ -3480,13 +3103,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Discard an Energy attached to this Pok\u00e9mon. The Defending Pok\u00e9mon can't attack during your opponent's next turn."
+        "text": "Discard an Energy attached to this Pokémon. The Defending Pokémon can't attack during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3514,7 +3137,7 @@
     "number": "30",
     "artist": "5ban Graphics",
     "rarity": "Uncommon",
-    "flavorText": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148\u00b0 F.",
+    "flavorText": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",
     "nationalPokedexNumbers": [
       615
     ],
@@ -3547,31 +3170,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-30",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Cryogonal-PLF30",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 2.47,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.19,
-        "avg7": 0.18,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 2.54,
-        "reverseHoloAvg7": 2.08,
-        "reverseHoloAvg30": 1.48
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "bw9-31",
     "name": "Kyurem",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "Team Plasma"
@@ -3589,7 +3199,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "Does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Blizzard Burn",
@@ -3600,13 +3210,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "This Pok\u00e9mon can't attack during your next turn."
+        "text": "This Pokémon can't attack during your next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3636,7 +3246,7 @@
     "number": "31",
     "artist": "5ban Graphics",
     "rarity": "Rare Holo",
-    "flavorText": "This legendary ice Pok\u00e9mon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+    "flavorText": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
     "nationalPokedexNumbers": [
       646
     ],
@@ -3669,31 +3279,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-31",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Kyurem-PLF31",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.82,
-        "lowPrice": 0.78,
-        "trendPrice": 3.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.5,
-        "reverseHoloLow": 1.26,
-        "reverseHoloTrend": 3.85,
-        "lowPriceExPlus": 1.8,
-        "avg1": 3.0,
-        "avg7": 3.47,
-        "avg30": 3.21,
-        "reverseHoloAvg1": 3.5,
-        "reverseHoloAvg7": 2.5,
-        "reverseHoloAvg30": 3.43
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.2
       }
     }
   },
   {
     "id": "bw9-32",
     "name": "Voltorb",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3719,7 +3316,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3747,7 +3344,7 @@
     "number": "32",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Common",
-    "flavorText": "It looks just like a Pok\u00e9 Ball. It is dangerous because it may electrocute or explode on touch.",
+    "flavorText": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
     "nationalPokedexNumbers": [
       100
     ],
@@ -3780,31 +3377,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-32",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Voltorb-PLF32",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.48,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.52,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.11,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.15,
-        "reverseHoloAvg7": 0.49,
-        "reverseHoloAvg30": 0.52
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "bw9-33",
     "name": "Electrode",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3836,7 +3420,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3897,31 +3481,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-33",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Electrode-PLF33",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.58,
         "lowPrice": 0.03,
-        "trendPrice": 0.66,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 7.0,
-        "reverseHoloLow": 0.6,
-        "reverseHoloTrend": 2.78,
-        "lowPriceExPlus": 0.25,
-        "avg1": 0.45,
-        "avg7": 0.59,
-        "avg30": 0.91,
-        "reverseHoloAvg1": 7.0,
-        "reverseHoloAvg7": 3.27,
-        "reverseHoloAvg30": 2.14
+        "reverseHoloLow": 0.6
       }
     }
   },
   {
     "id": "bw9-34",
     "name": "Jolteon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -3938,7 +3509,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
       },
       {
@@ -3949,13 +3520,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "If the Defending Pok\u00e9mon is a Pok\u00e9mon-EX, that Pok\u00e9mon can't attack during your opponent's next turn."
+        "text": "If the Defending Pokémon is a Pokémon-EX, that Pokémon can't attack during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4016,31 +3587,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-34",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Jolteon-PLF34",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.19,
         "lowPrice": 0.1,
-        "trendPrice": 2.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 18.0,
-        "reverseHoloLow": 3.0,
-        "reverseHoloTrend": 16.24,
-        "lowPriceExPlus": 0.2,
-        "avg1": 4.8,
-        "avg7": 2.82,
-        "avg30": 2.02,
-        "reverseHoloAvg1": 18.0,
-        "reverseHoloAvg7": 13.02,
-        "reverseHoloAvg30": 11.2
+        "reverseHoloLow": 3.0
       }
     }
   },
   {
     "id": "bw9-35",
     "name": "Chinchou",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4066,7 +3624,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4128,31 +3686,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-35",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Chinchou-PLF35",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.6,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.4,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.08,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.6,
-        "reverseHoloAvg7": 0.43,
-        "reverseHoloAvg30": 0.5
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "bw9-36",
     "name": "Lanturn",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4169,7 +3714,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30+",
-        "text": "If this Pok\u00e9mon has any Special Energy attached to it, this attack does 30 more damage."
+        "text": "If this Pokémon has any Special Energy attached to it, this attack does 30 more damage."
       },
       {
         "name": "Extreme Current",
@@ -4180,13 +3725,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90",
-        "text": "Discard an Energy attached to this Pok\u00e9mon."
+        "text": "Discard an Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4248,31 +3793,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-36",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Lanturn-PLF36",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.15,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.0,
-        "reverseHoloLow": 0.09,
-        "reverseHoloTrend": 0.64,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.15,
-        "avg7": 0.15,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 1.45,
-        "reverseHoloAvg7": 0.8,
-        "reverseHoloAvg30": 0.56
+        "reverseHoloLow": 0.09
       }
     }
   },
   {
     "id": "bw9-37",
     "name": "Pachirisu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4297,13 +3829,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4364,31 +3896,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-37",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Pachirisu-PLF37",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.12,
-        "reverseHoloTrend": 0.83,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.16,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.67,
-        "reverseHoloAvg30": 0.74
+        "reverseHoloLow": 0.12
       }
     }
   },
   {
     "id": "bw9-38",
     "name": "Thundurus-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX",
@@ -4399,7 +3918,7 @@
       "Lightning"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -4409,7 +3928,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Attach an Energy card from your discard pile to 1 of your Benched Team Plasma Pok\u00e9mon."
+        "text": "Attach an Energy card from your discard pile to 1 of your Benched Team Plasma Pokémon."
       },
       {
         "name": "Thunderous Noise",
@@ -4421,13 +3940,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "90",
-        "text": "If this Pok\u00e9mon has any Plasma Energy attached to it, discard an Energy attached to the Defending Pok\u00e9mon."
+        "text": "If this Pokémon has any Plasma Energy attached to it, discard an Energy attached to the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4480,31 +3999,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-38",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Thundurus-EX-V1-PLF38",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 9.97,
         "lowPrice": 1.39,
-        "trendPrice": 7.32,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 4.02,
-        "lowPriceExPlus": 3.5,
-        "avg1": 10.0,
-        "avg7": 8.74,
-        "avg30": 6.82,
-        "reverseHoloAvg1": 10.0,
-        "reverseHoloAvg7": 4.37,
-        "reverseHoloAvg30": 3.27
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "bw9-39",
     "name": "Zekrom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4540,7 +4046,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4569,7 +4075,7 @@
     "number": "39",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
-    "flavorText": "This legendary Pok\u00e9mon can scorch the world with lightning. It assists those who want to build an ideal world.",
+    "flavorText": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
     "nationalPokedexNumbers": [
       644
     ],
@@ -4602,31 +4108,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-39",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Zekrom-PLF39",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.95,
         "lowPrice": 0.5,
-        "trendPrice": 3.83,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.47,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 3.25,
-        "lowPriceExPlus": 0.6,
-        "avg1": 1.99,
-        "avg7": 2.56,
-        "avg30": 2.83,
-        "reverseHoloAvg1": 3.94,
-        "reverseHoloAvg7": 3.1,
-        "reverseHoloAvg30": 2.83
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "bw9-40",
-    "name": "Nidoran \u2640",
-    "supertype": "Pok\u00e9mon",
+    "name": "Nidoran ♀",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4646,13 +4139,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4713,31 +4206,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-40",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Nidoran-PLF40",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.0,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.59,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.11,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.72,
-        "reverseHoloAvg30": 0.65
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "bw9-41",
     "name": "Nidorina",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4745,7 +4225,7 @@
     "types": [
       "Psychic"
     ],
-    "evolvesFrom": "Nidoran \u2640",
+    "evolvesFrom": "Nidoran ♀",
     "evolvesTo": [
       "Nidoqueen"
     ],
@@ -4758,7 +4238,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "The Defending Pok\u00e9mon is now Poisoned."
+        "text": "The Defending Pokémon is now Poisoned."
       },
       {
         "name": "Double Kick",
@@ -4768,14 +4248,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "40\u00d7",
+        "damage": "40×",
         "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4838,31 +4318,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-41",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Nidorina-PLF41",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.32,
-        "lowPrice": 0.03,
-        "trendPrice": 0.33,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.99,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.58,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.25,
-        "avg7": 0.24,
-        "avg30": 0.33,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.68,
-        "reverseHoloAvg30": 0.61
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "bw9-42",
     "name": "Nidoqueen",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -4897,7 +4364,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4960,31 +4427,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-42",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Nidoqueen-PLF42",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.98,
         "lowPrice": 0.2,
-        "trendPrice": 0.97,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 3.2,
-        "lowPriceExPlus": 0.35,
-        "avg1": 0.3,
-        "avg7": 0.88,
-        "avg30": 1.07,
-        "reverseHoloAvg1": 3.29,
-        "reverseHoloAvg7": 4.27,
-        "reverseHoloAvg30": 2.41
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "bw9-43",
-    "name": "Nidoran \u2642",
-    "supertype": "Pok\u00e9mon",
+    "name": "Nidoran ♂",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5003,13 +4457,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "If this Pok\u00e9mon has no damage counters on it, this attack does nothing."
+        "text": "If this Pokémon has no damage counters on it, this attack does nothing."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5070,31 +4524,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-43",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Nidoran-PLF43",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.25,
         "lowPrice": 0.02,
-        "trendPrice": 0.32,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.6,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.64,
-        "lowPriceExPlus": 0.02,
-        "avg1": 1.25,
-        "avg7": 0.35,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.62,
-        "reverseHoloAvg30": 0.56
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "bw9-44",
     "name": "Nidorino",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5102,7 +4543,7 @@
     "types": [
       "Psychic"
     ],
-    "evolvesFrom": "Nidoran \u2642",
+    "evolvesFrom": "Nidoran ♂",
     "evolvesTo": [
       "Nidoking"
     ],
@@ -5114,7 +4555,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30\u00d7",
+        "damage": "30×",
         "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
       },
       {
@@ -5132,7 +4573,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5195,31 +4636,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-44",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Nidorino-PLF44",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.31,
         "lowPrice": 0.02,
-        "trendPrice": 0.3,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.85,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.63,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.3,
-        "avg7": 0.31,
-        "avg30": 0.27,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.7,
-        "reverseHoloAvg30": 0.64
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "bw9-45",
     "name": "Grimer",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5238,7 +4666,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pok\u00e9mon with the Defending Pok\u00e9mon. The new Defending Pok\u00e9mon is now Poisoned."
+        "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with the Defending Pokémon. The new Defending Pokémon is now Poisoned."
       },
       {
         "name": "Sludge Toss",
@@ -5255,7 +4683,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5284,7 +4712,7 @@
     "number": "45",
     "artist": "Hajime Kusajima",
     "rarity": "Common",
-    "flavorText": "Born from sludge, these Pok\u00e9mon now gather in polluted places and increase the bacteria in their bodies.",
+    "flavorText": "Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies.",
     "nationalPokedexNumbers": [
       88
     ],
@@ -5317,31 +4745,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-45",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Grimer-PLF45",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.19,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.63,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.08,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.78,
-        "reverseHoloAvg30": 0.6
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "bw9-46",
     "name": "Muk",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -5361,7 +4776,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "If the Defending Pok\u00e9mon is Poisoned, heal 60 damage from this Pok\u00e9mon."
+        "text": "If the Defending Pokémon is Poisoned, heal 60 damage from this Pokémon."
       },
       {
         "name": "Sludge Crash",
@@ -5373,13 +4788,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "80",
-        "text": "Flip a coin until you get tails. For each heads, discard an Energy attached to the Defending Pok\u00e9mon."
+        "text": "Flip a coin until you get tails. For each heads, discard an Energy attached to the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5442,31 +4857,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-46",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Muk-PLF46",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.02,
         "lowPrice": 0.02,
-        "trendPrice": 1.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.5,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 2.15,
-        "lowPriceExPlus": 0.25,
-        "avg1": 0.77,
-        "avg7": 0.89,
-        "avg30": 0.82,
-        "reverseHoloAvg1": 3.95,
-        "reverseHoloAvg7": 2.17,
-        "reverseHoloAvg30": 1.55
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "bw9-47",
     "name": "Mr. Mime",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5477,7 +4879,7 @@
     "abilities": [
       {
         "name": "Bench Barrier",
-        "text": "Prevent all damage done to your Benched Pok\u00e9mon by attacks.",
+        "text": "Prevent all damage done to your Benched Pokémon by attacks.",
         "type": "Ability"
       }
     ],
@@ -5490,13 +4892,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5557,31 +4959,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-47",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Mr-Mime-PLF47",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.44,
         "lowPrice": 0.15,
-        "trendPrice": 2.78,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 19.94,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 4.5,
-        "lowPriceExPlus": 0.15,
-        "avg1": 9.0,
-        "avg7": 2.75,
-        "avg30": 2.32,
-        "reverseHoloAvg1": 19.94,
-        "reverseHoloAvg7": 4.69,
-        "reverseHoloAvg30": 2.84
+        "reverseHoloLow": 1.0
       }
     }
   },
   {
     "id": "bw9-48",
     "name": "Espeon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -5608,13 +4997,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 40 damage to 1 of your opponent's Pok\u00e9mon. Also apply Weakness and Resistance for Benched Pok\u00e9mon."
+        "text": "This attack does 40 damage to 1 of your opponent's Pokémon. Also apply Weakness and Resistance for Benched Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5642,7 +5031,7 @@
     "number": "48",
     "artist": "5ban Graphics",
     "rarity": "Uncommon",
-    "flavorText": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather\u2026and its foes' thoughts.",
+    "flavorText": "Its fur is so sensitive, it can feel minute shifts in the air and predict the weather…and its foes' thoughts.",
     "nationalPokedexNumbers": [
       196
     ],
@@ -5675,31 +5064,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-48",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Espeon-PLF48",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.84,
         "lowPrice": 0.05,
-        "trendPrice": 3.25,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 8.0,
-        "reverseHoloLow": 1.5,
-        "reverseHoloTrend": 10.0,
-        "lowPriceExPlus": 0.5,
-        "avg1": 2.5,
-        "avg7": 3.36,
-        "avg30": 2.32,
-        "reverseHoloAvg1": 8.0,
-        "reverseHoloAvg7": 8.83,
-        "reverseHoloAvg30": 12.65
+        "reverseHoloLow": 1.5
       }
     }
   },
   {
     "id": "bw9-49",
     "name": "Sableye",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "Team Plasma"
@@ -5726,7 +5102,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       }
     ],
     "retreatCost": [
@@ -5787,31 +5163,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-49",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Sableye-PLF49",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.85,
         "lowPrice": 0.15,
-        "trendPrice": 1.01,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.48,
-        "reverseHoloLow": 0.6,
-        "reverseHoloTrend": 2.49,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.99,
-        "avg7": 1.05,
-        "avg30": 0.88,
-        "reverseHoloAvg1": 1.45,
-        "reverseHoloAvg7": 2.58,
-        "reverseHoloAvg30": 2.08
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "bw9-50",
     "name": "Beldum",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5846,7 +5209,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5907,31 +5270,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-50",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Beldum-PLF50",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.56,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.08,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.43,
-        "reverseHoloAvg30": 0.43
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "bw9-51",
     "name": "Metang",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5951,7 +5301,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       },
       {
         "name": "Psypunch",
@@ -5968,7 +5318,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6030,31 +5380,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-51",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Metang-PLF51",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.15,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.05,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 1.11,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.2,
-        "avg7": 0.12,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 1.49,
-        "reverseHoloAvg30": 0.75
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "bw9-52",
     "name": "Metagross",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
       "Team Plasma"
@@ -6082,13 +5419,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "60",
-        "text": "The Defending Pok\u00e9mon is now Confused."
+        "text": "The Defending Pokémon is now Confused."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6150,31 +5487,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-52",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Metagross-PLF52",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.49,
         "lowPrice": 0.59,
-        "trendPrice": 3.48,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.33,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 3.48,
-        "lowPriceExPlus": 2.0,
-        "avg1": 1.99,
-        "avg7": 4.13,
-        "avg30": 2.67,
-        "reverseHoloAvg1": 4.75,
-        "reverseHoloAvg7": 3.93,
-        "reverseHoloAvg30": 3.74
+        "reverseHoloLow": 1.0
       }
     }
   },
   {
     "id": "bw9-53",
     "name": "Deoxys-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX",
@@ -6185,12 +5509,12 @@
       "Psychic"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Power Connect",
-        "text": "Your Team Plasma Pok\u00e9mon's attacks (excluding Deoxys-EX) do 10 more damage to the Active Pok\u00e9mon (before applying Weakness and Resistance).",
+        "text": "Your Team Plasma Pokémon's attacks (excluding Deoxys-EX) do 10 more damage to the Active Pokémon (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -6203,13 +5527,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "If this Pok\u00e9mon has any Plasma Energy attached to it, this attack does 30 more damage for each Energy attached to the Defending Pok\u00e9mon."
+        "text": "If this Pokémon has any Plasma Energy attached to it, this attack does 30 more damage for each Energy attached to the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6263,31 +5587,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-53",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Deoxys-EX-V1-PLF53",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 14.97,
         "lowPrice": 1.99,
-        "trendPrice": 12.81,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.36,
-        "lowPriceExPlus": 4.99,
-        "avg1": 8.9,
-        "avg7": 13.94,
-        "avg30": 10.26,
-        "reverseHoloAvg1": 3.5,
-        "reverseHoloAvg7": 4.79,
-        "reverseHoloAvg30": 4.77
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "bw9-54",
     "name": "Yamask",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6306,13 +5617,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Move 1 damage counter from any of your Pok\u00e9mon to any of your opponent's Pok\u00e9mon."
+        "text": "Move 1 damage counter from any of your Pokémon to any of your opponent's Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6341,7 +5652,7 @@
     "number": "54",
     "artist": "Masakazu Fukuda",
     "rarity": "Common",
-    "flavorText": "These Pok\u00e9mon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+    "flavorText": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.",
     "nationalPokedexNumbers": [
       562
     ],
@@ -6374,31 +5685,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-54",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Yamask-PLF54",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.46,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.08,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.55,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "bw9-55",
     "name": "Yamask",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6434,7 +5732,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6462,7 +5760,7 @@
     "number": "55",
     "artist": "Kagemaru Himeno",
     "rarity": "Common",
-    "flavorText": "These Pok\u00e9mon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+    "flavorText": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.",
     "nationalPokedexNumbers": [
       562
     ],
@@ -6495,31 +5793,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-55",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Yamask-PLF55",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.75,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.43,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.08,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.6,
-        "reverseHoloAvg30": 0.51
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "bw9-56",
     "name": "Cofagrigus",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -6532,7 +5817,7 @@
     "abilities": [
       {
         "name": "Six Feet Under",
-        "text": "Once during your turn (before your attack) you may Knock Out this Pok\u00e9mon. If you do, put 3 damage counters on your opponent's Pok\u00e9mon in any way you like.",
+        "text": "Once during your turn (before your attack) you may Knock Out this Pokémon. If you do, put 3 damage counters on your opponent's Pokémon in any way you like.",
         "type": "Ability"
       }
     ],
@@ -6552,7 +5837,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6614,31 +5899,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-56",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Cofagrigus-PLF56",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.73,
         "lowPrice": 0.5,
-        "trendPrice": 1.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 4.0,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 2.87,
-        "lowPriceExPlus": 0.79,
-        "avg1": 1.5,
-        "avg7": 1.61,
-        "avg30": 1.72,
-        "reverseHoloAvg1": 4.0,
-        "reverseHoloAvg7": 3.42,
-        "reverseHoloAvg30": 2.51
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "bw9-57",
     "name": "Cofagrigus",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -6656,7 +5928,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 30 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Crazy Slap",
@@ -6666,14 +5938,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "40\u00d7",
+        "damage": "40×",
         "text": "Flip 4 coins. This attack does 40 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6735,31 +6007,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-57",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Cofagrigus-PLF57",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.82,
         "lowPrice": 0.15,
-        "trendPrice": 0.9,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.5,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 2.27,
-        "lowPriceExPlus": 0.39,
-        "avg1": 0.4,
-        "avg7": 0.86,
-        "avg30": 0.71,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 2.18,
-        "reverseHoloAvg30": 1.95
+        "reverseHoloLow": 1.04
       }
     }
   },
   {
     "id": "bw9-58",
     "name": "Nidoking",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -6795,7 +6054,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6864,31 +6123,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-58",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Nidoking-PLF58",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.13,
         "lowPrice": 0.05,
-        "trendPrice": 1.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 5.25,
-        "reverseHoloLow": 0.9,
-        "reverseHoloTrend": 6.33,
-        "lowPriceExPlus": 0.8,
-        "avg1": 0.89,
-        "avg7": 1.22,
-        "avg30": 1.04,
-        "reverseHoloAvg1": 8.0,
-        "reverseHoloAvg7": 7.08,
-        "reverseHoloAvg30": 3.11
+        "reverseHoloLow": 0.9
       }
     }
   },
   {
     "id": "bw9-59",
     "name": "Mankey",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6913,7 +6159,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6974,31 +6220,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-59",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Mankey-PLF59",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.43,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.34,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.17,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 0.45,
-        "reverseHoloAvg7": 0.27,
-        "reverseHoloAvg30": 0.48
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "bw9-60",
     "name": "Primeape",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7015,7 +6248,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30\u00d7",
+        "damage": "30×",
         "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
       },
       {
@@ -7026,13 +6259,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "80-",
-        "text": "Does 80 damage minus 10 damage for each damage counter on this Pok\u00e9mon."
+        "text": "Does 80 damage minus 10 damage for each damage counter on this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7093,31 +6326,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-60",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Primeape-PLF60",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.12,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.92,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.12,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.25,
-        "reverseHoloAvg7": 0.56,
-        "reverseHoloAvg30": 0.71
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "bw9-61",
     "name": "Onix",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7149,14 +6369,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 4,
-        "damage": "60\u00d7",
+        "damage": "60×",
         "text": "Flip 2 coins. This attack does 60 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7219,31 +6439,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-61",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Onix-PLF61",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.4,
         "lowPrice": 0.02,
-        "trendPrice": 0.34,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.77,
-        "reverseHoloLow": 0.22,
-        "reverseHoloTrend": 0.75,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.19,
-        "avg7": 0.22,
-        "avg30": 0.26,
-        "reverseHoloAvg1": 0.77,
-        "reverseHoloAvg7": 0.9,
-        "reverseHoloAvg30": 0.58
+        "reverseHoloLow": 0.29
       }
     }
   },
   {
     "id": "bw9-62",
     "name": "Makuhita",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7262,7 +6469,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads."
       },
       {
@@ -7280,7 +6487,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7343,31 +6550,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-62",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Makuhita-PLF62",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.43,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.38,
-        "reverseHoloAvg30": 0.49
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "bw9-63",
     "name": "Hariyama",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7385,7 +6579,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       },
       {
         "name": "Pivot Throw",
@@ -7396,13 +6590,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90",
-        "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is increased by 20 (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is increased by 20 (after applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7432,7 +6626,7 @@
     "number": "63",
     "artist": "Kouki Saitou",
     "rarity": "Rare",
-    "flavorText": "It loves to match power with big-bodied Pok\u00e9mon. It can knock a truck flying with its arm thrusts.",
+    "flavorText": "It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.",
     "nationalPokedexNumbers": [
       297
     ],
@@ -7465,31 +6659,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-63",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Hariyama-PLF63",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.5,
         "lowPrice": 0.15,
-        "trendPrice": 0.61,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.84,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.73,
-        "lowPriceExPlus": 0.25,
-        "avg1": 0.5,
-        "avg7": 0.46,
-        "avg30": 0.63,
-        "reverseHoloAvg1": 0.84,
-        "reverseHoloAvg7": 0.82,
-        "reverseHoloAvg30": 1.01
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "bw9-64",
     "name": "Umbreon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -7502,7 +6683,7 @@
     "abilities": [
       {
         "name": "Dark Shade",
-        "text": "Each of your Team Plasma Pok\u00e9mon in play gets +20 HP.",
+        "text": "Each of your Team Plasma Pokémon in play gets +20 HP.",
         "type": "Ability"
       }
     ],
@@ -7522,7 +6703,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7589,31 +6770,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-64",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Umbreon-PLF64",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 19.41,
         "lowPrice": 5.0,
-        "trendPrice": 15.25,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 14.0,
-        "reverseHoloLow": 5.0,
-        "reverseHoloTrend": 21.55,
-        "lowPriceExPlus": 10.0,
-        "avg1": 14.0,
-        "avg7": 15.04,
-        "avg30": 18.32,
-        "reverseHoloAvg1": 14.0,
-        "reverseHoloAvg7": 22.86,
-        "reverseHoloAvg30": 19.22
+        "reverseHoloLow": 5.0
       }
     }
   },
   {
     "id": "bw9-65",
     "name": "Sneasel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7639,7 +6807,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7673,7 +6841,7 @@
     "number": "65",
     "artist": "Sumiyoshi Kizuki",
     "rarity": "Common",
-    "flavorText": "A smart and sneaky Pok\u00e9mon, it makes its opponents flinch by suddenly showing the claws hidden in its paws.",
+    "flavorText": "A smart and sneaky Pokémon, it makes its opponents flinch by suddenly showing the claws hidden in its paws.",
     "nationalPokedexNumbers": [
       215
     ],
@@ -7706,31 +6874,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-65",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Sneasel-PLF65",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.12,
-        "reverseHoloTrend": 0.35,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.07,
-        "avg7": 0.14,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.43,
-        "reverseHoloAvg30": 0.41
+        "reverseHoloLow": 0.12
       }
     }
   },
   {
     "id": "bw9-66",
     "name": "Weavile",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -7748,7 +6903,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 10 damage to each of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Vilify",
@@ -7757,14 +6912,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30\u00d7",
-        "text": "Discard as many Pok\u00e9mon as you like from your hand. This attack does 30 damage times the number of Pok\u00e9mon you discarded."
+        "damage": "30×",
+        "text": "Discard as many Pokémon as you like from your hand. This attack does 30 damage times the number of Pokémon you discarded."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7831,31 +6986,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-66",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Weavile-PLF66",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.9,
         "lowPrice": 0.2,
-        "trendPrice": 0.89,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.45,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 2.33,
-        "lowPriceExPlus": 0.25,
-        "avg1": 1.33,
-        "avg7": 0.99,
-        "avg30": 0.62,
-        "reverseHoloAvg1": 1.45,
-        "reverseHoloAvg7": 2.56,
-        "reverseHoloAvg30": 1.8
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "bw9-67",
     "name": "Absol",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "Team Plasma"
@@ -7873,7 +7015,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "Does 20 more damage for each of your opponent's Benched Pok\u00e9mon."
+        "text": "Does 20 more damage for each of your opponent's Benched Pokémon."
       },
       {
         "name": "Fearsome Shadow",
@@ -7890,7 +7032,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7957,31 +7099,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-67",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Absol-PLF67",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.98,
         "lowPrice": 1.0,
-        "trendPrice": 4.44,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 5.98,
-        "reverseHoloLow": 1.5,
-        "reverseHoloTrend": 5.86,
-        "lowPriceExPlus": 2.0,
-        "avg1": 7.99,
-        "avg7": 4.26,
-        "avg30": 4.52,
-        "reverseHoloAvg1": 8.95,
-        "reverseHoloAvg7": 6.12,
-        "reverseHoloAvg30": 5.93
+        "reverseHoloLow": 1.5
       }
     }
   },
   {
     "id": "bw9-68",
     "name": "Sandile",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8007,7 +7136,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8075,31 +7204,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-68",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Sandile-PLF68",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.15,
         "lowPrice": 0.02,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.48,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.47,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.54,
-        "avg7": 0.16,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.48,
-        "reverseHoloAvg7": 0.41,
-        "reverseHoloAvg30": 0.47
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "bw9-69",
     "name": "Krokorok",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8136,7 +7252,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8204,31 +7320,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-69",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Krokorok-PLF69",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.23,
         "lowPrice": 0.02,
-        "trendPrice": 0.24,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.82,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.23,
-        "avg30": 0.18,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.65,
-        "reverseHoloAvg30": 0.61
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "bw9-70",
     "name": "Krookodile",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
       "Team Plasma"
@@ -8246,7 +7349,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Move an Energy attached to the Defending Pok\u00e9mon to 1 of your opponent's Benched Pok\u00e9mon."
+        "text": "Move an Energy attached to the Defending Pokémon to 1 of your opponent's Benched Pokémon."
       },
       {
         "name": "Hammer In",
@@ -8263,7 +7366,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8299,7 +7402,7 @@
     "number": "70",
     "artist": "5ban Graphics",
     "rarity": "Rare",
-    "flavorText": "Very violent Pok\u00e9mon, they try to clamp down on anything that moves in front of their eyes.",
+    "flavorText": "Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes.",
     "nationalPokedexNumbers": [
       553
     ],
@@ -8332,31 +7435,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-70",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Krookodile-PLF70",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.72,
         "lowPrice": 0.15,
-        "trendPrice": 0.97,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 2.95,
-        "lowPriceExPlus": 0.4,
-        "avg1": 2.0,
-        "avg7": 0.93,
-        "avg30": 0.85,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 3.48,
-        "reverseHoloAvg30": 2.13
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "bw9-71",
     "name": "Pawniard",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8381,7 +7471,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8448,31 +7538,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-71",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Pawniard-PLF71",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.15,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.63,
-        "reverseHoloLow": 0.09,
-        "reverseHoloTrend": 0.56,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.08,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.61,
-        "reverseHoloAvg30": 0.45
+        "reverseHoloLow": 0.09
       }
     }
   },
   {
     "id": "bw9-72",
     "name": "Pawniard",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8498,7 +7575,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8565,31 +7642,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-72",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Pawniard-PLF72",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.47,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.96,
-        "lowPriceExPlus": 0.03,
-        "avg1": 0.05,
-        "avg7": 0.11,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 1.35,
-        "reverseHoloAvg30": 0.75
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "bw9-73",
     "name": "Bisharp",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -8618,13 +7682,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80+",
-        "text": "If the Defending Pok\u00e9mon is a Dragon Pok\u00e9mon, this attack does 40 more damage."
+        "text": "If the Defending Pokémon is a Dragon Pokémon, this attack does 40 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8658,7 +7722,7 @@
     "number": "73",
     "artist": "5ban Graphics",
     "rarity": "Rare",
-    "flavorText": "This pitiless Pok\u00e9mon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+    "flavorText": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
     "nationalPokedexNumbers": [
       625
     ],
@@ -8691,31 +7755,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-73",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Bisharp-PLF73",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.95,
-        "lowPrice": 0.1,
-        "trendPrice": 0.92,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.45,
-        "reverseHoloTrend": 1.6,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.65,
-        "avg7": 0.88,
-        "avg30": 0.87,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 1.5,
-        "reverseHoloAvg30": 1.62
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.8
       }
     }
   },
   {
     "id": "bw9-74",
     "name": "Bisharp",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -8734,7 +7785,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."
       },
       {
         "name": "Slicing Blade",
@@ -8751,7 +7802,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8785,7 +7836,7 @@
     "number": "74",
     "artist": "5ban Graphics",
     "rarity": "Uncommon",
-    "flavorText": "This pitiless Pok\u00e9mon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+    "flavorText": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
     "nationalPokedexNumbers": [
       625
     ],
@@ -8818,31 +7869,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-74",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Bisharp-PLF74",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.33,
         "lowPrice": 0.04,
-        "trendPrice": 0.45,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 5.3,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.04,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.29,
-        "avg7": 0.32,
-        "avg30": 0.35,
-        "reverseHoloAvg1": 0.34,
-        "reverseHoloAvg7": 0.94,
-        "reverseHoloAvg30": 1.02
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "bw9-75",
     "name": "Deino",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8862,7 +7900,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Your opponent switches the Defending Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon."
+        "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
       },
       {
         "name": "Bite",
@@ -8879,7 +7917,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8947,31 +7985,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-75",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Deino-PLF75",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.65,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.73,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.12,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.77,
-        "reverseHoloAvg30": 0.58
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "bw9-76",
     "name": "Deino",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8990,14 +8015,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9065,31 +8090,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-76",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Deino-PLF76",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.21,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.1,
-        "reverseHoloLow": 0.12,
-        "reverseHoloTrend": 0.74,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.16,
-        "avg7": 0.13,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 0.87,
-        "reverseHoloAvg30": 0.72
+        "reverseHoloLow": 0.12
       }
     }
   },
   {
     "id": "bw9-77",
     "name": "Zweilous",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -9121,13 +8133,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9195,31 +8207,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-77",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Zweilous-PLF77",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.0,
-        "reverseHoloLow": 0.29,
-        "reverseHoloTrend": 0.83,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.12,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 0.88,
-        "reverseHoloAvg30": 0.69
+        "reverseHoloLow": 0.29
       }
     }
   },
   {
     "id": "bw9-78",
     "name": "Hydreigon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
       "Team Plasma"
@@ -9239,7 +8238,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with the Defending Pok\u00e9mon. This attack does 40 damage to the new Defending Pok\u00e9mon."
+        "text": "Switch 1 of your opponent's Benched Pokémon with the Defending Pokémon. This attack does 40 damage to the new Defending Pokémon."
       },
       {
         "name": "Obsidian Fang",
@@ -9251,13 +8250,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "80",
-        "text": "Before doing damage, discard all Pok\u00e9mon Tool cards attached to the Defending Pok\u00e9mon."
+        "text": "Before doing damage, discard all Pokémon Tool cards attached to the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9293,7 +8292,7 @@
     "number": "78",
     "artist": "5ban Graphics",
     "rarity": "Rare Holo",
-    "flavorText": "It responds to movement by attacking. This scary, three-headed Pok\u00e9mon devours everything in its path!",
+    "flavorText": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
     "nationalPokedexNumbers": [
       635
     ],
@@ -9326,31 +8325,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-78",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Hydreigon-PLF78",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.77,
         "lowPrice": 0.45,
-        "trendPrice": 2.43,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.85,
-        "reverseHoloLow": 0.45,
-        "reverseHoloTrend": 3.53,
-        "lowPriceExPlus": 0.99,
-        "avg1": 2.89,
-        "avg7": 2.76,
-        "avg30": 2.26,
-        "reverseHoloAvg1": 2.85,
-        "reverseHoloAvg7": 3.97,
-        "reverseHoloAvg30": 3.02
+        "reverseHoloLow": 0.45
       }
     }
   },
   {
     "id": "bw9-79",
     "name": "Steelix",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -9370,7 +8356,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
-        "text": "During your opponent's next turn, this Pok\u00e9mon has no Weakness."
+        "text": "During your opponent's next turn, this Pokémon has no Weakness."
       },
       {
         "name": "Heavy Impact",
@@ -9389,7 +8375,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9459,31 +8445,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-79",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Steelix-PLF79",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.15,
         "lowPrice": 0.15,
-        "trendPrice": 1.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.03,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 2.85,
-        "lowPriceExPlus": 0.3,
-        "avg1": 1.89,
-        "avg7": 1.91,
-        "avg30": 1.57,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 1.87,
-        "reverseHoloAvg30": 2.49
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "bw9-80",
     "name": "Mawile",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9510,13 +8483,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
-        "text": "Heal 30 damage from this Pok\u00e9mon. The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "Heal 30 damage from this Pokémon. The Defending Pokémon can't retreat during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9583,31 +8556,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-80",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Mawile-PLF80",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.27,
         "lowPrice": 0.02,
-        "trendPrice": 0.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.0,
-        "reverseHoloLow": 0.3,
-        "reverseHoloTrend": 1.08,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.18,
-        "avg30": 0.25,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 1.09,
-        "reverseHoloAvg30": 0.84
+        "reverseHoloLow": 0.29
       }
     }
   },
   {
     "id": "bw9-81",
     "name": "Dratini",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9626,7 +8586,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 20 damage from this Pok\u00e9mon."
+        "text": "Heal 20 damage from this Pokémon."
       },
       {
         "name": "Tail Smack",
@@ -9642,7 +8602,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9670,7 +8630,7 @@
     "number": "81",
     "artist": "Atsuko Nishida",
     "rarity": "Common",
-    "flavorText": "It is called the \"Mirage Pok\u00e9mon\" because so few have seen it. Its shed skin has been found.",
+    "flavorText": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
     "nationalPokedexNumbers": [
       147
     ],
@@ -9703,31 +8663,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-81",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Dratini-PLF81",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.22,
         "lowPrice": 0.02,
-        "trendPrice": 0.29,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.99,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.53,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.49,
-        "avg7": 0.28,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 1.53,
-        "reverseHoloAvg30": 1.16
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "bw9-82",
     "name": "Dragonair",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -9747,7 +8694,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       },
       {
         "name": "Tail Smack",
@@ -9764,7 +8711,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9825,31 +8772,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-82",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Dragonair-PLF82",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.52,
-        "lowPrice": 0.03,
-        "trendPrice": 0.79,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.39,
-        "reverseHoloTrend": 3.53,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.2,
-        "avg7": 0.51,
-        "avg30": 0.55,
-        "reverseHoloAvg1": 5.0,
-        "reverseHoloAvg7": 3.65,
-        "reverseHoloAvg30": 2.84
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.6
       }
     }
   },
   {
     "id": "bw9-83",
     "name": "Dragonite",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -9880,13 +8814,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "90",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9949,31 +8883,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-83",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Dragonite-PLF83",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.98,
         "lowPrice": 2.0,
-        "trendPrice": 5.3,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 3.0,
-        "reverseHoloLow": 4.0,
-        "reverseHoloTrend": 6.03,
-        "lowPriceExPlus": 3.5,
-        "avg1": 6.0,
-        "avg7": 4.6,
-        "avg30": 5.27,
-        "reverseHoloAvg1": 4.0,
-        "reverseHoloAvg7": 6.92,
-        "reverseHoloAvg30": 6.14
+        "reverseHoloLow": 4.0
       }
     }
   },
   {
     "id": "bw9-84",
     "name": "Kingdra",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -9989,7 +8910,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Does 20 damage times the number of Water Energy cards and Lightning Energy cards in your discard pile. Then, shuffle all of those cards back into your deck."
       },
       {
@@ -9999,13 +8920,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 30 damage to 3 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 30 damage to 3 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10066,31 +8987,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-84",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Kingdra-PLF84",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.77,
         "lowPrice": 0.4,
-        "trendPrice": 1.64,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 2.5,
-        "lowPriceExPlus": 1.0,
-        "avg1": 0.6,
-        "avg7": 1.77,
-        "avg30": 2.07,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 2.83,
-        "reverseHoloAvg30": 2.32
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "bw9-85",
     "name": "Latias-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -10100,12 +9008,12 @@
       "Dragon"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Bright Down",
-        "text": "Prevent all effects of attacks, including damage, done to this Pok\u00e9mon by your opponent's Pok\u00e9mon with Abilities.",
+        "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon with Abilities.",
         "type": "Ability"
       }
     ],
@@ -10119,13 +9027,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pok\u00e9mon."
+        "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10178,31 +9086,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-85",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Latias-EX-PLF85",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 11.7,
         "lowPrice": 2.8,
-        "trendPrice": 9.7,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 6.33,
-        "lowPriceExPlus": 4.99,
-        "avg1": 2.0,
-        "avg7": 8.25,
-        "avg30": 12.39,
-        "reverseHoloAvg1": 3.8,
-        "reverseHoloAvg7": 6.55,
-        "reverseHoloAvg30": 5.59
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "bw9-86",
     "name": "Latios-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -10215,7 +9110,7 @@
       "M Latios-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -10226,7 +9121,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       },
       {
         "name": "Luster Purge",
@@ -10237,13 +9132,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "150",
-        "text": "Discard all Energy attached to this Pok\u00e9mon."
+        "text": "Discard all Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10297,31 +9192,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-86",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Latios-EX-PLF86",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 8.41,
-        "lowPrice": 1.99,
-        "trendPrice": 9.3,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 4.6,
-        "lowPriceExPlus": 7.99,
-        "avg1": 12.99,
-        "avg7": 9.43,
-        "avg30": 8.47,
-        "reverseHoloAvg1": 4.9,
-        "reverseHoloAvg7": 4.1,
-        "reverseHoloAvg30": 4.11
+        "lowPrice": 3.02,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "bw9-87",
     "name": "Rattata",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10347,7 +9229,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10408,31 +9290,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-87",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Rattata-PLF87",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.09,
-        "reverseHoloTrend": 1.3,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.26,
-        "avg7": 0.19,
-        "avg30": 0.18,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 1.27,
-        "reverseHoloAvg30": 1.04
+        "reverseHoloLow": 0.09
       }
     }
   },
   {
     "id": "bw9-88",
     "name": "Raticate",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Team Plasma"
@@ -10450,7 +9319,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Put a Team Plasma Pok\u00e9mon, a Team Plasma Trainer card, and a Team Plasma Energy card from your discard pile into your hand."
+        "text": "Put a Team Plasma Pokémon, a Team Plasma Trainer card, and a Team Plasma Energy card from your discard pile into your hand."
       },
       {
         "name": "Bite",
@@ -10466,7 +9335,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -10490,7 +9359,7 @@
     "number": "88",
     "artist": "5ban Graphics",
     "rarity": "Rare",
-    "flavorText": "With its long fangs, this surprisingly violent Pok\u00e9mon can gnaw away even thick concrete with ease.",
+    "flavorText": "With its long fangs, this surprisingly violent Pokémon can gnaw away even thick concrete with ease.",
     "nationalPokedexNumbers": [
       20
     ],
@@ -10523,31 +9392,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-88",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Raticate-PLF88",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.74,
         "lowPrice": 0.05,
-        "trendPrice": 0.73,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.8,
-        "reverseHoloLow": 0.38,
-        "reverseHoloTrend": 1.52,
-        "lowPriceExPlus": 0.09,
-        "avg1": 1.5,
-        "avg7": 0.7,
-        "avg30": 0.61,
-        "reverseHoloAvg1": 1.59,
-        "reverseHoloAvg7": 1.37,
-        "reverseHoloAvg30": 1.38
+        "reverseHoloLow": 0.38
       }
     }
   },
   {
     "id": "bw9-89",
     "name": "Eevee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10573,7 +9429,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pok\u00e9mon is reduced by 20 (before applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
       },
       {
         "name": "Quick Attack",
@@ -10589,7 +9445,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10617,7 +9473,7 @@
     "number": "89",
     "artist": "Naoki Saito",
     "rarity": "Common",
-    "flavorText": "Thanks to its unstable genetic makeup, this special Pok\u00e9mon conceals many different possible evolutions.",
+    "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
     "nationalPokedexNumbers": [
       133
     ],
@@ -10650,31 +9506,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-89",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Eevee-PLF89",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.34,
         "lowPrice": 0.02,
-        "trendPrice": 1.27,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 9.99,
-        "reverseHoloLow": 1.95,
-        "reverseHoloTrend": 10.02,
-        "lowPriceExPlus": 0.09,
-        "avg1": 0.99,
-        "avg7": 1.28,
-        "avg30": 1.59,
-        "reverseHoloAvg1": 10.0,
-        "reverseHoloAvg7": 11.5,
-        "reverseHoloAvg30": 8.73
+        "reverseHoloLow": 1.95
       }
     }
   },
   {
     "id": "bw9-90",
     "name": "Eevee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10700,7 +9543,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for 3 Pok\u00e9mon of different types that evolve from Eevee. Reveal them and put them into your hand. Shuffle your deck afterward."
+        "text": "Search your deck for 3 Pokémon of different types that evolve from Eevee. Reveal them and put them into your hand. Shuffle your deck afterward."
       },
       {
         "name": "Bite",
@@ -10717,7 +9560,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10745,7 +9588,7 @@
     "number": "90",
     "artist": "Toyste Beach",
     "rarity": "Common",
-    "flavorText": "Thanks to its unstable genetic makeup, this special Pok\u00e9mon conceals many different possible evolutions.",
+    "flavorText": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
     "nationalPokedexNumbers": [
       133
     ],
@@ -10778,31 +9621,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-90",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Eevee-PLF90",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.12,
-        "lowPrice": 0.04,
-        "trendPrice": 0.81,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 7.98,
-        "reverseHoloLow": 1.45,
-        "reverseHoloTrend": 11.28,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.2,
-        "avg7": 0.91,
-        "avg30": 1.01,
-        "reverseHoloAvg1": 8.0,
-        "reverseHoloAvg7": 10.55,
-        "reverseHoloAvg30": 10.26
+        "lowPrice": 0.03,
+        "reverseHoloLow": 1.45
       }
     }
   },
   {
     "id": "bw9-91",
     "name": "Hoothoot",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10827,7 +9657,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -10894,31 +9724,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-91",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Hoothoot-PLF91",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.09,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.65,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.06,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.09,
-        "reverseHoloAvg7": 0.63,
-        "reverseHoloAvg30": 0.59
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "bw9-92",
     "name": "Noctowl",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -10935,7 +9752,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Does 10 damage times the number of cards in your opponent's hand."
       },
       {
@@ -10947,13 +9764,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
-        "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage, done to this Pok\u00e9mon during your opponent's next turn."
+        "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11020,31 +9837,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-92",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Noctowl-PLF92",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.15,
-        "reverseHoloLow": 0.19,
-        "reverseHoloTrend": 1.25,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.12,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.61,
-        "reverseHoloAvg30": 0.94
+        "reverseHoloLow": 0.19
       }
     }
   },
   {
     "id": "bw9-93",
     "name": "Miltank",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -11061,7 +9865,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Heal all damage from 1 of your Pok\u00e9mon. Then, discard all Energy attached to this Pok\u00e9mon."
+        "text": "Heal all damage from 1 of your Pokémon. Then, discard all Energy attached to this Pokémon."
       },
       {
         "name": "Tackle",
@@ -11077,7 +9881,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11140,31 +9944,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-93",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Miltank-PLF93",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.23,
         "lowPrice": 0.02,
-        "trendPrice": 0.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.29,
-        "reverseHoloLow": 0.29,
-        "reverseHoloTrend": 0.8,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.19,
-        "avg7": 0.22,
-        "avg30": 0.19,
-        "reverseHoloAvg1": 0.7,
-        "reverseHoloAvg7": 0.88,
-        "reverseHoloAvg30": 0.69
+        "reverseHoloLow": 0.29
       }
     }
   },
   {
     "id": "bw9-94",
     "name": "Kecleon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -11175,7 +9966,7 @@
     "abilities": [
       {
         "name": "Color Change",
-        "text": "As long as this Pok\u00e9mon is your Active Pok\u00e9mon, this Pok\u00e9mon is the same type as the your opponent's Active Pok\u00e9mon.",
+        "text": "As long as this Pokémon is your Active Pokémon, this Pokémon is the same type as the your opponent's Active Pokémon.",
         "type": "Ability"
       }
     ],
@@ -11187,13 +9978,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Choose 1 of the Defending Pok\u00e9mon's attacks. If this Pok\u00e9mon has the necessary Energy to use that attack, use it as this attack."
+        "text": "Choose 1 of the Defending Pokémon's attacks. If this Pokémon has the necessary Energy to use that attack, use it as this attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11254,31 +10045,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-94",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Kecleon-PLF94",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.84,
         "lowPrice": 0.12,
-        "trendPrice": 0.83,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.95,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 1.8,
-        "lowPriceExPlus": 0.3,
-        "avg1": 0.5,
-        "avg7": 0.83,
-        "avg30": 0.77,
-        "reverseHoloAvg1": 0.9,
-        "reverseHoloAvg7": 2.13,
-        "reverseHoloAvg30": 2.01
+        "reverseHoloLow": 1.0
       }
     }
   },
   {
     "id": "bw9-95",
     "name": "Starly",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -11303,7 +10081,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11370,31 +10148,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-95",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Starly-PLF95",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.29,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.53,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.11,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.29,
-        "reverseHoloAvg7": 0.55,
-        "reverseHoloAvg30": 0.44
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "bw9-96",
     "name": "Staravia",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -11415,13 +10180,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If tails, this Pok\u00e9mon does 10 damage to itself."
+        "text": "Flip a coin. If tails, this Pokémon does 10 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11488,31 +10253,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-96",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Staravia-PLF96",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.15,
         "lowPrice": 0.02,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.82,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.69,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.09,
-        "avg7": 0.21,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.78,
-        "reverseHoloAvg30": 0.55
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "bw9-97",
     "name": "Staraptor",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -11543,13 +10295,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "",
-        "text": "Your opponent shuffles the Defending Pok\u00e9mon and all cards attached to it into his or her deck."
+        "text": "Your opponent shuffles the Defending Pokémon and all cards attached to it into his or her deck."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11616,31 +10368,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-97",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Staraptor-PLF97",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.95,
         "lowPrice": 0.2,
-        "trendPrice": 0.73,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.0,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 1.7,
-        "lowPriceExPlus": 0.25,
-        "avg1": 0.99,
-        "avg7": 0.64,
-        "avg30": 0.65,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 1.65,
-        "reverseHoloAvg30": 1.41
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "bw9-98",
     "name": "Tornadus-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX",
@@ -11651,7 +10390,7 @@
       "Colorless"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -11673,13 +10412,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "60+",
-        "text": "This attack does 30 more damage for each Plasma Energy attached to this Pok\u00e9mon."
+        "text": "This attack does 30 more damage for each Plasma Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11739,24 +10478,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-98",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Tornadus-EX-PLF98",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.77,
         "lowPrice": 2.0,
-        "trendPrice": 7.48,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.19,
-        "lowPriceExPlus": 3.0,
-        "avg1": 9.99,
-        "avg7": 5.48,
-        "avg30": 7.42,
-        "reverseHoloAvg1": 2.9,
-        "reverseHoloAvg7": 3.43,
-        "reverseHoloAvg30": 3.28
+        "reverseHoloLow": null
       }
     }
   },
@@ -11765,11 +10491,11 @@
     "name": "Float Stone",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "The Pok\u00e9mon this card is attached to has no Retreat Cost.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The Pokémon this card is attached to has no Retreat Cost.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -11822,24 +10548,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-99",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Float-Stone-PLF99",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.71,
-        "lowPrice": 3.0,
-        "trendPrice": 6.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 7.97,
-        "reverseHoloLow": 5.17,
-        "reverseHoloTrend": 6.61,
-        "lowPriceExPlus": 4.0,
-        "avg1": 4.0,
-        "avg7": 5.49,
-        "avg30": 6.2,
-        "reverseHoloAvg1": 5.0,
-        "reverseHoloAvg7": 8.98,
-        "reverseHoloAvg30": 6.65
+        "lowPrice": 3.9,
+        "reverseHoloLow": 3.9
       }
     }
   },
@@ -11852,7 +10565,7 @@
       "Team Plasma"
     ],
     "rules": [
-      "Whenever any player attaches an Energy from his or her hand to 1 of his or her Pok\u00e9mon (excluding Team Plasma Pok\u00e9mon) put 2 damage counters on that Pok\u00e9mon.",
+      "Whenever any player attaches an Energy from his or her hand to 1 of his or her Pokémon (excluding Team Plasma Pokémon) put 2 damage counters on that Pokémon.",
       "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
     ],
     "set": {
@@ -11905,24 +10618,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-100",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Frozen-City-V1-PLF100",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.3,
         "lowPrice": 0.02,
-        "trendPrice": 0.45,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.0,
-        "reverseHoloLow": 0.29,
-        "reverseHoloTrend": 1.88,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.49,
-        "avg7": 0.3,
-        "avg30": 0.32,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 1.95,
-        "reverseHoloAvg30": 1.4
+        "reverseHoloLow": 0.2
       }
     }
   },
@@ -11988,24 +10688,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-101",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Ghetsis-V1-PLF101",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.63,
-        "lowPrice": 0.5,
-        "trendPrice": 1.66,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.99,
-        "avg1": 1.95,
-        "avg7": 1.55,
-        "avg30": 1.68,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.39,
+        "reverseHoloLow": 0.39
       }
     }
   },
@@ -12071,24 +10758,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-102",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Shadow-Triad-PLF102",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.32,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.23,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.3,
-        "avg7": 0.18,
-        "avg30": 0.19,
-        "reverseHoloAvg1": 1.19,
-        "reverseHoloAvg7": 0.96,
-        "reverseHoloAvg30": 1.16
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -12154,24 +10828,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-103",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Superior-Energy-Retrieval-PLF103",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.76,
         "lowPrice": 0.03,
-        "trendPrice": 0.68,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.9,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 3.07,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.81,
-        "avg7": 0.94,
-        "avg30": 1.17,
-        "reverseHoloAvg1": 0.9,
-        "reverseHoloAvg7": 2.06,
-        "reverseHoloAvg30": 3.11
+        "reverseHoloLow": 1.4
       }
     }
   },
@@ -12180,12 +10841,12 @@
     "name": "Team Plasma Badge",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool",
+      "Pokémon Tool",
       "Team Plasma"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "The Pok\u00e9mon this card is attached to is a Team Plasma Pok\u00e9mon.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The Pokémon this card is attached to is a Team Plasma Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -12238,24 +10899,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-104",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Team-Plasma-Badge-PLF104",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.19,
         "lowPrice": 0.02,
-        "trendPrice": 0.22,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.32,
-        "reverseHoloLow": 0.35,
-        "reverseHoloTrend": 1.77,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.19,
-        "avg7": 0.19,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 1.49,
-        "reverseHoloAvg7": 1.83,
-        "reverseHoloAvg30": 1.36
+        "reverseHoloLow": 0.3
       }
     }
   },
@@ -12268,7 +10916,7 @@
       "Team Plasma"
     ],
     "rules": [
-      "Search your deck for a Team Plasma Pok\u00e9mon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Search your deck for a Team Plasma Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -12321,24 +10969,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-105",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Team-Plasma-Ball-PLF105",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.5,
-        "reverseHoloLow": 0.38,
-        "reverseHoloTrend": 1.22,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.3,
-        "avg7": 0.17,
-        "avg30": 0.18,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 1.34,
-        "reverseHoloAvg30": 1.27
+        "reverseHoloLow": 0.38
       }
     }
   },
@@ -12403,24 +11038,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-106",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Plasma-Energy-V1-PLF106",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.28,
         "lowPrice": 0.02,
-        "trendPrice": 0.35,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.77,
-        "reverseHoloTrend": 3.09,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.49,
-        "avg7": 0.49,
-        "avg30": 0.44,
-        "reverseHoloAvg1": 10.0,
-        "reverseHoloAvg7": 3.03,
-        "reverseHoloAvg30": 1.47
+        "reverseHoloLow": 0.77
       }
     }
   },
@@ -12429,12 +11051,12 @@
     "name": "Life Dew",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool",
+      "Pokémon Tool",
       "ACE SPEC"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "If the Pok\u00e9mon this card is attached to is Knocked Out, your opponent takes 1 fewer Prize card.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "If the Pokémon this card is attached to is Knocked Out, your opponent takes 1 fewer Prize card.",
       "You may play as many Item cards as you like during your turn (before your attack).",
       "You can't have more than 1 ACE SPEC card in your deck."
     ],
@@ -12481,24 +11103,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-107",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Life-Dew-PLF107",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 6.83,
         "lowPrice": 1.0,
-        "trendPrice": 6.49,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 1.5,
-        "reverseHoloTrend": 5.17,
-        "lowPriceExPlus": 1.99,
-        "avg1": 4.99,
-        "avg7": 8.09,
-        "avg30": 4.81,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 3.78,
-        "reverseHoloAvg30": 4.12
+        "reverseHoloLow": 1.0
       }
     }
   },
@@ -12507,12 +11116,12 @@
     "name": "Rock Guard",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool",
+      "Pokémon Tool",
       "ACE SPEC"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "If the Pok\u00e9mon this card is attached to is your Active Pok\u00e9mon and is damaged by an opponent's attack (even if that Pok\u00e9mon is Knocked Out), put 6 damage counters on the Attacking Pok\u00e9mon.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "If the Pokémon this card is attached to is your Active Pokémon and is damaged by an opponent's attack (even if that Pokémon is Knocked Out), put 6 damage counters on the Attacking Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack).",
       "You can't have more than 1 ACE SPEC card in your deck."
     ],
@@ -12559,31 +11168,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-108",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Rock-Guard-PLF108",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.0,
-        "lowPrice": 1.7,
-        "trendPrice": 3.53,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 2.0,
-        "reverseHoloTrend": 4.51,
-        "lowPriceExPlus": 1.99,
-        "avg1": 5.0,
-        "avg7": 3.68,
-        "avg30": 3.0,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 4.71,
-        "reverseHoloAvg30": 3.51
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
       }
     }
   },
   {
     "id": "bw9-109",
     "name": "Heatran-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX",
@@ -12594,7 +11190,7 @@
       "Fire"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12606,7 +11202,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
-        "text": "If this Pok\u00e9mon is affected by a Special Condition, this attack does 60 more damage."
+        "text": "If this Pokémon is affected by a Special Condition, this attack does 60 more damage."
       },
       {
         "name": "Dynamite Press",
@@ -12618,13 +11214,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "80+",
-        "text": "If this Pok\u00e9mon has any Plasma Energy attached to it, this attack does 10 more damage for each damage counter on the Defending Pok\u00e9mon."
+        "text": "If this Pokémon has any Plasma Energy attached to it, this attack does 10 more damage for each damage counter on the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12679,31 +11275,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-109",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Heatran-EX-PLF109",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 47.83,
         "lowPrice": 3.0,
-        "trendPrice": 40.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 15.0,
-        "reverseHoloTrend": 23.2,
-        "lowPriceExPlus": 9.99,
-        "avg1": 85.0,
-        "avg7": 47.83,
-        "avg30": 23.93,
-        "reverseHoloAvg1": 20.0,
-        "reverseHoloAvg7": 12.88,
-        "reverseHoloAvg30": 9.78
+        "reverseHoloLow": 15.0
       }
     }
   },
   {
     "id": "bw9-110",
     "name": "Thundurus-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX",
@@ -12714,7 +11297,7 @@
       "Lightning"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12724,7 +11307,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Attach an Energy card from your discard pile to 1 of your Benched Team Plasma Pok\u00e9mon."
+        "text": "Attach an Energy card from your discard pile to 1 of your Benched Team Plasma Pokémon."
       },
       {
         "name": "Thunderous Noise",
@@ -12736,13 +11319,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "90",
-        "text": "If this Pok\u00e9mon has any Plasma Energy attached to it, discard an Energy attached to the Defending Pok\u00e9mon."
+        "text": "If this Pokémon has any Plasma Energy attached to it, discard an Energy attached to the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12795,31 +11378,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-110",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Thundurus-EX-V2-PLF110",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 61.67,
         "lowPrice": 7.0,
-        "trendPrice": 33.71,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 7.0,
-        "reverseHoloTrend": 15.31,
-        "lowPriceExPlus": 19.9,
-        "avg1": 75.0,
-        "avg7": 34.21,
-        "avg30": 30.26,
-        "reverseHoloAvg1": 15.0,
-        "reverseHoloAvg7": 10.23,
-        "reverseHoloAvg30": 8.71
+        "reverseHoloLow": 7.0
       }
     }
   },
   {
     "id": "bw9-111",
     "name": "Deoxys-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX",
@@ -12830,12 +11400,12 @@
       "Psychic"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Power Connect",
-        "text": "Your Team Plasma Pok\u00e9mon's attacks (excluding Deoxys-EX) do 10 more damage to the Active Pok\u00e9mon (before applying Weakness and Resistance).",
+        "text": "Your Team Plasma Pokémon's attacks (excluding Deoxys-EX) do 10 more damage to the Active Pokémon (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -12848,13 +11418,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "If this Pok\u00e9mon has any Plasma Energy attached to it, this attack does 30 more damage for each Energy attached to the Defending Pok\u00e9mon."
+        "text": "If this Pokémon has any Plasma Energy attached to it, this attack does 30 more damage for each Energy attached to the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12908,31 +11478,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-111",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Deoxys-EX-V2-PLF111",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 49.95,
         "lowPrice": 8.5,
-        "trendPrice": 43.49,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 80.0,
-        "reverseHoloTrend": 40.14,
-        "lowPriceExPlus": 33.0,
-        "avg1": 14.99,
-        "avg7": 44.26,
-        "avg30": 40.6,
-        "reverseHoloAvg1": 70.0,
-        "reverseHoloAvg7": 31.74,
-        "reverseHoloAvg30": 17.19
+        "reverseHoloLow": 80.0
       }
     }
   },
   {
     "id": "bw9-112",
     "name": "Latias-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -12942,12 +11499,12 @@
       "Dragon"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Bright Down",
-        "text": "Prevent all effects of attacks, including damage, done to this Pok\u00e9mon by your opponent's Pok\u00e9mon with Abilities.",
+        "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon with Abilities.",
         "type": "Ability"
       }
     ],
@@ -12961,13 +11518,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pok\u00e9mon."
+        "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13020,31 +11577,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-112",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Latias-EX-PLF112",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 66.19,
-        "lowPrice": 8.9,
-        "trendPrice": 60.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 24.26,
-        "lowPriceExPlus": 29.9,
-        "avg1": 96.0,
-        "avg7": 59.76,
-        "avg30": 42.13,
-        "reverseHoloAvg1": 39.0,
-        "reverseHoloAvg7": 28.96,
-        "reverseHoloAvg30": 20.95
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "bw9-113",
     "name": "Latios-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -13057,7 +11601,7 @@
       "M Latios-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -13068,7 +11612,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       },
       {
         "name": "Luster Purge",
@@ -13079,13 +11623,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "150",
-        "text": "Discard all Energy attached to this Pok\u00e9mon."
+        "text": "Discard all Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13139,31 +11683,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-113",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Latios-EX-PLF113",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 55.0,
         "lowPrice": 7.0,
-        "trendPrice": 64.48,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 35.0,
-        "reverseHoloTrend": 16.73,
-        "lowPriceExPlus": 75.0,
-        "avg1": 95.0,
-        "avg7": 70.28,
-        "avg30": 71.17,
-        "reverseHoloAvg1": 13.0,
-        "reverseHoloAvg7": 16.36,
-        "reverseHoloAvg30": 16.41
+        "reverseHoloLow": 35.0
       }
     }
   },
   {
     "id": "bw9-114",
     "name": "Tornadus-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX",
@@ -13174,7 +11705,7 @@
       "Colorless"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -13196,13 +11727,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "60+",
-        "text": "This attack does 30 more damage for each Plasma Energy attached to this Pok\u00e9mon."
+        "text": "This attack does 30 more damage for each Plasma Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -13262,24 +11793,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-114",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Tornadus-EX-PLF114",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 45.43,
-        "lowPrice": 8.0,
-        "trendPrice": 32.7,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 14.47,
-        "lowPriceExPlus": 18.0,
-        "avg1": 35.0,
-        "avg7": 45.43,
-        "avg30": 28.57,
-        "reverseHoloAvg1": 15.0,
-        "reverseHoloAvg7": 9.12,
-        "reverseHoloAvg30": 8.08
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
       }
     }
   },
@@ -13338,24 +11856,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-115",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Ghetsis-V2-PLF115",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 16.42,
         "lowPrice": 5.0,
-        "trendPrice": 19.53,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 35.0,
-        "reverseHoloTrend": 14.44,
-        "lowPriceExPlus": 19.99,
-        "avg1": 12.0,
-        "avg7": 15.79,
-        "avg30": 28.11,
-        "reverseHoloAvg1": 13.95,
-        "reverseHoloAvg7": 14.82,
-        "reverseHoloAvg30": 13.69
+        "reverseHoloLow": 35.0
       }
     }
   },
@@ -13413,31 +11918,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-116",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Professor-Juniper-PLF116",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 28.08,
         "lowPrice": 4.0,
-        "trendPrice": 32.63,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 15.0,
-        "reverseHoloTrend": 36.37,
-        "lowPriceExPlus": 15.0,
-        "avg1": 69.73,
-        "avg7": 40.31,
-        "avg30": 29.13,
-        "reverseHoloAvg1": 40.0,
-        "reverseHoloAvg7": 19.22,
-        "reverseHoloAvg30": 20.16
+        "reverseHoloLow": 15.0
       }
     }
   },
   {
     "id": "bw9-117",
     "name": "Empoleon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -13460,14 +11952,14 @@
           "Water"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
-        "text": "Does 10 damage times the number of Pok\u00e9mon in play (both yours and your opponent's)."
+        "damage": "10×",
+        "text": "Does 10 damage times the number of Pokémon in play (both yours and your opponent's)."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13496,7 +11988,7 @@
     "number": "117",
     "artist": "Ayaka Yoshida",
     "rarity": "Rare Secret",
-    "flavorText": "This extremely rare Pok\u00e9mon is a different color than usual. It is very hard to find.",
+    "flavorText": "This extremely rare Pokémon is a different color than usual. It is very hard to find.",
     "nationalPokedexNumbers": [
       395
     ],
@@ -13522,31 +12014,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-117",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Empoleon-PLF117",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 107.5,
-        "lowPrice": 49.98,
-        "trendPrice": 87.53,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 35.82,
-        "lowPriceExPlus": 94.99,
-        "avg1": 65.0,
-        "avg7": 102.78,
-        "avg30": 113.55,
-        "reverseHoloAvg1": 69.99,
-        "reverseHoloAvg7": 39.24,
-        "reverseHoloAvg30": 31.15
+        "lowPrice": 39.99,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "bw9-118",
     "name": "Sigilyph",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -13557,7 +12036,7 @@
     "abilities": [
       {
         "name": "Safeguard",
-        "text": "Prevent all effects of attacks, including damage, done to this Pok\u00e9mon by Pok\u00e9mon-EX.",
+        "text": "Prevent all effects of attacks, including damage, done to this Pokémon by Pokémon-EX.",
         "type": "Ability"
       }
     ],
@@ -13571,13 +12050,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50+",
-        "text": "Does 10 more damage for each Energy attached to the Defending Pok\u00e9mon."
+        "text": "Does 10 more damage for each Energy attached to the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13605,7 +12084,7 @@
     "number": "118",
     "artist": "Ayaka Yoshida",
     "rarity": "Rare Secret",
-    "flavorText": "This extremely rare Pok\u00e9mon is a different color than usual. It is very hard to find.",
+    "flavorText": "This extremely rare Pokémon is a different color than usual. It is very hard to find.",
     "nationalPokedexNumbers": [
       561
     ],
@@ -13631,31 +12110,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-118",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Sigilyph-PLF118",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 44.9,
         "lowPrice": 19.98,
-        "trendPrice": 63.01,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 20.38,
-        "lowPriceExPlus": 40.0,
-        "avg1": 44.9,
-        "avg7": 45.71,
-        "avg30": 57.7,
-        "reverseHoloAvg1": 18.9,
-        "reverseHoloAvg7": 19.34,
-        "reverseHoloAvg30": 20.58
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "bw9-119",
     "name": "Garbodor",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -13667,7 +12133,7 @@
     "abilities": [
       {
         "name": "Garbotoxin",
-        "text": "If this Pok\u00e9mon has a Pok\u00e9mon Tool card attached to it, each Pok\u00e9mon in play, in each player's hand, and in each player's discard pile has no Abilities (except for Garbotoxin).",
+        "text": "If this Pokémon has a Pokémon Tool card attached to it, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities (except for Garbotoxin).",
         "type": "Ability"
       }
     ],
@@ -13687,7 +12153,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13717,7 +12183,7 @@
     "number": "119",
     "artist": "Ayaka Yoshida",
     "rarity": "Rare Secret",
-    "flavorText": "This extremely rare Pok\u00e9mon is a different color than usual. It is very hard to find.",
+    "flavorText": "This extremely rare Pokémon is a different color than usual. It is very hard to find.",
     "nationalPokedexNumbers": [
       569
     ],
@@ -13743,31 +12209,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-119",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Garbodor-PLF119",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 26.98,
-        "lowPrice": 17.5,
-        "trendPrice": 79.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 27.13,
-        "lowPriceExPlus": 29.99,
-        "avg1": 25.0,
-        "avg7": 54.7,
-        "avg30": 77.64,
-        "reverseHoloAvg1": 40.0,
-        "reverseHoloAvg7": 32.62,
-        "reverseHoloAvg30": 27.33
+        "lowPrice": 17.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "bw9-120",
     "name": "Garchomp",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -13784,7 +12237,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "60",
-        "text": "Discard a Special Energy attached to the Defending Pok\u00e9mon."
+        "text": "Discard a Special Energy attached to the Defending Pokémon."
       },
       {
         "name": "Dragonblade",
@@ -13800,7 +12253,7 @@
     "weaknesses": [
       {
         "type": "Dragon",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13828,7 +12281,7 @@
     "number": "120",
     "artist": "Ayaka Yoshida",
     "rarity": "Rare Secret",
-    "flavorText": "This extremely rare Pok\u00e9mon is a different color than usual. It is very hard to find.",
+    "flavorText": "This extremely rare Pokémon is a different color than usual. It is very hard to find.",
     "nationalPokedexNumbers": [
       445
     ],
@@ -13854,24 +12307,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-120",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Garchomp-PLF120",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 135.0,
-        "lowPrice": 24.99,
-        "trendPrice": 187.77,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 35.12,
-        "lowPriceExPlus": 129.95,
-        "avg1": 60.0,
-        "avg7": 184.28,
-        "avg30": 148.86,
-        "reverseHoloAvg1": 40.0,
-        "reverseHoloAvg7": 35.38,
-        "reverseHoloAvg30": 29.16
+        "lowPrice": 30.0,
+        "reverseHoloLow": null
       }
     }
   },
@@ -13883,7 +12323,7 @@
       "Item"
     ],
     "rules": [
-      "Heal all damage from 1 of your Pok\u00e9mon. Then, discard all Energy attached to that Pok\u00e9mon.",
+      "Heal all damage from 1 of your Pokémon. Then, discard all Energy attached to that Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -13929,24 +12369,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-121",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Max-Potion-PLF121",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 15.0,
         "lowPrice": 8.0,
-        "trendPrice": 34.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 18.96,
-        "lowPriceExPlus": 10.0,
-        "avg1": 15.0,
-        "avg7": 27.75,
-        "avg30": 31.47,
-        "reverseHoloAvg1": 24.99,
-        "reverseHoloAvg7": 22.28,
-        "reverseHoloAvg30": 28.76
+        "reverseHoloLow": null
       }
     }
   },
@@ -13958,7 +12385,7 @@
       "Item"
     ],
     "rules": [
-      "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a Pok\u00e9mon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -14005,24 +12432,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/bw9-122",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Ultra-Ball-PLF122",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 42.0,
-        "lowPrice": 39.9,
-        "trendPrice": 109.37,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 37.08,
-        "lowPriceExPlus": 79.0,
-        "avg1": 65.0,
-        "avg7": 76.99,
-        "avg30": 154.07,
-        "reverseHoloAvg1": 90.0,
-        "reverseHoloAvg7": 53.82,
-        "reverseHoloAvg30": 100.41
+        "lowPrice": 39.99,
+        "reverseHoloLow": null
       }
     }
   }

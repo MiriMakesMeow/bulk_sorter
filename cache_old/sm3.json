@@ -48,6 +48,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/1.png",
       "large": "https://images.pokemontcg.io/sm3/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Caterpie-BUS1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -111,6 +119,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/2.png",
       "large": "https://images.pokemontcg.io/sm3/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Metapod-BUS2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -171,6 +187,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/3.png",
       "large": "https://images.pokemontcg.io/sm3/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Butterfree-BUS3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -222,6 +246,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/4.png",
       "large": "https://images.pokemontcg.io/sm3/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Oddish-BUS4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -286,6 +318,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/5.png",
       "large": "https://images.pokemontcg.io/sm3/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Gloom-BUS5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -346,6 +386,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/6.png",
       "large": "https://images.pokemontcg.io/sm3/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Vileplume-BUS6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -398,6 +446,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/7.png",
       "large": "https://images.pokemontcg.io/sm3/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Tangela-BUS7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -462,6 +518,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/8.png",
       "large": "https://images.pokemontcg.io/sm3/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Tangrowth-BUS8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -513,6 +577,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/9.png",
       "large": "https://images.pokemontcg.io/sm3/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Ledyba-BUS9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -573,6 +645,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/10.png",
       "large": "https://images.pokemontcg.io/sm3/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Ledian-BUS10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -630,6 +710,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/11.png",
       "large": "https://images.pokemontcg.io/sm3/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Heracross-BUS11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -681,6 +769,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/12.png",
       "large": "https://images.pokemontcg.io/sm3/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Pansage-BUS12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -740,6 +836,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/13.png",
       "large": "https://images.pokemontcg.io/sm3/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Simisage-BUS13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -791,6 +895,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/14.png",
       "large": "https://images.pokemontcg.io/sm3/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Dewpider-BUS14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -852,6 +964,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/15.png",
       "large": "https://images.pokemontcg.io/sm3/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Araquanid-BUS15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -914,6 +1034,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/16.png",
       "large": "https://images.pokemontcg.io/sm3/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Wimpod-BUS16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -990,6 +1118,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/17.png",
       "large": "https://images.pokemontcg.io/sm3/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Golisopod-GX-V1-BUS17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1051,6 +1187,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/18.png",
       "large": "https://images.pokemontcg.io/sm3/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Charmander-V1-BUS18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1177,6 +1321,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/19.png",
       "large": "https://images.pokemontcg.io/sm3/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Charmeleon-BUS19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1256,6 +1408,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/20.png",
       "large": "https://images.pokemontcg.io/sm3/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Charizard-GX-V1-BUS20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1339,6 +1499,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/21.png",
       "large": "https://images.pokemontcg.io/sm3/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Ho-Oh-GX-V1-BUS21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1390,6 +1558,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/22.png",
       "large": "https://images.pokemontcg.io/sm3/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Pansear-BUS22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1449,6 +1625,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/23.png",
       "large": "https://images.pokemontcg.io/sm3/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Simisear-BUS23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1510,6 +1694,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/24.png",
       "large": "https://images.pokemontcg.io/sm3/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Heatmor-BUS24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1584,6 +1776,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/25.png",
       "large": "https://images.pokemontcg.io/sm3/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Salazzle-GX-V1-BUS25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1646,6 +1846,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/26.png",
       "large": "https://images.pokemontcg.io/sm3/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Turtonator-BUS26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1665,9 +1873,7 @@
     "attacks": [
       {
         "name": "Powder Snow",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep."
@@ -1707,6 +1913,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/27.png",
       "large": "https://images.pokemontcg.io/sm3/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Alolan-Vulpix-BUS27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1765,6 +1979,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/28.png",
       "large": "https://images.pokemontcg.io/sm3/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Alolan-Ninetales-BUS28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1816,6 +2038,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/29.png",
       "large": "https://images.pokemontcg.io/sm3/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Horsea-BUS29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1868,6 +2098,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/30.png",
       "large": "https://images.pokemontcg.io/sm3/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Seadra-BUS30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1926,6 +2164,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/31.png",
       "large": "https://images.pokemontcg.io/sm3/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Kingdra-BUS31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -1977,6 +2223,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/32.png",
       "large": "https://images.pokemontcg.io/sm3/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Magikarp-BUS32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2042,6 +2296,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/33.png",
       "large": "https://images.pokemontcg.io/sm3/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Gyarados-BUS33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2103,6 +2365,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/34.png",
       "large": "https://images.pokemontcg.io/sm3/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Marill-BUS34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2163,6 +2433,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/35.png",
       "large": "https://images.pokemontcg.io/sm3/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Azumarill-BUS35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -2214,6 +2492,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/36.png",
       "large": "https://images.pokemontcg.io/sm3/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Panpour-BUS36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -2273,6 +2559,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/37.png",
       "large": "https://images.pokemontcg.io/sm3/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Simipour-BUS37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -2332,6 +2626,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/38.png",
       "large": "https://images.pokemontcg.io/sm3/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Bruxish-BUS38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2397,6 +2699,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/39.png",
       "large": "https://images.pokemontcg.io/sm3/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Tapu-Fini-GX-V1-BUS39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2529,6 +2839,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/40.png",
       "large": "https://images.pokemontcg.io/sm3/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Pikachu-BUS40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2593,6 +2911,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/41.png",
       "large": "https://images.pokemontcg.io/sm3/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Raichu-V1-BUS41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.18,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2663,6 +2989,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/42.png",
       "large": "https://images.pokemontcg.io/sm3/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Electabuzz-BUS42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2735,6 +3069,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/43.png",
       "large": "https://images.pokemontcg.io/sm3/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Electivire-V1-BUS43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2792,6 +3134,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/44.png",
       "large": "https://images.pokemontcg.io/sm3/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Tynamo-BUS44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.06
+      }
     }
   },
   {
@@ -2852,6 +3202,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/45.png",
       "large": "https://images.pokemontcg.io/sm3/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Eelektrik-BUS45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -2921,6 +3279,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/46.png",
       "large": "https://images.pokemontcg.io/sm3/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Eelektross-BUS46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -2985,6 +3351,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/47.png",
       "large": "https://images.pokemontcg.io/sm3/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Togedemaru-BUS47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -3046,6 +3420,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/48.png",
       "large": "https://images.pokemontcg.io/sm3/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Slowking-BUS48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3098,6 +3480,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/49.png",
       "large": "https://images.pokemontcg.io/sm3/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Wobbuffet-BUS49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3156,6 +3546,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/50.png",
       "large": "https://images.pokemontcg.io/sm3/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Seviper-BUS50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -3223,6 +3621,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/51.png",
       "large": "https://images.pokemontcg.io/sm3/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Duskull-BUS51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3294,6 +3700,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/52.png",
       "large": "https://images.pokemontcg.io/sm3/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Dusclops-BUS52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -3360,6 +3774,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/53.png",
       "large": "https://images.pokemontcg.io/sm3/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Dusknoir-BUS53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3421,6 +3843,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/54.png",
       "large": "https://images.pokemontcg.io/sm3/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Croagunk-BUS54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3483,6 +3913,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/55.png",
       "large": "https://images.pokemontcg.io/sm3/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Toxicroak-BUS55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3545,6 +3983,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/56.png",
       "large": "https://images.pokemontcg.io/sm3/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Venipede-BUS56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3611,6 +4057,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/57.png",
       "large": "https://images.pokemontcg.io/sm3/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Whirlipede-BUS57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -3677,6 +4131,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/58.png",
       "large": "https://images.pokemontcg.io/sm3/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Scolipede-BUS58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3728,6 +4190,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/59.png",
       "large": "https://images.pokemontcg.io/sm3/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Espurr-BUS59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3787,6 +4257,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/60.png",
       "large": "https://images.pokemontcg.io/sm3/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Meowstic-BUS60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -3846,6 +4324,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/61.png",
       "large": "https://images.pokemontcg.io/sm3/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Sandygast-BUS61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3918,6 +4404,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/62.png",
       "large": "https://images.pokemontcg.io/sm3/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Palossand-BUS62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -3990,6 +4484,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/63.png",
       "large": "https://images.pokemontcg.io/sm3/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Necrozma-GX-V1-BUS63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.87,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4067,6 +4569,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/64.png",
       "large": "https://images.pokemontcg.io/sm3/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Machamp-GX-V1-BUS64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4132,6 +4642,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/65.png",
       "large": "https://images.pokemontcg.io/sm3/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Rhyhorn-BUS65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -4201,6 +4719,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/66.png",
       "large": "https://images.pokemontcg.io/sm3/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Rhydon-BUS66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4263,6 +4789,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/67.png",
       "large": "https://images.pokemontcg.io/sm3/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Rhyperior-BUS67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.06
+      }
     }
   },
   {
@@ -4320,6 +4854,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/68.png",
       "large": "https://images.pokemontcg.io/sm3/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Lunatone-BUS68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -4377,6 +4919,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/69.png",
       "large": "https://images.pokemontcg.io/sm3/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Solrock-BUS69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4438,6 +4988,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/70.png",
       "large": "https://images.pokemontcg.io/sm3/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Riolu-BUS70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4496,6 +5054,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/71.png",
       "large": "https://images.pokemontcg.io/sm3/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Lucario-BUS71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4555,6 +5121,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/72.png",
       "large": "https://images.pokemontcg.io/sm3/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Sawk-BUS72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -4608,6 +5182,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/73.png",
       "large": "https://images.pokemontcg.io/sm3/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Crabrawler-BUS73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.06
+      }
     }
   },
   {
@@ -4671,6 +5253,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/74.png",
       "large": "https://images.pokemontcg.io/sm3/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Crabominable-BUS74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -4732,6 +5322,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/75.png",
       "large": "https://images.pokemontcg.io/sm3/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Lycanroc-BUS75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -4794,6 +5392,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/76.png",
       "large": "https://images.pokemontcg.io/sm3/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Lycanroc-BUS76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4847,6 +5453,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/77.png",
       "large": "https://images.pokemontcg.io/sm3/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Mudbray-BUS77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -4912,6 +5526,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/78.png",
       "large": "https://images.pokemontcg.io/sm3/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Mudsdale-BUS78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -4971,6 +5593,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/79.png",
       "large": "https://images.pokemontcg.io/sm3/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Passimian-BUS79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -5040,6 +5670,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/80.png",
       "large": "https://images.pokemontcg.io/sm3/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Marshadow-GX-V1-BUS80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5059,9 +5697,7 @@
     "attacks": [
       {
         "name": "Focus Energy",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "During your next turn, this Pokémon's Bite attack's base damage is 60."
@@ -5106,6 +5742,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/81.png",
       "large": "https://images.pokemontcg.io/sm3/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Alolan-Rattata-BUS81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5123,9 +5767,7 @@
     "attacks": [
       {
         "name": "Enhanced Fang",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10+",
         "text": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 50 more damage."
@@ -5172,6 +5814,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/82.png",
       "large": "https://images.pokemontcg.io/sm3/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Alolan-Raticate-BUS82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5191,9 +5841,7 @@
     "attacks": [
       {
         "name": "Division",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for Alolan Grimer and put it onto your Bench. Then, shuffle your deck."
@@ -5241,6 +5889,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/83.png",
       "large": "https://images.pokemontcg.io/sm3/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Alolan-Grimer-BUS83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5285,9 +5941,7 @@
       },
       {
         "name": "Tri Hazard-GX",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)"
@@ -5325,6 +5979,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/84.png",
       "large": "https://images.pokemontcg.io/sm3/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Alolan-Muk-GX-V1-BUS84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5392,6 +6054,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/85.png",
       "large": "https://images.pokemontcg.io/sm3/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Sneasel-BUS85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -5453,6 +6123,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/86.png",
       "large": "https://images.pokemontcg.io/sm3/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Weavile-BUS86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5520,6 +6198,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/87.png",
       "large": "https://images.pokemontcg.io/sm3/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Darkrai-V1-BUS87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5598,6 +6284,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/88.png",
       "large": "https://images.pokemontcg.io/sm3/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Darkrai-GX-V1-BUS88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5743,6 +6437,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/89.png",
       "large": "https://images.pokemontcg.io/sm3/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Inkay-BUS89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -5809,6 +6511,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/90.png",
       "large": "https://images.pokemontcg.io/sm3/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Malamar-BUS90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5866,6 +6576,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/91.png",
       "large": "https://images.pokemontcg.io/sm3/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Ralts-BUS91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -5935,6 +6653,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/92.png",
       "large": "https://images.pokemontcg.io/sm3/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Kirlia-V1-BUS92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6079,6 +6805,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/93.png",
       "large": "https://images.pokemontcg.io/sm3/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Gardevoir-GX-V1-BUS93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6143,6 +6877,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/94.png",
       "large": "https://images.pokemontcg.io/sm3/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Diancie-V1-BUS94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6196,6 +6938,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/95.png",
       "large": "https://images.pokemontcg.io/sm3/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Cutiefly-BUS95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6258,6 +7008,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/96.png",
       "large": "https://images.pokemontcg.io/sm3/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Ribombee-BUS96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6315,6 +7073,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/97.png",
       "large": "https://images.pokemontcg.io/sm3/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Morelull-BUS97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6383,6 +7149,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/98.png",
       "large": "https://images.pokemontcg.io/sm3/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Shiinotic-BUS98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6454,6 +7228,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/99.png",
       "large": "https://images.pokemontcg.io/sm3/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Noivern-GX-V1-BUS99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6519,6 +7301,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/100.png",
       "large": "https://images.pokemontcg.io/sm3/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Zygarde-V1-BUS100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -6570,6 +7360,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/101.png",
       "large": "https://images.pokemontcg.io/sm3/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Meowth-BUS101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6628,6 +7426,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/102.png",
       "large": "https://images.pokemontcg.io/sm3/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Persian-BUS102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -6688,6 +7494,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/103.png",
       "large": "https://images.pokemontcg.io/sm3/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Porygon-BUS103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6751,6 +7565,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/104.png",
       "large": "https://images.pokemontcg.io/sm3/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Porygon2-BUS104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -6810,6 +7632,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/105.png",
       "large": "https://images.pokemontcg.io/sm3/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Porygon-Z-V1-BUS105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -6936,6 +7766,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/106.png",
       "large": "https://images.pokemontcg.io/sm3/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Hoothoot-BUS106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -7002,6 +7840,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/107.png",
       "large": "https://images.pokemontcg.io/sm3/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Noctowl-BUS107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -7063,6 +7909,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/108.png",
       "large": "https://images.pokemontcg.io/sm3/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Bouffalant-BUS108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7120,6 +7974,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/109.png",
       "large": "https://images.pokemontcg.io/sm3/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Noibat-BUS109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7182,6 +8044,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/110.png",
       "large": "https://images.pokemontcg.io/sm3/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Stufful-BUS110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -7244,6 +8114,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/111.png",
       "large": "https://images.pokemontcg.io/sm3/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Bewear-BUS111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7267,6 +8145,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/112.png",
       "large": "https://images.pokemontcg.io/sm3/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Acerola-V1-BUS112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7314,6 +8200,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/113.png",
       "large": "https://images.pokemontcg.io/sm3/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Bodybuilding-Dumbbells-V1-BUS113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7337,6 +8231,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/114.png",
       "large": "https://images.pokemontcg.io/sm3/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Escape-Rope-V1-BUS114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -7360,6 +8262,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/115.png",
       "large": "https://images.pokemontcg.io/sm3/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Guzma-V1-BUS115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -7406,6 +8316,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/116.png",
       "large": "https://images.pokemontcg.io/sm3/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Kiawe-V1-BUS116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7452,6 +8370,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/117.png",
       "large": "https://images.pokemontcg.io/sm3/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Lana-BUS117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7475,6 +8401,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/118.png",
       "large": "https://images.pokemontcg.io/sm3/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Mount-Lanakila-BUS118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7498,6 +8432,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/119.png",
       "large": "https://images.pokemontcg.io/sm3/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Olivia-BUS119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -7521,6 +8463,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/120.png",
       "large": "https://images.pokemontcg.io/sm3/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Plumeria-V1-BUS120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -7544,6 +8494,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/121.png",
       "large": "https://images.pokemontcg.io/sm3/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Po-Town-BUS121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7567,6 +8525,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/122.png",
       "large": "https://images.pokemontcg.io/sm3/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Rotom-Dex-Poke-Finder-Mode-BUS122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7590,6 +8556,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/123.png",
       "large": "https://images.pokemontcg.io/sm3/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Sophocles-V1-BUS123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7613,6 +8587,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/124.png",
       "large": "https://images.pokemontcg.io/sm3/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Super-Scoop-Up-V1-BUS124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7636,6 +8618,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/125.png",
       "large": "https://images.pokemontcg.io/sm3/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Tormenting-Spray-BUS125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7660,6 +8650,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/126.png",
       "large": "https://images.pokemontcg.io/sm3/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Weakness-Policy-BUS126",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7683,6 +8681,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/127.png",
       "large": "https://images.pokemontcg.io/sm3/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Wicke-V1-BUS127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7707,6 +8713,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/128.png",
       "large": "https://images.pokemontcg.io/sm3/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Wishful-Baton-BUS128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -7783,6 +8797,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/129.png",
       "large": "https://images.pokemontcg.io/sm3/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Golisopod-GX-V2-BUS129",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7852,6 +8874,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/130.png",
       "large": "https://images.pokemontcg.io/sm3/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Tapu-Bulu-GX-V1-BUS130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7935,6 +8965,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/131.png",
       "large": "https://images.pokemontcg.io/sm3/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Ho-Oh-GX-V2-BUS131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.8,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8009,6 +9047,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/132.png",
       "large": "https://images.pokemontcg.io/sm3/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Salazzle-GX-V2-BUS132",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8074,6 +9120,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/133.png",
       "large": "https://images.pokemontcg.io/sm3/133_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Tapu-Fini-GX-V2-BUS133",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8146,6 +9200,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/134.png",
       "large": "https://images.pokemontcg.io/sm3/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Necrozma-GX-V2-BUS134",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8223,6 +9285,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/135.png",
       "large": "https://images.pokemontcg.io/sm3/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Machamp-GX-V2-BUS135",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8298,6 +9368,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/136.png",
       "large": "https://images.pokemontcg.io/sm3/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Lycanroc-GX-V1-BUS136",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8367,6 +9445,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/137.png",
       "large": "https://images.pokemontcg.io/sm3/137_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Marshadow-GX-V2-BUS137",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8411,9 +9497,7 @@
       },
       {
         "name": "Tri Hazard-GX",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)"
@@ -8451,6 +9535,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/138.png",
       "large": "https://images.pokemontcg.io/sm3/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Alolan-Muk-GX-V2-BUS138",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8529,6 +9621,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/139.png",
       "large": "https://images.pokemontcg.io/sm3/139_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Darkrai-GX-V2-BUS139",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8604,6 +9704,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/140.png",
       "large": "https://images.pokemontcg.io/sm3/140_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Gardevoir-GX-V2-BUS140",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8675,6 +9783,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/141.png",
       "large": "https://images.pokemontcg.io/sm3/141_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Noivern-GX-V2-BUS141",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8698,6 +9814,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/142.png",
       "large": "https://images.pokemontcg.io/sm3/142_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Acerola-V2-BUS142",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8721,6 +9845,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/143.png",
       "large": "https://images.pokemontcg.io/sm3/143_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Guzma-V2-BUS143",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.98,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8744,6 +9876,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/144.png",
       "large": "https://images.pokemontcg.io/sm3/144_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Kiawe-V2-BUS144",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8767,6 +9907,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/145.png",
       "large": "https://images.pokemontcg.io/sm3/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Plumeria-V2-BUS145",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8790,6 +9938,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/146.png",
       "large": "https://images.pokemontcg.io/sm3/146_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Sophocles-V2-BUS146",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.48,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8813,6 +9969,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/147.png",
       "large": "https://images.pokemontcg.io/sm3/147_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Wicke-V2-BUS147",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8889,6 +10053,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/148.png",
       "large": "https://images.pokemontcg.io/sm3/148_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Golisopod-GX-V3-BUS148",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8958,6 +10130,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/149.png",
       "large": "https://images.pokemontcg.io/sm3/149_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Tapu-Bulu-GX-V2-BUS149",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9037,6 +10217,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/150.png",
       "large": "https://images.pokemontcg.io/sm3/150_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Charizard-GX-V2-BUS150",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 50.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9111,6 +10299,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/151.png",
       "large": "https://images.pokemontcg.io/sm3/151_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Salazzle-GX-V3-BUS151",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9176,6 +10372,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/152.png",
       "large": "https://images.pokemontcg.io/sm3/152_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Tapu-Fini-GX-V3-BUS152",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9248,6 +10452,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/153.png",
       "large": "https://images.pokemontcg.io/sm3/153_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Necrozma-GX-V3-BUS153",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9325,6 +10537,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/154.png",
       "large": "https://images.pokemontcg.io/sm3/154_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Machamp-GX-V3-BUS154",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9400,6 +10620,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/155.png",
       "large": "https://images.pokemontcg.io/sm3/155_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Lycanroc-GX-V2-BUS155",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9469,6 +10697,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/156.png",
       "large": "https://images.pokemontcg.io/sm3/156_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Marshadow-GX-V3-BUS156",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9513,9 +10749,7 @@
       },
       {
         "name": "Tri Hazard-GX",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)"
@@ -9553,6 +10787,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/157.png",
       "large": "https://images.pokemontcg.io/sm3/157_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Alolan-Muk-GX-V3-BUS157",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9631,6 +10873,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/158.png",
       "large": "https://images.pokemontcg.io/sm3/158_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Darkrai-GX-V3-BUS158",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9706,6 +10956,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/159.png",
       "large": "https://images.pokemontcg.io/sm3/159_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Gardevoir-GX-V3-BUS159",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9777,6 +11035,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/160.png",
       "large": "https://images.pokemontcg.io/sm3/160_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Noivern-GX-V3-BUS160",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9801,6 +11067,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/161.png",
       "large": "https://images.pokemontcg.io/sm3/161_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Bodybuilding-Dumbbells-V2-BUS161",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9825,6 +11099,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/162.png",
       "large": "https://images.pokemontcg.io/sm3/162_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Choice-Band-BUS162",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.7,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9848,6 +11130,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/163.png",
       "large": "https://images.pokemontcg.io/sm3/163_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Escape-Rope-V2-BUS163",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9871,6 +11161,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/164.png",
       "large": "https://images.pokemontcg.io/sm3/164_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Multi-Switch-BUS164",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.81,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9894,6 +11192,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/165.png",
       "large": "https://images.pokemontcg.io/sm3/165_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Rescue-Stretcher-BUS165",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9917,6 +11223,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/166.png",
       "large": "https://images.pokemontcg.io/sm3/166_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Super-Scoop-Up-V2-BUS166",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9936,6 +11250,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/167.png",
       "large": "https://images.pokemontcg.io/sm3/167_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Fire-Energy-BUS167",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9955,6 +11277,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/168.png",
       "large": "https://images.pokemontcg.io/sm3/168_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Darkness-Energy-BUS168",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 14.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9973,6 +11303,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm3/169.png",
       "large": "https://images.pokemontcg.io/sm3/169_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Fairy-Energy-BUS169",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 19.98,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

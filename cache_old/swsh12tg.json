@@ -2,7 +2,7 @@
   {
     "id": "swsh12tg-TG01",
     "name": "Braixen",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -31,14 +31,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "60\u00d7",
+        "damage": "60×",
         "text": "This attack does 60 damage for each Serena card in your discard pile."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -119,7 +119,7 @@
   {
     "id": "swsh12tg-TG02",
     "name": "Milotic",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -136,7 +136,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 50 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Mellow Wave",
@@ -146,13 +146,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "60",
-        "text": "Your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -182,7 +182,7 @@
     "number": "TG02",
     "artist": "chibi",
     "rarity": "Trainer Gallery Rare Holo",
-    "flavorText": "Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pok\u00e9mon of all.",
+    "flavorText": "Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.",
     "nationalPokedexNumbers": [
       350
     ],
@@ -234,7 +234,7 @@
   {
     "id": "swsh12tg-TG03",
     "name": "Flaaffy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -249,7 +249,7 @@
     "abilities": [
       {
         "name": "Dynamotor",
-        "text": "Once during your turn (before your attack), you may attach a Lightning Energy card from your discard pile to 1 of your Benched Pok\u00e9mon.",
+        "text": "Once during your turn (before your attack), you may attach a Lightning Energy card from your discard pile to 1 of your Benched Pokémon.",
         "type": "Ability"
       }
     ],
@@ -269,7 +269,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -351,7 +351,7 @@
   {
     "id": "swsh12tg-TG04",
     "name": "Jynx",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -362,7 +362,7 @@
     "abilities": [
       {
         "name": "Selfish Lips",
-        "text": "If this Pok\u00e9mon is Knocked Out by damage from an attack from your opponent's Pok\u00e9mon V, your opponent can't take any Prize cards for it.",
+        "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon V, your opponent can't take any Prize cards for it.",
         "type": "Ability"
       }
     ],
@@ -375,13 +375,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "10+",
-        "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pok\u00e9mon."
+        "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -469,7 +469,7 @@
   {
     "id": "swsh12tg-TG05",
     "name": "Gardevoir",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -500,7 +500,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -582,7 +582,7 @@
   {
     "id": "swsh12tg-TG06",
     "name": "Malamar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Rapid Strike"
@@ -599,14 +599,14 @@
           "Psychic"
         ],
         "convertedEnergyCost": 1,
-        "damage": "40\u00d7",
+        "damage": "40×",
         "text": "Reveal any number of Rapid Strike cards from your hand. This attack does 40 damage for each card you revealed in this way. Then, shuffle those cards into your deck."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -695,7 +695,7 @@
   {
     "id": "swsh12tg-TG07",
     "name": "Rockruff",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "Single Strike"
@@ -716,13 +716,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -803,7 +803,7 @@
   {
     "id": "swsh12tg-TG08",
     "name": "Passimian",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "Rapid Strike"
@@ -815,7 +815,7 @@
     "abilities": [
       {
         "name": "Throwing Coach",
-        "text": "Your Rapid Strike Pok\u00e9mon's attacks do 30 more damage to your opponent's Benched Pok\u00e9mon V and Benched Pok\u00e9mon-GX (before applying Weakness and Resistance). You can't apply more than 1 Throwing Coach Ability at a time.",
+        "text": "Your Rapid Strike Pokémon's attacks do 30 more damage to your opponent's Benched Pokémon V and Benched Pokémon-GX (before applying Weakness and Resistance). You can't apply more than 1 Throwing Coach Ability at a time.",
         "type": "Ability"
       }
     ],
@@ -827,13 +827,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 20 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -914,7 +914,7 @@
   {
     "id": "swsh12tg-TG09",
     "name": "Druddigon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -931,7 +931,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40+",
-        "text": "If any of your Pok\u00e9mon were Knocked Out by damage from an attack from your opponent's Pok\u00e9mon during their last turn, this attack does 120 more damage."
+        "text": "If any of your Pokémon were Knocked Out by damage from an attack from your opponent's Pokémon during their last turn, this attack does 120 more damage."
       },
       {
         "name": "Dragon Claw",
@@ -972,7 +972,7 @@
     "number": "TG09",
     "artist": "Teeziro",
     "rarity": "Trainer Gallery Rare Holo",
-    "flavorText": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pok\u00e9mon, treating the stolen nests as their own lairs.",
+    "flavorText": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.",
     "nationalPokedexNumbers": [
       621
     ],
@@ -1024,7 +1024,7 @@
   {
     "id": "swsh12tg-TG10",
     "name": "Smeargle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1040,7 +1040,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Look at the top 5 cards of your deck. You may attach any number of basic Energy cards you find there to 1 of your Pok\u00e9mon. Shuffle the other cards back into your deck."
+        "text": "Look at the top 5 cards of your deck. You may attach any number of basic Energy cards you find there to 1 of your Pokémon. Shuffle the other cards back into your deck."
       },
       {
         "name": "Ram",
@@ -1056,7 +1056,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1137,7 +1137,7 @@
   {
     "id": "swsh12tg-TG11",
     "name": "Altaria",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1155,7 +1155,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Move all damage counters from 1 of your Benched Pok\u00e9mon to your opponent's Active Pok\u00e9mon."
+        "text": "Move all damage counters from 1 of your Benched Pokémon to your opponent's Active Pokémon."
       },
       {
         "name": "Blasting Wind",
@@ -1172,7 +1172,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1259,7 +1259,7 @@
   {
     "id": "swsh12tg-TG12",
     "name": "Kricketune V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -1269,12 +1269,12 @@
       "Grass"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Exciting Stage",
-        "text": "Once during your turn, you may draw cards until you have 3 cards in your hand. If this Pok\u00e9mon is in the Active Spot, you may draw cards until you have 4 cards in your hand instead. You can't use more than 1 Exciting Stage Ability each turn.",
+        "text": "Once during your turn, you may draw cards until you have 3 cards in your hand. If this Pokémon is in the Active Spot, you may draw cards until you have 4 cards in your hand instead. You can't use more than 1 Exciting Stage Ability each turn.",
         "type": "Ability"
       }
     ],
@@ -1294,7 +1294,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1374,7 +1374,7 @@
   {
     "id": "swsh12tg-TG13",
     "name": "Serperior V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -1384,7 +1384,7 @@
       "Grass"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1394,7 +1394,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 30 damage from each Pok\u00e9mon (both yours and your opponent's)."
+        "text": "Heal 30 damage from each Pokémon (both yours and your opponent's)."
       },
       {
         "name": "Solar Beam",
@@ -1411,7 +1411,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1491,7 +1491,7 @@
   {
     "id": "swsh12tg-TG14",
     "name": "Blaziken V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V",
@@ -1502,7 +1502,7 @@
       "Fire"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1525,13 +1525,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "210",
-        "text": "Discard 2 Energy from this Pok\u00e9mon."
+        "text": "Discard 2 Energy from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1612,7 +1612,7 @@
   {
     "id": "swsh12tg-TG15",
     "name": "Blaziken VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX",
       "Rapid Strike"
@@ -1623,7 +1623,7 @@
     ],
     "evolvesFrom": "Blaziken V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -1633,7 +1633,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "60",
-        "text": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       },
       {
         "name": "Max Blaze",
@@ -1643,13 +1643,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "130",
-        "text": "Choose up to 2 of your Benched Rapid Strike Pok\u00e9mon and attach an Energy card from your discard pile to each of them."
+        "text": "Choose up to 2 of your Benched Rapid Strike Pokémon and attach an Energy card from your discard pile to each of them."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1730,7 +1730,7 @@
   {
     "id": "swsh12tg-TG16",
     "name": "Zeraora V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V",
@@ -1741,7 +1741,7 @@
       "Lightning"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1753,13 +1753,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "If 1 of your other Rapid Strike Pok\u00e9mon used an attack during your last turn, this attack also does 160 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "If 1 of your other Rapid Strike Pokémon used an attack during your last turn, this attack also does 160 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1840,7 +1840,7 @@
   {
     "id": "swsh12tg-TG17",
     "name": "Mawile V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -1850,7 +1850,7 @@
       "Psychic"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1860,7 +1860,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
       },
       {
         "name": "Chomp Down",
@@ -1877,7 +1877,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1957,7 +1957,7 @@
   {
     "id": "swsh12tg-TG18",
     "name": "Corviknight V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -1967,7 +1967,7 @@
       "Metal"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1977,7 +1977,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       },
       {
         "name": "Sky Hurricane",
@@ -1988,13 +1988,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "190",
-        "text": "During your next turn, this Pok\u00e9mon can't use Sky Hurricane."
+        "text": "During your next turn, this Pokémon can't use Sky Hurricane."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2080,7 +2080,7 @@
   {
     "id": "swsh12tg-TG19",
     "name": "Corviknight VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -2090,12 +2090,12 @@
     ],
     "evolvesFrom": "Corviknight V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "abilities": [
       {
         "name": "Lustrous Body",
-        "text": "Prevent all effects of your opponent's Pok\u00e9mon's Abilities done to this Pok\u00e9mon.",
+        "text": "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon.",
         "type": "Ability"
       }
     ],
@@ -2109,13 +2109,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "240",
-        "text": "During your next turn, this Pok\u00e9mon can't use G-Max Hurricane."
+        "text": "During your next turn, this Pokémon can't use G-Max Hurricane."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2197,7 +2197,7 @@
   {
     "id": "swsh12tg-TG20",
     "name": "Rayquaza VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX",
       "Rapid Strike"
@@ -2208,7 +2208,7 @@
     ],
     "evolvesFrom": "Rayquaza V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "abilities": [
       {
@@ -2226,7 +2226,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pok\u00e9mon. This attack does 80 more damage for each card you discarded in this way."
+        "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
       }
     ],
     "retreatCost": [
@@ -2307,7 +2307,7 @@
   {
     "id": "swsh12tg-TG21",
     "name": "Duraludon VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX",
       "Single Strike"
@@ -2318,12 +2318,12 @@
     ],
     "evolvesFrom": "Duraludon V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "abilities": [
       {
         "name": "Skyscraper",
-        "text": "Prevent all damage done to this Pok\u00e9mon by attacks from your opponent's Pok\u00e9mon that have Special Energy attached.",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have Special Energy attached.",
         "type": "Ability"
       }
     ],
@@ -2337,7 +2337,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "220",
-        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon."
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
       }
     ],
     "retreatCost": [
@@ -2419,7 +2419,7 @@
   {
     "id": "swsh12tg-TG22",
     "name": "Blissey V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -2429,12 +2429,12 @@
       "Colorless"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Natural Cure",
-        "text": "Whenever you attach an Energy card from your hand to this Pok\u00e9mon, remove all Special Conditions from it.",
+        "text": "Whenever you attach an Energy card from your hand to this Pokémon, remove all Special Conditions from it.",
         "type": "Ability"
       }
     ],
@@ -2446,13 +2446,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10+",
-        "text": "This attack does 30 more damage for each Energy attached to this Pok\u00e9mon. If you did any damage with this attack, you may attach up to 3 Energy cards from your discard pile to this Pok\u00e9mon."
+        "text": "This attack does 30 more damage for each Energy attached to this Pokémon. If you did any damage with this attack, you may attach up to 3 Energy cards from your discard pile to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2852,7 +2852,7 @@
       "Supporter"
     ],
     "rules": [
-      "You can play this card only if any of your Pok\u00e9mon were Knocked Out during your opponent's last turn. Attach a basic Energy card from your discard pile to 1 of your Pok\u00e9mon. If you do, search your deck for a card and put it into your hand. Then, shuffle your deck.",
+      "You can play this card only if any of your Pokémon were Knocked Out during your opponent's last turn. Attach a basic Energy card from your discard pile to 1 of your Pokémon. If you do, search your deck for a card and put it into your hand. Then, shuffle your deck.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -3002,7 +3002,7 @@
   {
     "id": "swsh12tg-TG29",
     "name": "Rayquaza VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX",
       "Rapid Strike"
@@ -3013,7 +3013,7 @@
     ],
     "evolvesFrom": "Rayquaza V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "abilities": [
       {
@@ -3031,7 +3031,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pok\u00e9mon. This attack does 80 more damage for each card you discarded in this way."
+        "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way."
       }
     ],
     "retreatCost": [
@@ -3112,7 +3112,7 @@
   {
     "id": "swsh12tg-TG30",
     "name": "Duraludon VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX",
       "Single Strike"
@@ -3123,12 +3123,12 @@
     ],
     "evolvesFrom": "Duraludon V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "abilities": [
       {
         "name": "Skyscraper",
-        "text": "Prevent all damage done to this Pok\u00e9mon by attacks from your opponent's Pok\u00e9mon that have Special Energy attached.",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have Special Energy attached.",
         "type": "Ability"
       }
     ],
@@ -3142,7 +3142,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "220",
-        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon."
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
       }
     ],
     "retreatCost": [
@@ -3218,6 +3218,62 @@
         "reverseHoloAvg1": 0.0,
         "reverseHoloAvg7": 0.0,
         "reverseHoloAvg30": 0.0
+      }
+    }
+  },
+  {
+    "id": "swsh12tg-promo-33",
+    "name": "Alolan Vulpix V  (SIT 033) (Promo)",
+    "rarity": "Promo",
+    "number": "33",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Alolan-Vulpix-V-V3-SIT033",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh12tg-promo-49",
+    "name": "Pikachu  (SIT 049) (Promo)",
+    "rarity": "Promo",
+    "number": "49",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Pikachu-V2-SIT049",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh12tg-promo-131",
+    "name": "Dragonite  (SIT 131) (Promo)",
+    "rarity": "Promo",
+    "number": "131",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Dragonite-V2-SIT131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh12tg-promo-156",
+    "name": "Forest Seal Stone (SIT 156) (Promo)",
+    "rarity": "Promo",
+    "number": "156",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Forest-Seal-Stone-V2-SIT156",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
       }
     }
   }

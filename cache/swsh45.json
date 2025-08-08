@@ -7034,5 +7034,77 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "swsh45-promo-60",
+    "name": "Professor's Research - Professor Juniper (SHF 60) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and draw 7 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh45",
+      "name": "Shining Fates",
+      "series": "Sword & Shield",
+      "printedTotal": 72,
+      "total": 73,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SHF",
+      "releaseDate": "2021/02/19",
+      "updatedAt": "2021/02/24 16:17:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh45/logo.png"
+      }
+    },
+    "number": "60",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh45/60.png",
+      "large": "https://images.pokemontcg.io/swsh45/60_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh45-60",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.23,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.1,
+          "directLow": 0.02
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Professors-Research-Professor-Juniper-V2-SHF60",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

@@ -59,6 +59,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/1.png",
       "large": "https://images.pokemontcg.io/hgss3/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Bellossom-UD1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -117,6 +125,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/2.png",
       "large": "https://images.pokemontcg.io/hgss3/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Espeon-UD2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.89
+      }
     }
   },
   {
@@ -185,6 +201,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/3.png",
       "large": "https://images.pokemontcg.io/hgss3/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Forretress-UD3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -250,6 +274,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/4.png",
       "large": "https://images.pokemontcg.io/hgss3/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Gliscor-UD4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -314,6 +346,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/5.png",
       "large": "https://images.pokemontcg.io/hgss3/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Houndoom-V1-UD5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -376,6 +416,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/6.png",
       "large": "https://images.pokemontcg.io/hgss3/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Magcargo-UD6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -442,6 +490,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/7.png",
       "large": "https://images.pokemontcg.io/hgss3/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Scizor-UD7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -497,6 +553,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/8.png",
       "large": "https://images.pokemontcg.io/hgss3/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Smeargle-UD8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -563,6 +627,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/9.png",
       "large": "https://images.pokemontcg.io/hgss3/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Togekiss-UD9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -627,6 +699,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/10.png",
       "large": "https://images.pokemontcg.io/hgss3/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Umbreon-UD10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.94,
+        "reverseHoloLow": 1.95
+      }
     }
   },
   {
@@ -689,6 +769,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/11.png",
       "large": "https://images.pokemontcg.io/hgss3/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Dodrio-UD11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -751,6 +839,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/12.png",
       "large": "https://images.pokemontcg.io/hgss3/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Drifblim-UD12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.17
+      }
     }
   },
   {
@@ -816,6 +912,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/13.png",
       "large": "https://images.pokemontcg.io/hgss3/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Forretress-UD13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.18,
+        "reverseHoloLow": 0.85
+      }
     }
   },
   {
@@ -880,6 +984,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/14.png",
       "large": "https://images.pokemontcg.io/hgss3/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Hariyama-UD14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.97
+      }
     }
   },
   {
@@ -946,6 +1058,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/15.png",
       "large": "https://images.pokemontcg.io/hgss3/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Honchkrow-UD15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1013,6 +1133,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/16.png",
       "large": "https://images.pokemontcg.io/hgss3/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Honchkrow-UD16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1076,6 +1204,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/17.png",
       "large": "https://images.pokemontcg.io/hgss3/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Leafeon-UD17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": 1.44
+      }
     }
   },
   {
@@ -1147,6 +1283,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/18.png",
       "large": "https://images.pokemontcg.io/hgss3/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Metagross-UD18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1211,6 +1355,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/19.png",
       "large": "https://images.pokemontcg.io/hgss3/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Mismagius-UD19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1271,6 +1423,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/20.png",
       "large": "https://images.pokemontcg.io/hgss3/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Rotom-UD20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1335,6 +1495,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/21.png",
       "large": "https://images.pokemontcg.io/hgss3/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Skarmory-UD21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -1400,6 +1568,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/22.png",
       "large": "https://images.pokemontcg.io/hgss3/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Tropius-UD22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -1459,6 +1635,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/23.png",
       "large": "https://images.pokemontcg.io/hgss3/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Vespiquen-UD23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1517,6 +1701,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/24.png",
       "large": "https://images.pokemontcg.io/hgss3/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Vileplume-UD24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1575,6 +1767,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/25.png",
       "large": "https://images.pokemontcg.io/hgss3/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Weavile-UD25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.12,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -1634,6 +1834,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/26.png",
       "large": "https://images.pokemontcg.io/hgss3/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Flareon-UD26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.55
+      }
     }
   },
   {
@@ -1687,6 +1895,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/27.png",
       "large": "https://images.pokemontcg.io/hgss3/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Gloom-UD27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.16
+      }
     }
   },
   {
@@ -1748,6 +1964,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/28.png",
       "large": "https://images.pokemontcg.io/hgss3/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Jolteon-UD28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1818,6 +2042,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/29.png",
       "large": "https://images.pokemontcg.io/hgss3/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Lairon-UD29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1888,6 +2120,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/30.png",
       "large": "https://images.pokemontcg.io/hgss3/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Metang-UD30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1949,6 +2189,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/31.png",
       "large": "https://images.pokemontcg.io/hgss3/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Muk-UD31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2007,6 +2255,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/32.png",
       "large": "https://images.pokemontcg.io/hgss3/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Pinsir-UD32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2067,6 +2323,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/33.png",
       "large": "https://images.pokemontcg.io/hgss3/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Raichu-UD33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -2120,6 +2384,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/34.png",
       "large": "https://images.pokemontcg.io/hgss3/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Raticate-UD34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -2177,6 +2449,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/35.png",
       "large": "https://images.pokemontcg.io/hgss3/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Sableye-UD35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2228,6 +2508,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/36.png",
       "large": "https://images.pokemontcg.io/hgss3/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Scyther-UD36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2292,6 +2580,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/37.png",
       "large": "https://images.pokemontcg.io/hgss3/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Skuntank-UD37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2352,6 +2648,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/38.png",
       "large": "https://images.pokemontcg.io/hgss3/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Slowbro-UD38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2419,6 +2723,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/39.png",
       "large": "https://images.pokemontcg.io/hgss3/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Togetic-UD39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2473,6 +2785,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/40.png",
       "large": "https://images.pokemontcg.io/hgss3/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Unown-UD40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2533,6 +2853,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/41.png",
       "large": "https://images.pokemontcg.io/hgss3/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Vaporeon-UD41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -2599,6 +2927,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/42.png",
       "large": "https://images.pokemontcg.io/hgss3/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Aron-UD42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2666,6 +3002,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/43.png",
       "large": "https://images.pokemontcg.io/hgss3/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Beldum-UD43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2716,6 +3060,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/44.png",
       "large": "https://images.pokemontcg.io/hgss3/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Combee-UD44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2782,6 +3134,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/45.png",
       "large": "https://images.pokemontcg.io/hgss3/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Doduo-UD45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2847,6 +3207,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/46.png",
       "large": "https://images.pokemontcg.io/hgss3/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Drifloon-UD46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2914,6 +3282,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/47.png",
       "large": "https://images.pokemontcg.io/hgss3/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Eevee-UD47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2981,6 +3357,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/48.png",
       "large": "https://images.pokemontcg.io/hgss3/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Eevee-UD48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3038,6 +3422,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/49.png",
       "large": "https://images.pokemontcg.io/hgss3/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Gligar-UD49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3099,6 +3491,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/50.png",
       "large": "https://images.pokemontcg.io/hgss3/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Grimer-UD50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -3156,6 +3556,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/51.png",
       "large": "https://images.pokemontcg.io/hgss3/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Hitmonchan-UD51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3215,6 +3623,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/52.png",
       "large": "https://images.pokemontcg.io/hgss3/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Hitmonlee-UD52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3272,6 +3688,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/53.png",
       "large": "https://images.pokemontcg.io/hgss3/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Houndour-UD53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3328,6 +3752,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/54.png",
       "large": "https://images.pokemontcg.io/hgss3/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Houndour-UD54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3391,6 +3823,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/55.png",
       "large": "https://images.pokemontcg.io/hgss3/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Makuhita-UD55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -3455,6 +3895,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/56.png",
       "large": "https://images.pokemontcg.io/hgss3/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Mawile-UD56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3520,6 +3968,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/57.png",
       "large": "https://images.pokemontcg.io/hgss3/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Misdreavus-UD57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3576,6 +4032,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/58.png",
       "large": "https://images.pokemontcg.io/hgss3/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Murkrow-UD58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3643,6 +4107,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/59.png",
       "large": "https://images.pokemontcg.io/hgss3/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Murkrow-UD59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -3702,6 +4174,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/60.png",
       "large": "https://images.pokemontcg.io/hgss3/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Oddish-UD60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3758,6 +4238,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/61.png",
       "large": "https://images.pokemontcg.io/hgss3/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Pikachu-UD61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -3809,6 +4297,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/62.png",
       "large": "https://images.pokemontcg.io/hgss3/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Pineco-UD62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3870,6 +4366,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/63.png",
       "large": "https://images.pokemontcg.io/hgss3/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Pineco-UD63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -3920,6 +4424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/64.png",
       "large": "https://images.pokemontcg.io/hgss3/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Rattata-UD64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3982,6 +4494,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/65.png",
       "large": "https://images.pokemontcg.io/hgss3/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Scyther-UD65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -4044,6 +4564,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/66.png",
       "large": "https://images.pokemontcg.io/hgss3/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Slowpoke-UD66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -4104,6 +4632,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/67.png",
       "large": "https://images.pokemontcg.io/hgss3/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Slugma-UD67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4166,6 +4702,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/68.png",
       "large": "https://images.pokemontcg.io/hgss3/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Sneasel-UD68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -4222,6 +4766,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/69.png",
       "large": "https://images.pokemontcg.io/hgss3/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Stunky-UD69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -4272,6 +4824,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/70.png",
       "large": "https://images.pokemontcg.io/hgss3/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Togepi-UD70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -4294,6 +4854,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/71.png",
       "large": "https://images.pokemontcg.io/hgss3/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Burned-Tower-UD71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4315,6 +4883,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/72.png",
       "large": "https://images.pokemontcg.io/hgss3/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Defender-UD72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4336,6 +4912,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/73.png",
       "large": "https://images.pokemontcg.io/hgss3/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Energy-Exchanger-UD73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4358,6 +4942,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/74.png",
       "large": "https://images.pokemontcg.io/hgss3/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Flower-Shop-Lady-UD74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4379,6 +4971,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/75.png",
       "large": "https://images.pokemontcg.io/hgss3/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Legend-Box-UD75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -4401,6 +5001,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/76.png",
       "large": "https://images.pokemontcg.io/hgss3/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Ruins-of-Alph-UD76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -4423,6 +5031,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/77.png",
       "large": "https://images.pokemontcg.io/hgss3/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Sages-Training-UD77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4445,6 +5061,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/78.png",
       "large": "https://images.pokemontcg.io/hgss3/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Team-Rockets-Trickery-UD78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4466,6 +5090,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/79.png",
       "large": "https://images.pokemontcg.io/hgss3/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Darkness-Energy-V1-UD79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4487,6 +5119,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/80.png",
       "large": "https://images.pokemontcg.io/hgss3/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Metal-Energy-V1-UD80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4543,6 +5183,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/81.png",
       "large": "https://images.pokemontcg.io/hgss3/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Espeon-UD81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.99,
+        "reverseHoloLow": 9.49
+      }
     }
   },
   {
@@ -4606,6 +5254,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/82.png",
       "large": "https://images.pokemontcg.io/hgss3/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Houndoom-UD82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": 9.99
+      }
     }
   },
   {
@@ -4669,6 +5325,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/83.png",
       "large": "https://images.pokemontcg.io/hgss3/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Raichu-UD83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -4732,6 +5396,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/84.png",
       "large": "https://images.pokemontcg.io/hgss3/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Scizor-UD84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": 4.9
+      }
     }
   },
   {
@@ -4790,6 +5462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/85.png",
       "large": "https://images.pokemontcg.io/hgss3/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Slowking-UD85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -4853,6 +5533,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/86.png",
       "large": "https://images.pokemontcg.io/hgss3/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Umbreon-UD86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 14.49,
+        "reverseHoloLow": 29.99
+      }
     }
   },
   {
@@ -4926,6 +5614,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/87.png",
       "large": "https://images.pokemontcg.io/hgss3/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Kyogre-Groudon-LEGEND-V1-UD87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": 140.0
+      }
     }
   },
   {
@@ -4999,6 +5695,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/88.png",
       "large": "https://images.pokemontcg.io/hgss3/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Kyogre-Groudon-LEGEND-V2-UD88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": 34.95
+      }
     }
   },
   {
@@ -5067,6 +5771,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/89.png",
       "large": "https://images.pokemontcg.io/hgss3/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Rayquaza-Deoxys-LEGEND-V1-UD89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 12.0,
+        "reverseHoloLow": 15.0
+      }
     }
   },
   {
@@ -5135,6 +5847,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss3/90.png",
       "large": "https://images.pokemontcg.io/hgss3/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Rayquaza-Deoxys-LEGEND-V2-UD90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {

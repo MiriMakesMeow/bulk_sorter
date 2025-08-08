@@ -4462,5 +4462,145 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "base2-promo-1",
+    "name": "Clefable  (JU 1) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "34",
+    "hp": "70",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Clefairy",
+    "attacks": [
+      {
+        "name": "Metronome",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokémon is, Clefable's type is still Colorless.)"
+      },
+      {
+        "name": "Minimize",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "All damage done by attacks to Clefable during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "1",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "flavorText": "A timid Fairy Pokémon that is rarely seen. It will run and hide the moment it senses people.",
+    "nationalPokedexNumbers": [
+      36
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base2/1.png",
+      "large": "https://images.pokemontcg.io/base2/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Clefable-V3-PR06",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 150.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "base2-promo-56",
+    "name": "Meowth  (JU 56) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "15",
+    "hp": "50",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Persian"
+    ],
+    "attacks": [
+      {
+        "name": "Pay Day",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "Flip a coin. If heads, draw a card."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "56",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "flavorText": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+    "nationalPokedexNumbers": [
+      52
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base2/56.png",
+      "large": "https://images.pokemontcg.io/base2/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Meowth-V2-JU56",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

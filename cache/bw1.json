@@ -64,6 +64,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/1.png",
       "large": "https://images.pokemontcg.io/bw1/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Snivy-V1-BLW1",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -122,6 +130,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/2.png",
       "large": "https://images.pokemontcg.io/bw1/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Snivy-BLW2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -190,6 +206,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/3.png",
       "large": "https://images.pokemontcg.io/bw1/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Servine-BLW3",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -390,6 +414,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/6.png",
       "large": "https://images.pokemontcg.io/bw1/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Serperior-BLW6",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -458,6 +490,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/7.png",
       "large": "https://images.pokemontcg.io/bw1/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Pansage-BLW7",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -525,6 +565,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/8.png",
       "large": "https://images.pokemontcg.io/bw1/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Simisage-BLW8",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -582,6 +630,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/9.png",
       "large": "https://images.pokemontcg.io/bw1/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Petilil-BLW9",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -721,6 +777,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/11.png",
       "large": "https://images.pokemontcg.io/bw1/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Maractus-BLW11",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -787,6 +851,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/12.png",
       "large": "https://images.pokemontcg.io/bw1/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Maractus-BLW12",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -854,6 +926,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/13.png",
       "large": "https://images.pokemontcg.io/bw1/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Deerling-BLW13",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -920,6 +1000,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/14.png",
       "large": "https://images.pokemontcg.io/bw1/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Sawsbuck-BLW14",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.55
+      }
     }
   },
   {
@@ -981,6 +1069,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/15.png",
       "large": "https://images.pokemontcg.io/bw1/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Tepig-V1-BLW15",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1034,6 +1130,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/16.png",
       "large": "https://images.pokemontcg.io/bw1/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Tepig-BLW16",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1099,6 +1203,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/17.png",
       "large": "https://images.pokemontcg.io/bw1/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Pignite-BLW17",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1165,6 +1277,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/18.png",
       "large": "https://images.pokemontcg.io/bw1/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Pignite-BLW18",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -1231,6 +1351,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/19.png",
       "large": "https://images.pokemontcg.io/bw1/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Emboar-BLW19",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -1293,6 +1421,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/20.png",
       "large": "https://images.pokemontcg.io/bw1/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Emboar-BLW20",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1355,6 +1491,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/21.png",
       "large": "https://images.pokemontcg.io/bw1/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Pansear-BLW21",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1415,6 +1559,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/22.png",
       "large": "https://images.pokemontcg.io/bw1/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Simisear-BLW22",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1467,6 +1619,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/23.png",
       "large": "https://images.pokemontcg.io/bw1/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Darumaka-BLW23",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -1529,6 +1689,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/24.png",
       "large": "https://images.pokemontcg.io/bw1/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Darumaka-BLW24",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.06
+      }
     }
   },
   {
@@ -1591,6 +1759,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/25.png",
       "large": "https://images.pokemontcg.io/bw1/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Darmanitan-V1-BLW25",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1652,6 +1828,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/26.png",
       "large": "https://images.pokemontcg.io/bw1/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Reshiram-BLW26",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -1713,6 +1897,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/27.png",
       "large": "https://images.pokemontcg.io/bw1/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Oshawott-V1-BLW27",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.34
+      }
     }
   },
   {
@@ -1765,6 +1957,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/28.png",
       "large": "https://images.pokemontcg.io/bw1/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Oshawott-BLW28",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1829,6 +2029,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/29.png",
       "large": "https://images.pokemontcg.io/bw1/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Dewott-BLW29",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1882,6 +2090,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/30.png",
       "large": "https://images.pokemontcg.io/bw1/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Dewott-BLW30",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1944,6 +2160,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/31.png",
       "large": "https://images.pokemontcg.io/bw1/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Samurott-BLW31",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2003,6 +2227,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/32.png",
       "large": "https://images.pokemontcg.io/bw1/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Samurott-BLW32",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -2065,6 +2297,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/33.png",
       "large": "https://images.pokemontcg.io/bw1/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Panpour-BLW33",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -2125,6 +2365,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/34.png",
       "large": "https://images.pokemontcg.io/bw1/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Simipour-BLW34",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2174,6 +2422,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/35.png",
       "large": "https://images.pokemontcg.io/bw1/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Basculin-BLW35",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2231,6 +2487,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/36.png",
       "large": "https://images.pokemontcg.io/bw1/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Ducklett-BLW36",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2296,6 +2560,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/37.png",
       "large": "https://images.pokemontcg.io/bw1/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Swanna-BLW37",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2358,6 +2630,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/38.png",
       "large": "https://images.pokemontcg.io/bw1/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Alomomola-BLW38",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2420,6 +2700,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/39.png",
       "large": "https://images.pokemontcg.io/bw1/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Alomomola-BLW39",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2472,6 +2760,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/40.png",
       "large": "https://images.pokemontcg.io/bw1/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Blitzle-BLW40",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2523,6 +2819,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/41.png",
       "large": "https://images.pokemontcg.io/bw1/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Blitzle-BLW41",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2584,6 +2888,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/42.png",
       "large": "https://images.pokemontcg.io/bw1/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Zebstrika-V1-BLW42",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2644,6 +2956,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/43.png",
       "large": "https://images.pokemontcg.io/bw1/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Zebstrika-BLW43",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2754,6 +3074,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/45.png",
       "large": "https://images.pokemontcg.io/bw1/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Joltik-BLW45",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2813,6 +3141,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/46.png",
       "large": "https://images.pokemontcg.io/bw1/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Galvantula-BLW46",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2874,6 +3210,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/47.png",
       "large": "https://images.pokemontcg.io/bw1/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Zekrom-BLW47",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.44
+      }
     }
   },
   {
@@ -2936,6 +3280,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/48.png",
       "large": "https://images.pokemontcg.io/bw1/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Munna-BLW48",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2996,6 +3348,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/49.png",
       "large": "https://images.pokemontcg.io/bw1/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Musharna-BLW49",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3053,6 +3413,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/50.png",
       "large": "https://images.pokemontcg.io/bw1/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Woobat-BLW50",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3189,6 +3557,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/52.png",
       "large": "https://images.pokemontcg.io/bw1/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Venipede-BLW52",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3254,6 +3630,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/53.png",
       "large": "https://images.pokemontcg.io/bw1/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Whirlipede-V1-BLW53",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3319,6 +3703,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/54.png",
       "large": "https://images.pokemontcg.io/bw1/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Scolipede-BLW54",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3380,6 +3772,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/55.png",
       "large": "https://images.pokemontcg.io/bw1/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Solosis-BLW55",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3442,6 +3842,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/56.png",
       "large": "https://images.pokemontcg.io/bw1/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Duosion-BLW56",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3501,6 +3909,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/57.png",
       "large": "https://images.pokemontcg.io/bw1/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Reuniclus-BLW57",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3553,6 +3969,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/58.png",
       "large": "https://images.pokemontcg.io/bw1/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Timburr-BLW58",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3615,6 +4039,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/59.png",
       "large": "https://images.pokemontcg.io/bw1/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Timburr-BLW59",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3679,6 +4111,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/60.png",
       "large": "https://images.pokemontcg.io/bw1/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Gurdurr-BLW60",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3807,6 +4247,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/62.png",
       "large": "https://images.pokemontcg.io/bw1/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Sawk-BLW62",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -3876,6 +4324,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/63.png",
       "large": "https://images.pokemontcg.io/bw1/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Sandile-BLW63",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3946,6 +4402,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/64.png",
       "large": "https://images.pokemontcg.io/bw1/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Krokorok-V1-BLW64",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -4016,6 +4480,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/65.png",
       "large": "https://images.pokemontcg.io/bw1/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Krookodile-BLW65",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4083,6 +4555,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/66.png",
       "large": "https://images.pokemontcg.io/bw1/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Purrloin-BLW66",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4148,6 +4628,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/67.png",
       "large": "https://images.pokemontcg.io/bw1/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Liepard-BLW67",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4205,6 +4693,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/68.png",
       "large": "https://images.pokemontcg.io/bw1/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Scraggy-BLW68",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4271,6 +4767,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/69.png",
       "large": "https://images.pokemontcg.io/bw1/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Scrafty-BLW69",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4329,6 +4833,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/70.png",
       "large": "https://images.pokemontcg.io/bw1/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Zorua-BLW70",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4394,6 +4906,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/71.png",
       "large": "https://images.pokemontcg.io/bw1/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Zoroark-BLW71",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4451,6 +4971,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/72.png",
       "large": "https://images.pokemontcg.io/bw1/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Vullaby-BLW72",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4517,6 +5045,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/73.png",
       "large": "https://images.pokemontcg.io/bw1/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Mandibuzz-BLW73",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4575,6 +5111,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/74.png",
       "large": "https://images.pokemontcg.io/bw1/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Klink-BLW74",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4645,6 +5189,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/75.png",
       "large": "https://images.pokemontcg.io/bw1/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Klang-BLW75",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4711,6 +5263,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/76.png",
       "large": "https://images.pokemontcg.io/bw1/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Klinklang-BLW76",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4772,6 +5332,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/77.png",
       "large": "https://images.pokemontcg.io/bw1/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Patrat-BLW77",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4823,6 +5391,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/78.png",
       "large": "https://images.pokemontcg.io/bw1/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Patrat-BLW78",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4883,6 +5459,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/79.png",
       "large": "https://images.pokemontcg.io/bw1/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Watchog-V1-BLW79",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -5012,6 +5596,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/81.png",
       "large": "https://images.pokemontcg.io/bw1/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Lillipup-V1-BLW81",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -5076,6 +5668,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/82.png",
       "large": "https://images.pokemontcg.io/bw1/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Herdier-BLW82",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5140,6 +5740,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/83.png",
       "large": "https://images.pokemontcg.io/bw1/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Stoutland-BLW83",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -5197,6 +5805,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/84.png",
       "large": "https://images.pokemontcg.io/bw1/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Pidove-BLW84",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -5265,6 +5881,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/85.png",
       "large": "https://images.pokemontcg.io/bw1/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Tranquill-BLW85",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5332,6 +5956,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/86.png",
       "large": "https://images.pokemontcg.io/bw1/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Unfezant-BLW86",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5382,6 +6014,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/87.png",
       "large": "https://images.pokemontcg.io/bw1/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Audino-BLW87",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5433,6 +6073,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/88.png",
       "large": "https://images.pokemontcg.io/bw1/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Minccino-BLW88",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5492,6 +6140,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/89.png",
       "large": "https://images.pokemontcg.io/bw1/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Cinccino-BLW89",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5553,6 +6209,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/90.png",
       "large": "https://images.pokemontcg.io/bw1/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Bouffalant-BLW90",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5615,6 +6279,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/91.png",
       "large": "https://images.pokemontcg.io/bw1/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Bouffalant-BLW91",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -5639,6 +6311,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/92.png",
       "large": "https://images.pokemontcg.io/bw1/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Energy-Retrieval-BLW92",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5663,6 +6343,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/93.png",
       "large": "https://images.pokemontcg.io/bw1/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Energy-Search-BLW93",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5687,6 +6375,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/94.png",
       "large": "https://images.pokemontcg.io/bw1/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Energy-Switch-BLW94",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -5741,6 +6437,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/96.png",
       "large": "https://images.pokemontcg.io/bw1/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/PlusPower-BLW96",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -5765,6 +6469,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/97.png",
       "large": "https://images.pokemontcg.io/bw1/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Poke-Ball-BLW97",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5788,6 +6500,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/98.png",
       "large": "https://images.pokemontcg.io/bw1/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Pokedex-BLW98",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -5811,6 +6531,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/99.png",
       "large": "https://images.pokemontcg.io/bw1/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Pokemon-Communication-BLW99",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5835,6 +6563,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/100.png",
       "large": "https://images.pokemontcg.io/bw1/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Potion-BLW100",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5889,6 +6625,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/102.png",
       "large": "https://images.pokemontcg.io/bw1/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Revive-BLW102",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5912,6 +6656,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/103.png",
       "large": "https://images.pokemontcg.io/bw1/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Super-Scoop-Up-BLW103",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5936,6 +6688,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/104.png",
       "large": "https://images.pokemontcg.io/bw1/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Switch-BLW104",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5955,6 +6715,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/105.png",
       "large": "https://images.pokemontcg.io/bw1/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Grass-Energy-V1-BLW105",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 3.99
+      }
     }
   },
   {
@@ -6001,6 +6769,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/107.png",
       "large": "https://images.pokemontcg.io/bw1/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Water-Energy-V1-BLW107",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6020,6 +6796,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/108.png",
       "large": "https://images.pokemontcg.io/bw1/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Lightning-Energy-V1-BLW108",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6039,6 +6823,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/109.png",
       "large": "https://images.pokemontcg.io/bw1/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Psychic-Energy-V1-BLW109",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6058,6 +6850,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/110.png",
       "large": "https://images.pokemontcg.io/bw1/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Fighting-Energy-V1-BLW110",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -6077,6 +6877,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/111.png",
       "large": "https://images.pokemontcg.io/bw1/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Darkness-Energy-V1-BLW111",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6096,6 +6904,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/112.png",
       "large": "https://images.pokemontcg.io/bw1/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Metal-Energy-V1-BLW112",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6157,6 +6973,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/113.png",
       "large": "https://images.pokemontcg.io/bw1/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Reshiram-BLW113",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6218,6 +7042,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/114.png",
       "large": "https://images.pokemontcg.io/bw1/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Zekrom-BLW114",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6280,6 +7112,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw1/115.png",
       "large": "https://images.pokemontcg.io/bw1/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Pikachu-BLW115",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6292,6 +7132,862 @@
       "updatedAt": "2025-08-05",
       "prices": {
         "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-1",
+    "name": "Snivy  (BLW 1) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [
+      "Servine"
+    ],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Vine Whip",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "1",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.",
+    "nationalPokedexNumbers": [
+      495
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/1.png",
+      "large": "https://images.pokemontcg.io/bw1/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Snivy-V2-BLW1",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-15",
+    "name": "Tepig  (BLW 15) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [
+      "Pignite"
+    ],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Rollout",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "15",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "It can deftly dodge its foe's attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
+    "nationalPokedexNumbers": [
+      498
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/15.png",
+      "large": "https://images.pokemontcg.io/bw1/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Tepig-V2-BLW15",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-25",
+    "name": "Darmanitan  (BLW 25) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Darumaka",
+    "attacks": [
+      {
+        "name": "Fire Fang",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "The Defending Pokémon is now Burned."
+      },
+      {
+        "name": "Thrash",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70+",
+        "text": "Flip a coin. If heads, this attack does 20 more damage. If tails, this Pokémon does 20 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "25",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "flavorText": "When weakened in battle, it transforms into a stone statue, then it sharpens its mind and fights on mentally.",
+    "nationalPokedexNumbers": [
+      555
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/25.png",
+      "large": "https://images.pokemontcg.io/bw1/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Darmanitan-V2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-27",
+    "name": "Oshawott  (BLW 27) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Dewott"
+    ],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "27",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "flavorText": "The scalchop on its stomach is made from the same elements as claws. It detaches the scalchop for use as a blade.",
+    "nationalPokedexNumbers": [
+      501
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/27.png",
+      "large": "https://images.pokemontcg.io/bw1/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Oshawott-V2-BLW27",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-42",
+    "name": "Zebstrika  (BLW 42) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Blitzle",
+    "attacks": [
+      {
+        "name": "Stomp",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "Flip a coin. If heads, this attack does 20 more damage."
+      },
+      {
+        "name": "Wild Charge",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70",
+        "text": "This Pokémon does 10 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "42",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "This ill-tempered Pokémon is dangerous because when it's angry, it shoots lightning from its mane in all directions.",
+    "nationalPokedexNumbers": [
+      523
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/42.png",
+      "large": "https://images.pokemontcg.io/bw1/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Zebstrika-V2-BLW42",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-53",
+    "name": "Whirlipede  (BLW 53) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Venipede",
+    "evolvesTo": [
+      "Scolipede"
+    ],
+    "attacks": [
+      {
+        "name": "Poison Sting",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "The Defending Pokémon is now Poisoned."
+      },
+      {
+        "name": "Rollout",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "53",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "flavorText": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
+    "nationalPokedexNumbers": [
+      544
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/53.png",
+      "large": "https://images.pokemontcg.io/bw1/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Whirlipede-V2-BLW53",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-64",
+    "name": "Krokorok  (BLW 64) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Sandile",
+    "evolvesTo": [
+      "Krookodile"
+    ],
+    "attacks": [
+      {
+        "name": "Torment",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+      },
+      {
+        "name": "Bite",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "64",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness.",
+    "nationalPokedexNumbers": [
+      552
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/64.png",
+      "large": "https://images.pokemontcg.io/bw1/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Krokorok-V2-BLW64",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-79",
+    "name": "Watchog  (BLW 79) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Patrat",
+    "attacks": [
+      {
+        "name": "Confuse Ray",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "The Defending Pokémon is now Confused."
+      },
+      {
+        "name": "Hyper Fang",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "79",
+    "artist": "match",
+    "rarity": "Promo",
+    "flavorText": "They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.",
+    "nationalPokedexNumbers": [
+      505
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/79.png",
+      "large": "https://images.pokemontcg.io/bw1/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Watchog-V2-BLW79",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-81",
+    "name": "Lillipup  (BLW 81) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Herdier"
+    ],
+    "attacks": [
+      {
+        "name": "Collect",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw a card."
+      },
+      {
+        "name": "Tackle",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "81",
+    "artist": "sui",
+    "rarity": "Promo",
+    "flavorText": "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+    "nationalPokedexNumbers": [
+      506
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/81.png",
+      "large": "https://images.pokemontcg.io/bw1/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Lillipup-V2-BLW81",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-105",
+    "name": "Grass Energy (BLW 105) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "105",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/105.png",
+      "large": "https://images.pokemontcg.io/bw1/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Grass-Energy-V3-BLW105",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-106",
+    "name": "Fire Energy (BLW 106) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "106",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/106.png",
+      "large": "https://images.pokemontcg.io/bw1/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Fire-Energy-V3-BLW106",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-107",
+    "name": "Water Energy (BLW 107) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "107",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/107.png",
+      "large": "https://images.pokemontcg.io/bw1/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Water-Energy-V3-BLW107",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.98,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-108",
+    "name": "Lightning Energy (BLW 108) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "108",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/108.png",
+      "large": "https://images.pokemontcg.io/bw1/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Lightning-Energy-V3-BLW108",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.98,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-109",
+    "name": "Psychic Energy (BLW 109) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "109",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/109.png",
+      "large": "https://images.pokemontcg.io/bw1/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Psychic-Energy-V3-BLW109",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-110",
+    "name": "Fighting Energy (BLW 110) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "110",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/110.png",
+      "large": "https://images.pokemontcg.io/bw1/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Fighting-Energy-V3-BLW110",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-111",
+    "name": "Darkness Energy (BLW 111) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "111",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/111.png",
+      "large": "https://images.pokemontcg.io/bw1/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Darkness-Energy-V3-BLW111",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw1-promo-112",
+    "name": "Metal Energy (BLW 112) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "112",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw1/112.png",
+      "large": "https://images.pokemontcg.io/bw1/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-White/Metal-Energy-V3-BLW112",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.99,
         "reverseHoloLow": null
       }
     }

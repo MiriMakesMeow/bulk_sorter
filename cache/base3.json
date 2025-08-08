@@ -3978,5 +3978,78 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "base3-promo-1",
+    "name": "Aerodactyl  (FO 1) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "28",
+    "hp": "60",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Mysterious Fossil",
+    "abilities": [
+      {
+        "name": "Prehistoric Power",
+        "text": "No more Evolution cards can be played. This power stops working while Aerodactyl is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Wing Attack",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "1",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "A ferocious prehistoric Pokémon that goes for the enemy's throat with its serrated saw-like fangs.",
+    "nationalPokedexNumbers": [
+      142
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base3/1.png",
+      "large": "https://images.pokemontcg.io/base3/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fossil/Aerodactyl-V3-FO1",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.98,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

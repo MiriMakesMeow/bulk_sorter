@@ -1770,5 +1770,355 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "hsp-promo-1",
+    "name": "Ho-Oh  (HGSS 01) (Promo)",
+    "rarity": "Promo",
+    "number": "1",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Ho-Oh-HGSSHGSS01",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-2",
+    "name": "Lugia  (HGSS 02) (Promo)",
+    "rarity": "Promo",
+    "number": "2",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Lugia-HGSSHGSS02",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.89,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-3",
+    "name": "Pikachu  (HGSS 03) (Promo)",
+    "rarity": "Promo",
+    "number": "3",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Pikachu-HGSSHGSS03",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-4",
+    "name": "Wobbuffet  (HGSS 04) (Promo)",
+    "rarity": "Promo",
+    "number": "4",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Wobbuffet-HGSSHGSS04",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-5",
+    "name": "Hoothoot  (HGSS 05) (Promo)",
+    "rarity": "Promo",
+    "number": "5",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Hoothoot-HGSSHGSS05",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-6",
+    "name": "Noctowl  (HGSS 06) (Promo)",
+    "rarity": "Promo",
+    "number": "6",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Noctowl-HGSSHGSS06",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-7",
+    "name": "Feraligatr  (HGSS 07) (Promo)",
+    "rarity": "Promo",
+    "number": "7",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Feraligatr-HGSSHGSS07",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-8",
+    "name": "Meganium  (HGSS 08) (Promo)",
+    "rarity": "Promo",
+    "number": "8",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Meganium-HGSSHGSS08",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-9",
+    "name": "Typhlosion  (HGSS 09) (Promo)",
+    "rarity": "Promo",
+    "number": "9",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Typhlosion-HGSS09",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-10",
+    "name": "Latias  (HGSS 10) (Promo)",
+    "rarity": "Promo",
+    "number": "10",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Latias-HGSSHGSS10",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-11",
+    "name": "Latios  (HGSS 11) (Promo)",
+    "rarity": "Promo",
+    "number": "11",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Latios-HGSSHGSS11",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.76,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-12",
+    "name": "Cleffa  (HGSS 12) (Promo)",
+    "rarity": "Promo",
+    "number": "12",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Cleffa-HGSS12",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 29.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-13",
+    "name": "Smoochum  (HGSS 13) (Promo)",
+    "rarity": "Promo",
+    "number": "13",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Smoochum-HGSSHGSS13",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.88,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-14",
+    "name": "Lapras  (HGSS 14) (Promo)",
+    "rarity": "Promo",
+    "number": "14",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Lapras-HGSSHGSS14",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-15",
+    "name": "Shuckle  (HGSS 15) (Promo)",
+    "rarity": "Promo",
+    "number": "15",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Shuckle-HGSSHGSS15",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-16",
+    "name": "Plusle  (HGSS 16) (Promo)",
+    "rarity": "Promo",
+    "number": "16",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Plusle-HGSSHGSS16",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 18.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-17",
+    "name": "Minun  (HGSS 17) (Promo)",
+    "rarity": "Promo",
+    "number": "17",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Minun-HGSSHGSS17",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 19.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-18",
+    "name": "Tropical Tidal Wave (HGSS 18) (Promo)",
+    "rarity": "Promo",
+    "number": "18",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Tropical-Tidal-Wave-HGSSHGSS18",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 150.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-19",
+    "name": "Raikou  (HGSS 19) (Promo)",
+    "rarity": "Promo",
+    "number": "19",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Raikou-HGSSHGSS19",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-20",
+    "name": "Entei  (HGSS 20) (Promo)",
+    "rarity": "Promo",
+    "number": "20",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Entei-HGSSHGSS20",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.59,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-21",
+    "name": "Suicune  (HGSS 21) (Promo)",
+    "rarity": "Promo",
+    "number": "21",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Suicune-HGSSHGSS21",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-22",
+    "name": "Porygon  (HGSS 22) (Promo)",
+    "rarity": "Promo",
+    "number": "22",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Porygon-HGSSHGSS22",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.35,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-23",
+    "name": "Porygon2  (HGSS 23) (Promo)",
+    "rarity": "Promo",
+    "number": "23",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Porygon2-HGSSHGSS23",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-24",
+    "name": "Hitmonchan  (HGSS 24) (Promo)",
+    "rarity": "Promo",
+    "number": "24",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Hitmonchan-HGSSHGSS24",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.94,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hsp-promo-25",
+    "name": "Hitmonlee  (HGSS 25) (Promo)",
+    "rarity": "Promo",
+    "number": "25",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/HGSS-Black-Star-Promos/Hitmonlee-HGSSHGSS25",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.5,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

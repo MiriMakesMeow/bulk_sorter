@@ -56,6 +56,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/1.png",
       "large": "https://images.pokemontcg.io/ecard2/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Ampharos-V2-AQ1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -114,6 +122,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/2.png",
       "large": "https://images.pokemontcg.io/ecard2/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Arcanine-V2-AQ2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": 4.5
+      }
     }
   },
   {
@@ -165,6 +181,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/3.png",
       "large": "https://images.pokemontcg.io/ecard2/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Ariados-V2-AQ3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": 1.06
+      }
     }
   },
   {
@@ -221,6 +245,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/4.png",
       "large": "https://images.pokemontcg.io/ecard2/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Azumarill-V2-AQ4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -284,6 +316,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/5.png",
       "large": "https://images.pokemontcg.io/ecard2/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Bellossom-V2-AQ5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -341,6 +381,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/6.png",
       "large": "https://images.pokemontcg.io/ecard2/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Blissey-V2-AQ6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -406,6 +454,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/7.png",
       "large": "https://images.pokemontcg.io/ecard2/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Donphan-AQ7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -461,6 +517,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/8.png",
       "large": "https://images.pokemontcg.io/ecard2/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Electrode-V2-AQ8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": 1.89
+      }
     }
   },
   {
@@ -507,6 +571,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/9.png",
       "large": "https://images.pokemontcg.io/ecard2/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Elekid-AQ9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -562,6 +634,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/10.png",
       "large": "https://images.pokemontcg.io/ecard2/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Entei-V2-AQ10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -614,6 +694,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/11.png",
       "large": "https://images.pokemontcg.io/ecard2/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Espeon-V2-AQ11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.9,
+        "reverseHoloLow": 9.9
+      }
     }
   },
   {
@@ -670,6 +758,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/12.png",
       "large": "https://images.pokemontcg.io/ecard2/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Exeggutor-V2-AQ12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.6,
+        "reverseHoloLow": 1.86
+      }
     }
   },
   {
@@ -728,6 +824,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/13.png",
       "large": "https://images.pokemontcg.io/ecard2/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Exeggutor-V3-AQ13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 1.8
+      }
     }
   },
   {
@@ -786,6 +890,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/14.png",
       "large": "https://images.pokemontcg.io/ecard2/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Houndoom-V2-AQ14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 10.0
+      }
     }
   },
   {
@@ -851,6 +963,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/15.png",
       "large": "https://images.pokemontcg.io/ecard2/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Houndoom-V3-AQ15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.94,
+        "reverseHoloLow": 5.99
+      }
     }
   },
   {
@@ -907,6 +1027,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/16.png",
       "large": "https://images.pokemontcg.io/ecard2/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Hypno-V2-AQ16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -963,6 +1091,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/17.png",
       "large": "https://images.pokemontcg.io/ecard2/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Jumpluff-V2-AQ17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -1022,6 +1158,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/18.png",
       "large": "https://images.pokemontcg.io/ecard2/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Jynx-AQ18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -1081,6 +1225,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/19.png",
       "large": "https://images.pokemontcg.io/ecard2/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Kingdra-V2-AQ19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.48,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -1139,6 +1291,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/20.png",
       "large": "https://images.pokemontcg.io/ecard2/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Lanturn-V3-AQ20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.89
+      }
     }
   },
   {
@@ -1194,6 +1354,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/21.png",
       "large": "https://images.pokemontcg.io/ecard2/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Lanturn-V2-AQ21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.75,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1260,6 +1428,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/22.png",
       "large": "https://images.pokemontcg.io/ecard2/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Magneton-V2-AQ22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -1315,6 +1491,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/23.png",
       "large": "https://images.pokemontcg.io/ecard2/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Muk-V2-AQ23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -1380,6 +1564,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/24.png",
       "large": "https://images.pokemontcg.io/ecard2/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Nidoking-V2-AQ24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1438,6 +1630,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/25.png",
       "large": "https://images.pokemontcg.io/ecard2/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Ninetales-V2-AQ25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": 3.99
+      }
     }
   },
   {
@@ -1495,6 +1695,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/26.png",
       "large": "https://images.pokemontcg.io/ecard2/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Octillery-V2-AQ26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.8
+      }
     }
   },
   {
@@ -1552,6 +1760,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/27.png",
       "large": "https://images.pokemontcg.io/ecard2/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Parasect-AQ27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -1610,6 +1826,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/28.png",
       "large": "https://images.pokemontcg.io/ecard2/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Porygon2-AQ28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.6,
+        "reverseHoloLow": 1.2
+      }
     }
   },
   {
@@ -1669,6 +1893,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/29.png",
       "large": "https://images.pokemontcg.io/ecard2/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Primeape-AQ29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.59,
+        "reverseHoloLow": 18.0
+      }
     }
   },
   {
@@ -1729,6 +1961,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/30.png",
       "large": "https://images.pokemontcg.io/ecard2/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Quagsire-AQ30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.8,
+        "reverseHoloLow": 1.8
+      }
     }
   },
   {
@@ -1784,6 +2024,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/31.png",
       "large": "https://images.pokemontcg.io/ecard2/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Rapidash-AQ31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1851,6 +2099,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/32.png",
       "large": "https://images.pokemontcg.io/ecard2/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Scizor-V2-AQ32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -1907,6 +2163,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/33.png",
       "large": "https://images.pokemontcg.io/ecard2/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Slowbro-AQ33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 4.0
+      }
     }
   },
   {
@@ -1965,6 +2229,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/34.png",
       "large": "https://images.pokemontcg.io/ecard2/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Slowking-V2-AQ34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2034,6 +2306,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/35.png",
       "large": "https://images.pokemontcg.io/ecard2/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Steelix-V2-AQ35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2090,6 +2370,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/36.png",
       "large": "https://images.pokemontcg.io/ecard2/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Sudowoodo-V2-AQ36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.98,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -2145,6 +2433,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/37.png",
       "large": "https://images.pokemontcg.io/ecard2/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Suicune-V2-AQ37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": 3.99
+      }
     }
   },
   {
@@ -2196,6 +2492,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/38.png",
       "large": "https://images.pokemontcg.io/ecard2/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Tentacruel-V2-AQ38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -2259,6 +2563,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/39.png",
       "large": "https://images.pokemontcg.io/ecard2/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Togetic-V2-AQ39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2338,6 +2650,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/40.png",
       "large": "https://images.pokemontcg.io/ecard2/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Tyranitar-V2-AQ40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": 8.9
+      }
     }
   },
   {
@@ -2400,6 +2720,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/41.png",
       "large": "https://images.pokemontcg.io/ecard2/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Umbreon-V2-AQ41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": 26.99
+      }
     }
   },
   {
@@ -2457,6 +2785,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/42.png",
       "large": "https://images.pokemontcg.io/ecard2/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Victreebel-V2-AQ42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2516,6 +2852,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/43.png",
       "large": "https://images.pokemontcg.io/ecard2/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Vileplume-V2-AQ43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2588,6 +2932,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/44.png",
       "large": "https://images.pokemontcg.io/ecard2/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Zapdos-V2-AQ44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 3.49
+      }
     }
   },
   {
@@ -2638,6 +2990,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/45.png",
       "large": "https://images.pokemontcg.io/ecard2/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Bellsprout-AQ45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 2.49
+      }
     }
   },
   {
@@ -2701,6 +3061,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/46.png",
       "large": "https://images.pokemontcg.io/ecard2/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Dodrio-AQ46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.84,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -2762,6 +3130,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/47.png",
       "large": "https://images.pokemontcg.io/ecard2/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Flaaffy-AQ47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2817,6 +3193,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/48.png",
       "large": "https://images.pokemontcg.io/ecard2/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Furret-AQ48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 3.45
+      }
     }
   },
   {
@@ -2877,6 +3261,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/49.png",
       "large": "https://images.pokemontcg.io/ecard2/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Gloom-AQ49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2986,6 +3378,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/51.png",
       "large": "https://images.pokemontcg.io/ecard2/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Growlithe-AQ51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 2.7
+      }
     }
   },
   {
@@ -3051,6 +3451,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/52.png",
       "large": "https://images.pokemontcg.io/ecard2/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Magnemite-AQ52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3110,6 +3518,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/53.png",
       "large": "https://images.pokemontcg.io/ecard2/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Marill-AQ53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.65,
+        "reverseHoloLow": 1.89
+      }
     }
   },
   {
@@ -3175,6 +3591,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/54.png",
       "large": "https://images.pokemontcg.io/ecard2/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Marowak-AQ54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 2.45
+      }
     }
   },
   {
@@ -3236,6 +3660,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/55.png",
       "large": "https://images.pokemontcg.io/ecard2/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Nidorino-AQ55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 1.59
+      }
     }
   },
   {
@@ -3288,6 +3720,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/56.png",
       "large": "https://images.pokemontcg.io/ecard2/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Pupitar-AQ56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -3348,6 +3788,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/57.png",
       "large": "https://images.pokemontcg.io/ecard2/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Scyther-AQ57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.8,
+        "reverseHoloLow": 4.89
+      }
     }
   },
   {
@@ -3409,6 +3857,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/58.png",
       "large": "https://images.pokemontcg.io/ecard2/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Seadra-AQ58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3468,6 +3924,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/59.png",
       "large": "https://images.pokemontcg.io/ecard2/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Seaking-AQ59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.8
+      }
     }
   },
   {
@@ -3531,6 +3995,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/60.png",
       "large": "https://images.pokemontcg.io/ecard2/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Skiploom-AQ60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -3577,6 +4049,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/61.png",
       "large": "https://images.pokemontcg.io/ecard2/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Smoochum-AQ61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3636,6 +4116,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/62.png",
       "large": "https://images.pokemontcg.io/ecard2/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Spinarak-AQ62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -3684,6 +4172,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/63.png",
       "large": "https://images.pokemontcg.io/ecard2/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Tyrogue-AQ63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 3.99
+      }
     }
   },
   {
@@ -3743,6 +4239,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/64.png",
       "large": "https://images.pokemontcg.io/ecard2/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Voltorb-AQ64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -3803,6 +4307,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/65.png",
       "large": "https://images.pokemontcg.io/ecard2/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Weepinbell-AQ65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -3861,6 +4373,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/66.png",
       "large": "https://images.pokemontcg.io/ecard2/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Wooper-AQ66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 8.99
+      }
     }
   },
   {
@@ -3920,6 +4440,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/67.png",
       "large": "https://images.pokemontcg.io/ecard2/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Aipom-AQ67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.48
+      }
     }
   },
   {
@@ -3978,6 +4506,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/68.png",
       "large": "https://images.pokemontcg.io/ecard2/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Bellsprout-AQ68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -4039,6 +4575,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/69.png",
       "large": "https://images.pokemontcg.io/ecard2/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Chansey-AQ69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -4098,6 +4642,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/70.png",
       "large": "https://images.pokemontcg.io/ecard2/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Chinchou-AQ70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.45
+      }
     }
   },
   {
@@ -4157,6 +4709,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/71.png",
       "large": "https://images.pokemontcg.io/ecard2/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Chinchou-AQ71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -4221,6 +4781,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/72.png",
       "large": "https://images.pokemontcg.io/ecard2/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Cubone-AQ72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 9.98
+      }
     }
   },
   {
@@ -4286,6 +4854,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/73.png",
       "large": "https://images.pokemontcg.io/ecard2/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Doduo-AQ73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -4410,6 +4986,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/75.png",
       "large": "https://images.pokemontcg.io/ecard2/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Eevee-AQ75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.75,
+        "reverseHoloLow": 7.0
+      }
     }
   },
   {
@@ -4468,6 +5052,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/76.png",
       "large": "https://images.pokemontcg.io/ecard2/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Exeggcute-AQ76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -4526,6 +5118,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/77.png",
       "large": "https://images.pokemontcg.io/ecard2/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Exeggcute-AQ77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.25
+      }
     }
   },
   {
@@ -4575,6 +5175,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/78.png",
       "large": "https://images.pokemontcg.io/ecard2/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Goldeen-AQ78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.95
+      }
     }
   },
   {
@@ -4624,6 +5232,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/79.png",
       "large": "https://images.pokemontcg.io/ecard2/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Grimer-AQ79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4682,6 +5298,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/80.png",
       "large": "https://images.pokemontcg.io/ecard2/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Growlithe-AQ80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 2.49
+      }
     }
   },
   {
@@ -4741,6 +5365,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/81.png",
       "large": "https://images.pokemontcg.io/ecard2/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Hitmonchan-AQ81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -4799,6 +5431,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/82.png",
       "large": "https://images.pokemontcg.io/ecard2/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Hitmontop-AQ82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -4861,6 +5501,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/83.png",
       "large": "https://images.pokemontcg.io/ecard2/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Hoppip-AQ83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -4910,6 +5558,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/84.png",
       "large": "https://images.pokemontcg.io/ecard2/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Horsea-AQ84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -4960,6 +5616,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/85.png",
       "large": "https://images.pokemontcg.io/ecard2/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Horsea-AQ85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.95
+      }
     }
   },
   {
@@ -5019,6 +5683,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/86.png",
       "large": "https://images.pokemontcg.io/ecard2/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Houndour-AQ86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -5075,6 +5747,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/87.png",
       "large": "https://images.pokemontcg.io/ecard2/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Houndour-AQ87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -5134,6 +5814,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/88.png",
       "large": "https://images.pokemontcg.io/ecard2/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Kangaskhan-AQ88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.67
+      }
     }
   },
   {
@@ -5192,6 +5880,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/89.png",
       "large": "https://images.pokemontcg.io/ecard2/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Larvitar-AQ89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.2
+      }
     }
   },
   {
@@ -5254,6 +5950,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/90.png",
       "large": "https://images.pokemontcg.io/ecard2/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Lickitung-AQ90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -5311,6 +6015,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/91.png",
       "large": "https://images.pokemontcg.io/ecard2/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Magnemite-AQ91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.85
+      }
     }
   },
   {
@@ -5370,6 +6082,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/92.png",
       "large": "https://images.pokemontcg.io/ecard2/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Mankey-AQ92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -5429,6 +6149,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/93.png",
       "large": "https://images.pokemontcg.io/ecard2/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Mareep-AQ93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -5486,6 +6214,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/94.png",
       "large": "https://images.pokemontcg.io/ecard2/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Miltank-AQ94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -5599,6 +6335,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/96.png",
       "large": "https://images.pokemontcg.io/ecard2/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Nidoran-AQ96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 2.15
+      }
     }
   },
   {
@@ -5658,6 +6402,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/97.png",
       "large": "https://images.pokemontcg.io/ecard2/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Oddish-AQ97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -5709,6 +6461,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/98.png",
       "large": "https://images.pokemontcg.io/ecard2/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Onix-AQ98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -5768,6 +6528,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/99.png",
       "large": "https://images.pokemontcg.io/ecard2/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Paras-AQ99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.14,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -5833,6 +6601,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/100.png",
       "large": "https://images.pokemontcg.io/ecard2/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Phanpy-AQ100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -5891,6 +6667,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/101.png",
       "large": "https://images.pokemontcg.io/ecard2/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Pinsir-AQ101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -5950,6 +6734,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/102.png",
       "large": "https://images.pokemontcg.io/ecard2/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Ponyta-AQ102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.2
+      }
     }
   },
   {
@@ -6067,6 +6859,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/104.png",
       "large": "https://images.pokemontcg.io/ecard2/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Psyduck-AQ104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": 25.0
+      }
     }
   },
   {
@@ -6116,6 +6916,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/105.png",
       "large": "https://images.pokemontcg.io/ecard2/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Remoraid-AQ105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -6181,6 +6989,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/106.png",
       "large": "https://images.pokemontcg.io/ecard2/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Scyther-AQ106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.18,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -6239,6 +7055,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/107.png",
       "large": "https://images.pokemontcg.io/ecard2/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Sentret-AQ107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.65
+      }
     }
   },
   {
@@ -6299,6 +7123,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/108.png",
       "large": "https://images.pokemontcg.io/ecard2/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Slowpoke-AQ108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -6355,6 +7187,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/109.png",
       "large": "https://images.pokemontcg.io/ecard2/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Smeargle-AQ109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -6420,6 +7260,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/110.png",
       "large": "https://images.pokemontcg.io/ecard2/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Sneasel-AQ110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 1.45
+      }
     }
   },
   {
@@ -6469,6 +7317,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/111.png",
       "large": "https://images.pokemontcg.io/ecard2/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Spinarak-AQ111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -6537,6 +7393,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/112.png",
       "large": "https://images.pokemontcg.io/ecard2/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Tangela-AQ112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -6595,6 +7459,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/113.png",
       "large": "https://images.pokemontcg.io/ecard2/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Tentacool-AQ113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.25
+      }
     }
   },
   {
@@ -6653,6 +7525,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/114.png",
       "large": "https://images.pokemontcg.io/ecard2/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Togepi-AQ114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 2.68
+      }
     }
   },
   {
@@ -6702,6 +7582,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/115.png",
       "large": "https://images.pokemontcg.io/ecard2/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Voltorb-AQ115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -6751,6 +7639,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/116.png",
       "large": "https://images.pokemontcg.io/ecard2/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Vulpix-AQ116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.98
+      }
     }
   },
   {
@@ -6810,6 +7706,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/117.png",
       "large": "https://images.pokemontcg.io/ecard2/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Wooper-AQ117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -6832,6 +7736,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/118.png",
       "large": "https://images.pokemontcg.io/ecard2/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Apricorn-Forest-AQ118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 1.09
+      }
     }
   },
   {
@@ -6864,6 +7776,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/119.png",
       "large": "https://images.pokemontcg.io/ecard2/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Darkness-Cube-01-AQ119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -6884,6 +7804,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/120.png",
       "large": "https://images.pokemontcg.io/ecard2/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Energy-Switch-AQ120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 3.99
+      }
     }
   },
   {
@@ -6916,6 +7844,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/121.png",
       "large": "https://images.pokemontcg.io/ecard2/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Fighting-Cube-01-AQ121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -6948,6 +7884,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/122.png",
       "large": "https://images.pokemontcg.io/ecard2/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Fire-Cube-01-AQ122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6970,6 +7914,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/123.png",
       "large": "https://images.pokemontcg.io/ecard2/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Forest-Guardian-AQ123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -7002,6 +7954,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/124.png",
       "large": "https://images.pokemontcg.io/ecard2/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Grass-Cube-01-AQ124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -7024,6 +7984,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/125.png",
       "large": "https://images.pokemontcg.io/ecard2/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Healing-Berry-AQ125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.65
+      }
     }
   },
   {
@@ -7046,6 +8014,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/126.png",
       "large": "https://images.pokemontcg.io/ecard2/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Juggler-AQ126",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -7078,6 +8054,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/127.png",
       "large": "https://images.pokemontcg.io/ecard2/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Lightning-Cube-01-AQ127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -7100,6 +8084,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/128.png",
       "large": "https://images.pokemontcg.io/ecard2/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Memory-Berry-AQ128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -7132,6 +8124,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/129.png",
       "large": "https://images.pokemontcg.io/ecard2/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Metal-Cube-01-AQ129",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.43
+      }
     }
   },
   {
@@ -7154,6 +8154,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/130.png",
       "large": "https://images.pokemontcg.io/ecard2/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Pokemon-Fan-Club-AQ130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -7176,6 +8184,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/131.png",
       "large": "https://images.pokemontcg.io/ecard2/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Pokemon-Park-AQ131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": 2.1
+      }
     }
   },
   {
@@ -7208,6 +8224,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/132.png",
       "large": "https://images.pokemontcg.io/ecard2/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Psychic-Cube-01-AQ132",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -7230,6 +8254,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/133.png",
       "large": "https://images.pokemontcg.io/ecard2/133_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Seer-AQ133",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.14
+      }
     }
   },
   {
@@ -7248,6 +8280,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/134.png",
       "large": "https://images.pokemontcg.io/ecard2/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Super-Energy-Removal-2-AQ134",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -7270,6 +8310,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/135.png",
       "large": "https://images.pokemontcg.io/ecard2/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Time-Shard-AQ135",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -7292,6 +8340,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/136.png",
       "large": "https://images.pokemontcg.io/ecard2/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Town-Volunteers-AQ136",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.79
+      }
     }
   },
   {
@@ -7314,6 +8370,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/137.png",
       "large": "https://images.pokemontcg.io/ecard2/137_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Traveling-Salesman-AQ137",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -7336,6 +8400,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/138.png",
       "large": "https://images.pokemontcg.io/ecard2/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Undersea-Ruins-AQ138",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -7358,6 +8430,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/139.png",
       "large": "https://images.pokemontcg.io/ecard2/139_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Power-Plant-AQ139",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.48,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -7390,6 +8470,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/140.png",
       "large": "https://images.pokemontcg.io/ecard2/140_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Water-Cube-01-AQ140",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -7409,6 +8497,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/141.png",
       "large": "https://images.pokemontcg.io/ecard2/141_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Weakness-Guard-AQ141",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -7430,6 +8526,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/142.png",
       "large": "https://images.pokemontcg.io/ecard2/142_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Darkness-Energy-AQ142",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.59
+      }
     }
   },
   {
@@ -7451,6 +8555,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/143.png",
       "large": "https://images.pokemontcg.io/ecard2/143_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Metal-Energy-AQ143",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -7473,6 +8585,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/144.png",
       "large": "https://images.pokemontcg.io/ecard2/144_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Rainbow-Energy-AQ144",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.25,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -7494,6 +8614,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/145.png",
       "large": "https://images.pokemontcg.io/ecard2/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Boost-Energy-AQ145",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -7515,6 +8643,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/146.png",
       "large": "https://images.pokemontcg.io/ecard2/146_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Crystal-Energy-AQ146",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.13,
+        "reverseHoloLow": 0.95
+      }
     }
   },
   {
@@ -7537,6 +8673,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/147.png",
       "large": "https://images.pokemontcg.io/ecard2/147_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Warp-Energy-AQ147",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.31,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -7607,6 +8751,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/148.png",
       "large": "https://images.pokemontcg.io/ecard2/148_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Kingdra-V3-AQ148",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 58.98,
+        "reverseHoloLow": 138.0
+      }
     }
   },
   {
@@ -7675,6 +8827,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/149.png",
       "large": "https://images.pokemontcg.io/ecard2/149_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Lugia-AQ149",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 337.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7745,6 +8905,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ecard2/150.png",
       "large": "https://images.pokemontcg.io/ecard2/150_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Aquapolis/Nidoking-V3-AQ150",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 65.0,
+        "reverseHoloLow": 170.0
+      }
     }
   },
   {

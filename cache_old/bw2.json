@@ -64,6 +64,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/1.png",
       "large": "https://images.pokemontcg.io/bw2/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Pansage-EPO1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -132,6 +140,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/2.png",
       "large": "https://images.pokemontcg.io/bw2/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Simisage-EPO2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -192,6 +208,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/3.png",
       "large": "https://images.pokemontcg.io/bw2/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Sewaddle-EPO3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -253,6 +277,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/4.png",
       "large": "https://images.pokemontcg.io/bw2/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Sewaddle-EPO4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -316,6 +348,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/5.png",
       "large": "https://images.pokemontcg.io/bw2/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Swadloon-EPO5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -379,6 +419,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/6.png",
       "large": "https://images.pokemontcg.io/bw2/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Swadloon-EPO6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -438,6 +486,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/7.png",
       "large": "https://images.pokemontcg.io/bw2/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Leavanny-EPO7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.48
+      }
     }
   },
   {
@@ -498,6 +554,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/8.png",
       "large": "https://images.pokemontcg.io/bw2/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Leavanny-EPO8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -555,6 +619,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/9.png",
       "large": "https://images.pokemontcg.io/bw2/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Cottonee-EPO9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -612,6 +684,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/10.png",
       "large": "https://images.pokemontcg.io/bw2/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Cottonee-EPO10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -672,6 +752,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/11.png",
       "large": "https://images.pokemontcg.io/bw2/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Whimsicott-EPO11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -737,6 +825,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/12.png",
       "large": "https://images.pokemontcg.io/bw2/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Whimsicott-EPO12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.11,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -804,6 +900,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/13.png",
       "large": "https://images.pokemontcg.io/bw2/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Petilil-EPO13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -870,6 +974,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/14.png",
       "large": "https://images.pokemontcg.io/bw2/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Lilligant-EPO14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -937,6 +1049,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/15.png",
       "large": "https://images.pokemontcg.io/bw2/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Deerling-EPO15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1004,6 +1124,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/16.png",
       "large": "https://images.pokemontcg.io/bw2/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Sawsbuck-EPO16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1070,6 +1198,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/17.png",
       "large": "https://images.pokemontcg.io/bw2/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Virizion-EPO17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1131,6 +1267,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/18.png",
       "large": "https://images.pokemontcg.io/bw2/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Pansear-EPO18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1192,6 +1336,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/19.png",
       "large": "https://images.pokemontcg.io/bw2/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Simisear-EPO19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1255,6 +1407,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/20.png",
       "large": "https://images.pokemontcg.io/bw2/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Darumaka-EPO20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1319,6 +1479,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/21.png",
       "large": "https://images.pokemontcg.io/bw2/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Darmanitan-EPO21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1380,6 +1548,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/22.png",
       "large": "https://images.pokemontcg.io/bw2/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Panpour-EPO22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1441,6 +1617,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/23.png",
       "large": "https://images.pokemontcg.io/bw2/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Simipour-EPO23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1500,6 +1684,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/24.png",
       "large": "https://images.pokemontcg.io/bw2/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Basculin-EPO24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1558,6 +1750,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/25.png",
       "large": "https://images.pokemontcg.io/bw2/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Basculin-EPO25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1625,6 +1825,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/26.png",
       "large": "https://images.pokemontcg.io/bw2/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Ducklett-EPO26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1692,6 +1900,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/27.png",
       "large": "https://images.pokemontcg.io/bw2/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Swanna-EPO27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -1754,6 +1970,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/28.png",
       "large": "https://images.pokemontcg.io/bw2/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Cubchoo-EPO28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1807,6 +2031,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/29.png",
       "large": "https://images.pokemontcg.io/bw2/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Cubchoo-EPO29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1872,6 +2104,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/30.png",
       "large": "https://images.pokemontcg.io/bw2/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Beartic-EPO30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1933,6 +2173,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/31.png",
       "large": "https://images.pokemontcg.io/bw2/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Beartic-EPO31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -1987,6 +2235,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/32.png",
       "large": "https://images.pokemontcg.io/bw2/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Emolga-EPO32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -2038,6 +2294,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/33.png",
       "large": "https://images.pokemontcg.io/bw2/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Joltik-EPO33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -2093,6 +2357,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/34.png",
       "large": "https://images.pokemontcg.io/bw2/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Galvantula-EPO34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2152,6 +2424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/35.png",
       "large": "https://images.pokemontcg.io/bw2/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Thundurus-EPO35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2204,6 +2484,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/36.png",
       "large": "https://images.pokemontcg.io/bw2/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Woobat-EPO36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2269,6 +2557,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/37.png",
       "large": "https://images.pokemontcg.io/bw2/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Swoobat-EPO37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2331,6 +2627,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/38.png",
       "large": "https://images.pokemontcg.io/bw2/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Venipede-EPO38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -2396,6 +2700,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/39.png",
       "large": "https://images.pokemontcg.io/bw2/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Whirlipede-EPO39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2458,6 +2770,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/40.png",
       "large": "https://images.pokemontcg.io/bw2/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Scolipede-V1-EPO40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2523,6 +2843,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/41.png",
       "large": "https://images.pokemontcg.io/bw2/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Sigilyph-EPO41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -2588,6 +2916,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/42.png",
       "large": "https://images.pokemontcg.io/bw2/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Sigilyph-EPO42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2649,6 +2985,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/43.png",
       "large": "https://images.pokemontcg.io/bw2/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Gothita-EPO43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2701,6 +3045,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/44.png",
       "large": "https://images.pokemontcg.io/bw2/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Gothita-EPO44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -2763,6 +3115,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/45.png",
       "large": "https://images.pokemontcg.io/bw2/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Gothorita-EPO45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2826,6 +3186,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/46.png",
       "large": "https://images.pokemontcg.io/bw2/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Gothorita-EPO46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -2885,6 +3253,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/47.png",
       "large": "https://images.pokemontcg.io/bw2/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Gothitelle-EPO47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2945,6 +3321,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/48.png",
       "large": "https://images.pokemontcg.io/bw2/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Gothitelle-EPO48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3008,6 +3392,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/49.png",
       "large": "https://images.pokemontcg.io/bw2/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Roggenrola-EPO49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -3070,6 +3462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/50.png",
       "large": "https://images.pokemontcg.io/bw2/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Roggenrola-EPO50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -3137,6 +3537,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/51.png",
       "large": "https://images.pokemontcg.io/bw2/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Boldore-EPO51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3203,6 +3611,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/52.png",
       "large": "https://images.pokemontcg.io/bw2/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Boldore-EPO52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3267,6 +3683,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/53.png",
       "large": "https://images.pokemontcg.io/bw2/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Gigalith-EPO53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3334,6 +3758,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/54.png",
       "large": "https://images.pokemontcg.io/bw2/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Drilbur-EPO54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3393,6 +3825,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/55.png",
       "large": "https://images.pokemontcg.io/bw2/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Drilbur-EPO55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3460,6 +3900,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/56.png",
       "large": "https://images.pokemontcg.io/bw2/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Excadrill-EPO56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -3528,6 +3976,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/57.png",
       "large": "https://images.pokemontcg.io/bw2/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Excadrill-EPO57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3578,6 +4034,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/58.png",
       "large": "https://images.pokemontcg.io/bw2/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Throh-EPO58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3627,6 +4091,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/59.png",
       "large": "https://images.pokemontcg.io/bw2/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Sawk-EPO59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3680,6 +4152,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/60.png",
       "large": "https://images.pokemontcg.io/bw2/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Sandile-EPO60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3744,6 +4224,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/61.png",
       "large": "https://images.pokemontcg.io/bw2/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Krokorok-EPO61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -3810,6 +4298,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/62.png",
       "large": "https://images.pokemontcg.io/bw2/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Krookodile-EPO62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3873,6 +4369,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/63.png",
       "large": "https://images.pokemontcg.io/bw2/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Terrakion-EPO63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.23
+      }
     }
   },
   {
@@ -3931,6 +4435,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/64.png",
       "large": "https://images.pokemontcg.io/bw2/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Purrloin-EPO64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3997,6 +4509,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/65.png",
       "large": "https://images.pokemontcg.io/bw2/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Liepard-EPO65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4064,6 +4584,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/66.png",
       "large": "https://images.pokemontcg.io/bw2/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Zorua-EPO66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4131,6 +4659,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/67.png",
       "large": "https://images.pokemontcg.io/bw2/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Zoroark-EPO67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4198,6 +4734,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/68.png",
       "large": "https://images.pokemontcg.io/bw2/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Vullaby-EPO68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4263,6 +4807,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/69.png",
       "large": "https://images.pokemontcg.io/bw2/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Mandibuzz-EPO69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4322,6 +4874,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/70.png",
       "large": "https://images.pokemontcg.io/bw2/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Ferroseed-EPO70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -4381,6 +4941,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/71.png",
       "large": "https://images.pokemontcg.io/bw2/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Ferroseed-EPO71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4448,6 +5016,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/72.png",
       "large": "https://images.pokemontcg.io/bw2/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Ferrothorn-EPO72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4515,6 +5091,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/73.png",
       "large": "https://images.pokemontcg.io/bw2/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Ferrothorn-EPO73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4583,6 +5167,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/74.png",
       "large": "https://images.pokemontcg.io/bw2/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Klink-EPO74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4652,6 +5244,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/75.png",
       "large": "https://images.pokemontcg.io/bw2/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Klang-EPO75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4721,6 +5321,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/76.png",
       "large": "https://images.pokemontcg.io/bw2/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Klinklang-EPO76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4788,6 +5396,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/77.png",
       "large": "https://images.pokemontcg.io/bw2/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Cobalion-EPO77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4839,6 +5455,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/78.png",
       "large": "https://images.pokemontcg.io/bw2/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Patrat-EPO78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -4898,6 +5522,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/79.png",
       "large": "https://images.pokemontcg.io/bw2/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Watchog-EPO79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4956,6 +5588,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/80.png",
       "large": "https://images.pokemontcg.io/bw2/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Pidove-EPO80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5025,6 +5665,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/81.png",
       "large": "https://images.pokemontcg.io/bw2/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Tranquill-EPO81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5087,6 +5735,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/82.png",
       "large": "https://images.pokemontcg.io/bw2/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Unfezant-V1-EPO82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -5147,6 +5803,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/83.png",
       "large": "https://images.pokemontcg.io/bw2/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Audino-EPO83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5198,6 +5862,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/84.png",
       "large": "https://images.pokemontcg.io/bw2/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Minccino-EPO84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5257,6 +5929,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/85.png",
       "large": "https://images.pokemontcg.io/bw2/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Cinccino-EPO85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5324,6 +6004,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/86.png",
       "large": "https://images.pokemontcg.io/bw2/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Rufflet-EPO86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -5391,6 +6079,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/87.png",
       "large": "https://images.pokemontcg.io/bw2/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Rufflet-EPO87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5458,6 +6154,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/88.png",
       "large": "https://images.pokemontcg.io/bw2/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Braviary-EPO88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5523,6 +6227,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/89.png",
       "large": "https://images.pokemontcg.io/bw2/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Tornadus-EPO89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -5546,6 +6258,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/90.png",
       "large": "https://images.pokemontcg.io/bw2/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Bianca-EPO90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5569,6 +6289,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/91.png",
       "large": "https://images.pokemontcg.io/bw2/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Cheren-EPO91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5593,6 +6321,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/92.png",
       "large": "https://images.pokemontcg.io/bw2/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Crushing-Hammer-EPO92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5617,6 +6353,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/93.png",
       "large": "https://images.pokemontcg.io/bw2/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Great-Ball-EPO93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5640,6 +6384,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/94.png",
       "large": "https://images.pokemontcg.io/bw2/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Max-Potion-EPO94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -5664,6 +6416,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/95.png",
       "large": "https://images.pokemontcg.io/bw2/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Pokemon-Catcher-V1-EPO95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5687,6 +6447,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/96.png",
       "large": "https://images.pokemontcg.io/bw2/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Recycle-EPO96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -5746,6 +6514,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/97.png",
       "large": "https://images.pokemontcg.io/bw2/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Thundurus-EPO97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -5811,6 +6587,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw2/98.png",
       "large": "https://images.pokemontcg.io/bw2/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Emerging-Powers/Tornadus-EPO98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.99
+      }
     }
   }
 ]

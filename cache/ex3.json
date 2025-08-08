@@ -6575,5 +6575,327 @@
         "reverseHoloLow": 119.99
       }
     }
+  },
+  {
+    "id": "ex3-promo-15",
+    "name": "Flygon  (DR 15) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "100",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Vibrava",
+    "abilities": [
+      {
+        "name": "Sand Guard",
+        "text": "Whenever Flygon would be damaged by your opponent's attack (after applying Weakness and Resistance), flip a coin. If heads, reduce that damage by 20.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Air Slash",
+        "cost": [
+          "Grass",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "Flip a coin. If tails, discard an Energy card attached to Flygon."
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "15",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      330
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex3/15.png",
+      "large": "https://images.pokemontcg.io/ex3/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Flygon-V2-DR15",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "ex3-promo-19",
+    "name": "Salamence  (DR 19) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "100",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Shelgon",
+    "abilities": [
+      {
+        "name": "Intimidating Fang",
+        "text": "As long as Salamence is your Active Pokémon, any damage done to your Pokémon by an opponent's attack is reduced by 10 (before applying Weakness and Resistance).",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Dragon Flame",
+        "cost": [
+          "Fire",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40+",
+        "text": "You may discard an Energy card attached to Salamence. If you do, this attack does 40 damage plus 20 more damage."
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "19",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      373
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex3/19.png",
+      "large": "https://images.pokemontcg.io/ex3/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Salamence-V2-DR19",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "ex3-promo-98",
+    "name": "Charmander  (DR 98) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [
+      "Charmeleon"
+    ],
+    "attacks": [
+      {
+        "name": "Flare",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Rage",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "Does 10 damage plus 10 more damage for each damage counter on Charmander."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "98",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      4
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex3/98.png",
+      "large": "https://images.pokemontcg.io/ex3/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Charmander-V2-DR98",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 60.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "ex3-promo-99",
+    "name": "Charmeleon  (DR 99) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Charmander",
+    "evolvesTo": [
+      "Charizard"
+    ],
+    "attacks": [
+      {
+        "name": "Smokescreen",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      {
+        "name": "Fireworks",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": "Flip a coin. If tails, discard a Fire Energy card attached to Charmeleon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "99",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      5
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex3/99.png",
+      "large": "https://images.pokemontcg.io/ex3/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Charmeleon-V2-DR99",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 60.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "ex3-promo-100",
+    "name": "Charizard  (DR 100) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Charmeleon",
+    "attacks": [
+      {
+        "name": "Collect Fire",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If heads, search your discard pile for 2 Fire Energy cards and attach them to Charizard (1 if there is only 1)."
+      },
+      {
+        "name": "Flame Pillar",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60",
+        "text": "You may discard a Fire Energy card attached to Charizard. If you do, choose 1 of your opponent's Benched Pokémon and do 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "100",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      6
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex3/100.png",
+      "large": "https://images.pokemontcg.io/ex3/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Charizard-V2-DR100",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 400.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

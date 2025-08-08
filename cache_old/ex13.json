@@ -62,6 +62,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/1.png",
       "large": "https://images.pokemontcg.io/ex13/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Armaldo-Delta-Species-HP1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -126,6 +134,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/2.png",
       "large": "https://images.pokemontcg.io/ex13/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Cradily-Delta-Species-HP2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 4.0
+      }
     }
   },
   {
@@ -181,6 +197,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/3.png",
       "large": "https://images.pokemontcg.io/ex13/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Deoxys-Delta-Species-HP3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.98,
+        "reverseHoloLow": 3.98
+      }
     }
   },
   {
@@ -236,6 +260,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/4.png",
       "large": "https://images.pokemontcg.io/ex13/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Deoxys-Delta-Species-HP4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.49,
+        "reverseHoloLow": 4.5
+      }
     }
   },
   {
@@ -290,6 +322,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/5.png",
       "large": "https://images.pokemontcg.io/ex13/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Deoxys-Delta-Species-HP5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -343,6 +383,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/6.png",
       "large": "https://images.pokemontcg.io/ex13/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Deoxys-Delta-Species-HP6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.9,
+        "reverseHoloLow": 8.0
+      }
     }
   },
   {
@@ -414,6 +462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/7.png",
       "large": "https://images.pokemontcg.io/ex13/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Flygon-Delta-Species-HP7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 3.9
+      }
     }
   },
   {
@@ -487,6 +543,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/8.png",
       "large": "https://images.pokemontcg.io/ex13/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Gyarados-Delta-Species-HP8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": 22.0
+      }
     }
   },
   {
@@ -546,6 +610,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/9.png",
       "large": "https://images.pokemontcg.io/ex13/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Kabutops-Delta-Species-HP9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.49,
+        "reverseHoloLow": 4.9
+      }
     }
   },
   {
@@ -618,6 +690,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/10.png",
       "large": "https://images.pokemontcg.io/ex13/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Kingdra-Delta-Species-HP10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": 4.5
+      }
     }
   },
   {
@@ -692,6 +772,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/11.png",
       "large": "https://images.pokemontcg.io/ex13/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Latias-Delta-Species-HP11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.49,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -766,6 +854,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/12.png",
       "large": "https://images.pokemontcg.io/ex13/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Latios-Delta-Species-HP12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": 4.99
+      }
     }
   },
   {
@@ -826,6 +922,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/13.png",
       "large": "https://images.pokemontcg.io/ex13/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Omastar-Delta-Species-HP13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -892,6 +996,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/14.png",
       "large": "https://images.pokemontcg.io/ex13/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Pidgeot-Delta-Species-HP14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -946,6 +1058,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/15.png",
       "large": "https://images.pokemontcg.io/ex13/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Raichu-Delta-Species-HP15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": 6.0
+      }
     }
   },
   {
@@ -1026,6 +1146,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/16.png",
       "large": "https://images.pokemontcg.io/ex13/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Rayquaza-Delta-Species-HP16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": 12.95
+      }
     }
   },
   {
@@ -1085,6 +1213,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/17.png",
       "large": "https://images.pokemontcg.io/ex13/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Vileplume-Delta-Species-HP17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1147,6 +1283,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/18.png",
       "large": "https://images.pokemontcg.io/ex13/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Absol-HP18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 4.0
+      }
     }
   },
   {
@@ -1208,6 +1352,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/19.png",
       "large": "https://images.pokemontcg.io/ex13/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Bellossom-Delta-Species-HP19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -1267,6 +1419,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/20.png",
       "large": "https://images.pokemontcg.io/ex13/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Blaziken-HP20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 4.25
+      }
     }
   },
   {
@@ -1335,6 +1495,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/21.png",
       "large": "https://images.pokemontcg.io/ex13/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Latias-Delta-Species-HP21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 1.4
+      }
     }
   },
   {
@@ -1404,6 +1572,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/22.png",
       "large": "https://images.pokemontcg.io/ex13/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Latios-Delta-Species-HP22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1466,6 +1642,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/23.png",
       "large": "https://images.pokemontcg.io/ex13/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Mawile-HP23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 2.49
+      }
     }
   },
   {
@@ -1523,6 +1707,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/24.png",
       "large": "https://images.pokemontcg.io/ex13/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Mewtwo-Delta-Species-HP24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": 12.9
+      }
     }
   },
   {
@@ -1582,6 +1774,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/25.png",
       "large": "https://images.pokemontcg.io/ex13/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Nosepass-HP25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.45
+      }
     }
   },
   {
@@ -1641,6 +1841,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/26.png",
       "large": "https://images.pokemontcg.io/ex13/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Rayquaza-Delta-Species-HP26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": 12.0
+      }
     }
   },
   {
@@ -1697,6 +1905,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/27.png",
       "large": "https://images.pokemontcg.io/ex13/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Regice-HP27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -1753,6 +1969,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/28.png",
       "large": "https://images.pokemontcg.io/ex13/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Regirock-HP28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.05
+      }
     }
   },
   {
@@ -1815,6 +2039,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/29.png",
       "large": "https://images.pokemontcg.io/ex13/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Registeel-HP29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 4.99
+      }
     }
   },
   {
@@ -1869,6 +2101,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/30.png",
       "large": "https://images.pokemontcg.io/ex13/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Relicanth-HP30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1925,6 +2165,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/31.png",
       "large": "https://images.pokemontcg.io/ex13/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Sableye-HP31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.17,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1982,6 +2230,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/32.png",
       "large": "https://images.pokemontcg.io/ex13/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Seviper-HP32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2040,6 +2296,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/33.png",
       "large": "https://images.pokemontcg.io/ex13/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Torkoal-HP33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -2096,6 +2360,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/34.png",
       "large": "https://images.pokemontcg.io/ex13/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Zangoose-HP34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -2153,6 +2425,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/35.png",
       "large": "https://images.pokemontcg.io/ex13/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Aerodactyl-Delta-Species-HP35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 14.75
+      }
     }
   },
   {
@@ -2213,6 +2493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/36.png",
       "large": "https://images.pokemontcg.io/ex13/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Camerupt-HP36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 1.45
+      }
     }
   },
   {
@@ -2267,6 +2555,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/37.png",
       "large": "https://images.pokemontcg.io/ex13/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Chimecho-Delta-Species-HP37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 3.7
+      }
     }
   },
   {
@@ -2325,6 +2621,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/38.png",
       "large": "https://images.pokemontcg.io/ex13/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Claydol-HP38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 2.25
+      }
     }
   },
   {
@@ -2387,6 +2691,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/39.png",
       "large": "https://images.pokemontcg.io/ex13/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Combusken-HP39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 2.9
+      }
     }
   },
   {
@@ -2445,6 +2757,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/40.png",
       "large": "https://images.pokemontcg.io/ex13/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Donphan-HP40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -2504,6 +2824,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/41.png",
       "large": "https://images.pokemontcg.io/ex13/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Exeggutor-Delta-Species-HP41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.06,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -2565,6 +2893,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/42.png",
       "large": "https://images.pokemontcg.io/ex13/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Gloom-Delta-Species-HP42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2620,6 +2956,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/43.png",
       "large": "https://images.pokemontcg.io/ex13/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Golduck-Delta-Species-HP43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -2669,6 +3013,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/44.png",
       "large": "https://images.pokemontcg.io/ex13/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Holons-Castform-HP44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": 3.99
+      }
     }
   },
   {
@@ -2738,6 +3090,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/45.png",
       "large": "https://images.pokemontcg.io/ex13/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Lairon-HP45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2802,6 +3162,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/46.png",
       "large": "https://images.pokemontcg.io/ex13/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Manectric-HP46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -2855,6 +3223,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/47.png",
       "large": "https://images.pokemontcg.io/ex13/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Masquerain-HP47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -2913,6 +3289,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/48.png",
       "large": "https://images.pokemontcg.io/ex13/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Persian-Delta-Species-HP48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 2.75
+      }
     }
   },
   {
@@ -2970,6 +3354,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/49.png",
       "large": "https://images.pokemontcg.io/ex13/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Pidgeotto-Delta-Species-HP49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -3025,6 +3417,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/50.png",
       "large": "https://images.pokemontcg.io/ex13/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Primeape-Delta-Species-HP50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -3084,6 +3484,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/51.png",
       "large": "https://images.pokemontcg.io/ex13/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Raichu-HP51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.18,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -3146,6 +3554,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/52.png",
       "large": "https://images.pokemontcg.io/ex13/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Seadra-Delta-Species-HP52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 1.85
+      }
     }
   },
   {
@@ -3201,6 +3617,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/53.png",
       "large": "https://images.pokemontcg.io/ex13/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Sharpedo-Delta-Species-HP53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 2.44
+      }
     }
   },
   {
@@ -3273,6 +3697,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/54.png",
       "large": "https://images.pokemontcg.io/ex13/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Vibrava-Delta-Species-HP54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -3331,6 +3763,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/55.png",
       "large": "https://images.pokemontcg.io/ex13/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Whiscash-HP55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3388,6 +3828,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/56.png",
       "large": "https://images.pokemontcg.io/ex13/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Wobbuffet-HP56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -3449,6 +3897,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/57.png",
       "large": "https://images.pokemontcg.io/ex13/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Anorith-Delta-Species-HP57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -3514,6 +3970,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/58.png",
       "large": "https://images.pokemontcg.io/ex13/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Aron-HP58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3573,6 +4037,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/59.png",
       "large": "https://images.pokemontcg.io/ex13/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Baltoy-HP59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3631,6 +4103,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/60.png",
       "large": "https://images.pokemontcg.io/ex13/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Barboach-HP60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -3690,6 +4170,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/61.png",
       "large": "https://images.pokemontcg.io/ex13/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Carvanha-Delta-Species-HP61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 3.49
+      }
     }
   },
   {
@@ -3750,6 +4238,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/62.png",
       "large": "https://images.pokemontcg.io/ex13/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Corphish-HP62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.69
+      }
     }
   },
   {
@@ -3808,6 +4304,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/63.png",
       "large": "https://images.pokemontcg.io/ex13/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Corphish-HP63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.24
+      }
     }
   },
   {
@@ -3863,6 +4367,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/64.png",
       "large": "https://images.pokemontcg.io/ex13/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Electrike-HP64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -3922,6 +4434,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/65.png",
       "large": "https://images.pokemontcg.io/ex13/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Exeggcute-Delta-Species-HP65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3981,6 +4501,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/66.png",
       "large": "https://images.pokemontcg.io/ex13/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Horsea-Delta-Species-HP66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.4
+      }
     }
   },
   {
@@ -4042,6 +4570,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/67.png",
       "large": "https://images.pokemontcg.io/ex13/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Kabuto-Delta-Species-HP67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -4103,6 +4639,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/68.png",
       "large": "https://images.pokemontcg.io/ex13/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Lileep-Delta-Species-HP68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -4152,6 +4696,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/69.png",
       "large": "https://images.pokemontcg.io/ex13/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Magikarp-Delta-Species-HP69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -4211,6 +4763,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/70.png",
       "large": "https://images.pokemontcg.io/ex13/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Mankey-Delta-Species-HP70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -4274,6 +4834,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/71.png",
       "large": "https://images.pokemontcg.io/ex13/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Meowth-Delta-Species-HP71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 3.9
+      }
     }
   },
   {
@@ -4333,6 +4901,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/72.png",
       "large": "https://images.pokemontcg.io/ex13/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Numel-HP72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4391,6 +4967,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/73.png",
       "large": "https://images.pokemontcg.io/ex13/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Oddish-Delta-Species-HP73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 4.98
+      }
     }
   },
   {
@@ -4451,6 +5035,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/74.png",
       "large": "https://images.pokemontcg.io/ex13/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Omanyte-Delta-Species-HP74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 4.0
+      }
     }
   },
   {
@@ -4509,6 +5101,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/75.png",
       "large": "https://images.pokemontcg.io/ex13/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Phanpy-HP75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4565,6 +5165,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/76.png",
       "large": "https://images.pokemontcg.io/ex13/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Pichu-Delta-Species-HP76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -4620,6 +5228,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/77.png",
       "large": "https://images.pokemontcg.io/ex13/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Pidgey-Delta-Species-HP77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -4679,6 +5295,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/78.png",
       "large": "https://images.pokemontcg.io/ex13/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Pikachu-HP78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 8.99
+      }
     }
   },
   {
@@ -4739,6 +5363,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/79.png",
       "large": "https://images.pokemontcg.io/ex13/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Pikachu-Delta-Species-HP79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.79,
+        "reverseHoloLow": 16.9
+      }
     }
   },
   {
@@ -4804,6 +5436,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/80.png",
       "large": "https://images.pokemontcg.io/ex13/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Poochyena-HP80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4862,6 +5502,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/81.png",
       "large": "https://images.pokemontcg.io/ex13/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Psyduck-Delta-Species-HP81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 8.95
+      }
     }
   },
   {
@@ -4911,6 +5559,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/82.png",
       "large": "https://images.pokemontcg.io/ex13/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Surskit-HP82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -4970,6 +5626,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/83.png",
       "large": "https://images.pokemontcg.io/ex13/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Torchic-HP83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -5029,6 +5693,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/84.png",
       "large": "https://images.pokemontcg.io/ex13/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Trapinch-Delta-Species-HP84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.69
+      }
     }
   },
   {
@@ -5052,6 +5724,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/85.png",
       "large": "https://images.pokemontcg.io/ex13/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Holon-Adventurer-HP85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -5073,6 +5753,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/86.png",
       "large": "https://images.pokemontcg.io/ex13/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Holon-Fossil-HP86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5106,6 +5794,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/87.png",
       "large": "https://images.pokemontcg.io/ex13/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Holon-Lake-HP87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -5128,6 +5824,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/88.png",
       "large": "https://images.pokemontcg.io/ex13/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Mr-Stones-Project-HP88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -5150,6 +5854,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/89.png",
       "large": "https://images.pokemontcg.io/ex13/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Professor-Cozmos-Discovery-HP89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.29
+      }
     }
   },
   {
@@ -5173,6 +5885,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/90.png",
       "large": "https://images.pokemontcg.io/ex13/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Rare-Candy-HP90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.18,
+        "reverseHoloLow": 6.0
+      }
     }
   },
   {
@@ -5202,6 +5922,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/91.png",
       "large": "https://images.pokemontcg.io/ex13/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Claw-Fossil-HP91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -5224,6 +5952,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/92.png",
       "large": "https://images.pokemontcg.io/ex13/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Mysterious-Fossil-HP92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.98
+      }
     }
   },
   {
@@ -5253,6 +5989,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/93.png",
       "large": "https://images.pokemontcg.io/ex13/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Root-Fossil-HP93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.95
+      }
     }
   },
   {
@@ -5274,6 +6018,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/94.png",
       "large": "https://images.pokemontcg.io/ex13/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Darkness-Energy-HP94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.75
+      }
     }
   },
   {
@@ -5295,6 +6047,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/95.png",
       "large": "https://images.pokemontcg.io/ex13/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Metal-Energy-HP95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -5316,6 +6076,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/96.png",
       "large": "https://images.pokemontcg.io/ex13/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Multi-Energy-HP96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.34
+      }
     }
   },
   {
@@ -5337,6 +6105,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/97.png",
       "large": "https://images.pokemontcg.io/ex13/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Dark-Metal-Energy-HP97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -5358,6 +6134,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/98.png",
       "large": "https://images.pokemontcg.io/ex13/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Rainbow-Energy-Delta-HP98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5418,6 +6202,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/99.png",
       "large": "https://images.pokemontcg.io/ex13/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Crawdaunt-ex-HP99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5487,6 +6279,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/100.png",
       "large": "https://images.pokemontcg.io/ex13/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Mew-ex-HP100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 22.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5559,6 +6359,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/101.png",
       "large": "https://images.pokemontcg.io/ex13/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Mightyena-ex-HP101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 13.89,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5623,6 +6431,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/102.png",
       "large": "https://images.pokemontcg.io/ex13/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Gyarados-Gold-Star-Delta-Species-HP102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 400.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5684,6 +6500,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/103.png",
       "large": "https://images.pokemontcg.io/ex13/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Mewtwo-Gold-Star-HP103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 300.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5744,6 +6568,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/104.png",
       "large": "https://images.pokemontcg.io/ex13/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Pikachu-Gold-Star-HP104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 330.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5763,6 +6595,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/105.png",
       "large": "https://images.pokemontcg.io/ex13/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Grass-Energy-HP105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5782,6 +6622,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/106.png",
       "large": "https://images.pokemontcg.io/ex13/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Fire-Energy-HP106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5801,6 +6649,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/107.png",
       "large": "https://images.pokemontcg.io/ex13/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Water-Energy-HP107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5820,6 +6676,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/108.png",
       "large": "https://images.pokemontcg.io/ex13/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Lightning-Energy-HP108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.88,
+        "reverseHoloLow": 0.98
+      }
     }
   },
   {
@@ -5839,6 +6703,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/109.png",
       "large": "https://images.pokemontcg.io/ex13/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Psychic-Energy-HP109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.65,
+        "reverseHoloLow": 0.65
+      }
     }
   },
   {
@@ -5858,6 +6730,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/110.png",
       "large": "https://images.pokemontcg.io/ex13/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Fighting-Energy-HP110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5905,6 +6785,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex13/111.png",
       "large": "https://images.pokemontcg.io/ex13/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Holon-Phantoms/Mew-HP111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": 26.0
+      }
     }
   }
 ]

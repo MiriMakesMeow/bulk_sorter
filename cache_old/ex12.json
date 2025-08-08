@@ -64,6 +64,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/1.png",
       "large": "https://images.pokemontcg.io/ex12/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Aerodactyl-LM1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.98,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -134,6 +142,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/2.png",
       "large": "https://images.pokemontcg.io/ex12/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Aggron-LM2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.89,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -204,6 +220,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/3.png",
       "large": "https://images.pokemontcg.io/ex12/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Cradily-LM3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 0.79
+      }
     }
   },
   {
@@ -269,6 +293,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/4.png",
       "large": "https://images.pokemontcg.io/ex12/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Delcatty-LM4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 3.87
+      }
     }
   },
   {
@@ -340,6 +372,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/5.png",
       "large": "https://images.pokemontcg.io/ex12/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Gengar-LM5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.45,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -411,6 +451,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/6.png",
       "large": "https://images.pokemontcg.io/ex12/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Golem-V1-LM6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -477,6 +525,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/7.png",
       "large": "https://images.pokemontcg.io/ex12/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Kabutops-LM7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -532,6 +588,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/8.png",
       "large": "https://images.pokemontcg.io/ex12/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Lapras-LM8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": 4.5
+      }
     }
   },
   {
@@ -592,6 +656,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/9.png",
       "large": "https://images.pokemontcg.io/ex12/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Machamp-LM9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -646,6 +718,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/10.png",
       "large": "https://images.pokemontcg.io/ex12/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Mew-LM10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": 12.0
+      }
     }
   },
   {
@@ -713,6 +793,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/11.png",
       "large": "https://images.pokemontcg.io/ex12/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Muk-LM11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -785,6 +873,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/12.png",
       "large": "https://images.pokemontcg.io/ex12/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Shiftry-LM12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -852,6 +948,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/13.png",
       "large": "https://images.pokemontcg.io/ex12/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Victreebel-LM13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -923,6 +1027,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/14.png",
       "large": "https://images.pokemontcg.io/ex12/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Wailord-LM14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -992,6 +1104,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/15.png",
       "large": "https://images.pokemontcg.io/ex12/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Absol-LM15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1055,6 +1175,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/16.png",
       "large": "https://images.pokemontcg.io/ex12/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Girafarig-LM16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -1106,6 +1234,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/17.png",
       "large": "https://images.pokemontcg.io/ex12/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Gorebyss-LM17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.87
+      }
     }
   },
   {
@@ -1162,6 +1298,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/18.png",
       "large": "https://images.pokemontcg.io/ex12/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Huntail-LM18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1229,6 +1373,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/19.png",
       "large": "https://images.pokemontcg.io/ex12/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Lanturn-LM19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1291,6 +1443,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/20.png",
       "large": "https://images.pokemontcg.io/ex12/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Lunatone-LM20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.16,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1358,6 +1518,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/21.png",
       "large": "https://images.pokemontcg.io/ex12/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Magmar-LM21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -1434,6 +1602,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/22.png",
       "large": "https://images.pokemontcg.io/ex12/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Magneton-LM22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.69
+      }
     }
   },
   {
@@ -1499,6 +1675,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/23.png",
       "large": "https://images.pokemontcg.io/ex12/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Omastar-LM23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1562,6 +1746,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/24.png",
       "large": "https://images.pokemontcg.io/ex12/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Pinsir-LM24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 1.74
+      }
     }
   },
   {
@@ -1624,6 +1816,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/25.png",
       "large": "https://images.pokemontcg.io/ex12/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Solrock-LM25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.25
+      }
     }
   },
   {
@@ -1687,6 +1887,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/26.png",
       "large": "https://images.pokemontcg.io/ex12/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Spinda-LM26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -1744,6 +1952,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/27.png",
       "large": "https://images.pokemontcg.io/ex12/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Torkoal-LM27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1809,6 +2025,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/28.png",
       "large": "https://images.pokemontcg.io/ex12/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Wobbuffet-LM28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.85
+      }
     }
   },
   {
@@ -1869,6 +2093,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/29.png",
       "large": "https://images.pokemontcg.io/ex12/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Anorith-LM29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -1928,6 +2160,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/30.png",
       "large": "https://images.pokemontcg.io/ex12/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Cascoon-LM30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.7
+      }
     }
   },
   {
@@ -1990,6 +2230,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/31.png",
       "large": "https://images.pokemontcg.io/ex12/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Dunsparce-LM31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.4
+      }
     }
   },
   {
@@ -2045,6 +2293,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/32.png",
       "large": "https://images.pokemontcg.io/ex12/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Electrode-LM32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -2104,6 +2360,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/33.png",
       "large": "https://images.pokemontcg.io/ex12/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Furret-LM33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.98
+      }
     }
   },
   {
@@ -2163,6 +2427,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/34.png",
       "large": "https://images.pokemontcg.io/ex12/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Graveler-LM34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -2230,6 +2502,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/35.png",
       "large": "https://images.pokemontcg.io/ex12/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Haunter-LM35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -2289,6 +2569,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/36.png",
       "large": "https://images.pokemontcg.io/ex12/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Kabuto-LM36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -2352,6 +2640,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/37.png",
       "large": "https://images.pokemontcg.io/ex12/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Kecleon-LM37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2420,6 +2716,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/38.png",
       "large": "https://images.pokemontcg.io/ex12/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Lairon-LM38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -2488,6 +2792,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/39.png",
       "large": "https://images.pokemontcg.io/ex12/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Machoke-LM39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2559,6 +2871,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/40.png",
       "large": "https://images.pokemontcg.io/ex12/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Misdreavus-LM40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2625,6 +2945,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/41.png",
       "large": "https://images.pokemontcg.io/ex12/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Nuzleaf-LM41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.95
+      }
     }
   },
   {
@@ -2681,6 +3009,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/42.png",
       "large": "https://images.pokemontcg.io/ex12/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Roselia-LM42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -2739,6 +3075,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/43.png",
       "large": "https://images.pokemontcg.io/ex12/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Sealeo-LM43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2812,6 +3156,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/44.png",
       "large": "https://images.pokemontcg.io/ex12/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Tangela-LM44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2872,6 +3224,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/45.png",
       "large": "https://images.pokemontcg.io/ex12/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Tentacruel-LM45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -2938,6 +3298,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/46.png",
       "large": "https://images.pokemontcg.io/ex12/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Vibrava-LM46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.91
+      }
     }
   },
   {
@@ -3000,6 +3368,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/47.png",
       "large": "https://images.pokemontcg.io/ex12/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Weepinbell-LM47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -3066,6 +3442,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/48.png",
       "large": "https://images.pokemontcg.io/ex12/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Aron-LM48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.95
+      }
     }
   },
   {
@@ -3115,6 +3499,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/49.png",
       "large": "https://images.pokemontcg.io/ex12/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Bellsprout-LM49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3174,6 +3566,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/50.png",
       "large": "https://images.pokemontcg.io/ex12/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Chinchou-LM50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -3233,6 +3633,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/51.png",
       "large": "https://images.pokemontcg.io/ex12/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Clamperl-LM51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -3297,6 +3705,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/52.png",
       "large": "https://images.pokemontcg.io/ex12/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Gastly-LM52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -3347,6 +3763,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/53.png",
       "large": "https://images.pokemontcg.io/ex12/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Geodude-LM53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3406,6 +3830,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/54.png",
       "large": "https://images.pokemontcg.io/ex12/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Grimer-LM54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3465,6 +3897,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/55.png",
       "large": "https://images.pokemontcg.io/ex12/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Growlithe-LM55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -3526,6 +3966,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/56.png",
       "large": "https://images.pokemontcg.io/ex12/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Lileep-LM56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.87
+      }
     }
   },
   {
@@ -3575,6 +4023,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/57.png",
       "large": "https://images.pokemontcg.io/ex12/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Machop-LM57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3631,6 +4087,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/58.png",
       "large": "https://images.pokemontcg.io/ex12/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Magby-LM58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.19
+      }
     }
   },
   {
@@ -3686,6 +4150,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/59.png",
       "large": "https://images.pokemontcg.io/ex12/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Magnemite-LM59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -3744,6 +4216,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/60.png",
       "large": "https://images.pokemontcg.io/ex12/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Omanyte-LM60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -3802,6 +4282,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/61.png",
       "large": "https://images.pokemontcg.io/ex12/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Seedot-LM61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -3861,6 +4349,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/62.png",
       "large": "https://images.pokemontcg.io/ex12/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Sentret-LM62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3926,6 +4422,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/63.png",
       "large": "https://images.pokemontcg.io/ex12/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Shuppet-LM63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3985,6 +4489,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/64.png",
       "large": "https://images.pokemontcg.io/ex12/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Skitty-V1-LM64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4035,6 +4547,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/65.png",
       "large": "https://images.pokemontcg.io/ex12/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Spheal-LM65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -4084,6 +4604,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/66.png",
       "large": "https://images.pokemontcg.io/ex12/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Tentacool-LM66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.66
+      }
     }
   },
   {
@@ -4143,6 +4671,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/67.png",
       "large": "https://images.pokemontcg.io/ex12/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Trapinch-LM67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4202,6 +4738,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/68.png",
       "large": "https://images.pokemontcg.io/ex12/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Voltorb-LM68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.87
+      }
     }
   },
   {
@@ -4265,6 +4809,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/69.png",
       "large": "https://images.pokemontcg.io/ex12/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Wailmer-LM69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4322,6 +4874,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/70.png",
       "large": "https://images.pokemontcg.io/ex12/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Wurmple-LM70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -4378,6 +4938,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/71.png",
       "large": "https://images.pokemontcg.io/ex12/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Wynaut-LM71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -4400,6 +4968,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/72.png",
       "large": "https://images.pokemontcg.io/ex12/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Cursed-Stone-LM72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -4422,6 +4998,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/73.png",
       "large": "https://images.pokemontcg.io/ex12/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Fieldworker-LM73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 4.99
+      }
     }
   },
   {
@@ -4444,6 +5028,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/74.png",
       "large": "https://images.pokemontcg.io/ex12/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Full-Flame-LM74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4467,6 +5059,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/75.png",
       "large": "https://images.pokemontcg.io/ex12/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Giant-Stump-LM75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -4489,6 +5089,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/76.png",
       "large": "https://images.pokemontcg.io/ex12/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Power-Tree-LM76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -4511,6 +5119,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/77.png",
       "large": "https://images.pokemontcg.io/ex12/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Strange-Cave-LM77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -4540,6 +5156,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/78.png",
       "large": "https://images.pokemontcg.io/ex12/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Claw-Fossil-LM78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4562,6 +5186,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/79.png",
       "large": "https://images.pokemontcg.io/ex12/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Mysterious-Fossil-LM79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -4591,6 +5223,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/80.png",
       "large": "https://images.pokemontcg.io/ex12/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Root-Fossil-LM80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.36
+      }
     }
   },
   {
@@ -4613,6 +5253,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/81.png",
       "large": "https://images.pokemontcg.io/ex12/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Rainbow-Energy-LM81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4634,6 +5282,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/82.png",
       "large": "https://images.pokemontcg.io/ex12/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/React-Energy-LM82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.66
+      }
     }
   },
   {
@@ -4705,6 +5361,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/83.png",
       "large": "https://images.pokemontcg.io/ex12/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Arcanine-ex-LM83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 18.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4777,6 +5441,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/84.png",
       "large": "https://images.pokemontcg.io/ex12/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Armaldo-ex-LM84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 17.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4842,6 +5514,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/85.png",
       "large": "https://images.pokemontcg.io/ex12/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Banette-ex-LM85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 14.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4912,6 +5592,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/86.png",
       "large": "https://images.pokemontcg.io/ex12/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Dustox-ex-LM86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4991,6 +5679,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/87.png",
       "large": "https://images.pokemontcg.io/ex12/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Flygon-ex-LM87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5049,6 +5745,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/88.png",
       "large": "https://images.pokemontcg.io/ex12/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Mew-ex-LM88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5126,6 +5830,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/89.png",
       "large": "https://images.pokemontcg.io/ex12/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Walrein-ex-LM89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5189,6 +5901,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/90.png",
       "large": "https://images.pokemontcg.io/ex12/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Regice-Gold-Star-LM90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 300.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5252,6 +5972,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/91.png",
       "large": "https://images.pokemontcg.io/ex12/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Regirock-Gold-Star-LM91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 150.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5321,6 +6049,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/92.png",
       "large": "https://images.pokemontcg.io/ex12/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Registeel-Gold-Star-LM92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 160.0,
+        "reverseHoloLow": 265.0
+      }
     }
   },
   {
@@ -5380,6 +6116,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex12/93.png",
       "large": "https://images.pokemontcg.io/ex12/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Legend-Maker/Pikachu-Delta-Species-LM93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.9,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

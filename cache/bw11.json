@@ -9139,5 +9139,106 @@
       "small": "https://images.pokemontcg.io/bw11/RC25.png",
       "large": "https://images.pokemontcg.io/bw11/RC25_hires.png"
     }
+  },
+  {
+    "id": "bw11-promo-97",
+    "name": "Deino  (LTR 97) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesTo": [
+      "Zweilous"
+    ],
+    "attacks": [
+      {
+        "name": "Deep Growl",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Power Breath",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Discard an Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Dragon",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "97",
+    "artist": "Akira Komayama",
+    "rarity": "Promo",
+    "flavorText": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
+    "nationalPokedexNumbers": [
+      633
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw11/97.png",
+      "large": "https://images.pokemontcg.io/bw11/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures/Deino-V2-LTR97",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw11-promo-109",
+    "name": "Bianca (LTR 109) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw cards until you have 6 cards in your hand.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "109",
+    "artist": "Megumi Mizutani",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw11/109.png",
+      "large": "https://images.pokemontcg.io/bw11/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Treasures/Bianca-V2-LTR109",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.59,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

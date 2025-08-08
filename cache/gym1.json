@@ -7221,5 +7221,75 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "gym1-promo-9",
+    "name": "Misty's Seadra  (GH 9) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "30",
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Misty's Horsea",
+    "evolvesTo": [
+      "Kingdra"
+    ],
+    "attacks": [
+      {
+        "name": "Tail Snap",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Knockout Needle",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "Flip 2 coins. If both of them are heads, this attack does 30 damage plus 60 more damage. If 1 or both of them are tails, this attack does 30 damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "9",
+    "artist": "Atsuko Nishida",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      117
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/gym1/9.png",
+      "large": "https://images.pokemontcg.io/gym1/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Seadra-V2-GH09",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.5,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

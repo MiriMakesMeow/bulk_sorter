@@ -54,6 +54,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/1.png",
       "large": "https://images.pokemontcg.io/neo2/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Espeon-NDI1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 20.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -120,6 +128,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/2.png",
       "large": "https://images.pokemontcg.io/neo2/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Forretress-NDI2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -179,6 +195,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/3.png",
       "large": "https://images.pokemontcg.io/neo2/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Hitmontop-NDI3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -241,6 +265,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/4.png",
       "large": "https://images.pokemontcg.io/neo2/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Houndoom-NDI4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -302,6 +334,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/5.png",
       "large": "https://images.pokemontcg.io/neo2/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Houndour-NDI5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -361,6 +401,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/6.png",
       "large": "https://images.pokemontcg.io/neo2/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Kabutops-NDI6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -428,6 +476,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/7.png",
       "large": "https://images.pokemontcg.io/neo2/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Magnemite-NDI7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -489,6 +545,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/8.png",
       "large": "https://images.pokemontcg.io/neo2/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Politoed-NDI8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -552,6 +616,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/9.png",
       "large": "https://images.pokemontcg.io/neo2/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Poliwrath-NDI9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -619,6 +691,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/10.png",
       "large": "https://images.pokemontcg.io/neo2/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Scizor-NDI10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -674,6 +754,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/11.png",
       "large": "https://images.pokemontcg.io/neo2/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Smeargle-NDI11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -739,6 +827,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/12.png",
       "large": "https://images.pokemontcg.io/neo2/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Tyranitar-NDI12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -800,6 +896,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/13.png",
       "large": "https://images.pokemontcg.io/neo2/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Umbreon-NDI13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 28.98,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -858,6 +962,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/14.png",
       "large": "https://images.pokemontcg.io/neo2/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Unown-A-NDI14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -928,6 +1040,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/15.png",
       "large": "https://images.pokemontcg.io/neo2/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Ursaring-NDI15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -978,6 +1098,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/16.png",
       "large": "https://images.pokemontcg.io/neo2/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Wobbuffet-NDI16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.85,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1042,6 +1170,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/17.png",
       "large": "https://images.pokemontcg.io/neo2/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Yanma-NDI17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1104,6 +1240,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/18.png",
       "large": "https://images.pokemontcg.io/neo2/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Beedrill-NDI18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1167,6 +1311,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/19.png",
       "large": "https://images.pokemontcg.io/neo2/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Butterfree-NDI19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1228,6 +1380,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/20.png",
       "large": "https://images.pokemontcg.io/neo2/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Espeon-NDI20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1294,6 +1454,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/21.png",
       "large": "https://images.pokemontcg.io/neo2/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Forretress-NDI21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1353,6 +1521,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/22.png",
       "large": "https://images.pokemontcg.io/neo2/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Hitmontop-NDI22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1415,6 +1591,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/23.png",
       "large": "https://images.pokemontcg.io/neo2/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Houndoom-NDI23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1476,6 +1660,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/24.png",
       "large": "https://images.pokemontcg.io/neo2/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Houndour-NDI24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.6,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1535,6 +1727,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/25.png",
       "large": "https://images.pokemontcg.io/neo2/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Kabutops-NDI25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1602,6 +1802,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/26.png",
       "large": "https://images.pokemontcg.io/neo2/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Magnemite-NDI26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1663,6 +1871,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/27.png",
       "large": "https://images.pokemontcg.io/neo2/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Politoed-NDI27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1726,6 +1942,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/28.png",
       "large": "https://images.pokemontcg.io/neo2/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Poliwrath-NDI28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1793,6 +2017,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/29.png",
       "large": "https://images.pokemontcg.io/neo2/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Scizor-NDI29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1848,6 +2080,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/30.png",
       "large": "https://images.pokemontcg.io/neo2/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Smeargle-NDI30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1913,6 +2153,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/31.png",
       "large": "https://images.pokemontcg.io/neo2/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Tyranitar-NDI31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1974,6 +2222,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/32.png",
       "large": "https://images.pokemontcg.io/neo2/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Umbreon-NDI32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2032,6 +2288,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/33.png",
       "large": "https://images.pokemontcg.io/neo2/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Unown-A-NDI33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.85,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2102,6 +2366,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/34.png",
       "large": "https://images.pokemontcg.io/neo2/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Ursaring-NDI34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2152,6 +2424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/35.png",
       "large": "https://images.pokemontcg.io/neo2/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Wobbuffet-NDI35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2216,6 +2496,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/36.png",
       "large": "https://images.pokemontcg.io/neo2/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Yanma-NDI36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2277,6 +2565,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/37.png",
       "large": "https://images.pokemontcg.io/neo2/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Corsola-NDI37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2348,6 +2644,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/38.png",
       "large": "https://images.pokemontcg.io/neo2/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Eevee-NDI38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2409,6 +2713,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/39.png",
       "large": "https://images.pokemontcg.io/neo2/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Houndour-NDI39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2449,6 +2761,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/40.png",
       "large": "https://images.pokemontcg.io/neo2/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Igglybuff-NDI40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2503,6 +2823,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/41.png",
       "large": "https://images.pokemontcg.io/neo2/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Kakuna-NDI41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2567,6 +2895,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/42.png",
       "large": "https://images.pokemontcg.io/neo2/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Metapod-NDI42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2628,6 +2964,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/43.png",
       "large": "https://images.pokemontcg.io/neo2/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Omastar-NDI43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2692,6 +3036,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/44.png",
       "large": "https://images.pokemontcg.io/neo2/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Poliwhirl-NDI44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2761,6 +3113,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/45.png",
       "large": "https://images.pokemontcg.io/neo2/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Pupitar-NDI45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2819,6 +3179,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/46.png",
       "large": "https://images.pokemontcg.io/neo2/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Scyther-NDI46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2877,6 +3245,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/47.png",
       "large": "https://images.pokemontcg.io/neo2/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Unown-D-NDI47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2935,6 +3311,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/48.png",
       "large": "https://images.pokemontcg.io/neo2/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Unown-F-NDI48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2993,6 +3377,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/49.png",
       "large": "https://images.pokemontcg.io/neo2/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Unown-M-NDI49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3051,6 +3443,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/50.png",
       "large": "https://images.pokemontcg.io/neo2/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Unown-N-NDI50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3109,6 +3509,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/51.png",
       "large": "https://images.pokemontcg.io/neo2/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Unown-U-NDI51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3175,6 +3583,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/52.png",
       "large": "https://images.pokemontcg.io/neo2/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Xatu-NDI52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3226,6 +3642,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/53.png",
       "large": "https://images.pokemontcg.io/neo2/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Caterpie-NDI53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3276,6 +3700,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/54.png",
       "large": "https://images.pokemontcg.io/neo2/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Dunsparce-NDI54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3329,6 +3761,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/55.png",
       "large": "https://images.pokemontcg.io/neo2/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Hoppip-NDI55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3389,6 +3829,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/56.png",
       "large": "https://images.pokemontcg.io/neo2/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Kabuto-NDI56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3446,6 +3894,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/57.png",
       "large": "https://images.pokemontcg.io/neo2/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Larvitar-NDI57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3498,6 +3954,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/58.png",
       "large": "https://images.pokemontcg.io/neo2/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Mareep-NDI58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3555,6 +4019,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/59.png",
       "large": "https://images.pokemontcg.io/neo2/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Natu-NDI59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3614,6 +4086,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/60.png",
       "large": "https://images.pokemontcg.io/neo2/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Omanyte-NDI60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3666,6 +4146,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/61.png",
       "large": "https://images.pokemontcg.io/neo2/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Pineco-NDI61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3726,6 +4214,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/62.png",
       "large": "https://images.pokemontcg.io/neo2/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Poliwag-NDI62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3793,6 +4289,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/63.png",
       "large": "https://images.pokemontcg.io/neo2/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Sentret-NDI63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3845,6 +4349,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/64.png",
       "large": "https://images.pokemontcg.io/neo2/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Spinarak-NDI64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3912,6 +4424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/65.png",
       "large": "https://images.pokemontcg.io/neo2/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Teddiursa-NDI65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3958,6 +4478,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/66.png",
       "large": "https://images.pokemontcg.io/neo2/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Tyrogue-NDI66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4016,6 +4544,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/67.png",
       "large": "https://images.pokemontcg.io/neo2/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Unown-E-NDI67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4074,6 +4610,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/68.png",
       "large": "https://images.pokemontcg.io/neo2/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Unown-I-NDI68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4132,6 +4676,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/69.png",
       "large": "https://images.pokemontcg.io/neo2/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Unown-O-NDI69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4183,6 +4735,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/70.png",
       "large": "https://images.pokemontcg.io/neo2/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Weedle-NDI70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4250,6 +4810,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/71.png",
       "large": "https://images.pokemontcg.io/neo2/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Wooper-NDI71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4268,6 +4836,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/72.png",
       "large": "https://images.pokemontcg.io/neo2/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Fossil-Egg-N272",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4286,6 +4862,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/73.png",
       "large": "https://images.pokemontcg.io/neo2/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Hyper-Devolution-Spray-N273",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4304,6 +4888,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/74.png",
       "large": "https://images.pokemontcg.io/neo2/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Ruin-Wall-N274",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4322,6 +4914,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo2/75.png",
       "large": "https://images.pokemontcg.io/neo2/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Discovery/Energy-Ark-N275",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

@@ -68,6 +68,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/1.png",
       "large": "https://images.pokemontcg.io/hgss4/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Aggron-TM1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.85
+      }
     }
   },
   {
@@ -129,6 +137,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/2.png",
       "large": "https://images.pokemontcg.io/hgss4/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Altaria-TM2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -186,6 +202,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/3.png",
       "large": "https://images.pokemontcg.io/hgss4/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Celebi-TM3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.39
+      }
     }
   },
   {
@@ -256,6 +280,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/4.png",
       "large": "https://images.pokemontcg.io/hgss4/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Drapion-TM4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -321,6 +353,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/5.png",
       "large": "https://images.pokemontcg.io/hgss4/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Mamoswine-TM5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -387,6 +427,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/6.png",
       "large": "https://images.pokemontcg.io/hgss4/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Nidoking-TM6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -445,6 +493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/7.png",
       "large": "https://images.pokemontcg.io/hgss4/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Porygon-Z-TM7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -502,6 +558,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/8.png",
       "large": "https://images.pokemontcg.io/hgss4/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Rapidash-TM8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.73,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -556,6 +620,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/9.png",
       "large": "https://images.pokemontcg.io/hgss4/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Solrock-TM9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -610,6 +682,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/10.png",
       "large": "https://images.pokemontcg.io/hgss4/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Spiritomb-TM10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -666,6 +746,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/11.png",
       "large": "https://images.pokemontcg.io/hgss4/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Venomoth-TM11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -723,6 +811,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/12.png",
       "large": "https://images.pokemontcg.io/hgss4/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Victreebel-TM12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -782,6 +878,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/13.png",
       "large": "https://images.pokemontcg.io/hgss4/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Ambipom-TM13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -847,6 +951,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/14.png",
       "large": "https://images.pokemontcg.io/hgss4/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Banette-TM14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.88
+      }
     }
   },
   {
@@ -913,6 +1025,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/15.png",
       "large": "https://images.pokemontcg.io/hgss4/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Bronzong-TM15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -978,6 +1098,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/16.png",
       "large": "https://images.pokemontcg.io/hgss4/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Carnivine-TM16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.11,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1033,6 +1161,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/17.png",
       "large": "https://images.pokemontcg.io/hgss4/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Ditto-TM17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -1104,6 +1240,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/18.png",
       "large": "https://images.pokemontcg.io/hgss4/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Dragonite-TM18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -1165,6 +1309,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/19.png",
       "large": "https://images.pokemontcg.io/hgss4/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Dugtrio-TM19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.18,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1232,6 +1384,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/20.png",
       "large": "https://images.pokemontcg.io/hgss4/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Electivire-TM20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1258,9 +1418,7 @@
     "attacks": [
       {
         "name": "Sparking Ball",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance. Elekid is now Asleep."
@@ -1279,6 +1437,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/21.png",
       "large": "https://images.pokemontcg.io/hgss4/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Elekid-TM21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -1335,6 +1501,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/22.png",
       "large": "https://images.pokemontcg.io/hgss4/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Golduck-TM22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1396,6 +1570,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/23.png",
       "large": "https://images.pokemontcg.io/hgss4/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Grumpig-TM23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1456,6 +1638,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/24.png",
       "large": "https://images.pokemontcg.io/hgss4/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Kricketune-TM24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1513,6 +1703,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/25.png",
       "large": "https://images.pokemontcg.io/hgss4/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Lunatone-TM25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1573,6 +1771,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/26.png",
       "large": "https://images.pokemontcg.io/hgss4/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Machamp-TM26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1633,6 +1839,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/27.png",
       "large": "https://images.pokemontcg.io/hgss4/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Magmortar-TM27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.71
+      }
     }
   },
   {
@@ -1693,6 +1907,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/28.png",
       "large": "https://images.pokemontcg.io/hgss4/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Nidoqueen-TM28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.98
+      }
     }
   },
   {
@@ -1755,6 +1977,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/29.png",
       "large": "https://images.pokemontcg.io/hgss4/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Pidgeot-TM29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": 2.4
+      }
     }
   },
   {
@@ -1814,6 +2044,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/30.png",
       "large": "https://images.pokemontcg.io/hgss4/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Sharpedo-TM30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1878,6 +2116,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/31.png",
       "large": "https://images.pokemontcg.io/hgss4/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Wailord-TM31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.95
+      }
     }
   },
   {
@@ -1941,6 +2187,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/32.png",
       "large": "https://images.pokemontcg.io/hgss4/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Dragonair-TM32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2009,6 +2263,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/33.png",
       "large": "https://images.pokemontcg.io/hgss4/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Electabuzz-TM33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -2074,6 +2336,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/34.png",
       "large": "https://images.pokemontcg.io/hgss4/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Electrode-TM34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2137,6 +2407,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/35.png",
       "large": "https://images.pokemontcg.io/hgss4/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Haunter-TM35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2198,6 +2476,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/36.png",
       "large": "https://images.pokemontcg.io/hgss4/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Kangaskhan-TM36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2259,6 +2545,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/37.png",
       "large": "https://images.pokemontcg.io/hgss4/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Lairon-TM37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -2320,6 +2614,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/38.png",
       "large": "https://images.pokemontcg.io/hgss4/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Lickilicky-TM38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.43
+      }
     }
   },
   {
@@ -2376,6 +2678,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/39.png",
       "large": "https://images.pokemontcg.io/hgss4/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Luvdisc-TM39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -2439,6 +2749,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/40.png",
       "large": "https://images.pokemontcg.io/hgss4/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Machoke-TM40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.43
+      }
     }
   },
   {
@@ -2465,9 +2783,7 @@
     "attacks": [
       {
         "name": "Play with Fire",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "The Defending Pokémon is now Burned. Magby is now Asleep."
@@ -2486,6 +2802,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/41.png",
       "large": "https://images.pokemontcg.io/hgss4/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Magby-TM41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.43
+      }
     }
   },
   {
@@ -2548,6 +2872,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/42.png",
       "large": "https://images.pokemontcg.io/hgss4/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Magmar-TM42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.59
+      }
     }
   },
   {
@@ -2615,6 +2947,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/43.png",
       "large": "https://images.pokemontcg.io/hgss4/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Magneton-TM43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2680,6 +3020,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/44.png",
       "large": "https://images.pokemontcg.io/hgss4/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Marowak-TM44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.33
+      }
     }
   },
   {
@@ -2743,6 +3091,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/45.png",
       "large": "https://images.pokemontcg.io/hgss4/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Nidorina-TM45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.06,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -2806,6 +3162,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/46.png",
       "large": "https://images.pokemontcg.io/hgss4/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Nidorino-TM46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -2875,6 +3239,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/47.png",
       "large": "https://images.pokemontcg.io/hgss4/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Pidgeotto-TM47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.84
+      }
     }
   },
   {
@@ -2942,6 +3314,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/48.png",
       "large": "https://images.pokemontcg.io/hgss4/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Piloswine-TM48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3002,6 +3382,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/49.png",
       "large": "https://images.pokemontcg.io/hgss4/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Porygon2-TM49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3062,6 +3450,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/50.png",
       "large": "https://images.pokemontcg.io/hgss4/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Tentacruel-TM50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3116,6 +3512,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/51.png",
       "large": "https://images.pokemontcg.io/hgss4/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Unown-TM51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.79
+      }
     }
   },
   {
@@ -3182,6 +3586,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/52.png",
       "large": "https://images.pokemontcg.io/hgss4/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Wailmer-TM52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3243,6 +3655,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/53.png",
       "large": "https://images.pokemontcg.io/hgss4/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Weepinbell-TM53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3308,6 +3728,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/54.png",
       "large": "https://images.pokemontcg.io/hgss4/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Yanmega-TM54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3367,6 +3795,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/55.png",
       "large": "https://images.pokemontcg.io/hgss4/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Aipom-TM55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -3435,6 +3871,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/56.png",
       "large": "https://images.pokemontcg.io/hgss4/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Aron-TM56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3494,6 +3938,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/57.png",
       "large": "https://images.pokemontcg.io/hgss4/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Bellsprout-TM57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -3560,6 +4012,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/58.png",
       "large": "https://images.pokemontcg.io/hgss4/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Bronzor-TM58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -3619,6 +4079,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/59.png",
       "large": "https://images.pokemontcg.io/hgss4/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Carvanha-TM59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3683,6 +4151,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/60.png",
       "large": "https://images.pokemontcg.io/hgss4/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Cubone-TM60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -3749,6 +4225,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/61.png",
       "large": "https://images.pokemontcg.io/hgss4/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Diglett-TM61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -3809,6 +4293,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/62.png",
       "large": "https://images.pokemontcg.io/hgss4/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Dratini-TM62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3865,6 +4357,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/63.png",
       "large": "https://images.pokemontcg.io/hgss4/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Gastly-TM63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3921,6 +4421,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/64.png",
       "large": "https://images.pokemontcg.io/hgss4/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Illumise-TM64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3972,6 +4480,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/65.png",
       "large": "https://images.pokemontcg.io/hgss4/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Kricketot-TM65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4034,6 +4550,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/66.png",
       "large": "https://images.pokemontcg.io/hgss4/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Lickitung-TM66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4096,6 +4620,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/67.png",
       "large": "https://images.pokemontcg.io/hgss4/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Machop-TM67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4162,6 +4694,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/68.png",
       "large": "https://images.pokemontcg.io/hgss4/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Magnemite-TM68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4222,6 +4762,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/69.png",
       "large": "https://images.pokemontcg.io/hgss4/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Nidoran-F-TM69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4282,6 +4830,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/70.png",
       "large": "https://images.pokemontcg.io/hgss4/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Nidoran-M-TM70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4347,6 +4903,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/71.png",
       "large": "https://images.pokemontcg.io/hgss4/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Pidgey-TM71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4407,6 +4971,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/72.png",
       "large": "https://images.pokemontcg.io/hgss4/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Ponyta-TM72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4467,6 +5039,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/73.png",
       "large": "https://images.pokemontcg.io/hgss4/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Porygon-TM73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4517,6 +5097,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/74.png",
       "large": "https://images.pokemontcg.io/hgss4/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Psyduck-TM74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -4582,6 +5170,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/75.png",
       "large": "https://images.pokemontcg.io/hgss4/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Shuppet-TM75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4633,6 +5229,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/76.png",
       "large": "https://images.pokemontcg.io/hgss4/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Skorupi-TM76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4683,6 +5287,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/77.png",
       "large": "https://images.pokemontcg.io/hgss4/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Spoink-TM77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4739,6 +5351,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/78.png",
       "large": "https://images.pokemontcg.io/hgss4/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Swablu-TM78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4800,6 +5420,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/79.png",
       "large": "https://images.pokemontcg.io/hgss4/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Swinub-TM79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4850,6 +5478,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/80.png",
       "large": "https://images.pokemontcg.io/hgss4/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Tentacool-TM80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4910,6 +5546,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/81.png",
       "large": "https://images.pokemontcg.io/hgss4/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Venonat-TM81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4968,6 +5612,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/82.png",
       "large": "https://images.pokemontcg.io/hgss4/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Volbeat-TM82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -5024,6 +5676,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/83.png",
       "large": "https://images.pokemontcg.io/hgss4/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Voltorb-TM83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5088,6 +5748,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/84.png",
       "large": "https://images.pokemontcg.io/hgss4/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Yanma-TM84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5110,6 +5778,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/85.png",
       "large": "https://images.pokemontcg.io/hgss4/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Black-Belt-V1-TM85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5132,6 +5808,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/86.png",
       "large": "https://images.pokemontcg.io/hgss4/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Indigo-Plateau-TM86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5153,6 +5837,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/87.png",
       "large": "https://images.pokemontcg.io/hgss4/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Junk-Arm-V1-TM87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5175,6 +5867,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/88.png",
       "large": "https://images.pokemontcg.io/hgss4/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Seeker-V1-TM88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5197,6 +5897,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/89.png",
       "large": "https://images.pokemontcg.io/hgss4/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Twins-TM89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5218,6 +5926,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/90.png",
       "large": "https://images.pokemontcg.io/hgss4/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Rescue-Energy-TM90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5279,6 +5995,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/91.png",
       "large": "https://images.pokemontcg.io/hgss4/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Absol-TM91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5335,6 +6059,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/92.png",
       "large": "https://images.pokemontcg.io/hgss4/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Celebi-TM92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5397,6 +6129,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/93.png",
       "large": "https://images.pokemontcg.io/hgss4/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Electrode-TM93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5464,6 +6204,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/94.png",
       "large": "https://images.pokemontcg.io/hgss4/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Gengar-TM94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 19.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5535,6 +6283,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/95.png",
       "large": "https://images.pokemontcg.io/hgss4/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Machamp-TM95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.48,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5599,6 +6355,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/96.png",
       "large": "https://images.pokemontcg.io/hgss4/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Magnezone-TM96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5649,6 +6413,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/97.png",
       "large": "https://images.pokemontcg.io/hgss4/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Mew-TM97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5718,6 +6490,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/98.png",
       "large": "https://images.pokemontcg.io/hgss4/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Yanmega-TM98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5787,6 +6567,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/99.png",
       "large": "https://images.pokemontcg.io/hgss4/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Darkrai-Cresselia-LEGEND-V1-TM99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 14.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5856,6 +6644,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/100.png",
       "large": "https://images.pokemontcg.io/hgss4/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Darkrai-Cresselia-LEGEND-V2-TM100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5927,6 +6723,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/101.png",
       "large": "https://images.pokemontcg.io/hgss4/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Palkia-Dialga-LEGEND-V1-TM101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5998,6 +6802,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss4/102.png",
       "large": "https://images.pokemontcg.io/hgss4/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Palkia-Dialga-LEGEND-V2-TM102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {

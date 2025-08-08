@@ -10393,5 +10393,201 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "xy8-promo-78",
+    "name": "Marowak  (BKT 78) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "100",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Cubone",
+    "attacks": [
+      {
+        "name": "Sharpshooting",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Bone Windmill",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": "If your opponent's Active Pokémon is a Pokémon-EX, switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "78",
+    "artist": "match",
+    "rarity": "Promo",
+    "flavorText": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+    "nationalPokedexNumbers": [
+      105
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/78.png",
+      "large": "https://images.pokemontcg.io/xy8/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Marowak-V2-BKT78",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy8-promo-101",
+    "name": "Flabébé  (BKT 101) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "30",
+    "types": [
+      "Fairy"
+    ],
+    "evolvesTo": [
+      "Floette"
+    ],
+    "attacks": [
+      {
+        "name": "Wish",
+        "cost": [
+          "Fairy"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, search your deck for a card and put it into your hand. Shuffle your deck afterward."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "101",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "When it finds a flower it likes, it dwells on that flower its whole life long. It floats in the wind's embrace with an untroubled heart.",
+    "nationalPokedexNumbers": [
+      669
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/101.png",
+      "large": "https://images.pokemontcg.io/xy8/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Flabebe-V2-BKT101",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy8-promo-138",
+    "name": "Giovanni's Scheme (BKT 138) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1:\n• Draw cards until you have 5 cards in your hand.\n• During this turn, your Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "138",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/138.png",
+      "large": "https://images.pokemontcg.io/xy8/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Giovannis-Scheme-V3-BKT138",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy8-promo-145",
+    "name": "Parallel City (BKT 145) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Choose which way this card faces before you play it. This ↓ player can't have more than 3 Benched Pokémon. (When this card comes into play, this ↓ player discards Benched Pokémon until he or she has 3 Pokémon on the Bench.)",
+      "Choose which way this card faces before you play it. Any damage done by attacks from this ↓ player's Grass, Fire, or Water Pokémon is reduced by 20 (before applying Weakness and Resistance).",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "number": "145",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy8/145.png",
+      "large": "https://images.pokemontcg.io/xy8/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKthrough/Parallel-City-V2-BKT145",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.25,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

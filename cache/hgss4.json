@@ -6832,5 +6832,94 @@
       "small": "https://images.pokemontcg.io/hgss4/FOUR.png",
       "large": "https://images.pokemontcg.io/hgss4/FOUR_hires.png"
     }
+  },
+  {
+    "id": "hgss4-promo-85",
+    "name": "Black Belt (TM 85) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "You may use this card only if you have more Prize cards left than your opponent. During this turn, each of your Active Pokémon's attacks does 40 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+    ],
+    "number": "85",
+    "artist": "Kanako Eo",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/hgss4/85.png",
+      "large": "https://images.pokemontcg.io/hgss4/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Black-Belt-V2-TM85",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hgss4-promo-87",
+    "name": "Junk Arm (TM 87) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard 2 cards from your hand. Search your discard pile for a Trainer card, show it to your opponent, and put it into your hand. You can't choose Junk Arm with the effect of this card."
+    ],
+    "number": "87",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/hgss4/87.png",
+      "large": "https://images.pokemontcg.io/hgss4/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Junk-Arm-V2-TM87",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hgss4-promo-88",
+    "name": "Seeker (TM 88) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "Each player returns 1 of his or her Benched Pokémon and all cards attached to it to his or her hand. (You return your Pokémon first.)"
+    ],
+    "number": "88",
+    "artist": "Wataru Kawahara",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/hgss4/88.png",
+      "large": "https://images.pokemontcg.io/hgss4/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Triumphant/Seeker-V2-TM88",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 20.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

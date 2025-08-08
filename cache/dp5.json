@@ -6307,5 +6307,63 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "dp5-promo-88",
+    "name": "Warp Point (MD 88) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Your opponent switches 1 of his or her Defending Pokémon with 1 of his or her Benched Pokémon, if any. You switch 1 of your Active Pokémon with 1 of your Benched Pokémon, if any."
+    ],
+    "number": "88",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dp5/88.png",
+      "large": "https://images.pokemontcg.io/dp5/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Majestic-Dawn/Warp-Point-V2-MD126",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.25
+      }
+    }
+  },
+  {
+    "id": "dp5-promo-92",
+    "name": "Call Energy (MD 92) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "Call Energy provides Colorless Energy. Once during your turn, if the Pokémon Call Energy is attached to is your Active Pokémon, you may search your deck for up to 2 Basic Pokémon and put them onto your Bench. If you do, shuffle your deck and your turn ends."
+    ],
+    "number": "92",
+    "artist": "Takumi Akabane",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dp5/92.png",
+      "large": "https://images.pokemontcg.io/dp5/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Majestic-Dawn/Call-Energy-V2-MD92",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

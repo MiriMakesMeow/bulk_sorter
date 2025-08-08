@@ -2,7 +2,7 @@
   {
     "id": "cel25-1",
     "name": "Ho-Oh",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -18,7 +18,7 @@
         ],
         "name": "Sacred Fire",
         "damage": "",
-        "text": "This attack does 50 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)",
+        "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
         "convertedEnergyCost": 2
       },
       {
@@ -29,14 +29,14 @@
         ],
         "name": "Fire Blast",
         "damage": "120",
-        "text": "Discard an Energy from this Pok\u00e9mon.",
+        "text": "Discard an Energy from this Pokémon.",
         "convertedEnergyCost": 3
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -100,31 +100,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-1",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Ho-Oh",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.07,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-2",
     "name": "Reshiram",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -140,7 +127,7 @@
         ],
         "name": "Scorching Wind",
         "damage": "",
-        "text": "This attack does 20 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)",
+        "text": "This attack does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
         "convertedEnergyCost": 2
       },
       {
@@ -158,7 +145,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -217,31 +204,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-2",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Reshiram-V1-CEL002",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.12,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-3",
     "name": "Kyogre",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -258,7 +232,7 @@
         ],
         "name": "Aqua Storm",
         "damage": "",
-        "text": "Discard the top 5 cards of your deck, and then choose 2 of your opponent's Benched Pok\u00e9mon. This attack does 50 damage for each Energy card you discarded in this way to each of those Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)",
+        "text": "Discard the top 5 cards of your deck, and then choose 2 of your opponent's Benched Pokémon. This attack does 50 damage for each Energy card you discarded in this way to each of those Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
         "convertedEnergyCost": 3
       },
       {
@@ -277,7 +251,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -336,31 +310,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-3",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Kyogre",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.1,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-4",
     "name": "Palkia",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -372,7 +333,7 @@
       {
         "type": "Ability",
         "name": "Absolute Space",
-        "text": "As long as this Pok\u00e9mon is in the Active Spot, your opponent can't play any Stadium cards from their hand."
+        "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand."
       }
     ],
     "attacks": [
@@ -384,14 +345,14 @@
         ],
         "name": "Overdrive Smash",
         "damage": "80+",
-        "text": "During your next turn, this Pok\u00e9mon's Overdrive Smash attack does 80 more damage (before applying Weakness and Resistance).",
+        "text": "During your next turn, this Pokémon's Overdrive Smash attack does 80 more damage (before applying Weakness and Resistance).",
         "convertedEnergyCost": 3
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -449,31 +410,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-4",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Palkia",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.07,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-5",
     "name": "Pikachu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -501,14 +449,14 @@
         ],
         "name": "Thunder Jolt",
         "damage": "30",
-        "text": "Flip a coin. If tails, this Pok\u00e9mon also does 10 damage to itself.",
+        "text": "Flip a coin. If tails, this Pokémon also does 10 damage to itself.",
         "convertedEnergyCost": 2
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -565,31 +513,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-5",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Pikachu-V1-CEL005",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.38,
-        "lowPrice": 0.25,
-        "trendPrice": 3.92,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.5,
-        "avg1": 3.32,
-        "avg7": 4.72,
-        "avg30": 2.55,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-6",
     "name": "Flying Pikachu V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -602,7 +537,7 @@
       "Raichu"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -611,7 +546,7 @@
         ],
         "name": "Thunder Shock",
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
         "convertedEnergyCost": 1
       },
       {
@@ -622,14 +557,14 @@
         ],
         "name": "Fly",
         "damage": "120",
-        "text": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pok\u00e9mon.",
+        "text": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
         "convertedEnergyCost": 3
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -687,31 +622,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-6",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Flying-Pikachu-V",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.82,
-        "lowPrice": 0.4,
-        "trendPrice": 1.39,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.6,
-        "avg1": 1.39,
-        "avg7": 1.47,
-        "avg30": 1.83,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-7",
     "name": "Flying Pikachu VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -724,7 +646,7 @@
       "Raichu"
     ],
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -735,14 +657,14 @@
         ],
         "name": "Max Balloon",
         "damage": "160",
-        "text": "During your opponent's next turn, prevent all damage done to this Pok\u00e9mon by attacks from Basic Pok\u00e9mon.",
+        "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
         "convertedEnergyCost": 3
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -800,31 +722,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-7",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Flying-Pikachu-VMAX",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.93,
         "lowPrice": 1.25,
-        "trendPrice": 3.0,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 1.45,
-        "avg1": 2.36,
-        "avg7": 2.85,
-        "avg30": 2.97,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-8",
     "name": "Surfing Pikachu V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -837,7 +746,7 @@
       "Raichu"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -855,7 +764,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -911,31 +820,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-8",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Surfing-Pikachu-V",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.92,
-        "lowPrice": 0.99,
-        "trendPrice": 1.53,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.99,
-        "avg1": 1.06,
-        "avg7": 2.09,
-        "avg30": 1.91,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.95,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-9",
     "name": "Surfing Pikachu VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -948,7 +844,7 @@
       "Raichu"
     ],
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -959,14 +855,14 @@
         ],
         "name": "Max Surfer",
         "damage": "160",
-        "text": "This attack also does 30 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)",
+        "text": "This attack also does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
         "convertedEnergyCost": 3
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1022,31 +918,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-9",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Surfing-Pikachu-VMAX",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.93,
-        "lowPrice": 1.5,
-        "trendPrice": 2.84,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 1.9,
-        "avg1": 2.54,
-        "avg7": 2.62,
-        "avg30": 2.89,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 1.75,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-10",
     "name": "Zekrom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1080,7 +963,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1139,31 +1022,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-10",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Zekrom-V1-CEL010",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.09,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-11",
     "name": "Mew",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1175,7 +1045,7 @@
       {
         "type": "Ability",
         "name": "Mysterious Tail",
-        "text": "Once during your turn, if this Pok\u00e9mon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
       }
     ],
     "attacks": [
@@ -1193,7 +1063,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1228,7 +1098,7 @@
     "number": "11",
     "artist": "Yuu Nishida",
     "rarity": "Rare Holo",
-    "flavorText": "Its DNA is said to contain the genetic codes of all Pok\u00e9mon, so it can use all kinds of techniques.",
+    "flavorText": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
     "nationalPokedexNumbers": [
       151
     ],
@@ -1256,31 +1126,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-11",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Mew-V1",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.38,
         "lowPrice": 0.02,
-        "trendPrice": 0.56,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.67,
-        "avg7": 0.5,
-        "avg30": 0.41,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-12",
     "name": "Xerneas",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1296,7 +1153,7 @@
         ],
         "name": "Breath of Life",
         "damage": "",
-        "text": "Search your deck for up to 3 basic Energy cards of different types and attach them to your Pok\u00e9mon in any way you like. Then, shuffle your deck.",
+        "text": "Search your deck for up to 3 basic Energy cards of different types and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
         "convertedEnergyCost": 2
       },
       {
@@ -1314,7 +1171,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1372,31 +1229,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-12",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Xerneas",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.07,
-        "avg7": 0.07,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-13",
     "name": "Cosmog",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1414,14 +1258,14 @@
         ],
         "name": "Star Protection",
         "damage": "",
-        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pok\u00e9mon by attacks.",
+        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.",
         "convertedEnergyCost": 1
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1456,7 +1300,7 @@
     "number": "13",
     "artist": "kirisAki",
     "rarity": "Rare",
-    "flavorText": "Whether or not it's a Pok\u00e9mon from this world is a mystery. When it's in a jam, it warps away to a safe place to hide.",
+    "flavorText": "Whether or not it's a Pokémon from this world is a mystery. When it's in a jam, it warps away to a safe place to hide.",
     "nationalPokedexNumbers": [
       789
     ],
@@ -1484,31 +1328,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-13",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Cosmog",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.08,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-14",
     "name": "Cosmoem",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1528,14 +1359,14 @@
         ],
         "name": "Star Protection",
         "damage": "",
-        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pok\u00e9mon by attacks.",
+        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.",
         "convertedEnergyCost": 1
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1600,31 +1431,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-14",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Cosmoem",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-15",
     "name": "Lunala",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -1641,7 +1459,7 @@
         ],
         "name": "Lunar Pain",
         "damage": "",
-        "text": "Double the number of damage counters on each of your opponent's Pok\u00e9mon.",
+        "text": "Double the number of damage counters on each of your opponent's Pokémon.",
         "convertedEnergyCost": 2
       },
       {
@@ -1652,14 +1470,14 @@
         ],
         "name": "Psychic Shot",
         "damage": "130",
-        "text": "This attack also does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)",
+        "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
         "convertedEnergyCost": 3
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1723,31 +1541,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-15",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Lunala",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.13,
-        "avg7": 0.19,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-16",
     "name": "Zacian V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -1757,13 +1562,13 @@
       "Psychic"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "type": "Ability",
         "name": "Roar of the Sword",
-        "text": "Once during your turn, you may search your deck for a Psychic Energy card and attach it to 1 of your Pok\u00e9mon. Then, shuffle your deck. If you use this Ability, your turn ends."
+        "text": "Once during your turn, you may search your deck for a Psychic Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck. If you use this Ability, your turn ends."
       }
     ],
     "attacks": [
@@ -1775,14 +1580,14 @@
         ],
         "name": "Storm Slash",
         "damage": "60+",
-        "text": "This attack does 30 more damage for each Psychic Energy attached to this Pok\u00e9mon.",
+        "text": "This attack does 30 more damage for each Psychic Energy attached to this Pokémon.",
         "convertedEnergyCost": 3
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1839,31 +1644,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-16",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Zacian-V",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.71,
         "lowPrice": 0.1,
-        "trendPrice": 0.72,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.51,
-        "avg7": 0.78,
-        "avg30": 0.74,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-17",
     "name": "Groudon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1879,7 +1671,7 @@
           "Colorless"
         ],
         "name": "Magma Volcano",
-        "damage": "80\u00d7",
+        "damage": "80×",
         "text": "Discard the top 5 cards of your deck. This attack does 80 damage for each Energy card you discarded in this way.",
         "convertedEnergyCost": 3
       },
@@ -1899,7 +1691,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1930,7 +1722,7 @@
     "number": "17",
     "artist": "Ryuta Fuse",
     "rarity": "Rare",
-    "flavorText": "This legendary Pok\u00e9mon is said to represent the land. It went to sleep after dueling Kyogre.",
+    "flavorText": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
     "nationalPokedexNumbers": [
       383
     ],
@@ -1958,31 +1750,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-17",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Groudon",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.1,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-18",
     "name": "Zamazenta V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -1992,13 +1771,13 @@
       "Fighting"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "type": "Ability",
         "name": "Growl of the Shield",
-        "text": "All of your Fighting Pok\u00e9mon take 20 less damage from attacks from your opponent's Pok\u00e9mon VMAX (after applying Weakness and Resistance). You can't apply more than 1 Growl of the Shield Ability at a time."
+        "text": "All of your Fighting Pokémon take 20 less damage from attacks from your opponent's Pokémon VMAX (after applying Weakness and Resistance). You can't apply more than 1 Growl of the Shield Ability at a time."
       }
     ],
     "attacks": [
@@ -2017,7 +1796,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2074,31 +1853,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-18",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Zamazenta-V",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.64,
         "lowPrice": 0.05,
-        "trendPrice": 0.68,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.41,
-        "avg7": 0.57,
-        "avg30": 0.63,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-19",
     "name": "Yveltal",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2114,7 +1880,7 @@
         ],
         "name": "Cry of Destruction",
         "damage": "",
-        "text": "Discard up to 3 Special Energy from your opponent's Pok\u00e9mon.",
+        "text": "Discard up to 3 Special Energy from your opponent's Pokémon.",
         "convertedEnergyCost": 2
       },
       {
@@ -2132,7 +1898,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2196,31 +1962,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-19",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Yveltal",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-20",
     "name": "Dialga",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2246,14 +1999,14 @@
         ],
         "name": "Metal Blast",
         "damage": "60+",
-        "text": "This attack does 20 more damage for each Metal Energy attached to this Pok\u00e9mon.",
+        "text": "This attack does 20 more damage for each Metal Energy attached to this Pokémon.",
         "convertedEnergyCost": 3
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2317,31 +2070,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-20",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Dialga",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.08,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-21",
     "name": "Solgaleo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -2354,7 +2094,7 @@
       {
         "type": "Ability",
         "name": "Rush In",
-        "text": "Once during your turn, if this Pok\u00e9mon is on your Bench, you may switch it with your Active Pok\u00e9mon."
+        "text": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
       }
     ],
     "attacks": [
@@ -2365,14 +2105,14 @@
         ],
         "name": "Solar Geyser",
         "damage": "100",
-        "text": "Attach up to 2 basic Energy cards from your discard pile to 1 of your Benched Pok\u00e9mon.",
+        "text": "Attach up to 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
         "convertedEnergyCost": 2
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2436,31 +2176,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-21",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Solgaleo",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.21,
-        "avg7": 0.15,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-22",
     "name": "Lugia",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2475,8 +2202,8 @@
           "Colorless"
         ],
         "name": "Aero Ball",
-        "damage": "20\u00d7",
-        "text": "This attack does 20 damage for each Energy attached to both Active Pok\u00e9mon.",
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Energy attached to both Active Pokémon.",
         "convertedEnergyCost": 2
       },
       {
@@ -2488,14 +2215,14 @@
         ],
         "name": "Deep Crush",
         "damage": "160",
-        "text": "During your next turn, this Pok\u00e9mon can't attack.",
+        "text": "During your next turn, this Pokémon can't attack.",
         "convertedEnergyCost": 4
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2559,24 +2286,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-22",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Lugia",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.09,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
@@ -2637,24 +2351,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-23",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Professors-Research-Professor-Oak-V1-CEL023",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.11,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
@@ -2715,31 +2416,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-24",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Professors-Research-Professor-Oak-V2-CEL024",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.52,
         "lowPrice": 0.4,
-        "trendPrice": 1.53,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.4,
-        "avg1": 1.93,
-        "avg7": 1.51,
-        "avg30": 1.48,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "cel25-25",
     "name": "Mew",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2751,7 +2439,7 @@
       {
         "type": "Ability",
         "name": "Mysterious Tail",
-        "text": "Once during your turn, if this Pok\u00e9mon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
       }
     ],
     "attacks": [
@@ -2769,7 +2457,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2804,7 +2492,7 @@
     "number": "25",
     "artist": "Saki Hayashiro",
     "rarity": "Rare Holo",
-    "flavorText": "Its DNA is said to contain the genetic codes of all Pok\u00e9mon, so it can use all kinds of techniques.",
+    "flavorText": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
     "nationalPokedexNumbers": [
       151
     ],
@@ -2832,24 +2520,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/cel25-25",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Mew-V2",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 48.69,
-        "lowPrice": 28.0,
-        "trendPrice": 47.86,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 37.48,
-        "avg1": 56.0,
-        "avg7": 44.06,
-        "avg30": 47.09,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 27.99,
+        "reverseHoloLow": null
       }
     }
   }

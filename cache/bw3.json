@@ -6606,5 +6606,446 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "bw3-promo-8",
+    "name": "Karrablast  (NVI 8) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [
+      "Escavalier"
+    ],
+    "attacks": [
+      {
+        "name": "Mysterious Evolution",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "If Shelmet is in play, search your deck for a card that evolves from this Pokémon and put it onto this Pokémon. (This counts as evolving this Pokémon.) Shuffle your deck afterward."
+      },
+      {
+        "name": "Fury Attack",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10×",
+        "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "8",
+    "artist": "sui",
+    "rarity": "Promo",
+    "flavorText": "When they feel threatened, they spit acidic liquid to drive attackers away. This Pokémon targets Shelmet.",
+    "nationalPokedexNumbers": [
+      588
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw3/8.png",
+      "large": "https://images.pokemontcg.io/bw3/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Noble-Victories/Karrablast-V2-NVI8",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw3-promo-11",
+    "name": "Shelmet  (NVI 11) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [
+      "Accelgor"
+    ],
+    "attacks": [
+      {
+        "name": "Mysterious Evolution",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "If Karrablast is in play, search your deck for a card that evolves from this Pokémon and put it onto this Pokémon. (This counts as evolving this Pokémon.) Shuffle your deck afterward."
+      },
+      {
+        "name": "Ram",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "11",
+    "artist": "Midori Harada",
+    "rarity": "Promo",
+    "flavorText": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
+    "nationalPokedexNumbers": [
+      616
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw3/11.png",
+      "large": "https://images.pokemontcg.io/bw3/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Noble-Victories/Shelmet-V2-NVI11",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw3-promo-12",
+    "name": "Accelgor  (NVI 12) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Shelmet",
+    "attacks": [
+      {
+        "name": "Acid Spray",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."
+      },
+      {
+        "name": "Slashing Strike",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60",
+        "text": "This Pokémon can't use Slashing Strike during your next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "number": "12",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+    "nationalPokedexNumbers": [
+      617
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw3/12.png",
+      "large": "https://images.pokemontcg.io/bw3/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Noble-Victories/Accelgor-V2-NVI12",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.35,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw3-promo-32",
+    "name": "Cryogonal  (NVI 32) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Icy Wind",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "The Defending Pokémon is now Asleep."
+      },
+      {
+        "name": "Ice Shard",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30+",
+        "text": "If the Defending Pokémon is a Fighting Pokémon, this attack does 40 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "32",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "flavorText": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
+    "nationalPokedexNumbers": [
+      615
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw3/32.png",
+      "large": "https://images.pokemontcg.io/bw3/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Noble-Victories/Cryogonal-V2-NVI32",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw3-promo-80",
+    "name": "Escavalier  (NVI 80) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Karrablast",
+    "attacks": [
+      {
+        "name": "Guard Press",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+      },
+      {
+        "name": "Twineedle",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "70×",
+        "text": "Flip 2 coins. This attack does 70 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "80",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+    "nationalPokedexNumbers": [
+      589
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw3/80.png",
+      "large": "https://images.pokemontcg.io/bw3/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Noble-Victories/Escavalier-V2-NVI80",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw3-promo-87",
+    "name": "Fraxure  (NVI 87) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Axew",
+    "evolvesTo": [
+      "Haxorus"
+    ],
+    "attacks": [
+      {
+        "name": "Scratch",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Dual Chop",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "87",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they've been fighting.",
+    "nationalPokedexNumbers": [
+      611
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw3/87.png",
+      "large": "https://images.pokemontcg.io/bw3/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Noble-Victories/Fraxure-V2-NVI87",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw3-promo-91",
+    "name": "Eviolite (NVI 91) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "If the Pokémon this card is attached to is a Basic Pokémon, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "91",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw3/91.png",
+      "large": "https://images.pokemontcg.io/bw3/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Noble-Victories/Eviolite-V2-NVI91",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.85,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

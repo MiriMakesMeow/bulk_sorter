@@ -6628,5 +6628,286 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "ex5-promo-9",
+    "name": "Machamp  (HL 9) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Machoke",
+    "abilities": [
+      {
+        "name": "Overzealous",
+        "text": "If your opponent has any Pokémon-ex in play, each of Machamp's attacks do 30 more damage to the Defending Pokémon.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Brick Smash",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+      },
+      {
+        "name": "Cross Chop",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60+",
+        "text": "Flip a coin. If heads, this attack does 60 damage plus 30 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "9",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      68
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex5/9.png",
+      "large": "https://images.pokemontcg.io/ex5/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Machamp-V2-HL9",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "ex5-promo-29",
+    "name": "Beldum  (HL 29) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [
+      "Metang"
+    ],
+    "abilities": [
+      {
+        "name": "Magnetic Call",
+        "text": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a Metal Basic Pokémon and put it onto your Bench. Shuffle your deck afterward. This power can't be used if Beldum is affected by a Special Condition.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Metal Charge",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Put 1 damage counter on Beldum."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "29",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      374
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex5/29.png",
+      "large": "https://images.pokemontcg.io/ex5/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Beldum-V2-HL29",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 12.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "ex5-promo-41",
+    "name": "Machoke  (HL 41) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Machop",
+    "evolvesTo": [
+      "Machamp"
+    ],
+    "abilities": [
+      {
+        "name": "Strikes Back",
+        "text": "If Machoke is your Active Pokémon and is damaged by an opponent's attack (even if Machoke is Knocked Out), put 1 damage counter on the Attacking Pokémon.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Low Kick",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "41",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      67
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex5/41.png",
+      "large": "https://images.pokemontcg.io/ex5/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Machoke-V2-HL41",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 27.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "ex5-promo-64",
+    "name": "Machop  (HL 64) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [
+      "Machoke"
+    ],
+    "attacks": [
+      {
+        "name": "Knuckle Punch",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Karate Chop",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30-",
+        "text": "Does 30 damage minus 10 damage for each damage counter on Machop."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "64",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      66
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex5/64.png",
+      "large": "https://images.pokemontcg.io/ex5/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Machop-V2-HL64",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

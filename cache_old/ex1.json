@@ -77,6 +77,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/1.png",
       "large": "https://images.pokemontcg.io/ex1/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Aggron-RS1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -138,6 +146,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/2.png",
       "large": "https://images.pokemontcg.io/ex1/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Beautifly-RS2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 1.85
+      }
     }
   },
   {
@@ -195,6 +211,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/3.png",
       "large": "https://images.pokemontcg.io/ex1/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Blaziken-RS3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.45
+      }
     }
   },
   {
@@ -257,6 +281,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/4.png",
       "large": "https://images.pokemontcg.io/ex1/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Camerupt-RS4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.48,
+        "reverseHoloLow": 0.48
+      }
     }
   },
   {
@@ -311,6 +343,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/5.png",
       "large": "https://images.pokemontcg.io/ex1/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Delcatty-RS5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.89,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -373,6 +413,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/6.png",
       "large": "https://images.pokemontcg.io/ex1/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Dustox-RS6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -428,6 +476,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/7.png",
       "large": "https://images.pokemontcg.io/ex1/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Gardevoir-RS7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -487,6 +543,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/8.png",
       "large": "https://images.pokemontcg.io/ex1/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Hariyama-RS8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -551,6 +615,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/9.png",
       "large": "https://images.pokemontcg.io/ex1/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Manectric-RS9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -613,6 +685,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/10.png",
       "large": "https://images.pokemontcg.io/ex1/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Mightyena-RS10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -681,6 +761,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/11.png",
       "large": "https://images.pokemontcg.io/ex1/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Sceptile-RS11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -740,6 +828,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/12.png",
       "large": "https://images.pokemontcg.io/ex1/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Slaking-RS12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -799,6 +895,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/13.png",
       "large": "https://images.pokemontcg.io/ex1/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Swampert-RS13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -864,6 +968,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/14.png",
       "large": "https://images.pokemontcg.io/ex1/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Wailord-RS14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -925,6 +1037,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/15.png",
       "large": "https://images.pokemontcg.io/ex1/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Blaziken-RS15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -984,6 +1104,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/16.png",
       "large": "https://images.pokemontcg.io/ex1/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Breloom-RS16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -1044,6 +1172,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/17.png",
       "large": "https://images.pokemontcg.io/ex1/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Donphan-RS17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1103,6 +1239,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/18.png",
       "large": "https://images.pokemontcg.io/ex1/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Nosepass-RS18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1177,6 +1321,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/19.png",
       "large": "https://images.pokemontcg.io/ex1/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Pelipper-RS19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1241,6 +1393,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/20.png",
       "large": "https://images.pokemontcg.io/ex1/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Sceptile-RS20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.94
+      }
     }
   },
   {
@@ -1294,6 +1454,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/21.png",
       "large": "https://images.pokemontcg.io/ex1/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Seaking-RS21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1350,6 +1518,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/22.png",
       "large": "https://images.pokemontcg.io/ex1/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Sharpedo-RS22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1416,6 +1592,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/23.png",
       "large": "https://images.pokemontcg.io/ex1/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Swampert-RS23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -1474,6 +1658,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/24.png",
       "large": "https://images.pokemontcg.io/ex1/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Weezing-RS24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1539,6 +1731,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/25.png",
       "large": "https://images.pokemontcg.io/ex1/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Aron-RS25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1597,6 +1797,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/26.png",
       "large": "https://images.pokemontcg.io/ex1/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Cascoon-RS26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.79
+      }
     }
   },
   {
@@ -1658,6 +1866,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/27.png",
       "large": "https://images.pokemontcg.io/ex1/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Combusken-RS27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1716,6 +1932,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/28.png",
       "large": "https://images.pokemontcg.io/ex1/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Combusken-RS28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1773,6 +1997,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/29.png",
       "large": "https://images.pokemontcg.io/ex1/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Delcatty-RS29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1838,6 +2070,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/30.png",
       "large": "https://images.pokemontcg.io/ex1/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Electrike-RS30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -1906,6 +2146,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/31.png",
       "large": "https://images.pokemontcg.io/ex1/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Grovyle-RS31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.79
+      }
     }
   },
   {
@@ -1970,6 +2218,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/32.png",
       "large": "https://images.pokemontcg.io/ex1/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Grovyle-RS32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -2029,6 +2285,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/33.png",
       "large": "https://images.pokemontcg.io/ex1/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Hariyama-RS33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -2091,6 +2355,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/34.png",
       "large": "https://images.pokemontcg.io/ex1/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Kirlia-RS34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2151,6 +2423,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/35.png",
       "large": "https://images.pokemontcg.io/ex1/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Kirlia-RS35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -2220,6 +2500,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/36.png",
       "large": "https://images.pokemontcg.io/ex1/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Lairon-RS36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.74
+      }
     }
   },
   {
@@ -2289,6 +2577,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/37.png",
       "large": "https://images.pokemontcg.io/ex1/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Lairon-RS37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2346,6 +2642,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/38.png",
       "large": "https://images.pokemontcg.io/ex1/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Linoone-RS38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2411,6 +2715,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/39.png",
       "large": "https://images.pokemontcg.io/ex1/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Manectric-RS39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2472,6 +2784,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/40.png",
       "large": "https://images.pokemontcg.io/ex1/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Marshtomp-RS40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2530,6 +2850,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/41.png",
       "large": "https://images.pokemontcg.io/ex1/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Marshtomp-RS41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2595,6 +2923,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/42.png",
       "large": "https://images.pokemontcg.io/ex1/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Mightyena-RS42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -2653,6 +2989,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/43.png",
       "large": "https://images.pokemontcg.io/ex1/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Silcoon-RS43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -2711,6 +3055,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/44.png",
       "large": "https://images.pokemontcg.io/ex1/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Skitty-RS44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -2770,6 +3122,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/45.png",
       "large": "https://images.pokemontcg.io/ex1/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Slakoth-RS45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.65
+      }
     }
   },
   {
@@ -2827,6 +3187,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/46.png",
       "large": "https://images.pokemontcg.io/ex1/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Swellow-RS46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2889,6 +3257,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/47.png",
       "large": "https://images.pokemontcg.io/ex1/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Vigoroth-RS47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2951,6 +3327,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/48.png",
       "large": "https://images.pokemontcg.io/ex1/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Wailmer-RS48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3016,6 +3400,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/49.png",
       "large": "https://images.pokemontcg.io/ex1/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Aron-RS49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -3072,6 +3464,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/50.png",
       "large": "https://images.pokemontcg.io/ex1/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Aron-RS50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3128,6 +3528,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/51.png",
       "large": "https://images.pokemontcg.io/ex1/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Carvanha-RS51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -3183,6 +3591,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/52.png",
       "large": "https://images.pokemontcg.io/ex1/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Electrike-RS52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3248,6 +3664,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/53.png",
       "large": "https://images.pokemontcg.io/ex1/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Electrike-RS53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -3307,6 +3731,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/54.png",
       "large": "https://images.pokemontcg.io/ex1/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Koffing-RS54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3356,6 +3788,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/55.png",
       "large": "https://images.pokemontcg.io/ex1/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Goldeen-RS55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3415,6 +3855,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/56.png",
       "large": "https://images.pokemontcg.io/ex1/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Makuhita-RS56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -3474,6 +3922,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/57.png",
       "large": "https://images.pokemontcg.io/ex1/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Makuhita-RS57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3523,6 +3979,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/58.png",
       "large": "https://images.pokemontcg.io/ex1/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Makuhita-RS58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.47
+      }
     }
   },
   {
@@ -3572,6 +4036,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/59.png",
       "large": "https://images.pokemontcg.io/ex1/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Mudkip-V1-RS59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.44
+      }
     }
   },
   {
@@ -3631,6 +4103,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/60.png",
       "large": "https://images.pokemontcg.io/ex1/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Mudkip-RS60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.98
+      }
     }
   },
   {
@@ -3690,6 +4170,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/61.png",
       "large": "https://images.pokemontcg.io/ex1/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Numel-RS61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3749,6 +4237,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/62.png",
       "large": "https://images.pokemontcg.io/ex1/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Phanpy-RS62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3804,6 +4300,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/63.png",
       "large": "https://images.pokemontcg.io/ex1/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Poochyena-RS63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3869,6 +4373,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/64.png",
       "large": "https://images.pokemontcg.io/ex1/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Poochyena-RS64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3924,6 +4436,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/65.png",
       "large": "https://images.pokemontcg.io/ex1/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Poochyena-RS65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3973,6 +4493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/66.png",
       "large": "https://images.pokemontcg.io/ex1/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Ralts-RS66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4032,6 +4560,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/67.png",
       "large": "https://images.pokemontcg.io/ex1/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Ralts-RS67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -4091,6 +4627,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/68.png",
       "large": "https://images.pokemontcg.io/ex1/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Ralts-RS68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -4146,6 +4690,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/69.png",
       "large": "https://images.pokemontcg.io/ex1/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Shroomish-RS69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -4204,6 +4756,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/70.png",
       "large": "https://images.pokemontcg.io/ex1/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Skitty-RS70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -4263,6 +4823,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/71.png",
       "large": "https://images.pokemontcg.io/ex1/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Skitty-RS71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4328,6 +4896,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/72.png",
       "large": "https://images.pokemontcg.io/ex1/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Taillow-RS72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4387,6 +4963,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/73.png",
       "large": "https://images.pokemontcg.io/ex1/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Torchic-RS73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4436,6 +5020,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/74.png",
       "large": "https://images.pokemontcg.io/ex1/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Torchic-V1-RS74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4491,6 +5083,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/75.png",
       "large": "https://images.pokemontcg.io/ex1/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Treecko-RS75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -4556,6 +5156,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/76.png",
       "large": "https://images.pokemontcg.io/ex1/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Treecko-V1-RS76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -4611,6 +5219,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/77.png",
       "large": "https://images.pokemontcg.io/ex1/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Wingull-RS77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4670,6 +5286,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/78.png",
       "large": "https://images.pokemontcg.io/ex1/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Wurmple-RS78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4719,6 +5343,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/79.png",
       "large": "https://images.pokemontcg.io/ex1/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Zigzagoon-RS79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -4740,6 +5372,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/80.png",
       "large": "https://images.pokemontcg.io/ex1/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Energy-Removal-2-RS80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -4761,6 +5401,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/81.png",
       "large": "https://images.pokemontcg.io/ex1/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Energy-Restore-RS81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4784,6 +5432,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/82.png",
       "large": "https://images.pokemontcg.io/ex1/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Energy-Switch-RS82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4806,6 +5462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/83.png",
       "large": "https://images.pokemontcg.io/ex1/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Lady-Outing-RS83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -4829,6 +5493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/84.png",
       "large": "https://images.pokemontcg.io/ex1/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Lum-Berry-RS84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4851,6 +5523,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/85.png",
       "large": "https://images.pokemontcg.io/ex1/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Oran-Berry-V1-RS85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4874,6 +5554,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/86.png",
       "large": "https://images.pokemontcg.io/ex1/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Poke-Ball-RS86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -4895,6 +5583,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/87.png",
       "large": "https://images.pokemontcg.io/ex1/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Pokemon-Reversal-RS87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4916,6 +5612,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/88.png",
       "large": "https://images.pokemontcg.io/ex1/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/PokeNav-RS88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -4938,6 +5642,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/89.png",
       "large": "https://images.pokemontcg.io/ex1/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Professor-Birch-RS89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4961,6 +5673,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/90.png",
       "large": "https://images.pokemontcg.io/ex1/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Energy-Search-RS90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -4984,6 +5704,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/91.png",
       "large": "https://images.pokemontcg.io/ex1/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Potion-RS91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5007,6 +5735,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/92.png",
       "large": "https://images.pokemontcg.io/ex1/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Switch-RS92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -5028,6 +5764,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/93.png",
       "large": "https://images.pokemontcg.io/ex1/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Darkness-Energy-V1-RS93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5049,6 +5793,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/94.png",
       "large": "https://images.pokemontcg.io/ex1/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Metal-Energy-V1-RS94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5071,6 +5823,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/95.png",
       "large": "https://images.pokemontcg.io/ex1/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Rainbow-Energy-RS95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.95
+      }
     }
   },
   {
@@ -5138,6 +5898,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/96.png",
       "large": "https://images.pokemontcg.io/ex1/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Chansey-ex-RS96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5209,6 +5977,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/97.png",
       "large": "https://images.pokemontcg.io/ex1/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Electabuzz-ex-RS97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5271,6 +6047,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/98.png",
       "large": "https://images.pokemontcg.io/ex1/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Hitmonchan-ex-RS98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5334,6 +6118,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/99.png",
       "large": "https://images.pokemontcg.io/ex1/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Lapras-ex-RS99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5399,6 +6191,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/100.png",
       "large": "https://images.pokemontcg.io/ex1/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Magmar-ex-RS100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5462,6 +6262,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/101.png",
       "large": "https://images.pokemontcg.io/ex1/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Mewtwo-ex-RS101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5532,6 +6340,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/102.png",
       "large": "https://images.pokemontcg.io/ex1/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Scyther-ex-RS102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5602,6 +6418,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/103.png",
       "large": "https://images.pokemontcg.io/ex1/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Sneasel-ex-RS103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.35,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5621,6 +6445,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/104.png",
       "large": "https://images.pokemontcg.io/ex1/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Grass-Energy-RS104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5640,6 +6472,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/105.png",
       "large": "https://images.pokemontcg.io/ex1/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Fighting-Energy-RS105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -5659,6 +6499,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/106.png",
       "large": "https://images.pokemontcg.io/ex1/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Water-Energy-RS106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -5678,6 +6526,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/107.png",
       "large": "https://images.pokemontcg.io/ex1/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Psychic-Energy-RS107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.98
+      }
     }
   },
   {
@@ -5697,6 +6553,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/108.png",
       "large": "https://images.pokemontcg.io/ex1/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Fire-Energy-RS108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.44
+      }
     }
   },
   {
@@ -5716,6 +6580,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex1/109.png",
       "large": "https://images.pokemontcg.io/ex1/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Lightning-Energy-RS109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   }
 ]

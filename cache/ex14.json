@@ -6216,5 +6216,219 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "ex14-promo-28",
+    "name": "Venusaur  (CG 28) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "110",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Ivysaur",
+    "abilities": [
+      {
+        "name": "Chlorophyll",
+        "text": "All Energy cards that provide only Colorless Energy attached to your Grass Pokémon provide Grass Energy instead.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Green Blast",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "Does 20 damage plus 10 more damage for each Grass Energy attached to all of your Pokémon."
+      },
+      {
+        "name": "Toxic Sleep",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "The Defending Pokémon is now Asleep and Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "28",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      3
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex14/28.png",
+      "large": "https://images.pokemontcg.io/ex14/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Crystal-Guardians/Venusaur-V2-CG28",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 16.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "ex14-promo-42",
+    "name": "Wartortle  (CG 42) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Squirtle",
+    "evolvesTo": [
+      "Blastoise"
+    ],
+    "attacks": [
+      {
+        "name": "Bubble",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Tackle",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "42",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      8
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex14/42.png",
+      "large": "https://images.pokemontcg.io/ex14/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Crystal-Guardians/Wartortle-V2-CG42",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "ex14-promo-63",
+    "name": "Squirtle  (CG 63) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Wartortle"
+    ],
+    "attacks": [
+      {
+        "name": "Bite",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Skull Bash",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "63",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      7
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex14/63.png",
+      "large": "https://images.pokemontcg.io/ex14/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Crystal-Guardians/Squirtle-V2-CG63",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

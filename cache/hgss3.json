@@ -5877,5 +5877,135 @@
       "small": "https://images.pokemontcg.io/hgss3/THREE.png",
       "large": "https://images.pokemontcg.io/hgss3/THREE_hires.png"
     }
+  },
+  {
+    "id": "hgss3-promo-5",
+    "name": "Houndoom  (UD 5) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Houndour",
+    "attacks": [
+      {
+        "name": "Fire Counterattack",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20+",
+        "text": "If your opponent has any Fighting Pokémon in play, this attack does 20 damage plus 60 more damage."
+      },
+      {
+        "name": "Dark Roar",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "Your opponent discards a card from his or her hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "5",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
+    "nationalPokedexNumbers": [
+      229
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/hgss3/5.png",
+      "large": "https://images.pokemontcg.io/hgss3/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Houndoom-V2-UD5",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hgss3-promo-79",
+    "name": "Darkness Energy  (UD 79) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect if the Pokémon that Darkness Energy is attached to isn't Darkness. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)"
+    ],
+    "number": "79",
+    "artist": "Kent Kanetsuna",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/hgss3/79.png",
+      "large": "https://images.pokemontcg.io/hgss3/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Darkness-Energy-V2-UD79",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "hgss3-promo-80",
+    "name": "Metal Energy  (UD 80) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)"
+    ],
+    "number": "80",
+    "artist": "Kent Kanetsuna",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/hgss3/80.png",
+      "large": "https://images.pokemontcg.io/hgss3/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Undaunted/Metal-Energy-V2-UD80",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

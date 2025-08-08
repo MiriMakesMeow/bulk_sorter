@@ -12796,5 +12796,217 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "swsh4-promo-25",
+    "name": "Charizard  (VIV 25) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "170",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Charmeleon",
+    "abilities": [
+      {
+        "name": "Battle Sense",
+        "text": "Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Royal Blaze",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "100+",
+        "text": "This attack does 50 more damage for each Leon card in your discard pile."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "25",
+    "artist": "Ryuta Fuse",
+    "rarity": "Promo",
+    "flavorText": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+    "nationalPokedexNumbers": [
+      6
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/25.png",
+      "large": "https://images.pokemontcg.io/swsh4/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Vivid-Voltage/Charizard-V2-VIV25",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh4-promo-39",
+    "name": "Drednaw  (VIV 39) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "140",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Chewtle",
+    "attacks": [
+      {
+        "name": "Vise Wave",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "If you played Nessa from your hand during this turn, your opponent's Active Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Surf",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "140",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "39",
+    "artist": "Taira Akitsu",
+    "rarity": "Promo",
+    "flavorText": "With jaws that can shear through steel rods, this highly aggressive Pokémon chomps down on its unfortunate prey.",
+    "nationalPokedexNumbers": [
+      834
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/39.png",
+      "large": "https://images.pokemontcg.io/swsh4/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Vivid-Voltage/Drednaw-V2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh4-promo-131",
+    "name": "Snorlax  (VIV 131) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Colorless"
+    ],
+    "abilities": [
+      {
+        "name": "Gormandize",
+        "text": "Once during your turn, if this Pokémon is in the Active Spot, you may draw cards until you have 7 cards in your hand. If you use this Ability, your turn ends.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Body Slam",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "100",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "131",
+    "artist": "Atsuko Nishida",
+    "rarity": "Promo",
+    "flavorText": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+    "nationalPokedexNumbers": [
+      143
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh4/131.png",
+      "large": "https://images.pokemontcg.io/swsh4/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Vivid-Voltage/Snorlax-V2-VIV131",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

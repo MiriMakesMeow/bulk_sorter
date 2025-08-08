@@ -61,6 +61,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/1.png",
       "large": "https://images.pokemontcg.io/sm8/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Tangela-LOT1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -126,6 +134,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/2.png",
       "large": "https://images.pokemontcg.io/sm8/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Tangrowth-LOT2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -178,6 +194,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/3.png",
       "large": "https://images.pokemontcg.io/sm8/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Scyther-LOT3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -238,6 +262,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/4.png",
       "large": "https://images.pokemontcg.io/sm8/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Pinsir-LOT4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -299,6 +331,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/5.png",
       "large": "https://images.pokemontcg.io/sm8/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Chikorita-LOT5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -350,6 +390,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/6.png",
       "large": "https://images.pokemontcg.io/sm8/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Chikorita-LOT6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -414,6 +462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/7.png",
       "large": "https://images.pokemontcg.io/sm8/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Bayleef-LOT7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -474,6 +530,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/8.png",
       "large": "https://images.pokemontcg.io/sm8/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Meganium-LOT8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": 4.9
+      }
     }
   },
   {
@@ -534,6 +598,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/9.png",
       "large": "https://images.pokemontcg.io/sm8/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Spinarak-LOT9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -595,6 +667,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/10.png",
       "large": "https://images.pokemontcg.io/sm8/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Ariados-LOT10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -652,6 +732,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/11.png",
       "large": "https://images.pokemontcg.io/sm8/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Hoppip-LOT11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -709,6 +797,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/12.png",
       "large": "https://images.pokemontcg.io/sm8/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Hoppip-LOT12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -770,6 +866,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/13.png",
       "large": "https://images.pokemontcg.io/sm8/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Skiploom-LOT13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.13
+      }
     }
   },
   {
@@ -821,6 +925,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/14.png",
       "large": "https://images.pokemontcg.io/sm8/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Jumpluff-V1-LOT14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -873,6 +985,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/15.png",
       "large": "https://images.pokemontcg.io/sm8/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Pineco-LOT15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -928,6 +1048,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/16.png",
       "large": "https://images.pokemontcg.io/sm8/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Shuckle-LOT16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -995,6 +1123,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/17.png",
       "large": "https://images.pokemontcg.io/sm8/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Shuckle-GX-V1-LOT17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1054,6 +1190,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/18.png",
       "large": "https://images.pokemontcg.io/sm8/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Heracross-LOT18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1115,6 +1259,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/19.png",
       "large": "https://images.pokemontcg.io/sm8/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Celebi-LOT19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1166,6 +1318,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/20.png",
       "large": "https://images.pokemontcg.io/sm8/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Treecko-LOT20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1227,6 +1387,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/21.png",
       "large": "https://images.pokemontcg.io/sm8/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Grovyle-LOT21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.06,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1298,6 +1466,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/22.png",
       "large": "https://images.pokemontcg.io/sm8/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Sceptile-GX-V1-LOT22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1350,6 +1526,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/23.png",
       "large": "https://images.pokemontcg.io/sm8/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Wurmple-LOT23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1402,6 +1586,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/24.png",
       "large": "https://images.pokemontcg.io/sm8/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Wurmple-LOT24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1465,6 +1657,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/25.png",
       "large": "https://images.pokemontcg.io/sm8/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Silcoon-LOT25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1523,6 +1723,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/26.png",
       "large": "https://images.pokemontcg.io/sm8/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Beautifly-LOT26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1586,6 +1794,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/27.png",
       "large": "https://images.pokemontcg.io/sm8/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Cascoon-LOT27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1644,6 +1860,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/28.png",
       "large": "https://images.pokemontcg.io/sm8/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Dustox-LOT28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.47
+      }
     }
   },
   {
@@ -1695,6 +1919,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/29.png",
       "large": "https://images.pokemontcg.io/sm8/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Nincada-LOT29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1750,6 +1982,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/30.png",
       "large": "https://images.pokemontcg.io/sm8/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Ninjask-LOT30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1801,6 +2041,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/31.png",
       "large": "https://images.pokemontcg.io/sm8/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Combee-LOT31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1851,6 +2099,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/32.png",
       "large": "https://images.pokemontcg.io/sm8/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Vespiquen-LOT32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.44
+      }
     }
   },
   {
@@ -1907,6 +2163,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/33.png",
       "large": "https://images.pokemontcg.io/sm8/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Shaymin-LOT33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1977,6 +2241,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/34.png",
       "large": "https://images.pokemontcg.io/sm8/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Virizion-GX-V1-LOT34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2038,6 +2310,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/35.png",
       "large": "https://images.pokemontcg.io/sm8/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Skiddo-LOT35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2100,6 +2380,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/36.png",
       "large": "https://images.pokemontcg.io/sm8/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Gogoat-LOT36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2161,6 +2449,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/37.png",
       "large": "https://images.pokemontcg.io/sm8/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Tapu-Bulu-LOT37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -2220,6 +2516,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/38.png",
       "large": "https://images.pokemontcg.io/sm8/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Moltres-V1-LOT38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2271,6 +2575,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/39.png",
       "large": "https://images.pokemontcg.io/sm8/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Cyndaquil-LOT39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2323,6 +2635,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/40.png",
       "large": "https://images.pokemontcg.io/sm8/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Cyndaquil-LOT40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2388,6 +2708,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/41.png",
       "large": "https://images.pokemontcg.io/sm8/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Quilava-LOT41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2448,6 +2776,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/42.png",
       "large": "https://images.pokemontcg.io/sm8/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Typhlosion-LOT42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 4.49
+      }
     }
   },
   {
@@ -2513,6 +2849,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/43.png",
       "large": "https://images.pokemontcg.io/sm8/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Slugma-LOT43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2585,6 +2929,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/44.png",
       "large": "https://images.pokemontcg.io/sm8/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Magcargo-GX-V1-LOT44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.89,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2645,6 +2997,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/45.png",
       "large": "https://images.pokemontcg.io/sm8/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Houndour-LOT45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -2704,6 +3064,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/46.png",
       "large": "https://images.pokemontcg.io/sm8/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Houndoom-LOT46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.12,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2765,6 +3133,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/47.png",
       "large": "https://images.pokemontcg.io/sm8/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Entei-LOT47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.14,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -2830,6 +3206,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/48.png",
       "large": "https://images.pokemontcg.io/sm8/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Heatran-LOT48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2879,6 +3263,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/49.png",
       "large": "https://images.pokemontcg.io/sm8/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Victini-LOT49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -2939,6 +3331,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/50.png",
       "large": "https://images.pokemontcg.io/sm8/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Litleo-LOT50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3001,6 +3401,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/51.png",
       "large": "https://images.pokemontcg.io/sm8/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Pyroar-LOT51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3073,6 +3481,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/52.png",
       "large": "https://images.pokemontcg.io/sm8/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Blacephalon-GX-V1-LOT52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3132,6 +3548,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/53.png",
       "large": "https://images.pokemontcg.io/sm8/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Alolan-Vulpix-LOT53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3185,6 +3609,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/54.png",
       "large": "https://images.pokemontcg.io/sm8/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Slowpoke-LOT54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3246,6 +3678,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/55.png",
       "large": "https://images.pokemontcg.io/sm8/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Slowking-LOT55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3303,6 +3743,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/56.png",
       "large": "https://images.pokemontcg.io/sm8/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Lapras-LOT56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3361,6 +3809,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/57.png",
       "large": "https://images.pokemontcg.io/sm8/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Delibird-LOT57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3426,6 +3882,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/58.png",
       "large": "https://images.pokemontcg.io/sm8/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Mantine-LOT58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3483,6 +3947,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/59.png",
       "large": "https://images.pokemontcg.io/sm8/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Suicune-LOT59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.79,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -3555,6 +4027,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/60.png",
       "large": "https://images.pokemontcg.io/sm8/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Suicune-GX-V1-LOT60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3617,6 +4097,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/61.png",
       "large": "https://images.pokemontcg.io/sm8/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Cubchoo-LOT61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -3682,6 +4170,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/62.png",
       "large": "https://images.pokemontcg.io/sm8/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Beartic-LOT62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -3744,6 +4240,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/63.png",
       "large": "https://images.pokemontcg.io/sm8/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/White-Kyurem-LOT63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 1.6
+      }
     }
   },
   {
@@ -3796,6 +4300,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/64.png",
       "large": "https://images.pokemontcg.io/sm8/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Popplio-LOT64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3847,6 +4359,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/65.png",
       "large": "https://images.pokemontcg.io/sm8/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Popplio-LOT65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3909,6 +4429,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/66.png",
       "large": "https://images.pokemontcg.io/sm8/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Brionne-LOT66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3968,6 +4496,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/67.png",
       "large": "https://images.pokemontcg.io/sm8/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Primarina-LOT67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -4019,6 +4555,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/68.png",
       "large": "https://images.pokemontcg.io/sm8/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Mareanie-LOT68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -4080,6 +4624,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/69.png",
       "large": "https://images.pokemontcg.io/sm8/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Toxapex-LOT69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -4138,6 +4690,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/70.png",
       "large": "https://images.pokemontcg.io/sm8/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Bruxish-LOT70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4197,6 +4757,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/71.png",
       "large": "https://images.pokemontcg.io/sm8/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Electabuzz-LOT71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4267,6 +4835,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/72.png",
       "large": "https://images.pokemontcg.io/sm8/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Electivire-LOT72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -4334,6 +4910,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/73.png",
       "large": "https://images.pokemontcg.io/sm8/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Chinchou-LOT73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4400,6 +4984,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/74.png",
       "large": "https://images.pokemontcg.io/sm8/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Lanturn-LOT74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4465,6 +5057,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/75.png",
       "large": "https://images.pokemontcg.io/sm8/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Mareep-V1-LOT75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4522,6 +5122,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/76.png",
       "large": "https://images.pokemontcg.io/sm8/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Mareep-LOT76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -4581,6 +5189,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/77.png",
       "large": "https://images.pokemontcg.io/sm8/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Flaaffy-LOT77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4645,6 +5261,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/78.png",
       "large": "https://images.pokemontcg.io/sm8/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Ampharos-LOT78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4701,6 +5325,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/79.png",
       "large": "https://images.pokemontcg.io/sm8/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Raikou-LOT79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -4755,6 +5387,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/80.png",
       "large": "https://images.pokemontcg.io/sm8/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Pachirisu-LOT80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4822,6 +5462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/81.png",
       "large": "https://images.pokemontcg.io/sm8/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Blitzle-V1-LOT81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4885,6 +5533,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/82.png",
       "large": "https://images.pokemontcg.io/sm8/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Zebstrika-V1-LOT82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -4950,6 +5606,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/83.png",
       "large": "https://images.pokemontcg.io/sm8/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Stunfisk-LOT83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -5013,6 +5677,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/84.png",
       "large": "https://images.pokemontcg.io/sm8/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Dedenne-LOT84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5079,6 +5751,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/85.png",
       "large": "https://images.pokemontcg.io/sm8/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Tapu-Koko-LOT85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -5155,6 +5835,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/86.png",
       "large": "https://images.pokemontcg.io/sm8/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Zeraora-GX-V1-LOT86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5207,6 +5895,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/87.png",
       "large": "https://images.pokemontcg.io/sm8/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Natu-LOT87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5268,6 +5964,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/88.png",
       "large": "https://images.pokemontcg.io/sm8/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Xatu-LOT88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5326,6 +6030,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/89.png",
       "large": "https://images.pokemontcg.io/sm8/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Espeon-V1-LOT89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 5.99
+      }
     }
   },
   {
@@ -5381,6 +6093,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/90.png",
       "large": "https://images.pokemontcg.io/sm8/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Unown-LOT90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -5436,6 +6156,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/91.png",
       "large": "https://images.pokemontcg.io/sm8/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Unown-LOT91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -5491,6 +6219,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/92.png",
       "large": "https://images.pokemontcg.io/sm8/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Unown-LOT92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -5548,6 +6284,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/93.png",
       "large": "https://images.pokemontcg.io/sm8/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Wobbuffet-LOT93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5607,6 +6351,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/94.png",
       "large": "https://images.pokemontcg.io/sm8/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Girafarig-LOT94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.48
+      }
     }
   },
   {
@@ -5657,6 +6409,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/95.png",
       "large": "https://images.pokemontcg.io/sm8/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Shedinja-LOT95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.95
+      }
     }
   },
   {
@@ -5708,6 +6468,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/96.png",
       "large": "https://images.pokemontcg.io/sm8/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Sableye-LOT96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5773,6 +6541,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/97.png",
       "large": "https://images.pokemontcg.io/sm8/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Giratina-LOT97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.49,
+        "reverseHoloLow": 8.0
+      }
     }
   },
   {
@@ -5851,6 +6627,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/98.png",
       "large": "https://images.pokemontcg.io/sm8/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Sigilyph-GX-V1-LOT98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5908,6 +6692,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/99.png",
       "large": "https://images.pokemontcg.io/sm8/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Yamask-LOT99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5966,6 +6758,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/100.png",
       "large": "https://images.pokemontcg.io/sm8/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Cofagrigus-LOT100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6023,6 +6823,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/101.png",
       "large": "https://images.pokemontcg.io/sm8/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Litwick-LOT101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6081,6 +6889,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/102.png",
       "large": "https://images.pokemontcg.io/sm8/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Lampent-LOT102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6147,6 +6963,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/103.png",
       "large": "https://images.pokemontcg.io/sm8/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Chandelure-LOT103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -6206,6 +7030,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/104.png",
       "large": "https://images.pokemontcg.io/sm8/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Meloetta-LOT104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -6267,6 +7099,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/105.png",
       "large": "https://images.pokemontcg.io/sm8/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Mareanie-V1-LOT105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6325,6 +7165,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/106.png",
       "large": "https://images.pokemontcg.io/sm8/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Nihilego-LOT106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": 8.0
+      }
     }
   },
   {
@@ -6387,6 +7235,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/107.png",
       "large": "https://images.pokemontcg.io/sm8/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Poipole-V1-LOT107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6446,6 +7302,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/108.png",
       "large": "https://images.pokemontcg.io/sm8/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Naganadel-V1-LOT108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -6503,6 +7367,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/109.png",
       "large": "https://images.pokemontcg.io/sm8/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Onix-LOT109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6552,6 +7424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/110.png",
       "large": "https://images.pokemontcg.io/sm8/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Sudowoodo-LOT110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6605,6 +7485,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/111.png",
       "large": "https://images.pokemontcg.io/sm8/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Phanpy-LOT111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.13
+      }
     }
   },
   {
@@ -6665,6 +7553,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/112.png",
       "large": "https://images.pokemontcg.io/sm8/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Donphan-LOT112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -6724,6 +7620,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/113.png",
       "large": "https://images.pokemontcg.io/sm8/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Hitmontop-LOT113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6782,6 +7686,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/114.png",
       "large": "https://images.pokemontcg.io/sm8/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Larvitar-LOT114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6834,6 +7746,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/115.png",
       "large": "https://images.pokemontcg.io/sm8/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Larvitar-LOT115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6897,6 +7817,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/116.png",
       "large": "https://images.pokemontcg.io/sm8/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Pupitar-LOT116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6956,6 +7884,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/117.png",
       "large": "https://images.pokemontcg.io/sm8/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Carbink-LOT117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -6975,9 +7911,7 @@
     "attacks": [
       {
         "name": "Spoil the Fun",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10+",
         "text": "If you go second, this attack does 60 more damage during your first turn."
@@ -7013,6 +7947,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/118.png",
       "large": "https://images.pokemontcg.io/sm8/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Alolan-Meowth-LOT118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -7030,9 +7972,7 @@
     "attacks": [
       {
         "name": "Empty Threat",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "90-",
         "text": "This attack does 30 less damage times the amount of Energy attached to your opponent's Active Pokémon."
@@ -7068,6 +8008,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/119.png",
       "large": "https://images.pokemontcg.io/sm8/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Alolan-Persian-LOT119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -7133,6 +8081,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/120.png",
       "large": "https://images.pokemontcg.io/sm8/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Umbreon-LOT120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 6.9
+      }
     }
   },
   {
@@ -7213,6 +8169,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/121.png",
       "large": "https://images.pokemontcg.io/sm8/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Tyranitar-GX-V1-LOT121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.87,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7232,9 +8196,7 @@
     "attacks": [
       {
         "name": "Call for Family",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
@@ -7270,6 +8232,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/122.png",
       "large": "https://images.pokemontcg.io/sm8/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Alolan-Diglett-LOT122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7287,9 +8257,7 @@
     "attacks": [
       {
         "name": "Digging Dash",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "60",
         "text": "This attack's damage isn't affected by Weakness or Resistance."
@@ -7325,6 +8293,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/123.png",
       "large": "https://images.pokemontcg.io/sm8/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Alolan-Dugtrio-LOT123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -7392,6 +8368,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/124.png",
       "large": "https://images.pokemontcg.io/sm8/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Forretress-LOT124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -7464,6 +8448,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/125.png",
       "large": "https://images.pokemontcg.io/sm8/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Steelix-LOT125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -7527,6 +8519,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/126.png",
       "large": "https://images.pokemontcg.io/sm8/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Scizor-LOT126",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.69,
+        "reverseHoloLow": 1.2
+      }
     }
   },
   {
@@ -7596,6 +8596,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/127.png",
       "large": "https://images.pokemontcg.io/sm8/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Dialga-LOT127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -7660,6 +8668,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/128.png",
       "large": "https://images.pokemontcg.io/sm8/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Durant-LOT128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7727,6 +8743,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/129.png",
       "large": "https://images.pokemontcg.io/sm8/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Cobalion-LOT129",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -7805,6 +8829,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/130.png",
       "large": "https://images.pokemontcg.io/sm8/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Genesect-GX-V1-LOT130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7869,6 +8901,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/131.png",
       "large": "https://images.pokemontcg.io/sm8/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Magearna-LOT131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -7946,6 +8986,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/132.png",
       "large": "https://images.pokemontcg.io/sm8/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Alolan-Ninetales-GX-V1-LOT132",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8014,6 +9062,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/133.png",
       "large": "https://images.pokemontcg.io/sm8/133_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Jigglypuff-LOT133",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -8082,6 +9138,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/134.png",
       "large": "https://images.pokemontcg.io/sm8/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Wigglytuff-LOT134",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -8141,6 +9205,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/135.png",
       "large": "https://images.pokemontcg.io/sm8/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Marill-LOT135",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -8208,6 +9280,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/136.png",
       "large": "https://images.pokemontcg.io/sm8/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Azumarill-LOT136",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.65
+      }
     }
   },
   {
@@ -8266,6 +9346,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/137.png",
       "large": "https://images.pokemontcg.io/sm8/137_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Snubbull-LOT137",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -8334,6 +9422,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/138.png",
       "large": "https://images.pokemontcg.io/sm8/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Granbull-LOT138",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -8401,6 +9497,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/139.png",
       "large": "https://images.pokemontcg.io/sm8/139_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Ralts-LOT139",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -8472,6 +9576,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/140.png",
       "large": "https://images.pokemontcg.io/sm8/140_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Kirlia-LOT140",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -8539,6 +9651,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/141.png",
       "large": "https://images.pokemontcg.io/sm8/141_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Gardevoir-LOT141",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -8593,6 +9713,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/142.png",
       "large": "https://images.pokemontcg.io/sm8/142_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Dedenne-LOT142",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.44
+      }
     }
   },
   {
@@ -8659,6 +9787,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/143.png",
       "large": "https://images.pokemontcg.io/sm8/143_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Carbink-LOT143",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -8727,6 +9863,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/144.png",
       "large": "https://images.pokemontcg.io/sm8/144_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Xerneas-LOT144",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -8780,6 +9924,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/145.png",
       "large": "https://images.pokemontcg.io/sm8/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Cutiefly-LOT145",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -8838,6 +9990,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/146.png",
       "large": "https://images.pokemontcg.io/sm8/146_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Ribombee-LOT146",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -8895,6 +10055,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/147.png",
       "large": "https://images.pokemontcg.io/sm8/147_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Morelull-LOT147",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -8959,6 +10127,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/148.png",
       "large": "https://images.pokemontcg.io/sm8/148_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Shiinotic-LOT148",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.38
+      }
     }
   },
   {
@@ -9023,6 +10199,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/149.png",
       "large": "https://images.pokemontcg.io/sm8/149_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Mimikyu-GX-V1-LOT149",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.39,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9086,6 +10270,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/150.png",
       "large": "https://images.pokemontcg.io/sm8/150_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Tapu-Lele-LOT150",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -9152,6 +10344,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/151.png",
       "large": "https://images.pokemontcg.io/sm8/151_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Tapu-Fini-LOT151",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -9215,6 +10415,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/152.png",
       "large": "https://images.pokemontcg.io/sm8/152_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Chansey-LOT152",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -9275,6 +10483,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/153.png",
       "large": "https://images.pokemontcg.io/sm8/153_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Blissey-LOT153",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -9323,6 +10539,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/154.png",
       "large": "https://images.pokemontcg.io/sm8/154_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Ditto-LOT154",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 2.8
+      }
     }
   },
   {
@@ -9381,6 +10605,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/155.png",
       "large": "https://images.pokemontcg.io/sm8/155_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Eevee-LOT155",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.34
+      }
     }
   },
   {
@@ -9440,6 +10672,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/156.png",
       "large": "https://images.pokemontcg.io/sm8/156_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Stantler-LOT156",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -9497,6 +10737,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/157.png",
       "large": "https://images.pokemontcg.io/sm8/157_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Smeargle-LOT157",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -9549,6 +10797,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/158.png",
       "large": "https://images.pokemontcg.io/sm8/158_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Miltank-LOT158",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -9632,6 +10888,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/159.png",
       "large": "https://images.pokemontcg.io/sm8/159_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Lugia-GX-V1-LOT159",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9689,6 +10953,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/160.png",
       "large": "https://images.pokemontcg.io/sm8/160_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Ho-Oh-LOT160",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.69,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -9744,6 +11016,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/161.png",
       "large": "https://images.pokemontcg.io/sm8/161_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Kecleon-LOT161",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -9800,6 +11080,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/162.png",
       "large": "https://images.pokemontcg.io/sm8/162_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Kecleon-LOT162",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -9857,6 +11145,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/163.png",
       "large": "https://images.pokemontcg.io/sm8/163_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Pikipek-LOT163",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -9924,6 +11220,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/164.png",
       "large": "https://images.pokemontcg.io/sm8/164_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Pikipek-LOT164",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -9990,6 +11294,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/165.png",
       "large": "https://images.pokemontcg.io/sm8/165_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Trumbeak-LOT165",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.44
+      }
     }
   },
   {
@@ -10057,6 +11369,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/166.png",
       "large": "https://images.pokemontcg.io/sm8/166_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Toucannon-LOT166",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -10080,6 +11400,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/167.png",
       "large": "https://images.pokemontcg.io/sm8/167_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Adventure-Bag-V1-LOT167",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -10103,6 +11431,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/168.png",
       "large": "https://images.pokemontcg.io/sm8/168_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Aether-Foundation-Employee-LOT168",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -10127,6 +11463,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/169.png",
       "large": "https://images.pokemontcg.io/sm8/169_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Choice-Helmet-V1-LOT169",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -10151,6 +11495,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/170.png",
       "large": "https://images.pokemontcg.io/sm8/170_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Counter-Gain-V1-LOT170",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -10174,6 +11526,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/171.png",
       "large": "https://images.pokemontcg.io/sm8/171_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Custom-Catcher-V1-LOT171",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -10197,6 +11557,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/172.png",
       "large": "https://images.pokemontcg.io/sm8/172_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Electropower-V1-LOT172",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -10243,6 +11611,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/173.png",
       "large": "https://images.pokemontcg.io/sm8/173_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Faba-V1-LOT173",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -10267,6 +11643,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/174.png",
       "large": "https://images.pokemontcg.io/sm8/174_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Fairy-Charm-LOT174",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -10291,6 +11675,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/175.png",
       "large": "https://images.pokemontcg.io/sm8/175_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Fairy-Charm-LOT175",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -10315,6 +11707,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/176.png",
       "large": "https://images.pokemontcg.io/sm8/176_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Fairy-Charm-LOT176",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -10339,6 +11739,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/177.png",
       "large": "https://images.pokemontcg.io/sm8/177_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Fairy-Charm-LOT177",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -10365,6 +11773,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/178.png",
       "large": "https://images.pokemontcg.io/sm8/178_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Heat-Factory-V1-LOT178",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -10388,6 +11804,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/179.png",
       "large": "https://images.pokemontcg.io/sm8/179_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Kahili-V1-LOT179",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -10414,6 +11838,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/180.png",
       "large": "https://images.pokemontcg.io/sm8/180_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Life-Forest-LOT180",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -10437,6 +11869,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/181.png",
       "large": "https://images.pokemontcg.io/sm8/181_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Lost-Blender-V1-LOT181",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -10463,6 +11903,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/182.png",
       "large": "https://images.pokemontcg.io/sm8/182_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Lusamine-LOT182",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.24,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -10486,6 +11934,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/183.png",
       "large": "https://images.pokemontcg.io/sm8/183_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Mina-V1-LOT183",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -10509,6 +11965,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/184.png",
       "large": "https://images.pokemontcg.io/sm8/184_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Mixed-Herbs-LOT184",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -10532,6 +11996,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/185.png",
       "large": "https://images.pokemontcg.io/sm8/185_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Moomoo-Milk-LOT185",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -10556,6 +12028,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/186.png",
       "large": "https://images.pokemontcg.io/sm8/186_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Morty-V1-LOT186",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -10579,6 +12059,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/187.png",
       "large": "https://images.pokemontcg.io/sm8/187_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Net-Ball-V1-LOT187",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -10625,6 +12113,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/188.png",
       "large": "https://images.pokemontcg.io/sm8/188_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Professor-Elms-Lecture-V1-LOT188",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.33
+      }
     }
   },
   {
@@ -10671,6 +12167,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/189.png",
       "large": "https://images.pokemontcg.io/sm8/189_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Sightseer-V1-LOT189",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.34
+      }
     }
   },
   {
@@ -10718,6 +12222,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/190.png",
       "large": "https://images.pokemontcg.io/sm8/190_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Spell-Tag-V1-LOT190",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.48
+      }
     }
   },
   {
@@ -10744,6 +12256,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/191.png",
       "large": "https://images.pokemontcg.io/sm8/191_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Thunder-Mountain-V1-LOT191",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -10768,6 +12288,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/192.png",
       "large": "https://images.pokemontcg.io/sm8/192_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Wait-and-See-Hammer-V1-LOT192",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -10791,6 +12319,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/193.png",
       "large": "https://images.pokemontcg.io/sm8/193_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Whitney-V1-LOT193",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.34
+      }
     }
   },
   {
@@ -10813,6 +12349,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/194.png",
       "large": "https://images.pokemontcg.io/sm8/194_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Memory-Energy-LOT194",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -10880,6 +12424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/195.png",
       "large": "https://images.pokemontcg.io/sm8/195_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Shuckle-GX-V2-LOT195",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10951,6 +12503,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/196.png",
       "large": "https://images.pokemontcg.io/sm8/196_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Sceptile-GX-V2-LOT196",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.7,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11021,6 +12581,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/197.png",
       "large": "https://images.pokemontcg.io/sm8/197_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Virizion-GX-V2-LOT197",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.45,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11093,6 +12661,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/198.png",
       "large": "https://images.pokemontcg.io/sm8/198_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Magcargo-GX-V2-LOT198",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.28,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11165,6 +12741,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/199.png",
       "large": "https://images.pokemontcg.io/sm8/199_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Blacephalon-GX-V2-LOT199",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11237,6 +12821,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/200.png",
       "large": "https://images.pokemontcg.io/sm8/200_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Suicune-GX-V2-LOT200",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11313,6 +12905,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/201.png",
       "large": "https://images.pokemontcg.io/sm8/201_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Zeraora-GX-V2-LOT201",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11391,6 +12991,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/202.png",
       "large": "https://images.pokemontcg.io/sm8/202_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Sigilyph-GX-V2-LOT202",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11471,6 +13079,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/203.png",
       "large": "https://images.pokemontcg.io/sm8/203_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Tyranitar-GX-V2-LOT203",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11549,6 +13165,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/204.png",
       "large": "https://images.pokemontcg.io/sm8/204_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Genesect-GX-V2-LOT204",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11626,6 +13250,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/205.png",
       "large": "https://images.pokemontcg.io/sm8/205_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Alolan-Ninetales-GX-V2-LOT205",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11690,6 +13322,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/206.png",
       "large": "https://images.pokemontcg.io/sm8/206_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Mimikyu-GX-V2-LOT206",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11773,6 +13413,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/207.png",
       "large": "https://images.pokemontcg.io/sm8/207_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Lugia-GX-V2-LOT207",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 14.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11796,6 +13444,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/208.png",
       "large": "https://images.pokemontcg.io/sm8/208_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Faba-V2-LOT208",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11820,6 +13476,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/209.png",
       "large": "https://images.pokemontcg.io/sm8/209_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Judge-LOT209",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11843,6 +13507,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/210.png",
       "large": "https://images.pokemontcg.io/sm8/210_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Kahili-V2-LOT210",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11866,6 +13538,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/211.png",
       "large": "https://images.pokemontcg.io/sm8/211_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Mina-V2-LOT211",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 12.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11890,6 +13570,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/212.png",
       "large": "https://images.pokemontcg.io/sm8/212_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Morty-V2-LOT212",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11913,6 +13601,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/213.png",
       "large": "https://images.pokemontcg.io/sm8/213_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Professor-Elms-Lecture-V2-LOT213",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 25.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11936,6 +13632,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/214.png",
       "large": "https://images.pokemontcg.io/sm8/214_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Whitney-V2-LOT214",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 11.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12003,6 +13707,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/215.png",
       "large": "https://images.pokemontcg.io/sm8/215_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Shuckle-GX-V3-LOT215",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12074,6 +13786,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/216.png",
       "large": "https://images.pokemontcg.io/sm8/216_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Sceptile-GX-V3-LOT216",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12144,6 +13864,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/217.png",
       "large": "https://images.pokemontcg.io/sm8/217_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Virizion-GX-V3-LOT217",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12216,6 +13944,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/218.png",
       "large": "https://images.pokemontcg.io/sm8/218_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Magcargo-GX-V3-LOT218",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12288,6 +14024,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/219.png",
       "large": "https://images.pokemontcg.io/sm8/219_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Blacephalon-GX-V3-LOT219",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12360,6 +14104,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/220.png",
       "large": "https://images.pokemontcg.io/sm8/220_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Suicune-GX-V3-LOT220",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 29.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12436,6 +14188,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/221.png",
       "large": "https://images.pokemontcg.io/sm8/221_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Zeraora-GX-V3-LOT221",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12514,6 +14274,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/222.png",
       "large": "https://images.pokemontcg.io/sm8/222_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Sigilyph-GX-V3-LOT222",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.85,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12594,6 +14362,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/223.png",
       "large": "https://images.pokemontcg.io/sm8/223_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Tyranitar-GX-V3-LOT223",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 16.94,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12672,6 +14448,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/224.png",
       "large": "https://images.pokemontcg.io/sm8/224_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Genesect-GX-V3-LOT224",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12749,6 +14533,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/225.png",
       "large": "https://images.pokemontcg.io/sm8/225_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Alolan-Ninetales-GX-V3-LOT225",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 11.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12813,6 +14605,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/226.png",
       "large": "https://images.pokemontcg.io/sm8/226_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Mimikyu-GX-V3-LOT226",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 35.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12896,6 +14696,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/227.png",
       "large": "https://images.pokemontcg.io/sm8/227_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Lugia-GX-V3-LOT227",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 44.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12919,6 +14727,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/228.png",
       "large": "https://images.pokemontcg.io/sm8/228_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Adventure-Bag-V2-LOT228",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12943,6 +14759,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/229.png",
       "large": "https://images.pokemontcg.io/sm8/229_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Choice-Helmet-V2-LOT229",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12967,6 +14791,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/230.png",
       "large": "https://images.pokemontcg.io/sm8/230_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Counter-Gain-V2-LOT230",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12990,6 +14822,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/231.png",
       "large": "https://images.pokemontcg.io/sm8/231_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Custom-Catcher-V2-LOT231",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13013,6 +14853,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/232.png",
       "large": "https://images.pokemontcg.io/sm8/232_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Electropower-V2-LOT232",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.45,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13036,6 +14884,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/233.png",
       "large": "https://images.pokemontcg.io/sm8/233_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Lost-Blender-V2-LOT233",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13059,6 +14915,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/234.png",
       "large": "https://images.pokemontcg.io/sm8/234_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Net-Ball-V2-LOT234",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13083,6 +14947,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/235.png",
       "large": "https://images.pokemontcg.io/sm8/235_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Spell-Tag-V2-LOT235",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13107,6 +14979,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm8/236.png",
       "large": "https://images.pokemontcg.io/sm8/236_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Wait-and-See-Hammer-V2-LOT236",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.95,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

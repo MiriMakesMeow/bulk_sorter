@@ -7675,5 +7675,338 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "xy9-promo-1",
+    "name": "Chikorita  (BKP 1) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [
+      "Bayleef"
+    ],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Blot",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "Heal 10 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "1",
+    "artist": "Akira Komayama",
+    "rarity": "Promo",
+    "flavorText": "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
+    "nationalPokedexNumbers": [
+      152
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy9/1.png",
+      "large": "https://images.pokemontcg.io/xy9/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKpoint/Chikorita-V2-BKP1",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.48,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy9-promo-2",
+    "name": "Bayleef  (BKP 2) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Chikorita",
+    "evolvesTo": [
+      "Meganium"
+    ],
+    "attacks": [
+      {
+        "name": "Body Slam",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Flip a coin. If heads, your opponent's active Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Vine Whip",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "2",
+    "artist": "Mizue",
+    "rarity": "Promo",
+    "flavorText": "The buds that ring its neck give off a spicy aroma that perks people up.",
+    "nationalPokedexNumbers": [
+      153
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy9/2.png",
+      "large": "https://images.pokemontcg.io/xy9/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKpoint/Bayleef-V2-BKP2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy9-promo-3",
+    "name": "Meganium  (BKP 3) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Bayleef",
+    "abilities": [
+      {
+        "name": "Overgrow",
+        "text": "If this Pokémon's remaining HP is 50 or less, its attacks do 70 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Green Force",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "3",
+    "artist": "kawayoo",
+    "rarity": "Promo",
+    "flavorText": "Meganium's breath has the power to revive dead grass and plants. It can make them healthy again.",
+    "nationalPokedexNumbers": [
+      154
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy9/3.png",
+      "large": "https://images.pokemontcg.io/xy9/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKpoint/Meganium-V2-BKP3",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy9-promo-40",
+    "name": "Greninja  (BKP 40) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "130",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Frogadier",
+    "attacks": [
+      {
+        "name": "Shadow Stitching",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40",
+        "text": "Until the end of your opponent's next turn, each Pokémon your opponent has in play, in his or her hand, and in his or her discard pile has no Abilities. (This includes cards that come into play on that turn.)"
+      },
+      {
+        "name": "Moonlight Slash",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60+",
+        "text": "You may return a Water Energy from this Pokémon to your hand. If you do, this attack does 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "number": "40",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "flavorText": "It appears and vanishes with a ninja's grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
+    "nationalPokedexNumbers": [
+      658
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy9/40.png",
+      "large": "https://images.pokemontcg.io/xy9/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKpoint/Greninja-V2-BKP40",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 19.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy9-promo-104",
+    "name": "Misty's Determination (BKP 104) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard a card from your hand. If you do, look at the top 8 cards of your deck and put 1 of them into your hand. Shuffle the other cards back into your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "104",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy9/104.png",
+      "large": "https://images.pokemontcg.io/xy9/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKpoint/Mistys-Determination-V2-BKP104",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 17.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy9-promo-110",
+    "name": "Reverse Valley (BKP 110) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "Choose which way this card faces before you play it. Any damage done to this ↓ player's Metal Pokémon by an opponent's attack is reduced by 10 (after applying Weakness and Resistance).",
+      "Choose which way this card faces before you play it. The attacks of this ↓ player's Darkness Pokémon do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "number": "110",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy9/110.png",
+      "large": "https://images.pokemontcg.io/xy9/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BREAKpoint/Reverse-Valley-V2-BKP110",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 24.95,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

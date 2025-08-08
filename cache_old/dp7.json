@@ -72,6 +72,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/1.png",
       "large": "https://images.pokemontcg.io/dp7/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Dusknoir-Lv48-STF1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -140,6 +148,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/2.png",
       "large": "https://images.pokemontcg.io/dp7/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Empoleon-Lv52-STF2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -204,6 +220,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/3.png",
       "large": "https://images.pokemontcg.io/dp7/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Infernape-Lv49-STF3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.65
+      }
     }
   },
   {
@@ -229,9 +253,7 @@
     "attacks": [
       {
         "name": "Quick Swim",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance."
@@ -264,6 +286,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/4.png",
       "large": "https://images.pokemontcg.io/dp7/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Lumineon-Lv38-STF4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -338,6 +368,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/5.png",
       "large": "https://images.pokemontcg.io/dp7/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Magnezone-Lv44-STF5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -404,6 +442,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/6.png",
       "large": "https://images.pokemontcg.io/dp7/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Magnezone-Lv46-STF6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -422,9 +468,7 @@
     "attacks": [
       {
         "name": "Crash Chant",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "20×",
         "text": "Choose up to 4 in any combination of Pokémon Tool cards and Technical Machine cards in play (both yours and your opponent's) and discard them. This attack does 20 damage times the number of cards discarded in this way."
@@ -468,6 +512,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/7.png",
       "large": "https://images.pokemontcg.io/dp7/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Mismagius-Lv33-STF7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -486,9 +538,7 @@
     "attacks": [
       {
         "name": "Slice",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "30",
         "text": "Raichu can't use Slice during your next turn."
@@ -540,6 +590,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/8.png",
       "large": "https://images.pokemontcg.io/dp7/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Raichu-Lv45-STF8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.24
+      }
     }
   },
   {
@@ -610,6 +668,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/9.png",
       "large": "https://images.pokemontcg.io/dp7/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Regigigas-Lv47-STF9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -684,6 +750,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/10.png",
       "large": "https://images.pokemontcg.io/dp7/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Sceptile-Lv56-STF10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -761,6 +835,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/11.png",
       "large": "https://images.pokemontcg.io/dp7/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Torterra-Lv47-STF11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -830,6 +912,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/12.png",
       "large": "https://images.pokemontcg.io/dp7/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Abomasnow-Lv42-STF12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -905,6 +995,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/13.png",
       "large": "https://images.pokemontcg.io/dp7/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Bronzong-Lv46-STF13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.17
+      }
     }
   },
   {
@@ -930,9 +1028,7 @@
     "attacks": [
       {
         "name": "Salty-sweet Pollen",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "20",
         "text": "Remove 2 damage counters from 1 of your Pokémon."
@@ -977,6 +1073,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/14.png",
       "large": "https://images.pokemontcg.io/dp7/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Cherrim-Lv30-STF14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -995,9 +1099,7 @@
     "attacks": [
       {
         "name": "Scorpion Grapple",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon can't retreat during your opponent's next turn."
@@ -1048,6 +1150,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/15.png",
       "large": "https://images.pokemontcg.io/dp7/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Drapion-Lv44-STF15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1066,18 +1176,14 @@
     "attacks": [
       {
         "name": "Delivery",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Put any 1 card from your discard pile into your hand."
       },
       {
         "name": "Lifting",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. For each Basic Pokémon you put onto your Bench, you may search your deck for a basic Energy card and attach it to that Pokémon. Shuffle your deck afterward."
@@ -1117,6 +1223,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/16.png",
       "large": "https://images.pokemontcg.io/dp7/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Drifblim-Lv48-STF16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -1182,6 +1296,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/17.png",
       "large": "https://images.pokemontcg.io/dp7/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Dusknoir-Lv47-STF17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -1249,6 +1371,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/18.png",
       "large": "https://images.pokemontcg.io/dp7/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Gengar-Lv43-STF18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.89,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -1267,9 +1397,7 @@
     "attacks": [
       {
         "name": "Tail Revenge",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "30×",
         "text": "Does 30 damage times the number of Magikarp in your discard pile."
@@ -1328,6 +1456,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/19.png",
       "large": "https://images.pokemontcg.io/dp7/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Gyarados-Lv52-STF19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -1399,6 +1535,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/20.png",
       "large": "https://images.pokemontcg.io/dp7/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Machamp-Lv62-STF20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.69
+      }
     }
   },
   {
@@ -1471,6 +1615,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/21.png",
       "large": "https://images.pokemontcg.io/dp7/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Mamoswine-Lv56-STF21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1533,6 +1685,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/22.png",
       "large": "https://images.pokemontcg.io/dp7/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Rapidash-Lv43-STF22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -1600,6 +1760,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/23.png",
       "large": "https://images.pokemontcg.io/dp7/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Roserade-Lv40-STF23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1676,6 +1844,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/24.png",
       "large": "https://images.pokemontcg.io/dp7/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Salamence-Lv66-STF24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1742,6 +1918,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/25.png",
       "large": "https://images.pokemontcg.io/dp7/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Scizor-Lv47-STF25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -1816,6 +2000,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/26.png",
       "large": "https://images.pokemontcg.io/dp7/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Skuntank-Lv40-STF26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -1884,6 +2076,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/27.png",
       "large": "https://images.pokemontcg.io/dp7/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Staraptor-Lv64-STF27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1954,6 +2154,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/28.png",
       "large": "https://images.pokemontcg.io/dp7/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Steelix-Lv63-STF28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.28
+      }
     }
   },
   {
@@ -2030,6 +2238,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/29.png",
       "large": "https://images.pokemontcg.io/dp7/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Tangrowth-Lv41-STF29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2108,6 +2324,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/30.png",
       "large": "https://images.pokemontcg.io/dp7/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Tyranitar-Lv61-STF30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -2179,6 +2403,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/31.png",
       "large": "https://images.pokemontcg.io/dp7/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Vespiquen-Lv44-STF31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2247,6 +2479,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/32.png",
       "large": "https://images.pokemontcg.io/dp7/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Bibarel-Lv29-STF32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2279,9 +2519,7 @@
     "attacks": [
       {
         "name": "Buddy-buddy",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
@@ -2309,6 +2547,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/33.png",
       "large": "https://images.pokemontcg.io/dp7/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Budew-Lv8-STF33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.14,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2378,6 +2624,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/34.png",
       "large": "https://images.pokemontcg.io/dp7/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Dusclops-Lv41-STF34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2448,6 +2702,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/35.png",
       "large": "https://images.pokemontcg.io/dp7/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Dusclops-Lv40-STF35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2516,6 +2778,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/36.png",
       "large": "https://images.pokemontcg.io/dp7/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Electrode-Lv46-STF36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2577,6 +2847,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/37.png",
       "large": "https://images.pokemontcg.io/dp7/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Electrode-Lv45-STF37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2643,6 +2921,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/38.png",
       "large": "https://images.pokemontcg.io/dp7/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Farfetchd-Lv29-STF38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2712,6 +2998,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/39.png",
       "large": "https://images.pokemontcg.io/dp7/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Grovyle-Lv23-STF39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2733,9 +3027,7 @@
     "attacks": [
       {
         "name": "Smog",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "The Defending Pokémon is now Poisoned."
@@ -2779,6 +3071,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/40.png",
       "large": "https://images.pokemontcg.io/dp7/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Haunter-Lv35-STF40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2842,6 +3142,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/41.png",
       "large": "https://images.pokemontcg.io/dp7/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Machoke-Lv41-STF41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2912,6 +3220,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/42.png",
       "large": "https://images.pokemontcg.io/dp7/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Magneton-Lv40-STF42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2982,6 +3298,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/43.png",
       "large": "https://images.pokemontcg.io/dp7/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Magneton-Lv38-STF43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -3048,6 +3372,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/44.png",
       "large": "https://images.pokemontcg.io/dp7/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Miltank-Lv27-STF44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3075,9 +3407,7 @@
     "attacks": [
       {
         "name": "Electric Circuit",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your discard pile for up to 4 Lightning Energy cards, show them to your opponent, and put them into your hand."
@@ -3112,6 +3442,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/45.png",
       "large": "https://images.pokemontcg.io/dp7/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Pichu-Lv8-STF45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.89
+      }
     }
   },
   {
@@ -3185,6 +3523,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/46.png",
       "large": "https://images.pokemontcg.io/dp7/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Piloswine-Lv34-STF46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3251,6 +3597,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/47.png",
       "large": "https://images.pokemontcg.io/dp7/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Pupitar-Lv33-STF47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3275,9 +3629,7 @@
     "attacks": [
       {
         "name": "Impersonate",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a Supporter card and discard it. Shuffle your deck afterward. Then, use the effect of that card as the effect of this attack."
@@ -3314,6 +3666,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/48.png",
       "large": "https://images.pokemontcg.io/dp7/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Sableye-Lv31-STF48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3377,6 +3737,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/49.png",
       "large": "https://images.pokemontcg.io/dp7/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Scyther-Lv11-STF49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3448,6 +3816,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/50.png",
       "large": "https://images.pokemontcg.io/dp7/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Shelgon-Lv35-STF50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.22
+      }
     }
   },
   {
@@ -3513,6 +3889,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/51.png",
       "large": "https://images.pokemontcg.io/dp7/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Skarmory-Lv34-STF51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3579,6 +3963,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/52.png",
       "large": "https://images.pokemontcg.io/dp7/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Staravia-Lv18-STF52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -3646,6 +4038,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/53.png",
       "large": "https://images.pokemontcg.io/dp7/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Bagon-Lv13-STF53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3707,6 +4107,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/54.png",
       "large": "https://images.pokemontcg.io/dp7/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Bidoof-Lv13-STF54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3775,6 +4183,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/55.png",
       "large": "https://images.pokemontcg.io/dp7/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Bronzor-Lv14-STF55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -3795,9 +4211,7 @@
     "attacks": [
       {
         "name": "Nap",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Remove 2 damage counters from Cherubi."
@@ -3841,6 +4255,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/56.png",
       "large": "https://images.pokemontcg.io/dp7/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Cherubi-Lv9-STF56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3900,6 +4322,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/57.png",
       "large": "https://images.pokemontcg.io/dp7/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Combee-Lv12-STF57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.36
+      }
     }
   },
   {
@@ -3966,6 +4396,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/58.png",
       "large": "https://images.pokemontcg.io/dp7/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Drifloon-Lv15-STF58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4033,6 +4471,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/59.png",
       "large": "https://images.pokemontcg.io/dp7/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Duskull-Lv12-STF59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4100,6 +4546,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/60.png",
       "large": "https://images.pokemontcg.io/dp7/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Duskull-Lv10-STF60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -4120,9 +4574,7 @@
     "attacks": [
       {
         "name": "Aqua Liner",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Choose 1 of your opponent's Benched Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
@@ -4160,6 +4612,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/61.png",
       "large": "https://images.pokemontcg.io/dp7/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Finneon-Lv16-STF61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4180,9 +4640,7 @@
     "attacks": [
       {
         "name": "Pitch-Dark",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "You opponent can't play any Trainer cards from his or her hand during your opponent's next turn."
@@ -4226,6 +4684,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/62.png",
       "large": "https://images.pokemontcg.io/dp7/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Gastly-Lv14-STF62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4293,6 +4759,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/63.png",
       "large": "https://images.pokemontcg.io/dp7/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Larvitar-Lv19-STF63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -4354,6 +4828,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/64.png",
       "large": "https://images.pokemontcg.io/dp7/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Machop-Lv18-STF64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -4374,9 +4856,7 @@
     "attacks": [
       {
         "name": "Sea Spray",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin until you get tails. For each heads, draw a card."
@@ -4414,6 +4894,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/65.png",
       "large": "https://images.pokemontcg.io/dp7/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Magikarp-Lv10-STF65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -4474,6 +4962,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/66.png",
       "large": "https://images.pokemontcg.io/dp7/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Magnemite-Lv15-STF66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4494,9 +4990,7 @@
     "attacks": [
       {
         "name": "Ram",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -4541,6 +5035,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/67.png",
       "large": "https://images.pokemontcg.io/dp7/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Magnemite-Lv13-STF67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4561,9 +5063,7 @@
     "attacks": [
       {
         "name": "Lullaby",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "The Defending Pokémon is now Asleep."
@@ -4607,6 +5107,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/68.png",
       "large": "https://images.pokemontcg.io/dp7/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Misdreavus-Lv19-STF68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4671,6 +5179,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/69.png",
       "large": "https://images.pokemontcg.io/dp7/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Onix-Lv25-STF69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.16
+      }
     }
   },
   {
@@ -4741,6 +5257,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/70.png",
       "large": "https://images.pokemontcg.io/dp7/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Pikachu-Lv20-STF70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": 3.91
+      }
     }
   },
   {
@@ -4802,6 +5326,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/71.png",
       "large": "https://images.pokemontcg.io/dp7/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Ponyta-Lv11-STF71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4863,6 +5395,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/72.png",
       "large": "https://images.pokemontcg.io/dp7/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Roselia-Lv27-STF72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4925,6 +5465,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/73.png",
       "large": "https://images.pokemontcg.io/dp7/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Skorupi-Lv11-STF73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4985,6 +5533,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/74.png",
       "large": "https://images.pokemontcg.io/dp7/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Snover-Lv17-STF74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5051,6 +5607,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/75.png",
       "large": "https://images.pokemontcg.io/dp7/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Starly-Lv7-STF75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5118,6 +5682,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/76.png",
       "large": "https://images.pokemontcg.io/dp7/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Stunky-Lv18-STF76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5184,6 +5756,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/77.png",
       "large": "https://images.pokemontcg.io/dp7/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Swinub-Lv12-STF77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5251,6 +5831,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/78.png",
       "large": "https://images.pokemontcg.io/dp7/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Tangela-Lv10-STF78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -5317,6 +5905,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/79.png",
       "large": "https://images.pokemontcg.io/dp7/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Treecko-Lv11-STF79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -5337,9 +5933,7 @@
     "attacks": [
       {
         "name": "Screech",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "If an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to that Pokémon until the end of your next turn."
@@ -5383,6 +5977,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/80.png",
       "large": "https://images.pokemontcg.io/dp7/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Voltorb-Lv28-STF80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5449,6 +6051,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/81.png",
       "large": "https://images.pokemontcg.io/dp7/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Voltorb-Lv31-STF81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5471,6 +6081,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/82.png",
       "large": "https://images.pokemontcg.io/dp7/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Conductive-Quarry-SF82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -5493,6 +6111,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/83.png",
       "large": "https://images.pokemontcg.io/dp7/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Energy-Link-SF83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5516,6 +6142,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/84.png",
       "large": "https://images.pokemontcg.io/dp7/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Energy-Switch-STF84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -5539,6 +6173,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/85.png",
       "large": "https://images.pokemontcg.io/dp7/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Great-Ball-STF85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -5560,6 +6202,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/86.png",
       "large": "https://images.pokemontcg.io/dp7/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Luxury-Ball-SF86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -5582,6 +6232,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/87.png",
       "large": "https://images.pokemontcg.io/dp7/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Marleys-Request-SF87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5603,6 +6261,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/88.png",
       "large": "https://images.pokemontcg.io/dp7/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Poke-Blower-SF88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5624,6 +6290,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/89.png",
       "large": "https://images.pokemontcg.io/dp7/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Poke-Drawer-SF89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -5645,6 +6319,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/90.png",
       "large": "https://images.pokemontcg.io/dp7/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Poke-Healer-SF90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5666,6 +6348,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/91.png",
       "large": "https://images.pokemontcg.io/dp7/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Premier-Ball-SF91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -5689,6 +6379,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/92.png",
       "large": "https://images.pokemontcg.io/dp7/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Potion-STF92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5712,6 +6410,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/93.png",
       "large": "https://images.pokemontcg.io/dp7/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Switch-STF93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5733,6 +6439,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/94.png",
       "large": "https://images.pokemontcg.io/dp7/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Cyclone-Energy-STF94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5755,6 +6469,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/95.png",
       "large": "https://images.pokemontcg.io/dp7/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Warp-Energy-STF95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5810,6 +6532,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/96.png",
       "large": "https://images.pokemontcg.io/dp7/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Dusknoir-LVX-STF96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 39.5
+      }
     }
   },
   {
@@ -5865,6 +6595,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/97.png",
       "large": "https://images.pokemontcg.io/dp7/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Heatran-LVX-STF97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 7.99
+      }
     }
   },
   {
@@ -5927,6 +6665,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/98.png",
       "large": "https://images.pokemontcg.io/dp7/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Machamp-LVX-STF98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 10.0
+      }
     }
   },
   {
@@ -5989,6 +6735,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/99.png",
       "large": "https://images.pokemontcg.io/dp7/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Raichu-LVX-STF99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -6053,6 +6807,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/100.png",
       "large": "https://images.pokemontcg.io/dp7/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Regigigas-LVX-STF100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.99,
+        "reverseHoloLow": 10.0
+      }
     }
   },
   {
@@ -6114,6 +6876,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/101.png",
       "large": "https://images.pokemontcg.io/dp7/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Charmander-Lv10-STF101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 18.0,
+        "reverseHoloLow": 19.99
+      }
     }
   },
   {
@@ -6179,6 +6949,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/102.png",
       "large": "https://images.pokemontcg.io/dp7/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Charmeleon-Lv32-STF102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": 9.99
+      }
     }
   },
   {
@@ -6246,6 +7024,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp7/103.png",
       "large": "https://images.pokemontcg.io/dp7/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Stormfront/Charizard-Lv76-STF103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 29.99,
+        "reverseHoloLow": 30.0
+      }
     }
   },
   {
@@ -6335,9 +7121,7 @@
     "attacks": [
       {
         "name": "Counting Song",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Put up to 3 damage counters on Duskull. Then, put that many damage counters on the Defending Pokémon."

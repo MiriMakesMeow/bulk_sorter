@@ -12439,5 +12439,434 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "bw9-promo-11",
+    "name": "Leafeon  (PLF 11) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "Team Plasma"
+    ],
+    "hp": "100",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Eevee",
+    "attacks": [
+      {
+        "name": "Energy Crush",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20×",
+        "text": "Does 20 damage times the amount of Energy attached to all of your opponent's Pokémon."
+      },
+      {
+        "name": "Leaf Blade",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60+",
+        "text": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "series": "Black & White",
+      "printedTotal": 116,
+      "total": 122,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLF",
+      "releaseDate": "2013/05/08",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw9/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw9/logo.png"
+      }
+    },
+    "number": "11",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "flavorText": "With cells similar to those of plants, it performs photosynthesis inside its body and creates pure air.",
+    "nationalPokedexNumbers": [
+      470
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw9/11.png",
+      "large": "https://images.pokemontcg.io/bw9/11_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw9-11",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 4.2,
+          "mid": 6.8,
+          "high": 14.99,
+          "market": 7.1,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 10.75,
+          "mid": 22.45,
+          "high": 30.0,
+          "market": 14.03,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Leafeon-V2-PLF11",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw9-promo-23",
+    "name": "Glaceon  (PLF 23) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "Team Plasma"
+    ],
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Eevee",
+    "abilities": [
+      {
+        "name": "Freeze Zone",
+        "text": "The Retreat Cost of each of your Team Plasma Pokémon in play is ColorlessColorless less.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Icy Wind",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "The Defending Pokémon is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "series": "Black & White",
+      "printedTotal": 116,
+      "total": 122,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLF",
+      "releaseDate": "2013/05/08",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw9/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw9/logo.png"
+      }
+    },
+    "number": "23",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "flavorText": "It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.",
+    "nationalPokedexNumbers": [
+      471
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw9/23.png",
+      "large": "https://images.pokemontcg.io/bw9/23_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw9-23",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 1.9,
+          "mid": 2.44,
+          "high": 9.78,
+          "market": 2.84,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 9.39,
+          "mid": 27.5,
+          "high": 31.0,
+          "market": 14.75,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Glaceon-V2-PLF23",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 17.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw9-promo-100",
+    "name": "Frozen City (PLF 100) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium",
+      "Team Plasma"
+    ],
+    "rules": [
+      "Whenever any player attaches an Energy from his or her hand to 1 of his or her Pokémon (excluding Team Plasma Pokémon) put 2 damage counters on that Pokémon.",
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+    ],
+    "set": {
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "series": "Black & White",
+      "printedTotal": 116,
+      "total": 122,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLF",
+      "releaseDate": "2013/05/08",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw9/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw9/logo.png"
+      }
+    },
+    "number": "100",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw9/100.png",
+      "large": "https://images.pokemontcg.io/bw9/100_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw9-100",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.4,
+          "mid": 1.03,
+          "high": 5.24,
+          "market": 1.1,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 1.0,
+          "mid": 2.0,
+          "high": 8.0,
+          "market": 2.28,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Frozen-City-V2-PLF12",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw9-promo-101",
+    "name": "Ghetsis (PLF 101) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Team Plasma"
+    ],
+    "rules": [
+      "Your opponent reveals his or her hand and shuffles all Item cards found there into his or her deck. Then, draw a number of cards equal to the number of Item cards your opponent shuffled into his or her deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "series": "Black & White",
+      "printedTotal": 116,
+      "total": 122,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLF",
+      "releaseDate": "2013/05/08",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw9/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw9/logo.png"
+      }
+    },
+    "number": "101",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Banned"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw9/101.png",
+      "large": "https://images.pokemontcg.io/bw9/101_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw9-101",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.85,
+          "mid": 1.42,
+          "high": 5.0,
+          "market": 1.53,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 3.0,
+          "mid": 6.11,
+          "high": 10.0,
+          "market": 4.12,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Ghetsis-V3",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw9-promo-106",
+    "name": "Plasma Energy (PLF 106) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special",
+      "Team Plasma"
+    ],
+    "rules": [
+      "This card provides Colorless Energy."
+    ],
+    "set": {
+      "id": "bw9",
+      "name": "Plasma Freeze",
+      "series": "Black & White",
+      "printedTotal": 116,
+      "total": 122,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "PLF",
+      "releaseDate": "2013/05/08",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/bw9/symbol.png",
+        "logo": "https://images.pokemontcg.io/bw9/logo.png"
+      }
+    },
+    "number": "106",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw9/106.png",
+      "large": "https://images.pokemontcg.io/bw9/106_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/bw9-106",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.18,
+          "mid": 0.37,
+          "high": 4.95,
+          "market": 0.33,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.95,
+          "mid": 2.05,
+          "high": 7.18,
+          "market": 2.08,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Freeze/Plasma-Energy-V2-PLF106",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

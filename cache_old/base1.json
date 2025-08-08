@@ -57,6 +57,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/1.png",
       "large": "https://images.pokemontcg.io/base1/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Alakazam-V1-BS1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -117,6 +125,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/2.png",
       "large": "https://images.pokemontcg.io/base1/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Blastoise-V1-BS2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 22.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -187,6 +203,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/3.png",
       "large": "https://images.pokemontcg.io/base1/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Chansey-V1-BS3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -254,6 +278,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/4.png",
       "large": "https://images.pokemontcg.io/base1/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Charizard-V1-BS4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 80.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -322,6 +354,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/5.png",
       "large": "https://images.pokemontcg.io/base1/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Clefairy-V1-BS5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.94,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -393,6 +433,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/6.png",
       "large": "https://images.pokemontcg.io/base1/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Gyarados-V1-BS6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -453,6 +501,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/7.png",
       "large": "https://images.pokemontcg.io/base1/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Hitmonchan-V1-BS7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.97,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -514,6 +570,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/8.png",
       "large": "https://images.pokemontcg.io/base1/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Machamp-V1-BS8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -580,6 +644,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/9.png",
       "large": "https://images.pokemontcg.io/base1/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Magneton-V1-BS9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -641,6 +713,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/10.png",
       "large": "https://images.pokemontcg.io/base1/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Mewtwo-V1-BS10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -705,6 +785,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/11.png",
       "large": "https://images.pokemontcg.io/base1/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Nidoking-V1-BS11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -767,6 +855,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/12.png",
       "large": "https://images.pokemontcg.io/base1/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Ninetales-V1-BS12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -832,6 +928,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/13.png",
       "large": "https://images.pokemontcg.io/base1/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Poliwrath-V1-BS13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -895,6 +999,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/14.png",
       "large": "https://images.pokemontcg.io/base1/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Raichu-V1-BS14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -955,6 +1067,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/15.png",
       "large": "https://images.pokemontcg.io/base1/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Venusaur-V1-BS15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 20.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1020,6 +1140,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/16.png",
       "large": "https://images.pokemontcg.io/base1/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Zapdos-V1-BS16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1084,6 +1212,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/17.png",
       "large": "https://images.pokemontcg.io/base1/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Beedrill-V1-BS17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1151,6 +1287,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/18.png",
       "large": "https://images.pokemontcg.io/base1/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Dragonair-V1-BS18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1221,6 +1365,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/19.png",
       "large": "https://images.pokemontcg.io/base1/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Dugtrio-V1-BS19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1283,6 +1435,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/20.png",
       "large": "https://images.pokemontcg.io/base1/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Electabuzz-V1-BS20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.17,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1341,6 +1501,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/21.png",
       "large": "https://images.pokemontcg.io/base1/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Electrode-V1-BS21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1411,6 +1579,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/22.png",
       "large": "https://images.pokemontcg.io/base1/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Pidgeotto-V1-BS22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1476,6 +1652,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/23.png",
       "large": "https://images.pokemontcg.io/base1/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Arcanine-V1-BS23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1541,6 +1725,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/24.png",
       "large": "https://images.pokemontcg.io/base1/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Charmeleon-V1-BS24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1606,6 +1798,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/25.png",
       "large": "https://images.pokemontcg.io/base1/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Dewgong-V1-BS25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1657,6 +1857,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/26.png",
       "large": "https://images.pokemontcg.io/base1/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Dratini-V1-BS26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1725,6 +1933,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/27.png",
       "large": "https://images.pokemontcg.io/base1/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Farfetchd-V1-BS27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1777,6 +1993,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/28.png",
       "large": "https://images.pokemontcg.io/base1/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Growlithe-V1-BS28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1839,6 +2063,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/29.png",
       "large": "https://images.pokemontcg.io/base1/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Haunter-V1-BS29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1904,6 +2136,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/30.png",
       "large": "https://images.pokemontcg.io/base1/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Ivysaur-V1-BS30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1964,6 +2204,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/31.png",
       "large": "https://images.pokemontcg.io/base1/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Jynx-V1-BS31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2030,6 +2278,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/32.png",
       "large": "https://images.pokemontcg.io/base1/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Kadabra-V1-BS32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2094,6 +2350,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/33.png",
       "large": "https://images.pokemontcg.io/base1/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Kakuna-V1-BS33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2162,6 +2426,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/34.png",
       "large": "https://images.pokemontcg.io/base1/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Machoke-V1-BS34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2222,6 +2494,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/35.png",
       "large": "https://images.pokemontcg.io/base1/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Magikarp-V1-BS35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2286,6 +2566,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/36.png",
       "large": "https://images.pokemontcg.io/base1/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Magmar-V1-BS36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2352,6 +2640,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/37.png",
       "large": "https://images.pokemontcg.io/base1/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Nidorino-V1-BS37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2417,6 +2713,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/38.png",
       "large": "https://images.pokemontcg.io/base1/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Poliwhirl-V1-BS38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2484,6 +2788,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/39.png",
       "large": "https://images.pokemontcg.io/base1/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Porygon-V1-BS39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2550,6 +2862,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/40.png",
       "large": "https://images.pokemontcg.io/base1/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Raticate-V1-BS40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2601,6 +2921,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/41.png",
       "large": "https://images.pokemontcg.io/base1/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Seel-V1-BS41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2665,6 +2993,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/42.png",
       "large": "https://images.pokemontcg.io/base1/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Wartortle-V1-BS42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2712,6 +3048,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/43.png",
       "large": "https://images.pokemontcg.io/base1/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Abra-V1-BS43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2764,6 +3108,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/44.png",
       "large": "https://images.pokemontcg.io/base1/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Bulbasaur-V1-BS44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2816,6 +3168,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/45.png",
       "large": "https://images.pokemontcg.io/base1/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Caterpie-V1-BS45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2877,6 +3237,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/46.png",
       "large": "https://images.pokemontcg.io/base1/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Charmander-V1-BS46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2940,6 +3308,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/47.png",
       "large": "https://images.pokemontcg.io/base1/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Diglett-V1-BS47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2993,6 +3369,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/48.png",
       "large": "https://images.pokemontcg.io/base1/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Doduo-V1-BS48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3054,6 +3438,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/49.png",
       "large": "https://images.pokemontcg.io/base1/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Drowzee-V1-BS49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3111,6 +3503,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/50.png",
       "large": "https://images.pokemontcg.io/base1/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Gastly-V1-BS50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3163,6 +3563,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/51.png",
       "large": "https://images.pokemontcg.io/base1/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Koffing-V1-BS51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3214,6 +3622,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/52.png",
       "large": "https://images.pokemontcg.io/base1/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Machop-V1-BS52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3275,6 +3691,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/53.png",
       "large": "https://images.pokemontcg.io/base1/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Magnemite-V1-BS53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3339,6 +3763,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/54.png",
       "large": "https://images.pokemontcg.io/base1/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Metapod-V1-BS54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3390,6 +3822,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/55.png",
       "large": "https://images.pokemontcg.io/base1/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Nidoran-M-V1-BS55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3453,6 +3893,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/56.png",
       "large": "https://images.pokemontcg.io/base1/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Onix-V1-BS56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3511,6 +3959,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/57.png",
       "large": "https://images.pokemontcg.io/base1/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Pidgey-V1-BS57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3572,6 +4028,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base1/58.png",
       "large": "https://images.pokemontcg.io/base1/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set/Pikachu-V1-BS58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": null
+      }
     }
   },
   {

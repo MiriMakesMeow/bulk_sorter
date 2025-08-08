@@ -8730,5 +8730,35 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "dp3-promo-125",
+    "name": "Roseanne's Research (SW 125) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "Search your deck for up to 2 in any combination of Basic Pokémon and basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+    ],
+    "number": "125",
+    "artist": "Kanako Eo",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dp3/125.png",
+      "large": "https://images.pokemontcg.io/dp3/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Secret-Wonders/Roseannes-Research-V2-SW125",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

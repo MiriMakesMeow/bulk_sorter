@@ -50,6 +50,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/1.png",
       "large": "https://images.pokemontcg.io/swsh12/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Venonat-SIT001",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -107,6 +115,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/2.png",
       "large": "https://images.pokemontcg.io/swsh12/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Venomoth-SIT002",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -161,6 +177,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/3.png",
       "large": "https://images.pokemontcg.io/swsh12/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Spinarak-SIT003",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -220,6 +244,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/4.png",
       "large": "https://images.pokemontcg.io/swsh12/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Ariados-SIT004",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -274,6 +306,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/5.png",
       "large": "https://images.pokemontcg.io/swsh12/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Sunkern-SIT005",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -327,6 +367,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/6.png",
       "large": "https://images.pokemontcg.io/swsh12/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Sunflora-SIT006",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -391,6 +439,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/7.png",
       "large": "https://images.pokemontcg.io/swsh12/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Serperior-V-V1-SIT007",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -451,6 +507,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/8.png",
       "large": "https://images.pokemontcg.io/swsh12/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Serperior-VSTAR-V1-SIT008",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -514,6 +578,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/9.png",
       "large": "https://images.pokemontcg.io/swsh12/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Petilil-SIT009",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -531,9 +603,7 @@
     "attacks": [
       {
         "name": "Swelling Scent",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 Grass Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
@@ -575,6 +645,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/10.png",
       "large": "https://images.pokemontcg.io/swsh12/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Hisuian-Lilligant-SIT010",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -628,6 +706,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/11.png",
       "large": "https://images.pokemontcg.io/swsh12/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Foongus-SIT011",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -689,6 +775,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/12.png",
       "large": "https://images.pokemontcg.io/swsh12/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Amoonguss-SIT012",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -750,6 +844,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/13.png",
       "large": "https://images.pokemontcg.io/swsh12/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Durant-SIT013",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -810,6 +912,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/14.png",
       "large": "https://images.pokemontcg.io/swsh12/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Virizion-SIT014",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -875,6 +985,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/15.png",
       "large": "https://images.pokemontcg.io/swsh12/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Chesnaught-V-V1-SIT015",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -939,6 +1057,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/16.png",
       "large": "https://images.pokemontcg.io/swsh12/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Radiant-Tsareena-SIT016",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -992,6 +1118,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/17.png",
       "large": "https://images.pokemontcg.io/swsh12/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Vulpix-SIT017",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1053,6 +1187,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/18.png",
       "large": "https://images.pokemontcg.io/swsh12/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Ninetales-SIT018",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1118,6 +1260,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/19.png",
       "large": "https://images.pokemontcg.io/swsh12/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Growlithe-SIT019",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1182,6 +1332,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/20.png",
       "large": "https://images.pokemontcg.io/swsh12/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Arcanine-SIT020",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1236,6 +1394,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/21.png",
       "large": "https://images.pokemontcg.io/swsh12/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Ponyta-SIT021",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1295,6 +1461,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/22.png",
       "large": "https://images.pokemontcg.io/swsh12/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Rapidash-V1-SIT022",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1355,6 +1529,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/23.png",
       "large": "https://images.pokemontcg.io/swsh12/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Victini-SIT023",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -1420,6 +1602,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/24.png",
       "large": "https://images.pokemontcg.io/swsh12/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Reshiram-V-V1-SIT024",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1482,6 +1672,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/25.png",
       "large": "https://images.pokemontcg.io/swsh12/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Fennekin-SIT025",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1546,6 +1744,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/26.png",
       "large": "https://images.pokemontcg.io/swsh12/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Braixen-V1-SIT026",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1608,6 +1814,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/27.png",
       "large": "https://images.pokemontcg.io/swsh12/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Delphox-SIT027",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -1662,6 +1876,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/28.png",
       "large": "https://images.pokemontcg.io/swsh12/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Fletchinder-SIT028",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1722,6 +1944,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/29.png",
       "large": "https://images.pokemontcg.io/swsh12/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Talonflame-SIT029",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -1786,6 +2016,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/30.png",
       "large": "https://images.pokemontcg.io/swsh12/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Litten-SIT030",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1853,6 +2091,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/31.png",
       "large": "https://images.pokemontcg.io/swsh12/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Torracat-SIT031",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1916,6 +2162,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/32.png",
       "large": "https://images.pokemontcg.io/swsh12/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Incineroar-SIT032",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1939,9 +2193,7 @@
     "attacks": [
       {
         "name": "White Drop",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10+",
         "text": "If your opponent's Active Pokémon is a Pokémon V, this attack does 50 more damage."
@@ -1983,6 +2235,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/33.png",
       "large": "https://images.pokemontcg.io/swsh12/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Alolan-Vulpix-V-V1-SIT033",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2017,9 +2277,7 @@
       },
       {
         "name": "Silvery Snow Star",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "70×",
         "text": "This attack does 70 damage for each of your opponent's Pokémon V in play. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 VSTAR Power in a game.)"
@@ -2050,6 +2308,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/34.png",
       "large": "https://images.pokemontcg.io/swsh12/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Alolan-Vulpix-VSTAR-V1-SIT034",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2114,6 +2380,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/35.png",
       "large": "https://images.pokemontcg.io/swsh12/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Omastar-V-V1-SIT035",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2174,6 +2448,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/36.png",
       "large": "https://images.pokemontcg.io/swsh12/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Articuno-SIT036",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2242,6 +2524,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/37.png",
       "large": "https://images.pokemontcg.io/swsh12/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Wailmer-SIT037",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2306,6 +2596,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/38.png",
       "large": "https://images.pokemontcg.io/swsh12/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Wailord-SIT038",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2368,6 +2666,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/39.png",
       "large": "https://images.pokemontcg.io/swsh12/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Feebas-SIT039",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2430,6 +2736,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/40.png",
       "large": "https://images.pokemontcg.io/swsh12/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Milotic-V1-SIT040",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2494,6 +2808,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/41.png",
       "large": "https://images.pokemontcg.io/swsh12/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Snorunt-SIT041",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2563,6 +2885,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/42.png",
       "large": "https://images.pokemontcg.io/swsh12/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Glalie-SIT042",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2624,6 +2954,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/43.png",
       "large": "https://images.pokemontcg.io/swsh12/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Froslass-SIT043",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2684,6 +3022,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/44.png",
       "large": "https://images.pokemontcg.io/swsh12/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Relicanth-SIT044",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2743,6 +3089,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/45.png",
       "large": "https://images.pokemontcg.io/swsh12/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Phione-SIT045",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2805,6 +3159,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/46.png",
       "large": "https://images.pokemontcg.io/swsh12/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Keldeo-SIT046",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -2859,6 +3221,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/47.png",
       "large": "https://images.pokemontcg.io/swsh12/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Dewpider-SIT047",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2921,6 +3291,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/48.png",
       "large": "https://images.pokemontcg.io/swsh12/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Araquanid-SIT048",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2974,6 +3352,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/49.png",
       "large": "https://images.pokemontcg.io/swsh12/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Pikachu-V1-SIT049",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -3036,6 +3422,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/50.png",
       "large": "https://images.pokemontcg.io/swsh12/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Raichu-SIT050",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3099,6 +3493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/51.png",
       "large": "https://images.pokemontcg.io/swsh12/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Chinchou-SIT051",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3162,6 +3564,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/52.png",
       "large": "https://images.pokemontcg.io/swsh12/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Lanturn-SIT052",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3223,6 +3633,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/53.png",
       "large": "https://images.pokemontcg.io/swsh12/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Rotom-SIT053",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3279,6 +3697,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/54.png",
       "large": "https://images.pokemontcg.io/swsh12/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Emolga-SIT054",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3342,6 +3768,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/55.png",
       "large": "https://images.pokemontcg.io/swsh12/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Stunfisk-SIT055",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3399,6 +3833,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/56.png",
       "large": "https://images.pokemontcg.io/swsh12/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Zeraora-SIT056",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3463,6 +3905,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/57.png",
       "large": "https://images.pokemontcg.io/swsh12/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Regieleki-V-V1-SIT057",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3521,6 +3971,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/58.png",
       "large": "https://images.pokemontcg.io/swsh12/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Regieleki-VMAX-V1-SIT058",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.33,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3590,6 +4048,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/59.png",
       "large": "https://images.pokemontcg.io/swsh12/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Radiant-Alakazam-SIT059",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3660,6 +4126,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/60.png",
       "large": "https://images.pokemontcg.io/swsh12/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Drowzee-SIT060",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -3729,6 +4203,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/61.png",
       "large": "https://images.pokemontcg.io/swsh12/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Hypno-SIT061",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3794,6 +4276,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/62.png",
       "large": "https://images.pokemontcg.io/swsh12/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Jynx-V1-SIT062",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3853,6 +4343,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/63.png",
       "large": "https://images.pokemontcg.io/swsh12/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Misdreavus-SIT062",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3917,6 +4415,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/64.png",
       "large": "https://images.pokemontcg.io/swsh12/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Mismagius-SIT064",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3987,6 +4493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/65.png",
       "large": "https://images.pokemontcg.io/swsh12/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Unown-V-V1-SIT065",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4057,6 +4571,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/66.png",
       "large": "https://images.pokemontcg.io/swsh12/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Unown-VSTAR-V1-SIT066",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4110,6 +4632,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/67.png",
       "large": "https://images.pokemontcg.io/swsh12/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Ralts-SIT067",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4174,6 +4704,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/68.png",
       "large": "https://images.pokemontcg.io/swsh12/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Kirlia-SIT068",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4234,6 +4772,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/69.png",
       "large": "https://images.pokemontcg.io/swsh12/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Gardevoir-V1-SIT069",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4298,6 +4844,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/70.png",
       "large": "https://images.pokemontcg.io/swsh12/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Mawile-V-V1-SIT070",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4359,6 +4913,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/71.png",
       "large": "https://images.pokemontcg.io/swsh12/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Mawile-VSTAR-V1-SIT071",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4426,6 +4988,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/72.png",
       "large": "https://images.pokemontcg.io/swsh12/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Meditite-SIT072",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4493,6 +5063,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/73.png",
       "large": "https://images.pokemontcg.io/swsh12/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Medicham-SIT073",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4559,6 +5137,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/74.png",
       "large": "https://images.pokemontcg.io/swsh12/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Chimecho-SIT074",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4626,6 +5212,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/75.png",
       "large": "https://images.pokemontcg.io/swsh12/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Sigilyph-SIT075",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4686,6 +5280,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/76.png",
       "large": "https://images.pokemontcg.io/swsh12/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Solosis-SIT076",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4748,6 +5350,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/77.png",
       "large": "https://images.pokemontcg.io/swsh12/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Duosion-SIT077",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4814,6 +5424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/78.png",
       "large": "https://images.pokemontcg.io/swsh12/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Reuniclus-SIT078",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4873,6 +5491,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/79.png",
       "large": "https://images.pokemontcg.io/swsh12/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Elgyem-SIT079",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4940,6 +5566,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/80.png",
       "large": "https://images.pokemontcg.io/swsh12/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Beheeyem-SIT080",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -5009,6 +5643,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/81.png",
       "large": "https://images.pokemontcg.io/swsh12/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Espurr-SIT081",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5075,6 +5717,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/82.png",
       "large": "https://images.pokemontcg.io/swsh12/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Meowstic-SIT082",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5138,6 +5788,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/83.png",
       "large": "https://images.pokemontcg.io/swsh12/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Swirlix-SIT083",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5202,6 +5860,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/84.png",
       "large": "https://images.pokemontcg.io/swsh12/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Slurpuff-SIT084",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5261,6 +5927,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/85.png",
       "large": "https://images.pokemontcg.io/swsh12/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Dedenne-SIT085",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5327,6 +6001,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/86.png",
       "large": "https://images.pokemontcg.io/swsh12/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Indeedee-SIT086",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5386,6 +6068,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/87.png",
       "large": "https://images.pokemontcg.io/swsh12/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Dreepy-SIT087",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5446,6 +6136,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/88.png",
       "large": "https://images.pokemontcg.io/swsh12/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Drakloak-SIT088",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5513,6 +6211,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/89.png",
       "large": "https://images.pokemontcg.io/swsh12/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Dragapult-SIT089",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5578,6 +6284,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/90.png",
       "large": "https://images.pokemontcg.io/swsh12/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Hisuian-Arcanine-V-V1-SIT090",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5632,6 +6346,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/91.png",
       "large": "https://images.pokemontcg.io/swsh12/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Phanpy-SIT091",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5697,6 +6419,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/92.png",
       "large": "https://images.pokemontcg.io/swsh12/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Donphan-SIT092",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5759,6 +6489,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/93.png",
       "large": "https://images.pokemontcg.io/swsh12/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Baltoy-SIT093",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5820,6 +6558,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/94.png",
       "large": "https://images.pokemontcg.io/swsh12/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Claydol-SIT094",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5875,6 +6621,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/95.png",
       "large": "https://images.pokemontcg.io/swsh12/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Anorith-SIT095",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5938,6 +6692,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/96.png",
       "large": "https://images.pokemontcg.io/swsh12/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Armaldo-SIT096",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5992,6 +6754,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/97.png",
       "large": "https://images.pokemontcg.io/swsh12/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Terrakion-SIT097",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6058,6 +6828,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/98.png",
       "large": "https://images.pokemontcg.io/swsh12/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Hawlucha-SIT098",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6113,6 +6891,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/99.png",
       "large": "https://images.pokemontcg.io/swsh12/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Sandygast-SIT099",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6177,6 +6963,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/100.png",
       "large": "https://images.pokemontcg.io/swsh12/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Palossand-SIT100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6240,6 +7034,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/101.png",
       "large": "https://images.pokemontcg.io/swsh12/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Stonjourner-SIT101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6305,6 +7107,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/102.png",
       "large": "https://images.pokemontcg.io/swsh12/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Ursaluna-V-SIT102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6354,6 +7164,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/103.png",
       "large": "https://images.pokemontcg.io/swsh12/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Zubat-SIT103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6404,6 +7222,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/104.png",
       "large": "https://images.pokemontcg.io/swsh12/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Golbat-SIT104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6462,6 +7288,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/105.png",
       "large": "https://images.pokemontcg.io/swsh12/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Crobat-SIT105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -6530,6 +7364,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/106.png",
       "large": "https://images.pokemontcg.io/swsh12/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Murkrow-SIT106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6599,6 +7441,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/107.png",
       "large": "https://images.pokemontcg.io/swsh12/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Honchkrow-SIT107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6665,6 +7515,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/108.png",
       "large": "https://images.pokemontcg.io/swsh12/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Skuntank-V-V1-SIT108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6720,6 +7578,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/109.png",
       "large": "https://images.pokemontcg.io/swsh12/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Croagunk-SIT109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6782,6 +7648,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/110.png",
       "large": "https://images.pokemontcg.io/swsh12/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Toxicroak-SIT110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -6837,6 +7711,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/111.png",
       "large": "https://images.pokemontcg.io/swsh12/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Sandile-SIT111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6895,6 +7777,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/112.png",
       "large": "https://images.pokemontcg.io/swsh12/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Krokorok-SIT112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6957,6 +7847,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/113.png",
       "large": "https://images.pokemontcg.io/swsh12/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Krookodile-SIT113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -7010,6 +7908,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/114.png",
       "large": "https://images.pokemontcg.io/swsh12/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Mareanie-SIT114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7073,6 +7979,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/115.png",
       "large": "https://images.pokemontcg.io/swsh12/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Toxapex-SIT115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7123,6 +8037,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/116.png",
       "large": "https://images.pokemontcg.io/swsh12/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Morpeko-SIT116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7192,6 +8114,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/117.png",
       "large": "https://images.pokemontcg.io/swsh12/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Beldum-SIT117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7254,6 +8184,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/118.png",
       "large": "https://images.pokemontcg.io/swsh12/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Metang-SIT118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7321,6 +8259,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/119.png",
       "large": "https://images.pokemontcg.io/swsh12/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Metagross-SIT119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7389,6 +8335,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/120.png",
       "large": "https://images.pokemontcg.io/swsh12/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Radiant-Jirachi-SIT120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7459,6 +8413,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/121.png",
       "large": "https://images.pokemontcg.io/swsh12/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Ferroseed-SIT121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7529,6 +8491,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/122.png",
       "large": "https://images.pokemontcg.io/swsh12/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Ferrothorn-SIT122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7588,6 +8558,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/123.png",
       "large": "https://images.pokemontcg.io/swsh12/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Klink-SIT123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7652,6 +8630,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/124.png",
       "large": "https://images.pokemontcg.io/swsh12/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Klang-SIT124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7720,6 +8706,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/125.png",
       "large": "https://images.pokemontcg.io/swsh12/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Klinklang-SIT125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7785,6 +8779,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/126.png",
       "large": "https://images.pokemontcg.io/swsh12/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Cobalion-SIT126",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -7842,6 +8844,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/127.png",
       "large": "https://images.pokemontcg.io/swsh12/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Togedemaru-SIT127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7912,6 +8922,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/128.png",
       "large": "https://images.pokemontcg.io/swsh12/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Magearna-V-V1-SIT128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7961,6 +8979,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/129.png",
       "large": "https://images.pokemontcg.io/swsh12/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Dratini-SIT129",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8022,6 +9048,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/130.png",
       "large": "https://images.pokemontcg.io/swsh12/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Dragonair-SIT130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8082,6 +9116,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/131.png",
       "large": "https://images.pokemontcg.io/swsh12/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Dragonite-V1-SIT131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -8139,6 +9181,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/132.png",
       "large": "https://images.pokemontcg.io/swsh12/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Noibat-SIT132",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8191,6 +9241,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/133.png",
       "large": "https://images.pokemontcg.io/swsh12/133_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Noivern-SIT133",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -8245,6 +9303,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/134.png",
       "large": "https://images.pokemontcg.io/swsh12/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Zygarde-SIT134",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -8305,6 +9371,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/135.png",
       "large": "https://images.pokemontcg.io/swsh12/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Regidrago-V-V1-SIT135",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8363,6 +9437,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/136.png",
       "large": "https://images.pokemontcg.io/swsh12/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Regidrago-VSTAR-V1-SIT136",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8423,6 +9505,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/137.png",
       "large": "https://images.pokemontcg.io/swsh12/137_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Smeargle-V1-SIT137",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8495,6 +9585,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/138.png",
       "large": "https://images.pokemontcg.io/swsh12/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Lugia-V-V1-SIT138",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8565,6 +9663,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/139.png",
       "large": "https://images.pokemontcg.io/swsh12/139_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Lugia-VSTAR-V1-SIT139",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8635,6 +9741,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/140.png",
       "large": "https://images.pokemontcg.io/swsh12/140_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Ho-Oh-V-V1-SIT140",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.09,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8686,6 +9800,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/141.png",
       "large": "https://images.pokemontcg.io/swsh12/141_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Spinda-SIT141",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8745,6 +9867,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/142.png",
       "large": "https://images.pokemontcg.io/swsh12/142_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Swablu-SIT142",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8814,6 +9944,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/143.png",
       "large": "https://images.pokemontcg.io/swsh12/143_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Altaria-V1-SIT143",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8867,6 +10005,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/144.png",
       "large": "https://images.pokemontcg.io/swsh12/144_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Buneary-SIT144",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8929,6 +10075,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/145.png",
       "large": "https://images.pokemontcg.io/swsh12/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Lopunny-SIT145",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -9000,6 +10154,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/146.png",
       "large": "https://images.pokemontcg.io/swsh12/146_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Archen-SIT146",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9066,6 +10228,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/147.png",
       "large": "https://images.pokemontcg.io/swsh12/147_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Archeops-V1-SIT147",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -9126,6 +10296,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/148.png",
       "large": "https://images.pokemontcg.io/swsh12/148_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Rufflet-SIT148",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9143,9 +10321,7 @@
     "attacks": [
       {
         "name": "Eerie Cry",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Put 3 damage counters on each of your opponent's Pokémon that has any damage counters on it."
@@ -9194,6 +10370,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/149.png",
       "large": "https://images.pokemontcg.io/swsh12/149_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Hisuian-Braviary-SIT149",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9249,6 +10433,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/150.png",
       "large": "https://images.pokemontcg.io/swsh12/150_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Fletchling-SIT150",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9274,6 +10466,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/151.png",
       "large": "https://images.pokemontcg.io/swsh12/151_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Brandon-V1-SIT151",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9299,6 +10499,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/152.png",
       "large": "https://images.pokemontcg.io/swsh12/152_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Candice-V1-SIT152",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9324,6 +10532,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/153.png",
       "large": "https://images.pokemontcg.io/swsh12/153_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Capturing-Aroma-SIT153",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9364,6 +10580,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/154.png",
       "large": "https://images.pokemontcg.io/swsh12/154_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Earthen-Seal-Stone-SIT154",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -9391,6 +10615,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/155.png",
       "large": "https://images.pokemontcg.io/swsh12/155_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Emergency-Jelly-SIT155",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -9425,6 +10657,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/156.png",
       "large": "https://images.pokemontcg.io/swsh12/156_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Forest-Seal-Stone-V1-SIT156",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 2.8
+      }
     }
   },
   {
@@ -9450,6 +10690,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/157.png",
       "large": "https://images.pokemontcg.io/swsh12/157_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Furisode-Girl-V1-SIT157",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9474,6 +10722,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/158.png",
       "large": "https://images.pokemontcg.io/swsh12/158_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Gym-Trainer-V1-SIT158",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9499,6 +10755,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/159.png",
       "large": "https://images.pokemontcg.io/swsh12/159_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Lance-V1-SIT159",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9526,6 +10790,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/160.png",
       "large": "https://images.pokemontcg.io/swsh12/160_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Leafy-Camo-Poncho-V1-SIT160",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9550,6 +10822,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/161.png",
       "large": "https://images.pokemontcg.io/swsh12/161_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Primordial-Altar-SIT161",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9575,6 +10855,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/162.png",
       "large": "https://images.pokemontcg.io/swsh12/162_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Professor-Laventon-SIT162",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9600,6 +10888,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/163.png",
       "large": "https://images.pokemontcg.io/swsh12/163_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Quad-Stone-SIT163",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9625,6 +10921,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/164.png",
       "large": "https://images.pokemontcg.io/swsh12/164_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Serena-V1-SIT164",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9650,6 +10954,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/165.png",
       "large": "https://images.pokemontcg.io/swsh12/165_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Unidentified-Fossil-SIT165",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9675,6 +10987,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/166.png",
       "large": "https://images.pokemontcg.io/swsh12/166_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Wallace-V1-SIT166",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9700,6 +11020,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/167.png",
       "large": "https://images.pokemontcg.io/swsh12/167_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Worker-V1-SIT167",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9723,6 +11051,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/168.png",
       "large": "https://images.pokemontcg.io/swsh12/168_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Regenerative-Energy-SIT168",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9746,6 +11082,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/169.png",
       "large": "https://images.pokemontcg.io/swsh12/169_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/V-Guard-Energy-V1-SIT169",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9810,6 +11154,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/170.png",
       "large": "https://images.pokemontcg.io/swsh12/170_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Serperior-V-V2-SIT170",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.12,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9875,6 +11227,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/171.png",
       "large": "https://images.pokemontcg.io/swsh12/171_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Chesnaught-V-V2-SIT171",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9940,6 +11300,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/172.png",
       "large": "https://images.pokemontcg.io/swsh12/172_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Reshiram-V-V2-SIT172",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9963,9 +11331,7 @@
     "attacks": [
       {
         "name": "White Drop",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10+",
         "text": "If your opponent's Active Pokémon is a Pokémon V, this attack does 50 more damage."
@@ -10007,6 +11373,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/173.png",
       "large": "https://images.pokemontcg.io/swsh12/173_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Alolan-Vulpix-V-V2-SIT173",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10071,6 +11445,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/174.png",
       "large": "https://images.pokemontcg.io/swsh12/174_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Omastar-V-V2-SIT174",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10135,6 +11517,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/175.png",
       "large": "https://images.pokemontcg.io/swsh12/175_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Regieleki-V-V2-SIT175",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10205,6 +11595,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/176.png",
       "large": "https://images.pokemontcg.io/swsh12/176_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Unown-V-V2-SIT176",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.7,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10275,6 +11673,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/177.png",
       "large": "https://images.pokemontcg.io/swsh12/177_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Unown-V-V3-SIT177",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 12.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10339,6 +11745,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/178.png",
       "large": "https://images.pokemontcg.io/swsh12/178_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Mawile-V-V2-SIT178",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10404,6 +11818,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/179.png",
       "large": "https://images.pokemontcg.io/swsh12/179_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Hisuian-Arcanine-V-V2-SIT179",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10470,6 +11892,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/180.png",
       "large": "https://images.pokemontcg.io/swsh12/180_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Skuntank-V-V2-SIT180",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.74,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10536,6 +11966,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/181.png",
       "large": "https://images.pokemontcg.io/swsh12/181_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Skuntank-V-V3-SIT181",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10606,6 +12044,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/182.png",
       "large": "https://images.pokemontcg.io/swsh12/182_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Magearna-V-V2-SIT182",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10666,6 +12112,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/183.png",
       "large": "https://images.pokemontcg.io/swsh12/183_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Regidrago-V-V2-SIT183",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10726,6 +12180,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/184.png",
       "large": "https://images.pokemontcg.io/swsh12/184_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Regidrago-V-V3-SIT184",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10798,6 +12260,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/185.png",
       "large": "https://images.pokemontcg.io/swsh12/185_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Lugia-V-V2-SIT185",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10870,6 +12340,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/186.png",
       "large": "https://images.pokemontcg.io/swsh12/186_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Lugia-V-V3-SIT186",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 149.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10940,6 +12418,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/187.png",
       "large": "https://images.pokemontcg.io/swsh12/187_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Ho-Oh-V-V2-SIT187",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10965,6 +12451,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/188.png",
       "large": "https://images.pokemontcg.io/swsh12/188_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Brandon-V2-SIT188",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -10990,6 +12484,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/189.png",
       "large": "https://images.pokemontcg.io/swsh12/189_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Candice-V2-SIT189",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11015,6 +12517,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/190.png",
       "large": "https://images.pokemontcg.io/swsh12/190_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Furisode-Girl-V2-SIT190",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11039,6 +12549,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/191.png",
       "large": "https://images.pokemontcg.io/swsh12/191_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Gym-Trainer-V2-SIT191",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11064,6 +12582,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/192.png",
       "large": "https://images.pokemontcg.io/swsh12/192_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Lance-V2-SIT192",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11089,6 +12615,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/193.png",
       "large": "https://images.pokemontcg.io/swsh12/193_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Serena-V2-SIT193",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11114,6 +12648,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/194.png",
       "large": "https://images.pokemontcg.io/swsh12/194_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Wallace-V2-SIT194",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11139,6 +12681,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/195.png",
       "large": "https://images.pokemontcg.io/swsh12/195_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Worker-V2-SIT195",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.79,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11199,6 +12749,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/196.png",
       "large": "https://images.pokemontcg.io/swsh12/196_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Serperior-VSTAR-V2-SIT196",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.48,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11233,9 +12791,7 @@
       },
       {
         "name": "Silvery Snow Star",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "70×",
         "text": "This attack does 70 damage for each of your opponent's Pokémon V in play. This damage isn't affected by Weakness or Resistance. (You can't use more than 1 VSTAR Power in a game.)"
@@ -11266,6 +12822,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/197.png",
       "large": "https://images.pokemontcg.io/swsh12/197_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Alolan-Vulpix-VSTAR-V2-SIT197",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 11.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11324,6 +12888,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/198.png",
       "large": "https://images.pokemontcg.io/swsh12/198_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Regieleki-VMAX-V2-SIT198",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11394,6 +12966,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/199.png",
       "large": "https://images.pokemontcg.io/swsh12/199_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Unown-VSTAR-V2-SIT199",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11455,6 +13035,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/200.png",
       "large": "https://images.pokemontcg.io/swsh12/200_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Mawile-VSTAR-V2-SIT200",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11513,6 +13101,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/201.png",
       "large": "https://images.pokemontcg.io/swsh12/201_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Regidrago-VSTAR-V2-SIT201",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11583,6 +13179,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/202.png",
       "large": "https://images.pokemontcg.io/swsh12/202_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Lugia-VSTAR-V2-SIT202",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 19.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11608,6 +13212,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/203.png",
       "large": "https://images.pokemontcg.io/swsh12/203_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Brandon-V3-SIT203",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11633,6 +13245,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/204.png",
       "large": "https://images.pokemontcg.io/swsh12/204_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Candice-V3-SIT204",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.55,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11658,6 +13278,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/205.png",
       "large": "https://images.pokemontcg.io/swsh12/205_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Furisode-Girl-V3-SIT205",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11683,6 +13311,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/206.png",
       "large": "https://images.pokemontcg.io/swsh12/206_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Lance-V3-SIT207",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11708,6 +13344,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/207.png",
       "large": "https://images.pokemontcg.io/swsh12/207_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Serena-V3-SIT208",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11733,6 +13377,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/208.png",
       "large": "https://images.pokemontcg.io/swsh12/208_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Wallace-V3-SIT209",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11758,6 +13410,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/209.png",
       "large": "https://images.pokemontcg.io/swsh12/209_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Worker-V3-SIT210",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11818,6 +13478,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/210.png",
       "large": "https://images.pokemontcg.io/swsh12/210_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Serperior-VSTAR-V3-SIT211",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11888,6 +13556,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/211.png",
       "large": "https://images.pokemontcg.io/swsh12/211_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Lugia-VSTAR-V3-SIT212",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.45,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11913,6 +13589,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/212.png",
       "large": "https://images.pokemontcg.io/swsh12/212_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Energy-Switch-SIT213",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11937,6 +13621,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/213.png",
       "large": "https://images.pokemontcg.io/swsh12/213_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Gapejaw-Bog-SIT214",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11964,6 +13656,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/214.png",
       "large": "https://images.pokemontcg.io/swsh12/214_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Leafy-Camo-Poncho-V2-SIT215",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11987,6 +13687,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12/215.png",
       "large": "https://images.pokemontcg.io/swsh12/215_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/V-Guard-Energy-V2-SIT216",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.6,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

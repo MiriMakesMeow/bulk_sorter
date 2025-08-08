@@ -2,7 +2,7 @@
   {
     "id": "xy0-1",
     "name": "Weedle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -21,13 +21,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -80,31 +80,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-1",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Weedle-KSS1",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.65,
         "lowPrice": 0.05,
-        "trendPrice": 0.72,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.4,
-        "reverseHoloTrend": 0.3,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.35,
-        "avg7": 0.69,
-        "avg30": 0.59,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.4,
-        "reverseHoloAvg30": 0.4
+        "reverseHoloLow": 0.4
       }
     }
   },
   {
     "id": "xy0-2",
     "name": "Pansage",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -132,14 +119,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -166,7 +153,7 @@
     },
     "number": "2",
     "artist": "Masakazu Fukuda",
-    "flavorText": "It shares the leaf on its head with weary-looking Pok\u00e9mon. These leaves are known to relieve stress.",
+    "flavorText": "It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.",
     "nationalPokedexNumbers": [
       511
     ],
@@ -192,31 +179,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-2",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Pansage-KSS2",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.56,
         "lowPrice": 0.05,
-        "trendPrice": 0.44,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.3,
-        "lowPriceExPlus": 0.25,
-        "avg1": 0.4,
-        "avg7": 0.43,
-        "avg30": 0.42,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.3,
-        "reverseHoloAvg30": 0.3
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-3",
     "name": "Chespin",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -251,7 +225,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -311,31 +285,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-3",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Chespin-KSS3",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.42,
         "lowPrice": 0.05,
-        "trendPrice": 0.41,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.77,
-        "lowPriceExPlus": 0.07,
-        "avg1": 0.04,
-        "avg7": 0.41,
-        "avg30": 0.47,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.71,
-        "reverseHoloAvg30": 0.71
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-4",
     "name": "Quilladin",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -356,7 +317,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Heal 10 damage from this Pok\u00e9mon."
+        "text": "Heal 10 damage from this Pokémon."
       },
       {
         "name": "Needle Arm",
@@ -373,7 +334,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -434,31 +395,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-4",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Quilladin-KSS4",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.4,
         "lowPrice": 0.05,
-        "trendPrice": 3.31,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.29,
-        "lowPriceExPlus": 0.2,
-        "avg1": 1.85,
-        "avg7": 1.96,
-        "avg30": 1.86,
-        "reverseHoloAvg1": 0.05,
-        "reverseHoloAvg7": 0.45,
-        "reverseHoloAvg30": 0.45
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-5",
     "name": "Chesnaught",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -495,7 +443,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -558,31 +506,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-5",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Chesnaught-KSS5",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.26,
         "lowPrice": 0.05,
-        "trendPrice": 2.51,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 4.0,
-        "reverseHoloLow": 1.0,
-        "reverseHoloTrend": 2.14,
-        "lowPriceExPlus": 1.0,
-        "avg1": 0.9,
-        "avg7": 2.49,
-        "avg30": 2.27,
-        "reverseHoloAvg1": 1.29,
-        "reverseHoloAvg7": 2.4,
-        "reverseHoloAvg30": 2.05
+        "reverseHoloLow": 1.3
       }
     }
   },
   {
     "id": "xy0-6",
     "name": "Slugma",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -608,7 +543,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -662,31 +597,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-6",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Slugma-KSS6",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.85,
         "lowPrice": 0.02,
-        "trendPrice": 0.53,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.2,
-        "avg7": 0.52,
-        "avg30": 0.45,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-7",
     "name": "Pansear",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -714,14 +636,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -774,31 +696,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-7",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Pansear-KSS7",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.34,
         "lowPrice": 0.02,
-        "trendPrice": 0.42,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.2,
-        "avg7": 0.44,
-        "avg30": 0.45,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-8",
     "name": "Fennekin",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -833,7 +742,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -893,31 +802,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-8",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Fennekin-KSS8",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.93,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.16,
-        "avg30": 0.25,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 0.55,
-        "reverseHoloAvg30": 0.55
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-9",
     "name": "Braixen",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -955,7 +851,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1015,31 +911,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-9",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Braixen-KSS9",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.29,
         "lowPrice": 0.02,
-        "trendPrice": 0.32,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.05,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.02,
-        "avg7": 0.25,
-        "avg30": 0.28,
-        "reverseHoloAvg1": 4.0,
-        "reverseHoloAvg7": 1.18,
-        "reverseHoloAvg30": 1.18
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-10",
     "name": "Delphox",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -1069,13 +952,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "120",
-        "text": "Discard an Energy attached to this Pok\u00e9mon."
+        "text": "Discard an Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1136,31 +1019,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-10",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Delphox-KSS10",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.96,
         "lowPrice": 0.05,
-        "trendPrice": 1.39,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.6,
-        "reverseHoloLow": 0.4,
-        "reverseHoloTrend": 1.48,
-        "lowPriceExPlus": 0.4,
-        "avg1": 1.45,
-        "avg7": 0.92,
-        "avg30": 1.41,
-        "reverseHoloAvg1": 1.6,
-        "reverseHoloAvg7": 1.68,
-        "reverseHoloAvg30": 1.45
+        "reverseHoloLow": 0.4
       }
     }
   },
   {
     "id": "xy0-11",
     "name": "Panpour",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1188,14 +1058,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1248,31 +1118,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-11",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Panpour-KSS11",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.42,
         "lowPrice": 0.02,
-        "trendPrice": 0.39,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.75,
-        "avg7": 0.3,
-        "avg30": 0.35,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-12",
     "name": "Froakie",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1307,7 +1164,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1367,31 +1224,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-12",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Froakie-KSS12",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.47,
         "lowPrice": 0.02,
-        "trendPrice": 0.35,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 4.9,
-        "reverseHoloTrend": 1.26,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.17,
-        "avg7": 0.47,
-        "avg30": 0.28,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 0.93,
-        "reverseHoloAvg30": 0.93
+        "reverseHoloLow": 4.9
       }
     }
   },
   {
     "id": "xy0-13",
     "name": "Frogadier",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1428,7 +1272,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1488,31 +1332,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-13",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Frogadier-KSS13",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.43,
         "lowPrice": 0.02,
-        "trendPrice": 0.39,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 5.0,
-        "reverseHoloTrend": 1.79,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.55,
-        "avg7": 0.4,
-        "avg30": 0.31,
-        "reverseHoloAvg1": 2.98,
-        "reverseHoloAvg7": 1.52,
-        "reverseHoloAvg30": 1.52
+        "reverseHoloLow": 5.0
       }
     }
   },
   {
     "id": "xy0-14",
     "name": "Greninja",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -1529,7 +1360,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "40",
-        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
       },
       {
         "name": "Aqua Edge",
@@ -1546,7 +1377,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1606,31 +1437,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-14",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Greninja-KSS14",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.65,
         "lowPrice": 0.2,
-        "trendPrice": 2.43,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.8,
-        "reverseHoloTrend": 2.62,
-        "lowPriceExPlus": 1.0,
-        "avg1": 3.5,
-        "avg7": 2.82,
-        "avg30": 2.72,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 3.41,
-        "reverseHoloAvg30": 2.24
+        "reverseHoloLow": 0.8
       }
     }
   },
   {
     "id": "xy0-15",
     "name": "Clauncher",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1656,7 +1474,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1709,31 +1527,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-15",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Clauncher-KSS15",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.28,
         "lowPrice": 0.02,
-        "trendPrice": 0.33,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.25,
-        "avg7": 0.32,
-        "avg30": 0.31,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-16",
     "name": "Poochyena",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1759,7 +1564,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1792,7 +1597,7 @@
     },
     "number": "16",
     "artist": "Mizue",
-    "flavorText": "A Pok\u00e9mon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+    "flavorText": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
     "nationalPokedexNumbers": [
       261
     ],
@@ -1818,31 +1623,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-16",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Poochyena-KSS16",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.19,
         "lowPrice": 0.03,
-        "trendPrice": 0.3,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.15,
-        "avg7": 0.23,
-        "avg30": 0.31,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-17",
     "name": "Mightyena",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1866,7 +1658,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1925,31 +1717,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-17",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Mightyena-KSS17",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.33,
-        "lowPrice": 0.15,
-        "trendPrice": 1.0,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.5,
-        "avg1": 0.15,
-        "avg7": 1.57,
-        "avg30": 0.91,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-18",
     "name": "Inkay",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1974,7 +1753,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2033,31 +1812,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-18",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Inkay-KSS18",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.5,
         "lowPrice": 0.05,
-        "trendPrice": 0.29,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.05,
-        "lowPriceExPlus": 0.3,
-        "avg1": 0.29,
-        "avg7": 0.33,
-        "avg30": 0.32,
-        "reverseHoloAvg1": 0.05,
-        "reverseHoloAvg7": 0.05,
-        "reverseHoloAvg30": 0.05
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-19",
     "name": "Pawniard",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2092,7 +1858,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2125,7 +1891,7 @@
     },
     "number": "19",
     "artist": "Kouki Saitou",
-    "flavorText": "Blades comprise this Pok\u00e9mon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+    "flavorText": "Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.",
     "nationalPokedexNumbers": [
       624
     ],
@@ -2151,31 +1917,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-19",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Pawniard-KSS19",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.24,
         "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.05,
-        "avg7": 0.2,
-        "avg30": 0.18,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-20",
     "name": "Bisharp",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2192,7 +1945,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Metal Claw",
@@ -2209,7 +1962,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2242,7 +1995,7 @@
     },
     "number": "20",
     "artist": "Kagemaru Himeno",
-    "flavorText": "This pitiless Pok\u00e9mon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+    "flavorText": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
     "nationalPokedexNumbers": [
       625
     ],
@@ -2268,31 +2021,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-20",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Bisharp-KSS20",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.59,
         "lowPrice": 0.02,
-        "trendPrice": 0.31,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.3,
-        "avg1": 0.7,
-        "avg7": 0.46,
-        "avg30": 0.4,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-21",
     "name": "Honedge",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2311,14 +2051,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30\u00d7",
+        "damage": "30×",
         "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2352,7 +2092,7 @@
     },
     "number": "21",
     "artist": "5ban Graphics",
-    "flavorText": "Apparently this Pok\u00e9mon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
+    "flavorText": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
     "nationalPokedexNumbers": [
       679
     ],
@@ -2378,31 +2118,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-21",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Honedge-KSS21",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.45,
         "lowPrice": 0.02,
-        "trendPrice": 0.49,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.5,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.45,
-        "avg7": 0.46,
-        "avg30": 0.41,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.91,
-        "reverseHoloAvg30": 0.91
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-22",
     "name": "Snubbull",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2428,7 +2155,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2488,31 +2215,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-22",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Snubbull-KSS22",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.98,
-        "lowPriceExPlus": 0.03,
-        "avg1": 0.1,
-        "avg7": 0.2,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 0.98,
-        "reverseHoloAvg7": 0.98,
-        "reverseHoloAvg30": 0.98
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-23",
     "name": "Granbull",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2547,7 +2261,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2608,31 +2322,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-23",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Granbull-KSS23",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.85,
         "lowPrice": 0.02,
-        "trendPrice": 1.28,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.35,
-        "avg1": 0.99,
-        "avg7": 1.18,
-        "avg30": 0.74,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-24",
     "name": "Swirlix",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2651,13 +2352,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Heal 10 damage from this Pok\u00e9mon."
+        "text": "Heal 10 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2716,31 +2417,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-24",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Swirlix-KSS24",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.0,
         "lowPrice": 0.02,
-        "trendPrice": 1.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.45,
-        "lowPriceExPlus": 0.3,
-        "avg1": 0.99,
-        "avg7": 1.39,
-        "avg30": 0.78,
-        "reverseHoloAvg1": 5.0,
-        "reverseHoloAvg7": 2.05,
-        "reverseHoloAvg30": 2.05
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-25",
     "name": "Farfetch'd",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2765,7 +2453,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2824,31 +2512,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-25",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Farfetchd-KSS25",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.79,
         "lowPrice": 0.03,
-        "trendPrice": 1.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.45,
-        "avg1": 0.5,
-        "avg7": 1.51,
-        "avg30": 1.26,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-26",
     "name": "Snorlax",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2884,7 +2559,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2940,31 +2615,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-26",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Snorlax-KSS26",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 20.48,
         "lowPrice": 3.0,
-        "trendPrice": 21.81,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.0,
-        "lowPriceExPlus": 19.9,
-        "avg1": 10.0,
-        "avg7": 20.34,
-        "avg30": 13.93,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 3.0,
-        "reverseHoloAvg30": 3.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-27",
     "name": "Miltank",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2988,7 +2650,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3043,31 +2705,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-27",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Miltank-KSS27",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.5,
         "lowPrice": 0.8,
-        "trendPrice": 5.29,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 1.0,
-        "avg1": 1.0,
-        "avg7": 5.64,
-        "avg30": 3.48,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-28",
     "name": "Skitty",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3093,7 +2742,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3146,31 +2795,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-28",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Skitty-KSS28",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.76,
         "lowPrice": 1.5,
-        "trendPrice": 4.89,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 2.22,
-        "avg1": 2.0,
-        "avg7": 5.15,
-        "avg30": 4.19,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-29",
     "name": "Bidoof",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3197,7 +2833,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3251,31 +2887,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-29",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Bidoof-KSS29",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.63,
         "lowPrice": 1.5,
-        "trendPrice": 6.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 9.0,
-        "avg1": 9.9,
-        "avg7": 5.69,
-        "avg30": 3.9,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-30",
     "name": "Bunnelby",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3301,7 +2924,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3354,31 +2977,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-30",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Bunnelby-KSS30",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.4,
         "lowPrice": 0.02,
-        "trendPrice": 0.4,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.5,
-        "avg7": 0.34,
-        "avg30": 0.41,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-31",
     "name": "Fletchling",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3403,7 +3013,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3436,7 +3046,7 @@
     },
     "number": "31",
     "artist": "5ban Graphics",
-    "flavorText": "These friendly Pok\u00e9mon send signals to one another with beautiful chirps and tail-feather movements.",
+    "flavorText": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
     "nationalPokedexNumbers": [
       661
     ],
@@ -3462,31 +3072,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-31",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Fletchling-KSS31",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.21,
         "lowPrice": 0.02,
-        "trendPrice": 0.21,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.99,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.2,
-        "avg7": 0.18,
-        "avg30": 0.34,
-        "reverseHoloAvg1": 2.99,
-        "reverseHoloAvg7": 2.99,
-        "reverseHoloAvg30": 2.99
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-32",
     "name": "Furfrou",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3503,7 +3100,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Sharp Fang",
@@ -3520,7 +3117,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3573,31 +3170,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-32",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Furfrou-KSS32",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.56,
         "lowPrice": 0.02,
-        "trendPrice": 0.73,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.0,
-        "lowPriceExPlus": 0.5,
-        "avg1": 0.4,
-        "avg7": 0.82,
-        "avg30": 1.11,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 2.0,
-        "reverseHoloAvg30": 2.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-33",
     "name": "Furfrou",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3614,7 +3198,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Sharp Fang",
@@ -3631,7 +3215,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3684,24 +3268,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-33",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Furfrou-KSS33",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.75,
         "lowPrice": 0.25,
-        "trendPrice": 3.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.5,
-        "avg1": 4.5,
-        "avg7": 3.13,
-        "avg30": 2.08,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
@@ -3713,7 +3284,7 @@
       "Item"
     ],
     "rules": [
-      "Flip a coin. If heads, discard an Energy attached to 1 of your opponent's Pok\u00e9mon.",
+      "Flip a coin. If heads, discard an Energy attached to 1 of your opponent's Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -3759,36 +3330,23 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-34",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Crushing-Hammer-V1-KSS34",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.37,
         "lowPrice": 0.05,
-        "trendPrice": 0.33,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.01,
-        "lowPriceExPlus": 0.15,
-        "avg1": 0.51,
-        "avg7": 0.36,
-        "avg30": 0.33,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.54,
-        "reverseHoloAvg30": 0.47
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-35",
-    "name": "Pok\u00e9 Ball",
+    "name": "Poké Ball",
     "supertype": "Trainer",
     "subtypes": [
       "Item"
     ],
     "rules": [
-      "Flip a coin. If heads, search your deck for a Pok\u00e9mon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -3834,36 +3392,23 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-35",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Poke-Ball-KSS35",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.1,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.16,
-        "avg7": 0.08,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.1,
-        "reverseHoloAvg30": 0.1
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy0-36",
-    "name": "Pok\u00e9mon Catcher",
+    "name": "Pokémon Catcher",
     "supertype": "Trainer",
     "subtypes": [
       "Item"
     ],
     "rules": [
-      "Flip a coin. If heads, switch 1 of your opponent's Benched Pok\u00e9mon with his or her Active Pok\u00e9mon.",
+      "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -3909,24 +3454,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-36",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Pokemon-Catcher-V1-KSS36",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.0,
-        "lowPrice": 0.75,
-        "trendPrice": 5.46,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.71,
-        "lowPriceExPlus": 1.0,
-        "avg1": 1.0,
-        "avg7": 4.97,
-        "avg30": 2.79,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.85,
-        "reverseHoloAvg30": 1.3
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
       }
     }
   },
@@ -3938,7 +3470,7 @@
       "Item"
     ],
     "rules": [
-      "Heal 30 damage from 1 of your Pok\u00e9mon.",
+      "Heal 30 damage from 1 of your Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -3984,24 +3516,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-37",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Potion-KSS37",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.02,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.02,
-        "reverseHoloAvg7": 0.02,
-        "reverseHoloAvg30": 0.02
+        "reverseHoloLow": null
       }
     }
   },
@@ -4013,7 +3532,7 @@
       "Item"
     ],
     "rules": [
-      "Switch your Active Pok\u00e9mon with 1 of your Benched Pok\u00e9mon.",
+      "Switch your Active Pokémon with 1 of your Benched Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -4059,24 +3578,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-38",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Switch-KSS38",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.1,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
@@ -4133,24 +3639,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy0-39",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Tierno-V1-KSS39",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.53,
-        "lowPrice": 0.15,
-        "trendPrice": 1.41,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.81,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.15,
-        "avg7": 1.21,
-        "avg30": 1.12,
-        "reverseHoloAvg1": 0.75,
-        "reverseHoloAvg7": 0.72,
-        "reverseHoloAvg30": 0.64
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.95
       }
     }
   }

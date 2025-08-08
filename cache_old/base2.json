@@ -63,6 +63,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/1.png",
       "large": "https://images.pokemontcg.io/base2/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Clefable-V1-JU1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -124,6 +132,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/2.png",
       "large": "https://images.pokemontcg.io/base2/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Electrode-V1-JU2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -186,6 +202,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/3.png",
       "large": "https://images.pokemontcg.io/base2/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Flareon-V1-JU3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -247,6 +271,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/4.png",
       "large": "https://images.pokemontcg.io/base2/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Jolteon-V1-JU4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -315,6 +347,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/5.png",
       "large": "https://images.pokemontcg.io/base2/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Kangaskhan-V1-JU5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -371,6 +411,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/6.png",
       "large": "https://images.pokemontcg.io/base2/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Mr-Mime-V1-JU6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.94,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -435,6 +483,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/7.png",
       "large": "https://images.pokemontcg.io/base2/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Nidoqueen-V1-JU7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -498,6 +554,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/8.png",
       "large": "https://images.pokemontcg.io/base2/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Pidgeot-V1-JU8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -559,6 +623,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/9.png",
       "large": "https://images.pokemontcg.io/base2/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Pinsir-V1-JU9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -623,6 +695,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/10.png",
       "large": "https://images.pokemontcg.io/base2/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Scyther-V1-JU10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -690,6 +770,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/11.png",
       "large": "https://images.pokemontcg.io/base2/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Snorlax-V1-JU11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -751,6 +839,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/12.png",
       "large": "https://images.pokemontcg.io/base2/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Vaporeon-V1-JU12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -810,6 +906,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/13.png",
       "large": "https://images.pokemontcg.io/base2/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Venomoth-V1-JU13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -870,6 +974,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/14.png",
       "large": "https://images.pokemontcg.io/base2/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Victreebel-V1-JU14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -929,6 +1041,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/15.png",
       "large": "https://images.pokemontcg.io/base2/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Vileplume-V1-JU15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -996,6 +1116,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/16.png",
       "large": "https://images.pokemontcg.io/base2/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Wigglytuff-V1-JU16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1062,6 +1190,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/17.png",
       "large": "https://images.pokemontcg.io/base2/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Clefable-V2-JU17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1123,6 +1259,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/18.png",
       "large": "https://images.pokemontcg.io/base2/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Electrode-V2-JU18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1185,6 +1329,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/19.png",
       "large": "https://images.pokemontcg.io/base2/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Flareon-V2-JU19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1246,6 +1398,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/20.png",
       "large": "https://images.pokemontcg.io/base2/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Jolteon-V2-JU20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1314,6 +1474,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/21.png",
       "large": "https://images.pokemontcg.io/base2/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Kangaskhan-V2-JU21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1370,6 +1538,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/22.png",
       "large": "https://images.pokemontcg.io/base2/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Mr-Mime-V2-JU22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1434,6 +1610,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/23.png",
       "large": "https://images.pokemontcg.io/base2/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Nidoqueen-V2-JU23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1497,6 +1681,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/24.png",
       "large": "https://images.pokemontcg.io/base2/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Pidgeot-V2-JU24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1558,6 +1750,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/25.png",
       "large": "https://images.pokemontcg.io/base2/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Pinsir-V2-JU25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1622,6 +1822,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/26.png",
       "large": "https://images.pokemontcg.io/base2/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Scyther-V2-JU26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1689,6 +1897,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/27.png",
       "large": "https://images.pokemontcg.io/base2/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Snorlax-V2-JU27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1750,6 +1966,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/28.png",
       "large": "https://images.pokemontcg.io/base2/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Vaporeon-V2-JU28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1809,6 +2033,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/29.png",
       "large": "https://images.pokemontcg.io/base2/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Venomoth-V2-JU29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1869,6 +2101,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/30.png",
       "large": "https://images.pokemontcg.io/base2/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Victreebel-V2-JU30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.69,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1928,6 +2168,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/31.png",
       "large": "https://images.pokemontcg.io/base2/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Vileplume-V2-JU31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1995,6 +2243,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/32.png",
       "large": "https://images.pokemontcg.io/base2/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Wigglytuff-V2-JU32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2059,6 +2315,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/33.png",
       "large": "https://images.pokemontcg.io/base2/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Butterfree-JU33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2119,6 +2383,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/34.png",
       "large": "https://images.pokemontcg.io/base2/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Dodrio-JU34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2179,6 +2451,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/35.png",
       "large": "https://images.pokemontcg.io/base2/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Exeggutor-JU35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2244,6 +2524,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/36.png",
       "large": "https://images.pokemontcg.io/base2/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Fearow-JU36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2307,6 +2595,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/37.png",
       "large": "https://images.pokemontcg.io/base2/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Gloom-JU37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2376,6 +2672,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/38.png",
       "large": "https://images.pokemontcg.io/base2/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Lickitung-JU38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2443,6 +2747,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/39.png",
       "large": "https://images.pokemontcg.io/base2/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Marowak-JU39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2506,6 +2818,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/40.png",
       "large": "https://images.pokemontcg.io/base2/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Nidorina-JU40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2567,6 +2887,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/41.png",
       "large": "https://images.pokemontcg.io/base2/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Parasect-JU41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2630,6 +2958,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/42.png",
       "large": "https://images.pokemontcg.io/base2/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Persian-JU42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2691,6 +3027,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/43.png",
       "large": "https://images.pokemontcg.io/base2/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Primeape-JU43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2748,6 +3092,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/44.png",
       "large": "https://images.pokemontcg.io/base2/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Rapidash-JU44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2822,6 +3174,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/45.png",
       "large": "https://images.pokemontcg.io/base2/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Rhydon-JU45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2881,6 +3241,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/46.png",
       "large": "https://images.pokemontcg.io/base2/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Seaking-JU46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2948,6 +3316,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/47.png",
       "large": "https://images.pokemontcg.io/base2/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Tauros-JU47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3010,6 +3386,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/48.png",
       "large": "https://images.pokemontcg.io/base2/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Weepinbell-JU48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3070,6 +3454,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/49.png",
       "large": "https://images.pokemontcg.io/base2/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Bellsprout-JU49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3137,6 +3529,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/50.png",
       "large": "https://images.pokemontcg.io/base2/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Cubone-JU50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3211,6 +3611,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/51.png",
       "large": "https://images.pokemontcg.io/base2/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Eevee-JU51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3272,6 +3680,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/52.png",
       "large": "https://images.pokemontcg.io/base2/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Exeggcute-JU52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3319,6 +3735,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/53.png",
       "large": "https://images.pokemontcg.io/base2/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Goldeen-JU53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3386,6 +3810,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/54.png",
       "large": "https://images.pokemontcg.io/base2/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Jigglypuff-JU54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3440,6 +3872,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/55.png",
       "large": "https://images.pokemontcg.io/base2/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Mankey-JU55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3498,6 +3938,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/56.png",
       "large": "https://images.pokemontcg.io/base2/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Meowth-V1-JU56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3559,6 +4007,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/57.png",
       "large": "https://images.pokemontcg.io/base2/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Nidoran-JU57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3620,6 +4076,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/58.png",
       "large": "https://images.pokemontcg.io/base2/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Oddish-JU58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3682,6 +4146,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/59.png",
       "large": "https://images.pokemontcg.io/base2/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Paras-JU59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3734,6 +4206,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/60.png",
       "large": "https://images.pokemontcg.io/base2/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Pikachu-JU60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3804,6 +4284,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/61.png",
       "large": "https://images.pokemontcg.io/base2/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Rhyhorn-JU61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3868,6 +4356,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/62.png",
       "large": "https://images.pokemontcg.io/base2/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Spearow-JU62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3929,6 +4425,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/63.png",
       "large": "https://images.pokemontcg.io/base2/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Venonat-JU63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3949,6 +4453,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base2/64.png",
       "large": "https://images.pokemontcg.io/base2/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Jungle/Poke-Ball-JU64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": "xy10-1",
     "name": "Shuckle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -28,13 +28,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -95,31 +95,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-1",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Shuckle-FCO1",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.42,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.83,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.08,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.39,
-        "reverseHoloAvg7": 0.55,
-        "reverseHoloAvg30": 0.69
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-2",
     "name": "Burmy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -144,7 +131,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -205,31 +192,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-2",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Burmy-FCO2",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.18,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.34,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.28,
-        "reverseHoloAvg30": 0.43
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy10-3",
     "name": "Wormadam",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -246,7 +220,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Heal 20 damage from each of your Pok\u00e9mon."
+        "text": "Heal 20 damage from each of your Pokémon."
       },
       {
         "name": "Leaf Cutter",
@@ -263,7 +237,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -292,7 +266,7 @@
     "number": "3",
     "artist": "kawayoo",
     "rarity": "Uncommon",
-    "flavorText": "When Burmy evolved, its cloak became a part of this Pok\u00e9mon's body. The cloak is never shed.",
+    "flavorText": "When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.",
     "nationalPokedexNumbers": [
       413
     ],
@@ -325,31 +299,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-3",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Wormadam-FCO3",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.1,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.23,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.06,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.15,
-        "reverseHoloAvg7": 0.23,
-        "reverseHoloAvg30": 0.44
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-4",
     "name": "Mothim",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -361,7 +322,7 @@
     "abilities": [
       {
         "name": "Wormadam First",
-        "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Wormadam to another of your Pok\u00e9mon.",
+        "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Wormadam to another of your Pokémon.",
         "type": "Ability"
       }
     ],
@@ -381,7 +342,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -444,31 +405,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-4",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Mothim-FCO4",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.32,
         "lowPrice": 0.02,
-        "trendPrice": 0.3,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.01,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 1.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.1,
-        "avg7": 0.26,
-        "avg30": 0.25,
-        "reverseHoloAvg1": 1.25,
-        "reverseHoloAvg7": 1.13,
-        "reverseHoloAvg30": 1.08
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy10-5",
     "name": "Snivy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -487,13 +435,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Heal 10 damage from this Pok\u00e9mon."
+        "text": "Heal 10 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -554,31 +502,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-5",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Snivy-FCO5",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.44,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.4,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.09,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.45,
-        "reverseHoloAvg30": 0.41
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy10-6",
     "name": "Servine",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -593,7 +528,7 @@
     "abilities": [
       {
         "name": "Serpentine Strangle",
-        "text": "When you play this Pok\u00e9mon from your hand to evolve 1 of your Pok\u00e9mon, you may flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
         "type": "Ability"
       }
     ],
@@ -611,7 +546,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -672,31 +607,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-6",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Servine-FCO6",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.24,
         "lowPrice": 0.02,
-        "trendPrice": 0.24,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.44,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 1.08,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.3,
-        "avg7": 0.21,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 1.25,
-        "reverseHoloAvg7": 1.1,
-        "reverseHoloAvg30": 0.92
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy10-7",
     "name": "Serperior",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -713,7 +635,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "40",
-        "text": "During your next turn, this Pok\u00e9mon's attacks do 60 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance)."
+        "text": "During your next turn, this Pokémon's attacks do 60 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
       },
       {
         "name": "Slashing Strike",
@@ -722,13 +644,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "80",
-        "text": "This Pok\u00e9mon can't use Slashing Strike during your next turn."
+        "text": "This Pokémon can't use Slashing Strike during your next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -790,31 +712,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-7",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Serperior-FCO7",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.5,
         "lowPrice": 0.05,
-        "trendPrice": 0.51,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.87,
-        "reverseHoloLow": 0.49,
-        "reverseHoloTrend": 1.38,
-        "lowPriceExPlus": 0.15,
-        "avg1": 0.34,
-        "avg7": 0.56,
-        "avg30": 0.47,
-        "reverseHoloAvg1": 1.87,
-        "reverseHoloAvg7": 1.87,
-        "reverseHoloAvg30": 1.92
+        "reverseHoloLow": 0.49
       }
     }
   },
   {
     "id": "xy10-8",
     "name": "Deerling",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -833,13 +742,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a Pok\u00e9mon, reveal it, and put it into your hand. Shuffle your deck afterward."
+        "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -867,7 +776,7 @@
     "number": "8",
     "artist": "Kanako Eo",
     "rarity": "Common",
-    "flavorText": "The turning of the seasons changes the color and scent of this Pok\u00e9mon's fur. People use it to mark the seasons.",
+    "flavorText": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.",
     "nationalPokedexNumbers": [
       585
     ],
@@ -900,31 +809,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-8",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Deerling-FCO8",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.45,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.42,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.14,
-        "avg7": 0.07,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.48,
-        "reverseHoloAvg30": 0.43
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-9",
     "name": "Moltres",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -952,13 +848,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "80+",
-        "text": "You may do 40 more damage. If you do, this Pok\u00e9mon does 20 damage to itself."
+        "text": "You may do 40 more damage. If you do, this Pokémon does 20 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -992,7 +888,7 @@
     "number": "9",
     "artist": "OOYAMA",
     "rarity": "Rare",
-    "flavorText": "One of the legendary bird Pok\u00e9mon. It is said that its appearance indicates the coming of spring.",
+    "flavorText": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
     "nationalPokedexNumbers": [
       146
     ],
@@ -1025,31 +921,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-9",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Moltres-FCO9",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.64,
         "lowPrice": 0.09,
-        "trendPrice": 0.51,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.21,
-        "reverseHoloLow": 0.9,
-        "reverseHoloTrend": 2.41,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.5,
-        "avg7": 0.43,
-        "avg30": 0.68,
-        "reverseHoloAvg1": 1.95,
-        "reverseHoloAvg7": 2.52,
-        "reverseHoloAvg30": 2.22
+        "reverseHoloLow": 0.8
       }
     }
   },
   {
     "id": "xy10-10",
     "name": "Fennekin",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1078,13 +961,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon can't attack during your opponent's next turn."
+        "text": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1145,31 +1028,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-10",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Fennekin-FCO10",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.08,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 1.03,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.13,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.53,
-        "reverseHoloAvg7": 0.97,
-        "reverseHoloAvg30": 0.86
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy10-11",
     "name": "Fennekin",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1188,13 +1058,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pok\u00e9mon with his or her Active Pok\u00e9mon."
+        "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1255,31 +1125,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-11",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Fennekin-FCO11",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.49,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.2,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.67,
-        "reverseHoloAvg7": 0.48,
-        "reverseHoloAvg30": 0.53
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy10-12",
     "name": "Braixen",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1299,7 +1156,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
       },
       {
         "name": "Crackling Ribbon",
@@ -1315,7 +1172,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1376,31 +1233,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-12",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Braixen-V1-FCO12",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.46,
-        "lowPrice": 0.35,
-        "trendPrice": 0.54,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.3,
-        "lowPriceExPlus": 0.49,
-        "avg1": 0.99,
-        "avg7": 0.72,
-        "avg30": 0.68,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.31,
-        "reverseHoloAvg30": 0.31
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy10-13",
     "name": "Delphox",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -1417,7 +1261,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "40",
-        "text": "Your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Your opponent's Active Pokémon is now Asleep."
       },
       {
         "name": "Psystorm",
@@ -1427,14 +1271,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "20\u00d7",
-        "text": "This attack does 20 damage times the amount of Energy attached to all Pok\u00e9mon in play."
+        "damage": "20×",
+        "text": "This attack does 20 damage times the amount of Energy attached to all Pokémon in play."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1496,31 +1340,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-13",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Delphox-V1-FCO13",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.89,
-        "lowPrice": 0.33,
-        "trendPrice": 0.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.57,
-        "lowPriceExPlus": 0.33,
-        "avg1": 0.99,
-        "avg7": 0.94,
-        "avg30": 1.01,
-        "reverseHoloAvg1": 0.45,
-        "reverseHoloAvg7": 0.49,
-        "reverseHoloAvg30": 0.47
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "xy10-14",
     "name": "Delphox BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -1535,7 +1366,7 @@
     "abilities": [
       {
         "name": "Flare Witch",
-        "text": "Once during your turn (before your attack), you may search your deck for a Fire Energy card and attach it to 1 of your Pok\u00e9mon. Shuffle your deck afterward.",
+        "text": "Once during your turn (before your attack), you may search your deck for a Fire Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward.",
         "type": "Ability"
       }
     ],
@@ -1585,31 +1416,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-14",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Delphox-BREAK-FCO14",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.26,
-        "lowPrice": 0.99,
-        "trendPrice": 4.23,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 1.5,
-        "reverseHoloTrend": 2.0,
-        "lowPriceExPlus": 1.75,
-        "avg1": 3.4,
-        "avg7": 4.26,
-        "avg30": 3.26,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 2.59,
-        "reverseHoloAvg30": 2.56
+        "lowPrice": 1.5,
+        "reverseHoloLow": 1.5
       }
     }
   },
   {
     "id": "xy10-15",
     "name": "Seel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1634,7 +1452,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1696,31 +1514,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-15",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Seel-FCO15",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.35,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.36,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.1,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.29,
-        "reverseHoloAvg30": 0.32
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy10-16",
     "name": "Dewgong",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1737,7 +1542,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed. If tails, your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed. If tails, your opponent's Active Pokémon is now Asleep."
       },
       {
         "name": "Aurora Beam",
@@ -1755,7 +1560,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1818,31 +1623,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-16",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Dewgong-FCO16",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.22,
         "lowPrice": 0.02,
-        "trendPrice": 0.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.02,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 1.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.14,
-        "avg7": 0.22,
-        "avg30": 0.21,
-        "reverseHoloAvg1": 0.24,
-        "reverseHoloAvg7": 0.6,
-        "reverseHoloAvg30": 1.0
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy10-17",
     "name": "Omanyte",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Restored"
     ],
@@ -1871,7 +1663,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1900,7 +1692,7 @@
     "number": "17",
     "artist": "Shigenori Negishi",
     "rarity": "Uncommon",
-    "flavorText": "Revived from an ancient fossil, this Pok\u00e9mon uses air stored in its shell to sink and rise in water.",
+    "flavorText": "Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water.",
     "nationalPokedexNumbers": [
       138
     ],
@@ -1933,31 +1725,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-17",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Omanyte-FCO17",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.55,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.57,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.16,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.51,
-        "reverseHoloAvg30": 0.47
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "xy10-18",
     "name": "Omastar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1969,7 +1748,7 @@
     "abilities": [
       {
         "name": "Restoring Beam",
-        "text": "Once during your turn (before your attack), you may search your deck for a Restored Pok\u00e9mon and put it onto your Bench. Shuffle your deck afterward.",
+        "text": "Once during your turn (before your attack), you may search your deck for a Restored Pokémon and put it onto your Bench. Shuffle your deck afterward.",
         "type": "Ability"
       }
     ],
@@ -1988,7 +1767,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2050,31 +1829,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-18",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Omastar-FCO18",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.41,
         "lowPrice": 0.02,
-        "trendPrice": 0.37,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.63,
-        "reverseHoloLow": 0.6,
-        "reverseHoloTrend": 1.33,
-        "lowPriceExPlus": 0.06,
-        "avg1": 0.59,
-        "avg7": 0.45,
-        "avg30": 0.52,
-        "reverseHoloAvg1": 1.8,
-        "reverseHoloAvg7": 1.18,
-        "reverseHoloAvg30": 1.39
+        "reverseHoloLow": 0.8
       }
     }
   },
   {
     "id": "xy10-19",
     "name": "Omastar BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -2089,7 +1855,7 @@
     "abilities": [
       {
         "name": "Dangerous Tentacle",
-        "text": "Once during your turn (before your attack), you may switch 1 of your opponent's Benched Pok\u00e9mon-EX with his or her Active Pok\u00e9mon.",
+        "text": "Once during your turn (before your attack), you may switch 1 of your opponent's Benched Pokémon-EX with his or her Active Pokémon.",
         "type": "Ability"
       }
     ],
@@ -2139,31 +1905,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-19",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Omastar-BREAK-FCO19",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.62,
         "lowPrice": 0.99,
-        "trendPrice": 2.3,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 2.5,
-        "reverseHoloTrend": 3.84,
-        "lowPriceExPlus": 1.0,
-        "avg1": 1.79,
-        "avg7": 2.56,
-        "avg30": 2.4,
-        "reverseHoloAvg1": 1.8,
-        "reverseHoloAvg7": 4.41,
-        "reverseHoloAvg30": 3.07
+        "reverseHoloLow": 2.5
       }
     }
   },
   {
     "id": "xy10-20",
     "name": "Glaceon-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -2173,7 +1926,7 @@
       "Water"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -2184,7 +1937,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pok\u00e9mon."
+        "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon."
       },
       {
         "name": "Crystal Ray",
@@ -2195,13 +1948,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "During your opponent's next turn, prevent all damage done to this Pok\u00e9mon by attacks from Evolution Pok\u00e9mon."
+        "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Evolution Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2255,31 +2008,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-20",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Glaceon-EX-FCO20",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 11.31,
-        "lowPrice": 5.0,
-        "trendPrice": 11.67,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 7.1,
-        "lowPriceExPlus": 8.0,
-        "avg1": 4.5,
-        "avg7": 12.63,
-        "avg30": 10.57,
-        "reverseHoloAvg1": 7.5,
-        "reverseHoloAvg7": 6.8,
-        "reverseHoloAvg30": 6.26
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-21",
     "name": "White Kyurem",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2296,7 +2036,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "If this Pok\u00e9mon has any Fire Energy attached to it, this attack does 20 damage to 2 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "If this Pokémon has any Fire Energy attached to it, this attack does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Blizzard Burn",
@@ -2307,13 +2047,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "This Pok\u00e9mon can't attack during your next turn."
+        "text": "This Pokémon can't attack during your next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2376,31 +2116,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-21",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/White-Kyurem-FCO21",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.86,
         "lowPrice": 0.1,
-        "trendPrice": 0.88,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.37,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.9,
-        "lowPriceExPlus": 0.3,
-        "avg1": 1.37,
-        "avg7": 0.99,
-        "avg30": 0.8,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 0.91,
-        "reverseHoloAvg30": 1.11
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy10-22",
     "name": "Binacle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2426,7 +2153,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2488,31 +2215,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-22",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Binacle-FCO22",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.21,
         "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.73,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.5,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.12,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.59,
-        "reverseHoloAvg30": 0.5
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy10-23",
     "name": "Barbaracle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2524,7 +2238,7 @@
     "abilities": [
       {
         "name": "Hand Block",
-        "text": "If you have a Stadium card in play, your opponent can't attach any Special Energy cards from his or her hand to his or her Pok\u00e9mon.",
+        "text": "If you have a Stadium card in play, your opponent can't attach any Special Energy cards from his or her hand to his or her Pokémon.",
         "type": "Ability"
       }
     ],
@@ -2544,7 +2258,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2607,31 +2321,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-23",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Barbaracle-FCO23",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.32,
         "lowPrice": 0.03,
-        "trendPrice": 0.35,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 0.71,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.23,
-        "avg7": 0.34,
-        "avg30": 0.31,
-        "reverseHoloAvg1": 0.54,
-        "reverseHoloAvg7": 0.78,
-        "reverseHoloAvg30": 0.78
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy10-24",
     "name": "Rotom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2647,7 +2348,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a basic Energy card and attach it to this Pok\u00e9mon. Shuffle your deck afterward."
+        "text": "Search your deck for a basic Energy card and attach it to this Pokémon. Shuffle your deck afterward."
       },
       {
         "name": "Plasmagic",
@@ -2657,13 +2358,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Move 2 damage counters from each of your Pok\u00e9mon to your opponent's Active Pok\u00e9mon."
+        "text": "Move 2 damage counters from each of your Pokémon to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2730,31 +2431,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-24",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Rotom-FCO24",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.39,
         "lowPrice": 0.03,
-        "trendPrice": 0.48,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.9,
-        "reverseHoloLow": 0.49,
-        "reverseHoloTrend": 1.79,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.65,
-        "avg7": 0.45,
-        "avg30": 0.49,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 1.32,
-        "reverseHoloAvg30": 1.24
+        "reverseHoloLow": 0.49
       }
     }
   },
   {
     "id": "xy10-25",
     "name": "Alakazam-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -2767,12 +2455,12 @@
       "M Alakazam-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Kinesis",
-        "text": "When you play M Alakazam-EX from your hand to evolve this Pok\u00e9mon, before it evolves, you may put 2 damage counters on your opponent's Active Pok\u00e9mon and 3 damage counters on 1 of your opponent's Benched Pok\u00e9mon.",
+        "text": "When you play M Alakazam-EX from your hand to evolve this Pokémon, before it evolves, you may put 2 damage counters on your opponent's Active Pokémon and 3 damage counters on 1 of your opponent's Benched Pokémon.",
         "type": "Ability"
       }
     ],
@@ -2785,13 +2473,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Put 3 damage counters on each of your opponent's Pok\u00e9mon that has any Energy attached to it."
+        "text": "Put 3 damage counters on each of your opponent's Pokémon that has any Energy attached to it."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2845,31 +2533,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-25",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Alakazam-EX-V1-FCO25",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.55,
         "lowPrice": 1.49,
-        "trendPrice": 4.56,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.19,
-        "lowPriceExPlus": 3.5,
-        "avg1": 1.2,
-        "avg7": 4.56,
-        "avg30": 4.99,
-        "reverseHoloAvg1": 2.5,
-        "reverseHoloAvg7": 5.88,
-        "reverseHoloAvg30": 4.83
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-26",
     "name": "M Alakazam-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -2880,8 +2555,8 @@
     ],
     "evolvesFrom": "Alakazam-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -2892,13 +2567,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "10+",
-        "text": "This attack does 30 more damage for each damage counter on your opponent's Active Pok\u00e9mon."
+        "text": "This attack does 30 more damage for each damage counter on your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2951,31 +2626,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-26",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/MAlakazam-EX-V1-FCO26",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 15.7,
         "lowPrice": 3.5,
-        "trendPrice": 16.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 7.21,
-        "lowPriceExPlus": 11.99,
-        "avg1": 15.48,
-        "avg7": 14.66,
-        "avg30": 13.41,
-        "reverseHoloAvg1": 7.9,
-        "reverseHoloAvg7": 5.82,
-        "reverseHoloAvg30": 5.72
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-27",
     "name": "Koffing",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3000,7 +2662,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3062,31 +2724,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-27",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Koffing-FCO27",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.21,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.24,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.1,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.33,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy10-28",
     "name": "Weezing",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3115,13 +2764,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "Both Active Pok\u00e9mon are now Confused and Poisoned."
+        "text": "Both Active Pokémon are now Confused and Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3184,31 +2833,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-28",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Weezing-FCO28",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.23,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.73,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.79,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.2,
-        "avg30": 0.18,
-        "reverseHoloAvg1": 0.29,
-        "reverseHoloAvg7": 0.67,
-        "reverseHoloAvg30": 1.06
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy10-29",
     "name": "Mew",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3219,7 +2855,7 @@
     "abilities": [
       {
         "name": "Memories of Dawn",
-        "text": "This Pok\u00e9mon can use the attacks of any of your Basic Pok\u00e9mon in play. (You still need the necessary Energy to use each attack.)",
+        "text": "This Pokémon can use the attacks of any of your Basic Pokémon in play. (You still need the necessary Energy to use each attack.)",
         "type": "Ability"
       }
     ],
@@ -3231,13 +2867,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a Pok\u00e9mon, reveal it, and put it into your hand. Shuffle your deck afterward."
+        "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -3261,7 +2897,7 @@
     "number": "29",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
-    "flavorText": "Its DNA is said to contain the genetic codes of all Pok\u00e9mon, so it can use all kinds of techniques.",
+    "flavorText": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
     "nationalPokedexNumbers": [
       151
     ],
@@ -3294,31 +2930,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-29",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Mew-FCO29",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.33,
-        "lowPrice": 1.25,
-        "trendPrice": 4.48,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 4.6,
-        "reverseHoloLow": 1.25,
-        "reverseHoloTrend": 5.52,
-        "lowPriceExPlus": 2.99,
-        "avg1": 2.0,
-        "avg7": 4.31,
-        "avg30": 4.09,
-        "reverseHoloAvg1": 5.0,
-        "reverseHoloAvg7": 5.8,
-        "reverseHoloAvg30": 5.35
+        "lowPrice": 0.99,
+        "reverseHoloLow": 0.99
       }
     }
   },
   {
     "id": "xy10-30",
     "name": "Spoink",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3343,7 +2966,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3404,31 +3027,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-30",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Spoink-FCO30",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.33,
-        "reverseHoloLow": 0.04,
-        "reverseHoloTrend": 0.43,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.25,
-        "avg7": 0.12,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.54,
-        "reverseHoloAvg7": 0.48,
-        "reverseHoloAvg30": 0.4
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy10-31",
     "name": "Grumpig",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3445,7 +3055,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Put a Basic Pok\u00e9mon from your opponent's discard pile onto his or her Bench. Then, put 3 damage counters on that Pok\u00e9mon."
+        "text": "Put a Basic Pokémon from your opponent's discard pile onto his or her Bench. Then, put 3 damage counters on that Pokémon."
       },
       {
         "name": "Knock Back",
@@ -3455,13 +3065,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
-        "text": "Your opponent switches his or her Active Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon."
+        "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3523,31 +3133,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-31",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Grumpig-FCO31",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.3,
         "lowPrice": 0.03,
-        "trendPrice": 0.37,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.63,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.49,
-        "avg7": 0.34,
-        "avg30": 0.29,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.47,
-        "reverseHoloAvg30": 0.56
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-32",
     "name": "Gothita",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3567,13 +3164,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Your opponent's Active Pok\u00e9mon is now Confused."
+        "text": "Your opponent's Active Pokémon is now Confused."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3601,7 +3198,7 @@
     "number": "32",
     "artist": "Kagemaru Himeno",
     "rarity": "Common",
-    "flavorText": "They intently observe both Trainers and Pok\u00e9mon. Apparently, they are looking at something only Gothita can see.",
+    "flavorText": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something only Gothita can see.",
     "nationalPokedexNumbers": [
       574
     ],
@@ -3634,31 +3231,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-32",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Gothita-FCO32",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.17,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.13,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.22,
-        "reverseHoloAvg30": 0.39
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy10-33",
     "name": "Solosis",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3684,7 +3268,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3745,31 +3329,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-33",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Solosis-FCO33",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.21,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.32,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.11,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.37,
-        "reverseHoloAvg30": 0.36
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "xy10-34",
     "name": "Duosion",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3796,7 +3367,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3857,31 +3428,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-34",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Duosion-FCO34",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.49,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.46,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.16,
-        "avg7": 0.18,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.75,
-        "reverseHoloAvg7": 0.45,
-        "reverseHoloAvg30": 0.53
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy10-35",
     "name": "Reuniclus",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -3905,7 +3463,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3966,31 +3524,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-35",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Reuniclus-FCO35",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.37,
         "lowPrice": 0.02,
-        "trendPrice": 0.41,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.4,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 1.09,
-        "lowPriceExPlus": 0.09,
-        "avg1": 0.31,
-        "avg7": 0.37,
-        "avg30": 0.33,
-        "reverseHoloAvg1": 0.29,
-        "reverseHoloAvg7": 1.12,
-        "reverseHoloAvg30": 0.9
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "xy10-36",
     "name": "Diglett",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4015,7 +3560,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -4072,31 +3617,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-36",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Diglett-FCO36",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.29,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.39,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.08,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.34,
-        "reverseHoloAvg30": 0.3
+        "reverseHoloLow": 0.09
       }
     }
   },
   {
     "id": "xy10-37",
     "name": "Marowak",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4108,7 +3640,7 @@
     "abilities": [
       {
         "name": "Bodyguard",
-        "text": "Prevent all effects of attacks done to you or your hand by your opponent's Pok\u00e9mon. Remove any existing effects.",
+        "text": "Prevent all effects of attacks done to you or your hand by your opponent's Pokémon. Remove any existing effects.",
         "type": "Ability"
       }
     ],
@@ -4120,14 +3652,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "60\u00d7",
+        "damage": "60×",
         "text": "Flip 2 coins. This attack does 60 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4189,31 +3721,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-37",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Marowak-FCO37",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.6,
         "lowPrice": 0.02,
-        "trendPrice": 0.7,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.29,
-        "reverseHoloTrend": 0.6,
-        "lowPriceExPlus": 0.03,
-        "avg1": 0.4,
-        "avg7": 0.64,
-        "avg30": 0.48,
-        "reverseHoloAvg1": 0.45,
-        "reverseHoloAvg7": 0.47,
-        "reverseHoloAvg30": 0.88
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "xy10-38",
     "name": "Kabuto",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Restored"
     ],
@@ -4242,7 +3761,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4270,7 +3789,7 @@
     "number": "38",
     "artist": "MAHOU",
     "rarity": "Uncommon",
-    "flavorText": "This Pok\u00e9mon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
+    "flavorText": "This Pokémon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
     "nationalPokedexNumbers": [
       140
     ],
@@ -4303,31 +3822,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-38",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Kabuto-FCO38",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.2,
         "lowPrice": 0.02,
-        "trendPrice": 0.28,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.77,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 1.01,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.23,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.94,
-        "reverseHoloAvg7": 0.77,
-        "reverseHoloAvg30": 0.68
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy10-39",
     "name": "Kabutops",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4345,7 +3851,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
-        "text": "Heal from this Pok\u00e9mon the same amount of damage you did to your opponent's Active Pok\u00e9mon."
+        "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
       },
       {
         "name": "X-Scissor",
@@ -4362,7 +3868,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4424,31 +3930,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-39",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Kabutops-FCO39",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.63,
         "lowPrice": 0.02,
-        "trendPrice": 0.63,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.99,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 2.58,
-        "lowPriceExPlus": 0.03,
-        "avg1": 0.3,
-        "avg7": 0.62,
-        "avg30": 0.78,
-        "reverseHoloAvg1": 1.99,
-        "reverseHoloAvg7": 2.74,
-        "reverseHoloAvg30": 2.19
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy10-40",
     "name": "Larvitar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4467,13 +3960,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "This Pok\u00e9mon does 10 damage to itself."
+        "text": "This Pokémon does 10 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4534,31 +4027,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-40",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Larvitar-FCO40",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.26,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.41,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.3,
-        "reverseHoloAvg30": 0.39
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy10-41",
     "name": "Larvitar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4593,7 +4073,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4654,31 +4134,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-41",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Larvitar-FCO41",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.36,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.35,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.34,
-        "reverseHoloAvg30": 0.37
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy10-42",
     "name": "Pupitar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4698,13 +4165,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20+",
-        "text": "Flip a coin. If heads, this attack does 20 more damage. If tails, this Pok\u00e9mon does 20 damage to itself."
+        "text": "Flip a coin. If heads, this attack does 20 more damage. If tails, this Pokémon does 20 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4765,31 +4232,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-42",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Pupitar-FCO42",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.85,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.13,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.75,
-        "reverseHoloAvg30": 0.76
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy10-43",
     "name": "Regirock-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -4799,12 +4253,12 @@
       "Fighting"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Regi Power",
-        "text": "The attacks of your Fighting Pok\u00e9mon (excluding Regirock-EX) do 10 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance).",
+        "text": "The attacks of your Fighting Pokémon (excluding Regirock-EX) do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -4818,13 +4272,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4879,31 +4333,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-43",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Regirock-EX-V1-FCO43",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.29,
         "lowPrice": 0.75,
-        "trendPrice": 3.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.21,
-        "lowPriceExPlus": 1.65,
-        "avg1": 2.99,
-        "avg7": 3.39,
-        "avg30": 3.21,
-        "reverseHoloAvg1": 2.56,
-        "reverseHoloAvg7": 2.51,
-        "reverseHoloAvg30": 2.73
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-44",
     "name": "Wormadam",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4937,7 +4378,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4966,7 +4407,7 @@
     "number": "44",
     "artist": "Hajime Kusajima",
     "rarity": "Uncommon",
-    "flavorText": "When Burmy evolved, its cloak became a part of this Pok\u00e9mon's body. The cloak is never shed.",
+    "flavorText": "When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.",
     "nationalPokedexNumbers": [
       413
     ],
@@ -4999,31 +4440,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-44",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Wormadam-FCO44",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.56,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.19,
-        "avg7": 0.09,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 1.25,
-        "reverseHoloAvg7": 0.54,
-        "reverseHoloAvg30": 0.52
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy10-45",
     "name": "Riolu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5041,14 +4469,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5109,31 +4537,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-45",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Riolu-FCO45",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.29,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.35,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.25,
-        "avg7": 0.2,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.35,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-46",
     "name": "Riolu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5158,7 +4573,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5219,31 +4634,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-46",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Riolu-FCO46",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.24,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.13,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.11,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 0.25,
-        "reverseHoloAvg7": 0.25,
-        "reverseHoloAvg30": 0.35
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "xy10-47",
     "name": "Lucario",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5277,7 +4679,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5338,31 +4740,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-47",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Lucario-FCO47",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.48,
-        "lowPrice": 0.1,
-        "trendPrice": 0.5,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.64,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.99,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.2,
-        "avg7": 0.31,
-        "avg30": 0.43,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 1.26,
-        "reverseHoloAvg30": 2.18
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy10-48",
     "name": "Hawlucha",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5388,13 +4777,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5461,31 +4850,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-48",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Hawlucha-FCO48",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.18,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.46,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.11,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.34,
-        "reverseHoloAvg30": 0.49
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-49",
     "name": "Carbink",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5496,7 +4872,7 @@
     "abilities": [
       {
         "name": "Energy Keeper",
-        "text": "Basic Energy attached to your Basic Pok\u00e9mon can't be discarded by effects of your opponent's attacks, Abilities, or Trainer cards.",
+        "text": "Basic Energy attached to your Basic Pokémon can't be discarded by effects of your opponent's attacks, Abilities, or Trainer cards.",
         "type": "Ability"
       }
     ],
@@ -5516,7 +4892,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5577,31 +4953,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-49",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Carbink-FCO49",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.27,
         "lowPrice": 0.02,
-        "trendPrice": 0.32,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.8,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.82,
-        "lowPriceExPlus": 0.03,
-        "avg1": 0.18,
-        "avg7": 0.26,
-        "avg30": 0.32,
-        "reverseHoloAvg1": 0.88,
-        "reverseHoloAvg7": 0.87,
-        "reverseHoloAvg30": 0.82
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-50",
     "name": "Carbink",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5612,7 +4975,7 @@
     "abilities": [
       {
         "name": "Safeguard",
-        "text": "Prevent all effects of attacks, including damage, done to this Pok\u00e9mon by your opponent's Pok\u00e9mon-EX.",
+        "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon-EX.",
         "type": "Ability"
       }
     ],
@@ -5631,7 +4994,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5692,31 +5055,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-50",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Carbink-FCO50",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.34,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.44,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.29,
-        "reverseHoloAvg7": 0.48,
-        "reverseHoloAvg30": 0.41
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-51",
     "name": "Carbink BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -5736,7 +5086,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Attach 2 Energy cards from your discard pile to 1 of your Fighting Pok\u00e9mon."
+        "text": "Attach 2 Energy cards from your discard pile to 1 of your Fighting Pokémon."
       }
     ],
     "set": {
@@ -5785,31 +5135,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-51",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Carbink-BREAK-FCO51",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.42,
-        "lowPrice": 0.49,
-        "trendPrice": 2.21,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 5.0,
-        "reverseHoloTrend": 4.55,
-        "lowPriceExPlus": 0.49,
-        "avg1": 0.99,
-        "avg7": 2.44,
-        "avg30": 2.03,
-        "reverseHoloAvg1": 0.49,
-        "reverseHoloAvg7": 3.3,
-        "reverseHoloAvg30": 1.99
+        "lowPrice": 0.15,
+        "reverseHoloLow": 3.89
       }
     }
   },
   {
     "id": "xy10-52",
     "name": "Zygarde",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5825,7 +5162,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with his or her Active Pok\u00e9mon."
+        "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
       },
       {
         "name": "Aura Break",
@@ -5836,13 +5173,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "If the Defending Pok\u00e9mon is a Darkness or Fairy Pok\u00e9mon, it can't attack during your opponent's next turn."
+        "text": "If the Defending Pokémon is a Darkness or Fairy Pokémon, it can't attack during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5903,31 +5240,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-52",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Zygarde-FCO52",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.65,
-        "reverseHoloLow": 0.17,
-        "reverseHoloTrend": 0.63,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.11,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.54,
-        "reverseHoloAvg7": 0.48,
-        "reverseHoloAvg30": 0.78
+        "reverseHoloLow": 0.17
       }
     }
   },
   {
     "id": "xy10-53",
     "name": "Zygarde",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5944,7 +5268,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       },
       {
         "name": "Geostrike",
@@ -5955,13 +5279,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "This attack does 10 damage to each of your Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6023,31 +5347,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-53",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Zygarde-FCO53",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.24,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.17,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.96,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.1,
-        "avg7": 0.2,
-        "avg30": 0.31,
-        "reverseHoloAvg1": 0.6,
-        "reverseHoloAvg7": 0.93,
-        "reverseHoloAvg30": 0.69
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy10-54",
     "name": "Zygarde-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -6057,7 +5368,7 @@
       "Fighting"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -6077,7 +5388,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "60",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       },
       {
         "name": "Land's Wrath",
@@ -6094,7 +5405,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6149,31 +5460,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-54",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Zygarde-EX-V1-FCO54",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.8,
-        "lowPrice": 2.49,
-        "trendPrice": 4.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.99,
-        "lowPriceExPlus": 3.49,
-        "avg1": 2.5,
-        "avg7": 4.49,
-        "avg30": 4.2,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.99,
-        "reverseHoloAvg30": 0.99
+        "lowPrice": 1.43,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-55",
     "name": "Umbreon-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -6183,7 +5481,7 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -6204,13 +5502,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "If your opponent's Mega Evolution Pok\u00e9mon is Knocked Out by damage from this attack, take 2 more Prize cards."
+        "text": "If your opponent's Mega Evolution Pokémon is Knocked Out by damage from this attack, take 2 more Prize cards."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6269,31 +5567,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-55",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Umbreon-EX-FCO55",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 55.92,
-        "lowPrice": 11.0,
-        "trendPrice": 54.29,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 20.1,
-        "lowPriceExPlus": 24.99,
-        "avg1": 11.0,
-        "avg7": 58.49,
-        "avg30": 37.26,
-        "reverseHoloAvg1": 7.0,
-        "reverseHoloAvg7": 17.59,
-        "reverseHoloAvg30": 15.78
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-56",
     "name": "Tyranitar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -6305,7 +5590,7 @@
     "abilities": [
       {
         "name": "Raging Roar",
-        "text": "When you play this Pok\u00e9mon from your hand to evolve 1 of your Pok\u00e9mon, you may attach 1 Darkness Energy from your discard pile to this Pok\u00e9mon for each Prize card your opponent has taken.",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may attach 1 Darkness Energy from your discard pile to this Pokémon for each Prize card your opponent has taken.",
         "type": "Ability"
       }
     ],
@@ -6327,7 +5612,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6397,31 +5682,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-56",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Tyranitar-FCO56",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.91,
         "lowPrice": 0.05,
-        "trendPrice": 0.97,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.15,
-        "reverseHoloLow": 0.19,
-        "reverseHoloTrend": 1.29,
-        "lowPriceExPlus": 0.25,
-        "avg1": 0.45,
-        "avg7": 0.81,
-        "avg30": 0.95,
-        "reverseHoloAvg1": 1.3,
-        "reverseHoloAvg7": 0.98,
-        "reverseHoloAvg30": 1.34
+        "reverseHoloLow": 0.19
       }
     }
   },
   {
     "id": "xy10-57",
     "name": "Vullaby",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6440,7 +5712,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Cutting Wind",
@@ -6457,7 +5729,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6524,31 +5796,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-57",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Vullaby-FCO57",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.31,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.27,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.05,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.31,
-        "reverseHoloAvg30": 0.33
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-58",
     "name": "Mandibuzz",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6565,7 +5824,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 60 damage to 1 of your opponent's Pok\u00e9mon that has an Ability. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 60 damage to 1 of your opponent's Pokémon that has an Ability. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Cutting Wind",
@@ -6582,7 +5841,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6616,7 +5875,7 @@
     "number": "58",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare",
-    "flavorText": "Watching from the sky, they swoop to strike weakened Pok\u00e9mon on the ground. They decorate themselves with bones.",
+    "flavorText": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
     "nationalPokedexNumbers": [
       630
     ],
@@ -6649,31 +5908,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-58",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Mandibuzz-FCO58",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.74,
-        "lowPrice": 0.02,
-        "trendPrice": 0.45,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.53,
-        "reverseHoloLow": 0.35,
-        "reverseHoloTrend": 0.53,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.25,
-        "avg7": 0.35,
-        "avg30": 0.36,
-        "reverseHoloAvg1": 0.58,
-        "reverseHoloAvg7": 0.53,
-        "reverseHoloAvg30": 0.7
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.4
       }
     }
   },
   {
     "id": "xy10-59",
     "name": "Wormadam",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6689,8 +5935,8 @@
           "Metal"
         ],
         "convertedEnergyCost": 1,
-        "damage": "20\u00d7",
-        "text": "This attack does 20 damage times the number of damage counters on this Pok\u00e9mon."
+        "damage": "20×",
+        "text": "This attack does 20 damage times the number of damage counters on this Pokémon."
       },
       {
         "name": "Iron Head",
@@ -6707,7 +5953,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6742,7 +5988,7 @@
     "number": "59",
     "artist": "Kyoko Umemoto",
     "rarity": "Uncommon",
-    "flavorText": "When Burmy evolved, its cloak became a part of this Pok\u00e9mon's body. The cloak is never shed.",
+    "flavorText": "When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.",
     "nationalPokedexNumbers": [
       413
     ],
@@ -6775,31 +6021,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-59",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Wormadam-FCO59",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.29,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.34,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.07,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.7,
-        "reverseHoloAvg7": 0.28,
-        "reverseHoloAvg30": 0.35
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-60",
     "name": "Bronzor",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6818,7 +6051,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pok\u00e9mon during your opponent's next turn."
+        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
       },
       {
         "name": "Hammer In",
@@ -6834,7 +6067,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6902,31 +6135,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-60",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Bronzor-FCO60",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.22,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.22,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.22,
-        "reverseHoloAvg30": 0.29
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy10-61",
     "name": "Bronzong",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6938,7 +6158,7 @@
     "abilities": [
       {
         "name": "Metal Fortress",
-        "text": "Prevent all effects of your opponent's attacks, including damage, done to your Benched Pok\u00e9mon.",
+        "text": "Prevent all effects of your opponent's attacks, including damage, done to your Benched Pokémon.",
         "type": "Ability"
       }
     ],
@@ -6952,13 +6172,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7027,31 +6247,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-61",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Bronzong-FCO61",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.37,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.46,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.02,
-        "avg7": 0.13,
-        "avg30": 0.22,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.43,
-        "reverseHoloAvg30": 0.64
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-62",
     "name": "Bronzong BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -7072,7 +6279,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Discard as many Metal Energy attached to this Pok\u00e9mon as you like. For each Energy card discarded in this way, choose 1 of your opponent's Pok\u00e9mon and do 30 damage to it. Don't apply Weakness and Resistance. (You may choose the same Pok\u00e9mon more than once.)"
+        "text": "Discard as many Metal Energy attached to this Pokémon as you like. For each Energy card discarded in this way, choose 1 of your opponent's Pokémon and do 30 damage to it. Don't apply Weakness and Resistance. (You may choose the same Pokémon more than once.)"
       }
     ],
     "set": {
@@ -7121,31 +6328,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-62",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Bronzong-BREAK-FCO62",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.64,
-        "lowPrice": 0.99,
-        "trendPrice": 2.73,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 5.0,
-        "reverseHoloTrend": 4.31,
-        "lowPriceExPlus": 1.0,
-        "avg1": 0.99,
-        "avg7": 2.84,
-        "avg30": 2.7,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 4.34,
-        "reverseHoloAvg30": 2.39
+        "lowPrice": 0.75,
+        "reverseHoloLow": 5.0
       }
     }
   },
   {
     "id": "xy10-63",
     "name": "Lucario",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7172,13 +6366,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "If you have fewer Pok\u00e9mon in play than your opponent, this attack does 60 more damage for each Pok\u00e9mon fewer you have in play."
+        "text": "If you have fewer Pokémon in play than your opponent, this attack does 60 more damage for each Pokémon fewer you have in play."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7246,31 +6440,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-63",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Lucario-V1-FCO63",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 8.66,
-        "lowPrice": 9.0,
-        "trendPrice": 11.58,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.04,
-        "lowPriceExPlus": 9.0,
-        "avg1": 8.0,
-        "avg7": 12.28,
-        "avg30": 10.46,
-        "reverseHoloAvg1": 4.99,
-        "reverseHoloAvg7": 4.39,
-        "reverseHoloAvg30": 4.39
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.19
       }
     }
   },
   {
     "id": "xy10-64",
     "name": "Genesect-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -7280,12 +6461,12 @@
       "Metal"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Drive Change",
-        "text": "Once during your turn (before your attack), you may put a Pok\u00e9mon Tool card attached to this Pok\u00e9mon into your hand.",
+        "text": "Once during your turn (before your attack), you may put a Pokémon Tool card attached to this Pokémon into your hand.",
         "type": "Ability"
       }
     ],
@@ -7299,13 +6480,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100+",
-        "text": "Discard as many Metal Energy attached to this Pok\u00e9mon as you like. This attack does 20 more damage for each Energy card discarded in this way."
+        "text": "Discard as many Metal Energy attached to this Pokémon as you like. This attack does 20 more damage for each Energy card discarded in this way."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7365,31 +6546,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-64",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Genesect-EX-FCO64",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.51,
         "lowPrice": 0.9,
-        "trendPrice": 2.34,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.9,
-        "lowPriceExPlus": 1.5,
-        "avg1": 1.0,
-        "avg7": 2.61,
-        "avg30": 2.48,
-        "reverseHoloAvg1": 2.95,
-        "reverseHoloAvg7": 2.6,
-        "reverseHoloAvg30": 2.61
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-65",
     "name": "Jigglypuff",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7424,7 +6592,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7492,31 +6660,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-65",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Jigglypuff-FCO65",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.63,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.83,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.17,
-        "avg7": 0.13,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 0.84,
-        "reverseHoloAvg30": 0.62
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-66",
     "name": "Wigglytuff",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7534,7 +6689,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 30 (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 30 (after applying Weakness and Resistance)."
       },
       {
         "name": "Double Slap",
@@ -7544,14 +6699,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "60\u00d7",
+        "damage": "60×",
         "text": "Flip 2 coins. This attack does 60 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7619,31 +6774,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-66",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Wigglytuff-FCO66",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.22,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.54,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.36,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.16,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 2.68,
-        "reverseHoloAvg7": 1.64,
-        "reverseHoloAvg30": 1.03
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy10-67",
     "name": "Mr. Mime",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7668,14 +6810,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7742,31 +6884,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-67",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Mr-Mime-FCO67",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.33,
         "lowPrice": 0.02,
-        "trendPrice": 0.4,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.21,
-        "reverseHoloTrend": 0.8,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.55,
-        "avg7": 0.41,
-        "avg30": 0.29,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.69,
-        "reverseHoloAvg30": 0.75
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy10-68",
     "name": "Snubbull",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7792,7 +6921,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7827,7 +6956,7 @@
     "number": "68",
     "artist": "Aya Kusube",
     "rarity": "Common",
-    "flavorText": "Small Pok\u00e9mon flee from its scary face. It is, however, considered by women to be cute.",
+    "flavorText": "Small Pokémon flee from its scary face. It is, however, considered by women to be cute.",
     "nationalPokedexNumbers": [
       209
     ],
@@ -7860,31 +6989,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-68",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Snubbull-FCO68",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.16,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.25,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.16,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.23,
-        "reverseHoloAvg30": 0.37
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy10-69",
     "name": "M Altaria-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -7895,8 +7011,8 @@
     ],
     "evolvesFrom": "Altaria-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -7908,13 +7024,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100+",
-        "text": "If this Pok\u00e9mon has any Special Energy attached to it, this attack does 30 more damage and heal 30 damage from each of your Pok\u00e9mon."
+        "text": "If this Pokémon has any Special Energy attached to it, this attack does 30 more damage and heal 30 damage from each of your Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7974,31 +7090,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-69",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/MAltaria-EX-FCO69",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 11.44,
         "lowPrice": 3.0,
-        "trendPrice": 11.45,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.43,
-        "lowPriceExPlus": 6.0,
-        "avg1": 10.5,
-        "avg7": 13.22,
-        "avg30": 9.11,
-        "reverseHoloAvg1": 4.99,
-        "reverseHoloAvg7": 3.88,
-        "reverseHoloAvg30": 3.51
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-70",
     "name": "Cottonee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8023,7 +7126,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8090,31 +7193,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-70",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Cottonee-FCO70",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.23,
-        "reverseHoloLow": 0.04,
-        "reverseHoloTrend": 0.33,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.14,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.25,
-        "reverseHoloAvg7": 0.23,
-        "reverseHoloAvg30": 0.39
+        "reverseHoloLow": 0.04
       }
     }
   },
   {
     "id": "xy10-71",
     "name": "Whimsicott",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8131,13 +7221,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "40",
-        "text": "Move an Energy from this Pok\u00e9mon to 1 of your Benched Pok\u00e9mon."
+        "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8200,31 +7290,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-71",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Whimsicott-FCO71",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.52,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.75,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.18,
-        "avg7": 0.15,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.33,
-        "reverseHoloAvg7": 0.48,
-        "reverseHoloAvg30": 0.76
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-72",
     "name": "Diancie-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -8237,12 +7314,12 @@
       "M Diancie-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Sparkle Veil",
-        "text": "As long as this Pok\u00e9mon is your Active Pok\u00e9mon, any damage done to your Pok\u00e9mon by an opponent's attack is reduced by 30 (after applying Weakness and Resistance).",
+        "text": "As long as this Pokémon is your Active Pokémon, any damage done to your Pokémon by an opponent's attack is reduced by 30 (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -8262,7 +7339,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8322,31 +7399,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-72",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Diancie-EX-FCO72",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.86,
         "lowPrice": 1.0,
-        "trendPrice": 3.83,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.94,
-        "lowPriceExPlus": 3.0,
-        "avg1": 4.29,
-        "avg7": 3.64,
-        "avg30": 3.82,
-        "reverseHoloAvg1": 1.99,
-        "reverseHoloAvg7": 2.76,
-        "reverseHoloAvg30": 2.55
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-73",
     "name": "Kingdra-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -8356,7 +7420,7 @@
       "Dragon"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -8378,13 +7442,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "60+",
-        "text": "This attack does 30 more damage for each basic Lightning Energy attached to this Pok\u00e9mon."
+        "text": "This attack does 30 more damage for each basic Lightning Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8437,31 +7501,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-73",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Kingdra-EX-V1-FCO73",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.93,
         "lowPrice": 0.5,
-        "trendPrice": 3.23,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.77,
-        "lowPriceExPlus": 1.25,
-        "avg1": 2.0,
-        "avg7": 3.03,
-        "avg30": 2.74,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 2.14,
-        "reverseHoloAvg30": 2.32
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-74",
     "name": "Meowth",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8481,13 +7532,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "This attack does 50 damage to 1 of your opponent's Pok\u00e9mon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 50 damage to 1 of your opponent's Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8548,31 +7599,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-74",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Meowth-FCO74",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.21,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.46,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.34,
-        "reverseHoloAvg30": 0.52
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-75",
     "name": "Kangaskhan",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8607,7 +7645,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8670,31 +7708,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-75",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Kangaskhan-FCO75",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.59,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.64,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 0.54,
-        "reverseHoloAvg30": 0.58
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy10-76",
     "name": "Aerodactyl",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Restored"
     ],
@@ -8724,13 +7749,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "120",
-        "text": "Discard a Special Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Discard a Special Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8760,7 +7785,7 @@
     "number": "76",
     "artist": "kawayoo",
     "rarity": "Rare",
-    "flavorText": "This vicious Pok\u00e9mon is said to have flown in ancient skies while shrieking high-pitched cries.",
+    "flavorText": "This vicious Pokémon is said to have flown in ancient skies while shrieking high-pitched cries.",
     "nationalPokedexNumbers": [
       142
     ],
@@ -8793,31 +7818,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-76",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Aerodactyl-FCO76",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.75,
         "lowPrice": 0.05,
-        "trendPrice": 0.73,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.95,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 1.53,
-        "lowPriceExPlus": 0.05,
-        "avg1": 1.19,
-        "avg7": 0.75,
-        "avg30": 0.84,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 1.98,
-        "reverseHoloAvg30": 1.94
+        "reverseHoloLow": 0.4
       }
     }
   },
   {
     "id": "xy10-77",
     "name": "Snorlax",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8835,7 +7847,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30+",
-        "text": "This attack can be used even if this Pok\u00e9mon is Asleep. If it is, this attack does 90 more damage."
+        "text": "This attack can be used even if this Pokémon is Asleep. If it is, this attack does 90 more damage."
       },
       {
         "name": "Swallow",
@@ -8847,13 +7859,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "50",
-        "text": "Heal from this Pok\u00e9mon the same amount of damage you did to your opponent's Active Pok\u00e9mon."
+        "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8917,31 +7929,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-77",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Snorlax-FCO77",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.21,
         "lowPrice": 0.05,
-        "trendPrice": 5.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 11.17,
-        "reverseHoloLow": 1.45,
-        "reverseHoloTrend": 8.37,
-        "lowPriceExPlus": 0.5,
-        "avg1": 7.5,
-        "avg7": 5.5,
-        "avg30": 3.52,
-        "reverseHoloAvg1": 9.5,
-        "reverseHoloAvg7": 7.37,
-        "reverseHoloAvg30": 7.18
+        "reverseHoloLow": 1.45
       }
     }
   },
   {
     "id": "xy10-78",
     "name": "Lugia",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8952,7 +7951,7 @@
     "abilities": [
       {
         "name": "Pressure",
-        "text": "As long as this Pok\u00e9mon is your Active Pok\u00e9mon, any damage done by attacks from your opponent's Active Pok\u00e9mon is reduced by 20 (before applying Weakness and Resistance).",
+        "text": "As long as this Pokémon is your Active Pokémon, any damage done by attacks from your opponent's Active Pokémon is reduced by 20 (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -8966,13 +7965,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
-        "text": "If your opponent's Active Pok\u00e9mon is a Pok\u00e9mon-EX, this attack does 60 more damage."
+        "text": "If your opponent's Active Pokémon is a Pokémon-EX, this attack does 60 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9040,31 +8039,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-78",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Lugia-FCO78",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.14,
         "lowPrice": 0.2,
-        "trendPrice": 2.76,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.47,
-        "reverseHoloLow": 0.95,
-        "reverseHoloTrend": 2.3,
-        "lowPriceExPlus": 0.8,
-        "avg1": 1.25,
-        "avg7": 2.7,
-        "avg30": 1.74,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 2.38,
-        "reverseHoloAvg30": 3.99
+        "reverseHoloLow": 0.95
       }
     }
   },
   {
     "id": "xy10-79",
     "name": "Lugia BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -9087,7 +8073,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "150",
-        "text": "Discard 2 Energy attached to this Pok\u00e9mon."
+        "text": "Discard 2 Energy attached to this Pokémon."
       }
     ],
     "set": {
@@ -9136,31 +8122,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-79",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Lugia-BREAK-FCO79",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 11.23,
-        "lowPrice": 3.89,
-        "trendPrice": 9.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 5.0,
-        "reverseHoloTrend": 9.27,
-        "lowPriceExPlus": 5.75,
-        "avg1": 19.9,
-        "avg7": 13.19,
-        "avg30": 13.98,
-        "reverseHoloAvg1": 7.0,
-        "reverseHoloAvg7": 16.66,
-        "reverseHoloAvg30": 11.05
+        "lowPrice": 3.0,
+        "reverseHoloLow": 5.0
       }
     }
   },
   {
     "id": "xy10-80",
     "name": "Whismur",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9188,14 +8161,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "10\u00d7",
-        "text": "This attack does 10 damage times the number of your Pok\u00e9mon that have the Round attack."
+        "damage": "10×",
+        "text": "This attack does 10 damage times the number of your Pokémon that have the Round attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9257,31 +8230,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-80",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Whismur-FCO80",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.31,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.11,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.25,
-        "reverseHoloAvg7": 0.28,
-        "reverseHoloAvg30": 0.31
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy10-81",
     "name": "Loudred",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -9318,7 +8278,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9380,31 +8340,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-81",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Loudred-FCO81",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.46,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.14,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.4,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy10-82",
     "name": "Exploud",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -9434,13 +8381,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "At the end of your opponent's next turn, discard the Defending Pok\u00e9mon and all cards attached to it."
+        "text": "At the end of your opponent's next turn, discard the Defending Pokémon and all cards attached to it."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9470,7 +8417,7 @@
     "number": "82",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare",
-    "flavorText": "Its roar in battle shakes the ground like a tremor\u2013or like an earthquake has struck.",
+    "flavorText": "Its roar in battle shakes the ground like a tremor–or like an earthquake has struck.",
     "nationalPokedexNumbers": [
       295
     ],
@@ -9503,31 +8450,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-82",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Exploud-FCO82",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.25,
         "lowPrice": 0.05,
-        "trendPrice": 0.45,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.9,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.85,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.33,
-        "avg7": 0.47,
-        "avg30": 0.35,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.84,
-        "reverseHoloAvg30": 0.67
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-83",
     "name": "Altaria-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -9540,7 +8474,7 @@
       "M Altaria-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -9551,7 +8485,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "If this Pok\u00e9mon was healed during this turn, this attack does 60 more damage and heal 30 damage from this Pok\u00e9mon."
+        "text": "If this Pokémon was healed during this turn, this attack does 60 more damage and heal 30 damage from this Pokémon."
       },
       {
         "name": "Shining Wind",
@@ -9562,13 +8496,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "During your opponent's next turn, this Pok\u00e9mon has no Weakness."
+        "text": "During your opponent's next turn, this Pokémon has no Weakness."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9627,31 +8561,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-83",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Altaria-EX-FCO83",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.13,
         "lowPrice": 0.5,
-        "trendPrice": 2.69,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.11,
-        "lowPriceExPlus": 2.0,
-        "avg1": 3.5,
-        "avg7": 3.09,
-        "avg30": 3.29,
-        "reverseHoloAvg1": 3.95,
-        "reverseHoloAvg7": 3.39,
-        "reverseHoloAvg30": 2.98
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-84",
     "name": "Audino-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -9664,7 +8585,7 @@
       "M Audino-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -9674,7 +8595,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Heal 20 damage from this Pok\u00e9mon."
+        "text": "Heal 20 damage from this Pokémon."
       },
       {
         "name": "Do the Wave",
@@ -9685,13 +8606,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
-        "text": "This attack does 10 more damage for each of your Benched Pok\u00e9mon."
+        "text": "This attack does 10 more damage for each of your Benched Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9746,31 +8667,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-84",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Audino-EX-FCO84",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.99,
         "lowPrice": 1.5,
-        "trendPrice": 3.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.65,
-        "lowPriceExPlus": 2.0,
-        "avg1": 6.99,
-        "avg7": 3.1,
-        "avg30": 2.89,
-        "reverseHoloAvg1": 2.99,
-        "reverseHoloAvg7": 2.59,
-        "reverseHoloAvg30": 2.56
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-85",
     "name": "M Audino-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -9781,8 +8689,8 @@
     ],
     "evolvesFrom": "Audino-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -9794,13 +8702,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "110",
-        "text": "If you played a Supporter card from your hand during this turn, this attack does 50 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "If you played a Supporter card from your hand during this turn, this attack does 50 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9855,31 +8763,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-85",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/MAudino-EX-FCO85",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.0,
-        "lowPrice": 8.99,
-        "trendPrice": 2.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.95,
-        "lowPriceExPlus": 8.99,
-        "avg1": 4.0,
-        "avg7": 2.24,
-        "avg30": 2.43,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 2.92,
-        "reverseHoloAvg30": 2.92
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-86",
     "name": "Minccino",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9898,13 +8793,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Discard a Pok\u00e9mon Tool card attached to 1 of your opponent's Pok\u00e9mon."
+        "text": "Discard a Pokémon Tool card attached to 1 of your opponent's Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9932,7 +8827,7 @@
     "number": "86",
     "artist": "kirisAki",
     "rarity": "Common",
-    "flavorText": "These Pok\u00e9mon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
+    "flavorText": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
     "nationalPokedexNumbers": [
       572
     ],
@@ -9965,31 +8860,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-86",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Minccino-FCO86",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.44,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.43,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.14,
-        "avg7": 0.08,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.35,
-        "reverseHoloAvg30": 0.41
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy10-87",
     "name": "Minccino",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10014,7 +8896,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10042,7 +8924,7 @@
     "number": "87",
     "artist": "Mizue",
     "rarity": "Common",
-    "flavorText": "These Pok\u00e9mon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
+    "flavorText": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
     "nationalPokedexNumbers": [
       572
     ],
@@ -10075,31 +8957,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-87",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Minccino-FCO87",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.67,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.08,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 1.24,
-        "reverseHoloAvg7": 0.49,
-        "reverseHoloAvg30": 0.53
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy10-88",
     "name": "Cinccino",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -10131,7 +9000,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10192,31 +9061,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-88",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Cinccino-FCO88",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.47,
-        "reverseHoloLow": 0.3,
-        "reverseHoloTrend": 0.6,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.11,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.82,
-        "reverseHoloAvg7": 0.52,
-        "reverseHoloAvg30": 0.65
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy10-89",
     "name": "Cinccino",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -10233,7 +9089,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 90 damage from 1 of your Benched Pok\u00e9mon."
+        "text": "Heal 90 damage from 1 of your Benched Pokémon."
       },
       {
         "name": "Knock Away",
@@ -10249,7 +9105,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10310,24 +9166,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-89",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Cinccino-FCO89",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.39,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.58,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.12,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 0.39,
-        "reverseHoloAvg7": 0.37,
-        "reverseHoloAvg30": 0.5
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -10336,11 +9179,11 @@
     "name": "Alakazam Spirit Link",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "Your turn does not end if the Pok\u00e9mon this card is attached to becomes M Alakazam-EX.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Alakazam-EX.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -10393,24 +9236,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-90",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Alakazam-Spirit-Link-FCO90",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.3,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.31,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.1,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 0.35,
-        "reverseHoloAvg30": 0.71
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -10419,11 +9249,11 @@
     "name": "Altaria Spirit Link",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "Your turn does not end if the Pok\u00e9mon this card is attached to becomes M Altaria-EX.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Altaria-EX.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -10476,24 +9306,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-91",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Altaria-Spirit-Link-FCO91",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.2,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.5,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.73,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.12,
-        "avg30": 0.18,
-        "reverseHoloAvg1": 2.5,
-        "reverseHoloAvg7": 0.79,
-        "reverseHoloAvg30": 0.74
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -10502,11 +9319,11 @@
     "name": "Audino Spirit Link",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "Your turn does not end if the Pok\u00e9mon this card is attached to becomes M Audino-EX.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Audino-EX.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -10559,24 +9376,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-92",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Audino-Spirit-Link-FCO92",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.0,
-        "lowPrice": 0.75,
-        "trendPrice": 0.0,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 1.98,
-        "avg1": 0.0,
-        "avg7": 0.0,
-        "avg30": 0.0,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
       }
     }
   },
@@ -10585,11 +9389,11 @@
     "name": "Bent Spoon",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "Prevent all effects of your opponent's attacks, except damage, done to the Pok\u00e9mon this card is attached to. (Existing effects are not removed.)",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Prevent all effects of your opponent's attacks, except damage, done to the Pokémon this card is attached to. (Existing effects are not removed.)",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -10642,24 +9446,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-93",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Bent-Spoon-FCO93",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.3,
         "lowPrice": 0.02,
-        "trendPrice": 0.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.25,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.61,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.16,
-        "avg30": 0.18,
-        "reverseHoloAvg1": 1.75,
-        "reverseHoloAvg7": 0.83,
-        "reverseHoloAvg30": 0.58
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -10671,8 +9462,8 @@
       "Stadium"
     ],
     "rules": [
-      "Choose which way this card faces before you play it. This \u2193 player's Pok\u00e9mon can't be Confused or Poisoned. (If those Pok\u00e9mon are already Confused or Poisoned, remove those Special Conditions.)",
-      "Choose which way this card faces before you play it. This \u2193 player's Pok\u00e9mon can't be Asleep or Paralyzed. (If those Pok\u00e9mon are already Asleep or Paralyzed, remove those Special Conditions.)",
+      "Choose which way this card faces before you play it. This ↓ player's Pokémon can't be Confused or Poisoned. (If those Pokémon are already Confused or Poisoned, remove those Special Conditions.)",
+      "Choose which way this card faces before you play it. This ↓ player's Pokémon can't be Asleep or Paralyzed. (If those Pokémon are already Asleep or Paralyzed, remove those Special Conditions.)",
       "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
     ],
     "set": {
@@ -10725,24 +9516,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-94",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Chaos-Tower-V1-FCO94",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
-        "lowPrice": 0.07,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.94,
-        "reverseHoloLow": 0.39,
-        "reverseHoloTrend": 1.12,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.1,
-        "avg7": 0.18,
-        "avg30": 0.4,
-        "reverseHoloAvg1": 0.89,
-        "reverseHoloAvg7": 0.96,
-        "reverseHoloAvg30": 1.21
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.39
       }
     }
   },
@@ -10754,7 +9532,7 @@
       "Item"
     ],
     "rules": [
-      "Devolve 1 of your evolved Pok\u00e9mon and put the highest Stage Evolution card on it into your hand. (That Pok\u00e9mon can't evolve this turn.)",
+      "Devolve 1 of your evolved Pokémon and put the highest Stage Evolution card on it into your hand. (That Pokémon can't evolve this turn.)",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -10807,24 +9585,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-95",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Devolution-Spray-FCO95",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.26,
         "lowPrice": 0.02,
-        "trendPrice": 0.28,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.54,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.43,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.24,
-        "avg30": 0.21,
-        "reverseHoloAvg1": 0.44,
-        "reverseHoloAvg7": 0.51,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.19
       }
     }
   },
@@ -10889,24 +9654,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-96",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Dome-Fossil-Kabuto-FCO96",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.39,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.52,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.16,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.69,
-        "reverseHoloAvg7": 0.49,
-        "reverseHoloAvg30": 0.54
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -10915,11 +9667,11 @@
     "name": "Energy Pouch",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "If the Pok\u00e9mon this card is attached to is Knocked Out by damage from an opponent's attack, put all basic Energy attached to that Pok\u00e9mon into your hand.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "If the Pokémon this card is attached to is Knocked Out by damage from an opponent's attack, put all basic Energy attached to that Pokémon into your hand.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -10972,24 +9724,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-97",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Energy-Pouch-FCO97",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.35,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.18,
-        "avg7": 0.13,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.37,
-        "reverseHoloAvg30": 0.5
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -11001,7 +9740,7 @@
       "Item"
     ],
     "rules": [
-      "Put as many Energy attached to your Pok\u00e9mon as you like into your hand.",
+      "Put as many Energy attached to your Pokémon as you like into your hand.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -11054,24 +9793,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-98",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Energy-Reset-FCO98",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.19,
         "lowPrice": 0.02,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.42,
-        "reverseHoloLow": 0.07,
-        "reverseHoloTrend": 0.3,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.15,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 0.49,
-        "reverseHoloAvg7": 0.24,
-        "reverseHoloAvg30": 0.44
+        "reverseHoloLow": 0.07
       }
     }
   },
@@ -11083,7 +9809,7 @@
       "Item"
     ],
     "rules": [
-      "Heal 50 damage from 1 of your Pok\u00e9mon that has any Fairy Energy attached to it.",
+      "Heal 50 damage from 1 of your Pokémon that has any Fairy Energy attached to it.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -11136,24 +9862,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-99",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Fairy-Drop-FCO99",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.21,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.67,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.39,
-        "avg7": 0.14,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 0.87,
-        "reverseHoloAvg7": 0.63,
-        "reverseHoloAvg30": 0.6
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -11165,7 +9878,7 @@
       "Stadium"
     ],
     "rules": [
-      "Each Pok\u00e9mon that has any Fairy Energy attached to it (both yours and your opponent's) has no Retreat Cost.",
+      "Each Pokémon that has any Fairy Energy attached to it (both yours and your opponent's) has no Retreat Cost.",
       "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
     ],
     "set": {
@@ -11218,24 +9931,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-100",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Fairy-Garden-FCO100",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.29,
         "lowPrice": 0.02,
-        "trendPrice": 0.24,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.54,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.6,
-        "lowPriceExPlus": 0.03,
-        "avg1": 0.75,
-        "avg7": 0.28,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.54,
-        "reverseHoloAvg30": 0.58
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -11300,24 +10000,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-101",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Fossil-Excavation-Kit-FCO101",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.22,
         "lowPrice": 0.02,
-        "trendPrice": 0.25,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 1.08,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.27,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 1.27,
-        "reverseHoloAvg30": 1.12
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -11382,24 +10069,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-102",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Helix-Fossil-Omanyte-FCO102",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.25,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.57,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.15,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 0.47,
-        "reverseHoloAvg30": 0.56
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -11411,7 +10085,7 @@
       "Supporter"
     ],
     "rules": [
-      "Draw a card for each of your opponent's Benched Basic Pok\u00e9mon.",
+      "Draw a card for each of your opponent's Benched Basic Pokémon.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -11464,24 +10138,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-103",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Lasss-Special-FCO103",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.13,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.62,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.12,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 0.58,
-        "reverseHoloAvg30": 0.52
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -11493,7 +10154,7 @@
       "Item"
     ],
     "rules": [
-      "Switch 1 of your opponent's Benched Mega Evolution Pok\u00e9mon with his or her Active Pok\u00e9mon.",
+      "Switch 1 of your opponent's Benched Mega Evolution Pokémon with his or her Active Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -11546,24 +10207,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-104",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Mega-Catcher-FCO104",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.35,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.52,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.12,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 0.45,
-        "reverseHoloAvg7": 0.55,
-        "reverseHoloAvg30": 0.42
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -11628,24 +10276,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-105",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/N-V1-FCO105",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.0,
-        "lowPrice": 3.0,
-        "trendPrice": 0.0,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.0,
-        "avg1": 0.0,
-        "avg7": 0.0,
-        "avg30": 0.0,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.3
       }
     }
   },
@@ -11710,36 +10345,23 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-106",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Old-Amber-Aerodactyl-FCO106",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.73,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.78,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.14,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.56,
-        "reverseHoloAvg30": 0.85
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy10-107",
-    "name": "Pok\u00e9mon Fan Club",
+    "name": "Pokémon Fan Club",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
     ],
     "rules": [
-      "Search your deck for up to 2 Basic Pok\u00e9mon, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Shuffle your deck afterward.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -11792,24 +10414,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-107",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Pokemon-Fan-Club-FCO107",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.65,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.06,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.49,
-        "reverseHoloAvg30": 0.51
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -11818,10 +10427,10 @@
     "name": "Power Memory",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
       "The Zygarde-EX this card is attached to can also use the attack on this card. (You still need the necessary Energy to use this attack.)",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
@@ -11835,7 +10444,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "200",
-        "text": "Discard 3 Energy attached to this Pok\u00e9mon."
+        "text": "Discard 3 Energy attached to this Pokémon."
       }
     ],
     "set": {
@@ -11888,24 +10497,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-108",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Power-Memory-FCO108",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.35,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.44,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.12,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.42,
-        "reverseHoloAvg30": 0.55
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -11970,24 +10566,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-109",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Random-Receiver-FCO109",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.26,
         "lowPrice": 0.02,
-        "trendPrice": 0.38,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.65,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.81,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.1,
-        "avg7": 0.28,
-        "avg30": 0.38,
-        "reverseHoloAvg1": 0.23,
-        "reverseHoloAvg7": 0.66,
-        "reverseHoloAvg30": 1.08
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -12052,24 +10635,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-110",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Scorched-Earth-FCO110",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.22,
         "lowPrice": 0.02,
-        "trendPrice": 0.29,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.41,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.81,
-        "lowPriceExPlus": 0.03,
-        "avg1": 0.4,
-        "avg7": 0.25,
-        "avg30": 0.18,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.75,
-        "reverseHoloAvg30": 0.98
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -12135,24 +10705,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-111",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Shauna-V1-FCO111",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.66,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.63,
-        "reverseHoloAvg30": 0.61
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -12217,24 +10774,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-112",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Team-Rockets-Handiwork-FCO112",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.71,
         "lowPrice": 0.03,
-        "trendPrice": 0.71,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.02,
-        "reverseHoloLow": 0.12,
-        "reverseHoloTrend": 1.52,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.29,
-        "avg7": 0.71,
-        "avg30": 0.6,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 2.42,
-        "reverseHoloAvg30": 1.25
+        "reverseHoloLow": 0.12
       }
     }
   },
@@ -12246,7 +10790,7 @@
       "Item"
     ],
     "rules": [
-      "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a Pok\u00e9mon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -12300,24 +10844,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-113",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Ultra-Ball-FCO113",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.34,
         "lowPrice": 0.02,
-        "trendPrice": 0.35,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.48,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 2.06,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.79,
-        "avg7": 0.37,
-        "avg30": 0.31,
-        "reverseHoloAvg1": 1.15,
-        "reverseHoloAvg7": 2.27,
-        "reverseHoloAvg30": 2.06
+        "reverseHoloLow": 0.2
       }
     }
   },
@@ -12381,24 +10912,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-114",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Double-Colorless-Energy-FCO114",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.4,
-        "lowPrice": 4.98,
-        "trendPrice": 0.49,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.05,
-        "lowPriceExPlus": 4.98,
-        "avg1": 0.4,
-        "avg7": 0.37,
-        "avg30": 0.37,
-        "reverseHoloAvg1": 0.05,
-        "reverseHoloAvg7": 0.05,
-        "reverseHoloAvg30": 0.05
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
       }
     }
   },
@@ -12410,9 +10928,9 @@
       "Special"
     ],
     "rules": [
-      "This card can only be attached to Fighting Pok\u00e9mon. This card provides Fighting Energy only while this card is attached to a Fighting Pok\u00e9mon.",
-      "The attacks of the Fighting Pok\u00e9mon this card is attached to do 20 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance).",
-      "(If this card is attached to anything other than a Fighting Pok\u00e9mon, discard this card.)"
+      "This card can only be attached to Fighting Pokémon. This card provides Fighting Energy only while this card is attached to a Fighting Pokémon.",
+      "The attacks of the Fighting Pokémon this card is attached to do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "(If this card is attached to anything other than a Fighting Pokémon, discard this card.)"
     ],
     "set": {
       "id": "xy10",
@@ -12464,31 +10982,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-115",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Strong-Energy-FCO115",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.5,
-        "lowPrice": 0.5,
-        "trendPrice": 0.51,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.5,
-        "avg1": 0.5,
-        "avg7": 0.22,
-        "avg30": 0.22,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "xy10-116",
     "name": "Glaceon-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -12498,7 +11003,7 @@
       "Water"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12509,7 +11014,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pok\u00e9mon."
+        "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon."
       },
       {
         "name": "Crystal Ray",
@@ -12520,13 +11025,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "During your opponent's next turn, prevent all damage done to this Pok\u00e9mon by attacks from Evolution Pok\u00e9mon."
+        "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Evolution Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12580,31 +11085,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-116",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Glaceon-EX-FCO116",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 28.11,
-        "lowPrice": 7.75,
-        "trendPrice": 35.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 12.73,
-        "lowPriceExPlus": 13.0,
-        "avg1": 30.0,
-        "avg7": 42.77,
-        "avg30": 30.2,
-        "reverseHoloAvg1": 9.49,
-        "reverseHoloAvg7": 11.78,
-        "reverseHoloAvg30": 10.11
+        "lowPrice": 8.99,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-117",
     "name": "Alakazam-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -12617,12 +11109,12 @@
       "M Alakazam-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Kinesis",
-        "text": "When you play M Alakazam-EX from your hand to evolve this Pok\u00e9mon, before it evolves, you may put 2 damage counters on your opponent's Active Pok\u00e9mon and 3 damage counters on 1 of your opponent's Benched Pok\u00e9mon.",
+        "text": "When you play M Alakazam-EX from your hand to evolve this Pokémon, before it evolves, you may put 2 damage counters on your opponent's Active Pokémon and 3 damage counters on 1 of your opponent's Benched Pokémon.",
         "type": "Ability"
       }
     ],
@@ -12635,13 +11127,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Put 3 damage counters on each of your opponent's Pok\u00e9mon that has any Energy attached to it."
+        "text": "Put 3 damage counters on each of your opponent's Pokémon that has any Energy attached to it."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12695,31 +11187,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-117",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Alakazam-EX-V2-FCO117",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 42.41,
         "lowPrice": 4.89,
-        "trendPrice": 30.24,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 12.92,
-        "lowPriceExPlus": 14.95,
-        "avg1": 19.12,
-        "avg7": 21.97,
-        "avg30": 29.35,
-        "reverseHoloAvg1": 8.0,
-        "reverseHoloAvg7": 11.3,
-        "reverseHoloAvg30": 8.23
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-118",
     "name": "M Alakazam-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -12730,8 +11209,8 @@
     ],
     "evolvesFrom": "Alakazam-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12742,13 +11221,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "10+",
-        "text": "This attack does 30 more damage for each damage counter on your opponent's Active Pok\u00e9mon."
+        "text": "This attack does 30 more damage for each damage counter on your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12801,31 +11280,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-118",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/MAlakazam-EX-V2-FCO118",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 41.41,
         "lowPrice": 13.0,
-        "trendPrice": 31.73,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 16.05,
-        "lowPriceExPlus": 35.0,
-        "avg1": 54.95,
-        "avg7": 44.48,
-        "avg30": 45.71,
-        "reverseHoloAvg1": 15.0,
-        "reverseHoloAvg7": 14.49,
-        "reverseHoloAvg30": 12.83
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-119",
     "name": "Umbreon-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -12835,7 +11301,7 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12856,13 +11322,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "If your opponent's Mega Evolution Pok\u00e9mon is Knocked Out by damage from this attack, take 2 more Prize cards."
+        "text": "If your opponent's Mega Evolution Pokémon is Knocked Out by damage from this attack, take 2 more Prize cards."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -12921,31 +11387,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-119",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Umbreon-EX-FCO119",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 100.25,
         "lowPrice": 25.0,
-        "trendPrice": 98.47,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 36.38,
-        "lowPriceExPlus": 60.0,
-        "avg1": 37.0,
-        "avg7": 98.42,
-        "avg30": 85.26,
-        "reverseHoloAvg1": 28.0,
-        "reverseHoloAvg7": 30.8,
-        "reverseHoloAvg30": 26.75
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-120",
     "name": "Genesect-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -12955,12 +11408,12 @@
       "Metal"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Drive Change",
-        "text": "Once during your turn (before your attack), you may put a Pok\u00e9mon Tool card attached to this Pok\u00e9mon into your hand.",
+        "text": "Once during your turn (before your attack), you may put a Pokémon Tool card attached to this Pokémon into your hand.",
         "type": "Ability"
       }
     ],
@@ -12974,13 +11427,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100+",
-        "text": "Discard as many Metal Energy attached to this Pok\u00e9mon as you like. This attack does 20 more damage for each Metal Energy you discarded."
+        "text": "Discard as many Metal Energy attached to this Pokémon as you like. This attack does 20 more damage for each Metal Energy you discarded."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -13040,31 +11493,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-120",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Genesect-EX-FCO120",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 7.1,
-        "lowPrice": 2.8,
-        "trendPrice": 6.95,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.93,
-        "lowPriceExPlus": 6.5,
-        "avg1": 8.75,
-        "avg7": 7.28,
-        "avg30": 7.81,
-        "reverseHoloAvg1": 4.9,
-        "reverseHoloAvg7": 4.22,
-        "reverseHoloAvg30": 4.4
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-121",
     "name": "M Altaria-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -13075,8 +11515,8 @@
     ],
     "evolvesFrom": "Altaria-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -13088,13 +11528,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100+",
-        "text": "If this Pok\u00e9mon has any Special Energy attached to it, this attack does 30 more damage and heal 30 damage from each of your Pok\u00e9mon."
+        "text": "If this Pokémon has any Special Energy attached to it, this attack does 30 more damage and heal 30 damage from each of your Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -13154,31 +11594,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-121",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/MAltaria-EX-FCO121",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 24.58,
         "lowPrice": 6.5,
-        "trendPrice": 25.59,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 6.76,
-        "lowPriceExPlus": 20.0,
-        "avg1": 22.0,
-        "avg7": 29.94,
-        "avg30": 22.37,
-        "reverseHoloAvg1": 9.0,
-        "reverseHoloAvg7": 5.81,
-        "reverseHoloAvg30": 5.37
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-122",
     "name": "Kingdra-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -13188,7 +11615,7 @@
       "Dragon"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -13210,13 +11637,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "60+",
-        "text": "This attack does 30 more damage for each basic Lightning Energy attached to this Pok\u00e9mon."
+        "text": "This attack does 30 more damage for each basic Lightning Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13269,31 +11696,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-122",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Kingdra-EX-V2-FCO122",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 15.58,
         "lowPrice": 4.0,
-        "trendPrice": 12.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 6.84,
-        "lowPriceExPlus": 10.0,
-        "avg1": 10.0,
-        "avg7": 15.21,
-        "avg30": 14.12,
-        "reverseHoloAvg1": 7.98,
-        "reverseHoloAvg7": 6.93,
-        "reverseHoloAvg30": 4.81
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-123",
     "name": "Altaria-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -13306,7 +11720,7 @@
       "M Altaria-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -13317,7 +11731,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "If this Pok\u00e9mon was healed during this turn, this attack does 60 more damage and heal 30 damage from this Pok\u00e9mon."
+        "text": "If this Pokémon was healed during this turn, this attack does 60 more damage and heal 30 damage from this Pokémon."
       },
       {
         "name": "Shining Wind",
@@ -13328,13 +11742,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "During your opponent's next turn, this Pok\u00e9mon has no Weakness."
+        "text": "During your opponent's next turn, this Pokémon has no Weakness."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -13393,24 +11807,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-123",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Altaria-EX-FCO123",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 21.14,
         "lowPrice": 3.99,
-        "trendPrice": 20.21,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.82,
-        "lowPriceExPlus": 8.0,
-        "avg1": 10.0,
-        "avg7": 10.93,
-        "avg30": 15.27,
-        "reverseHoloAvg1": 7.0,
-        "reverseHoloAvg7": 5.81,
-        "reverseHoloAvg30": 5.33
+        "reverseHoloLow": null
       }
     }
   },
@@ -13468,31 +11869,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-124",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Team-Rockets-Handiwork-FCO124",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 22.59,
-        "lowPrice": 10.49,
-        "trendPrice": 22.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 6.16,
-        "lowPriceExPlus": 15.0,
-        "avg1": 17.75,
-        "avg7": 23.48,
-        "avg30": 23.75,
-        "reverseHoloAvg1": 9.95,
-        "reverseHoloAvg7": 6.23,
-        "reverseHoloAvg30": 6.26
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-125",
     "name": "Alakazam-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -13505,12 +11893,12 @@
       "M Alakazam-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Kinesis",
-        "text": "When you play M Alakazam-EX from your hand to evolve this Pok\u00e9mon, before it evolves, you may put 2 damage counters on your opponent's Active Pok\u00e9mon and 3 damage counters on 1 of your opponent's Benched Pok\u00e9mon.",
+        "text": "When you play M Alakazam-EX from your hand to evolve this Pokémon, before it evolves, you may put 2 damage counters on your opponent's Active Pokémon and 3 damage counters on 1 of your opponent's Benched Pokémon.",
         "type": "Ability"
       }
     ],
@@ -13523,13 +11911,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Put 3 damage counters on each of your opponent's Pok\u00e9mon that has any Energy attached to it."
+        "text": "Put 3 damage counters on each of your opponent's Pokémon that has any Energy attached to it."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13583,31 +11971,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy10-125",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fates-Collide/Alakazam-EX-V3-FCO125",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 74.61,
         "lowPrice": 15.0,
-        "trendPrice": 69.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 25.71,
-        "lowPriceExPlus": 43.0,
-        "avg1": 40.0,
-        "avg7": 59.38,
-        "avg30": 88.42,
-        "reverseHoloAvg1": 20.0,
-        "reverseHoloAvg7": 23.0,
-        "reverseHoloAvg30": 19.49
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy10-43a",
     "name": "Regirock-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -13617,12 +11992,12 @@
       "Fighting"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Regi Power",
-        "text": "The attacks of your Fighting Pok\u00e9mon (excluding Regirock-EX) do 10 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance).",
+        "text": "The attacks of your Fighting Pokémon (excluding Regirock-EX) do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -13636,13 +12011,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13708,7 +12083,7 @@
   {
     "id": "xy10-54a",
     "name": "Zygarde-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -13718,7 +12093,7 @@
       "Fighting"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -13738,7 +12113,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "60",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       },
       {
         "name": "Land's Wrath",
@@ -13755,7 +12130,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [

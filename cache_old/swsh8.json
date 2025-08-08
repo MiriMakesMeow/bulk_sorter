@@ -58,6 +58,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/1.png",
       "large": "https://images.pokemontcg.io/swsh8/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Caterpie",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -120,6 +128,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/2.png",
       "large": "https://images.pokemontcg.io/swsh8/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Metapod",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -178,6 +194,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/3.png",
       "large": "https://images.pokemontcg.io/swsh8/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Butterfree",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -240,6 +264,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/4.png",
       "large": "https://images.pokemontcg.io/swsh8/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Shroomish",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -302,6 +334,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/5.png",
       "large": "https://images.pokemontcg.io/swsh8/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Breloom",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -368,6 +408,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/6.png",
       "large": "https://images.pokemontcg.io/swsh8/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Breloom-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -420,6 +468,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/7.png",
       "large": "https://images.pokemontcg.io/swsh8/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Pansage",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -480,6 +536,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/8.png",
       "large": "https://images.pokemontcg.io/swsh8/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Simisage",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -532,6 +596,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/9.png",
       "large": "https://images.pokemontcg.io/swsh8/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Sewaddle",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -597,6 +669,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/10.png",
       "large": "https://images.pokemontcg.io/swsh8/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Swadloon",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -659,6 +739,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/11.png",
       "large": "https://images.pokemontcg.io/swsh8/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Leavanny",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -719,6 +807,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/12.png",
       "large": "https://images.pokemontcg.io/swsh8/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Maractus",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -774,6 +870,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/13.png",
       "large": "https://images.pokemontcg.io/swsh8/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Shelmet",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -827,6 +931,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/14.png",
       "large": "https://images.pokemontcg.io/swsh8/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Accelgor",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -887,6 +999,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/15.png",
       "large": "https://images.pokemontcg.io/swsh8/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Virizion",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -949,6 +1069,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/16.png",
       "large": "https://images.pokemontcg.io/swsh8/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Phantump",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1012,6 +1140,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/17.png",
       "large": "https://images.pokemontcg.io/swsh8/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Trevenant",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1076,6 +1212,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/18.png",
       "large": "https://images.pokemontcg.io/swsh8/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Grubbin",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1128,6 +1272,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/19.png",
       "large": "https://images.pokemontcg.io/swsh8/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Dewpider",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1190,6 +1342,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/20.png",
       "large": "https://images.pokemontcg.io/swsh8/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Araquanid",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1244,6 +1404,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/21.png",
       "large": "https://images.pokemontcg.io/swsh8/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Tsareena-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1312,6 +1480,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/22.png",
       "large": "https://images.pokemontcg.io/swsh8/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Rillaboom-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1370,6 +1546,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/23.png",
       "large": "https://images.pokemontcg.io/swsh8/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Rillaboom-VMAX",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1422,6 +1606,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/24.png",
       "large": "https://images.pokemontcg.io/swsh8/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Gossifleur",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1472,6 +1664,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/25.png",
       "large": "https://images.pokemontcg.io/swsh8/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Eldegoss",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1537,6 +1737,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/26.png",
       "large": "https://images.pokemontcg.io/swsh8/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Appletun-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1597,6 +1805,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/27.png",
       "large": "https://images.pokemontcg.io/swsh8/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Zarude",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1650,6 +1866,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/28.png",
       "large": "https://images.pokemontcg.io/swsh8/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Vulpix-V1-FST028",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1702,6 +1926,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/29.png",
       "large": "https://images.pokemontcg.io/swsh8/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Vulpix-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1753,6 +1985,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/30.png",
       "large": "https://images.pokemontcg.io/swsh8/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Ninetales-V1-FST030",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1812,6 +2052,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/31.png",
       "large": "https://images.pokemontcg.io/swsh8/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Ninetales-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1876,6 +2124,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/32.png",
       "large": "https://images.pokemontcg.io/swsh8/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Growlithe",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1938,6 +2194,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/33.png",
       "large": "https://images.pokemontcg.io/swsh8/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Arcanine",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.06
+      }
     }
   },
   {
@@ -2002,6 +2266,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/34.png",
       "large": "https://images.pokemontcg.io/swsh8/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Slugma",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2066,6 +2338,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/35.png",
       "large": "https://images.pokemontcg.io/swsh8/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Magcargo",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -2124,6 +2404,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/36.png",
       "large": "https://images.pokemontcg.io/swsh8/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Victini",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2176,6 +2464,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/37.png",
       "large": "https://images.pokemontcg.io/swsh8/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Pansear",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2235,6 +2531,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/38.png",
       "large": "https://images.pokemontcg.io/swsh8/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Simisear",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2298,6 +2602,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/39.png",
       "large": "https://images.pokemontcg.io/swsh8/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Chandelure-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2359,6 +2671,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/40.png",
       "large": "https://images.pokemontcg.io/swsh8/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Chandelure-VMAX-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2420,6 +2740,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/41.png",
       "large": "https://images.pokemontcg.io/swsh8/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Heatmor",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -2478,6 +2806,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/42.png",
       "large": "https://images.pokemontcg.io/swsh8/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Oricorio",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2533,6 +2869,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/43.png",
       "large": "https://images.pokemontcg.io/swsh8/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Cinderace-V-V1-FST043",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2600,6 +2944,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/44.png",
       "large": "https://images.pokemontcg.io/swsh8/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Cinderace-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2657,6 +3009,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/45.png",
       "large": "https://images.pokemontcg.io/swsh8/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Cinderace-VMAX",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2720,6 +3080,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/46.png",
       "large": "https://images.pokemontcg.io/swsh8/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Sizzlipede-V1-FST046",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -2774,6 +3142,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/47.png",
       "large": "https://images.pokemontcg.io/swsh8/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Sizzlipede-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2838,6 +3214,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/48.png",
       "large": "https://images.pokemontcg.io/swsh8/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Centiskorch-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2901,6 +3285,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/49.png",
       "large": "https://images.pokemontcg.io/swsh8/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Centiskorch-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2965,6 +3357,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/50.png",
       "large": "https://images.pokemontcg.io/swsh8/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Shellder",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -3025,6 +3425,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/51.png",
       "large": "https://images.pokemontcg.io/swsh8/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Cloyster",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -3087,6 +3495,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/52.png",
       "large": "https://images.pokemontcg.io/swsh8/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Staryu",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.06
+      }
     }
   },
   {
@@ -3138,6 +3554,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/53.png",
       "large": "https://images.pokemontcg.io/swsh8/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Starmie",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3200,6 +3624,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/54.png",
       "large": "https://images.pokemontcg.io/swsh8/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Lapras",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3252,6 +3684,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/55.png",
       "large": "https://images.pokemontcg.io/swsh8/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Totodile",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3317,6 +3757,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/56.png",
       "large": "https://images.pokemontcg.io/swsh8/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Croconaw",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3378,6 +3826,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/57.png",
       "large": "https://images.pokemontcg.io/swsh8/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Feraligatr",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3440,6 +3896,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/58.png",
       "large": "https://images.pokemontcg.io/swsh8/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Marill",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3502,6 +3966,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/59.png",
       "large": "https://images.pokemontcg.io/swsh8/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Azumarill",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3561,6 +4033,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/60.png",
       "large": "https://images.pokemontcg.io/swsh8/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Qwilfish",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3621,6 +4101,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/61.png",
       "large": "https://images.pokemontcg.io/swsh8/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Mantine",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3685,6 +4173,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/62.png",
       "large": "https://images.pokemontcg.io/swsh8/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Mudkip",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3751,6 +4247,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/63.png",
       "large": "https://images.pokemontcg.io/swsh8/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Marshtomp",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3812,6 +4316,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/64.png",
       "large": "https://images.pokemontcg.io/swsh8/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Swampert",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3867,6 +4379,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/65.png",
       "large": "https://images.pokemontcg.io/swsh8/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Clamperl",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3927,6 +4447,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/66.png",
       "large": "https://images.pokemontcg.io/swsh8/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Huntail",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3986,6 +4514,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/67.png",
       "large": "https://images.pokemontcg.io/swsh8/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Gorebyss",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4038,6 +4574,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/68.png",
       "large": "https://images.pokemontcg.io/swsh8/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Panpour",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4098,6 +4642,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/69.png",
       "large": "https://images.pokemontcg.io/swsh8/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Simipour",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -4149,6 +4701,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/70.png",
       "large": "https://images.pokemontcg.io/swsh8/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Basculin",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4202,6 +4762,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/71.png",
       "large": "https://images.pokemontcg.io/swsh8/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Galarian-Darumaka",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -4265,6 +4833,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/72.png",
       "large": "https://images.pokemontcg.io/swsh8/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Galarian-Darmanitan",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4330,6 +4906,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/73.png",
       "large": "https://images.pokemontcg.io/swsh8/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Greninja-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4393,6 +4977,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/74.png",
       "large": "https://images.pokemontcg.io/swsh8/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Clauncher",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4455,6 +5047,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/75.png",
       "large": "https://images.pokemontcg.io/swsh8/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Clawitzer",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4521,6 +5121,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/76.png",
       "large": "https://images.pokemontcg.io/swsh8/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Crabominable-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4579,6 +5187,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/77.png",
       "large": "https://images.pokemontcg.io/swsh8/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Pyukumuku",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4645,6 +5261,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/78.png",
       "large": "https://images.pokemontcg.io/swsh8/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Inteleon-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4707,6 +5331,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/79.png",
       "large": "https://images.pokemontcg.io/swsh8/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Inteleon-VMAX-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4761,6 +5393,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/80.png",
       "large": "https://images.pokemontcg.io/swsh8/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Chewtle",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4816,6 +5456,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/81.png",
       "large": "https://images.pokemontcg.io/swsh8/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Drednaw",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4868,6 +5516,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/82.png",
       "large": "https://images.pokemontcg.io/swsh8/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Arrokuda",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4918,6 +5574,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/83.png",
       "large": "https://images.pokemontcg.io/swsh8/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Barraskewda",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4970,6 +5634,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/84.png",
       "large": "https://images.pokemontcg.io/swsh8/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Snom-V1-FST084",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -5031,6 +5703,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/85.png",
       "large": "https://images.pokemontcg.io/swsh8/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Frosmoth",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5097,6 +5777,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/86.png",
       "large": "https://images.pokemontcg.io/swsh8/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Pikachu-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5150,6 +5838,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/87.png",
       "large": "https://images.pokemontcg.io/swsh8/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Voltorb",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5210,6 +5906,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/88.png",
       "large": "https://images.pokemontcg.io/swsh8/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Electrode-V1-FST088",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5260,6 +5964,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/89.png",
       "large": "https://images.pokemontcg.io/swsh8/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Plusle",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5319,6 +6031,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/90.png",
       "large": "https://images.pokemontcg.io/swsh8/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Minun",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5381,6 +6101,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/91.png",
       "large": "https://images.pokemontcg.io/swsh8/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Shinx-FST091",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -5435,6 +6163,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/92.png",
       "large": "https://images.pokemontcg.io/swsh8/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Luxio",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5482,6 +6218,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/93.png",
       "large": "https://images.pokemontcg.io/swsh8/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Luxray",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5540,6 +6284,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/94.png",
       "large": "https://images.pokemontcg.io/swsh8/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Rotom",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -5602,6 +6354,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/95.png",
       "large": "https://images.pokemontcg.io/swsh8/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Tynamo",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5667,6 +6427,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/96.png",
       "large": "https://images.pokemontcg.io/swsh8/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Eelektrik",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -5730,6 +6498,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/97.png",
       "large": "https://images.pokemontcg.io/swsh8/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Eelektross",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5792,6 +6568,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/98.png",
       "large": "https://images.pokemontcg.io/swsh8/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Helioptile",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -5852,6 +6636,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/99.png",
       "large": "https://images.pokemontcg.io/swsh8/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Heliolisk",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5919,6 +6711,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/100.png",
       "large": "https://images.pokemontcg.io/swsh8/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Charjabug",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5979,6 +6779,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/101.png",
       "large": "https://images.pokemontcg.io/swsh8/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Vikavolt-FST101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6029,6 +6837,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/102.png",
       "large": "https://images.pokemontcg.io/swsh8/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Zeraora",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6092,6 +6908,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/103.png",
       "large": "https://images.pokemontcg.io/swsh8/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Boltund-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6157,6 +6981,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/104.png",
       "large": "https://images.pokemontcg.io/swsh8/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Boltund-VMAX-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6210,6 +7042,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/105.png",
       "large": "https://images.pokemontcg.io/swsh8/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Toxel-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6272,6 +7112,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/106.png",
       "large": "https://images.pokemontcg.io/swsh8/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Toxel-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6324,6 +7172,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/107.png",
       "large": "https://images.pokemontcg.io/swsh8/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Toxtricity-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6385,6 +7241,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/108.png",
       "large": "https://images.pokemontcg.io/swsh8/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Toxtricity-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6435,6 +7299,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/109.png",
       "large": "https://images.pokemontcg.io/swsh8/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Morpeko-V1-FST109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6497,6 +7369,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/110.png",
       "large": "https://images.pokemontcg.io/swsh8/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Jigglypuff",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6559,6 +7439,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/111.png",
       "large": "https://images.pokemontcg.io/swsh8/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Wigglytuff",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -6624,6 +7512,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/112.png",
       "large": "https://images.pokemontcg.io/swsh8/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Jynx",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6689,6 +7585,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/113.png",
       "large": "https://images.pokemontcg.io/swsh8/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Mew-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6755,6 +7659,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/114.png",
       "large": "https://images.pokemontcg.io/swsh8/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Mew-VMAX-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6818,6 +7730,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/115.png",
       "large": "https://images.pokemontcg.io/swsh8/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Snubbull",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6878,6 +7798,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/116.png",
       "large": "https://images.pokemontcg.io/swsh8/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Granbull",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6937,6 +7865,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/117.png",
       "large": "https://images.pokemontcg.io/swsh8/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Galarian-Corsola",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -7005,6 +7941,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/118.png",
       "large": "https://images.pokemontcg.io/swsh8/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Galarian-Cursola",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7054,6 +7998,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/119.png",
       "large": "https://images.pokemontcg.io/swsh8/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Mawile",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7114,6 +8066,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/120.png",
       "large": "https://images.pokemontcg.io/swsh8/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Deoxys",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7173,6 +8133,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/121.png",
       "large": "https://images.pokemontcg.io/swsh8/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Munna",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7240,6 +8208,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/122.png",
       "large": "https://images.pokemontcg.io/swsh8/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Musharna",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7305,6 +8281,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/123.png",
       "large": "https://images.pokemontcg.io/swsh8/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Sigilyph",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7362,6 +8346,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/124.png",
       "large": "https://images.pokemontcg.io/swsh8/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Meloetta",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7432,6 +8424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/125.png",
       "large": "https://images.pokemontcg.io/swsh8/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Sandygast",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7505,6 +8505,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/126.png",
       "large": "https://images.pokemontcg.io/swsh8/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Palossand",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7571,6 +8579,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/127.png",
       "large": "https://images.pokemontcg.io/swsh8/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Indeedee",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -7630,6 +8646,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/128.png",
       "large": "https://images.pokemontcg.io/swsh8/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Dreepy",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7700,6 +8724,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/129.png",
       "large": "https://images.pokemontcg.io/swsh8/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Drakloak",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7763,6 +8795,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/130.png",
       "large": "https://images.pokemontcg.io/swsh8/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Dragapult-V1-FST130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7825,6 +8865,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/131.png",
       "large": "https://images.pokemontcg.io/swsh8/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Sandshrew",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -7877,6 +8925,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/132.png",
       "large": "https://images.pokemontcg.io/swsh8/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Sandslash",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7929,6 +8985,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/133.png",
       "large": "https://images.pokemontcg.io/swsh8/133_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Mankey",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7979,6 +9043,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/134.png",
       "large": "https://images.pokemontcg.io/swsh8/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Primeape",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8043,6 +9115,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/135.png",
       "large": "https://images.pokemontcg.io/swsh8/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Geodude",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -8110,6 +9190,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/136.png",
       "large": "https://images.pokemontcg.io/swsh8/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Graveler",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8172,6 +9260,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/137.png",
       "large": "https://images.pokemontcg.io/swsh8/137_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Golem",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -8239,6 +9335,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/138.png",
       "large": "https://images.pokemontcg.io/swsh8/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Onix",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8304,6 +9408,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/139.png",
       "large": "https://images.pokemontcg.io/swsh8/139_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Steelix",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -8366,6 +9478,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/140.png",
       "large": "https://images.pokemontcg.io/swsh8/140_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Gligar",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8428,6 +9548,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/141.png",
       "large": "https://images.pokemontcg.io/swsh8/141_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Gliscor",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -8494,6 +9622,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/142.png",
       "large": "https://images.pokemontcg.io/swsh8/142_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Makuhita",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8557,6 +9693,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/143.png",
       "large": "https://images.pokemontcg.io/swsh8/143_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Hariyama",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8610,6 +9754,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/144.png",
       "large": "https://images.pokemontcg.io/swsh8/144_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Baltoy",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8672,6 +9824,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/145.png",
       "large": "https://images.pokemontcg.io/swsh8/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Claydol",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -8727,6 +9887,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/146.png",
       "large": "https://images.pokemontcg.io/swsh8/146_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Lucario-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8780,6 +9948,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/147.png",
       "large": "https://images.pokemontcg.io/swsh8/147_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Drilbur",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8840,6 +10016,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/148.png",
       "large": "https://images.pokemontcg.io/swsh8/148_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Landorus",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8904,6 +10088,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/149.png",
       "large": "https://images.pokemontcg.io/swsh8/149_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Pancham",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8967,6 +10159,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/150.png",
       "large": "https://images.pokemontcg.io/swsh8/150_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Stufful",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9031,6 +10231,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/151.png",
       "large": "https://images.pokemontcg.io/swsh8/151_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Bewear",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -9094,6 +10302,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/152.png",
       "large": "https://images.pokemontcg.io/swsh8/152_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Clobbopus",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9157,6 +10373,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/153.png",
       "large": "https://images.pokemontcg.io/swsh8/153_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Grapploct",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9218,6 +10442,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/154.png",
       "large": "https://images.pokemontcg.io/swsh8/154_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Falinks-V1-FST154",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -9267,6 +10499,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/155.png",
       "large": "https://images.pokemontcg.io/swsh8/155_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Falinks-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9333,6 +10573,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/156.png",
       "large": "https://images.pokemontcg.io/swsh8/156_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Gengar-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.48,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9400,6 +10648,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/157.png",
       "large": "https://images.pokemontcg.io/swsh8/157_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Gengar-VMAX-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9469,6 +10725,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/158.png",
       "large": "https://images.pokemontcg.io/swsh8/158_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Tyranitar-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9521,6 +10785,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/159.png",
       "large": "https://images.pokemontcg.io/swsh8/159_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Galarian-Zigzagoon",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9571,6 +10843,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/160.png",
       "large": "https://images.pokemontcg.io/swsh8/160_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Galarian-Linoone",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -9631,6 +10911,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/161.png",
       "large": "https://images.pokemontcg.io/swsh8/161_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Galarian-Obstagoon",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -9683,6 +10971,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/162.png",
       "large": "https://images.pokemontcg.io/swsh8/162_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Carvanha-FST162",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -9734,6 +11030,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/163.png",
       "large": "https://images.pokemontcg.io/swsh8/163_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Sharpedo",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -9795,6 +11099,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/164.png",
       "large": "https://images.pokemontcg.io/swsh8/164_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Absol",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9847,6 +11159,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/165.png",
       "large": "https://images.pokemontcg.io/swsh8/165_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Croagunk",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -9908,6 +11228,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/166.png",
       "large": "https://images.pokemontcg.io/swsh8/166_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Toxicroak",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -9960,6 +11288,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/167.png",
       "large": "https://images.pokemontcg.io/swsh8/167_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Darkrai",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -10023,6 +11359,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/168.png",
       "large": "https://images.pokemontcg.io/swsh8/168_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Trubbish",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -10086,6 +11430,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/169.png",
       "large": "https://images.pokemontcg.io/swsh8/169_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Garbodor",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -10148,6 +11500,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/170.png",
       "large": "https://images.pokemontcg.io/swsh8/170_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Zorua",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -10210,6 +11570,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/171.png",
       "large": "https://images.pokemontcg.io/swsh8/171_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Zoroark",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -10278,6 +11646,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/172.png",
       "large": "https://images.pokemontcg.io/swsh8/172_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Vullaby",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -10345,6 +11721,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/173.png",
       "large": "https://images.pokemontcg.io/swsh8/173_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Mandibuzz",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -10412,6 +11796,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/174.png",
       "large": "https://images.pokemontcg.io/swsh8/174_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Pangoro-FST174",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -10481,6 +11873,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/175.png",
       "large": "https://images.pokemontcg.io/swsh8/175_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Yveltal",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -10534,6 +11934,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/176.png",
       "large": "https://images.pokemontcg.io/swsh8/176_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Impidimp",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -10599,6 +12007,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/177.png",
       "large": "https://images.pokemontcg.io/swsh8/177_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Morgrem",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -10662,6 +12078,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/178.png",
       "large": "https://images.pokemontcg.io/swsh8/178_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Grimmsnarl",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -10712,6 +12136,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/179.png",
       "large": "https://images.pokemontcg.io/swsh8/179_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Morpeko-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -10780,6 +12212,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/180.png",
       "large": "https://images.pokemontcg.io/swsh8/180_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Galarian-Meowth",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -10847,6 +12287,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/181.png",
       "large": "https://images.pokemontcg.io/swsh8/181_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Galarian-Perrserker",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -10915,6 +12363,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/182.png",
       "large": "https://images.pokemontcg.io/swsh8/182_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Skarmory",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -10984,6 +12440,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/183.png",
       "large": "https://images.pokemontcg.io/swsh8/183_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Excadrill",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -11041,6 +12505,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/184.png",
       "large": "https://images.pokemontcg.io/swsh8/184_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Durant",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -11110,6 +12582,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/185.png",
       "large": "https://images.pokemontcg.io/swsh8/185_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Genesect-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11165,6 +12645,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/186.png",
       "large": "https://images.pokemontcg.io/swsh8/186_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Klefki",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -11232,6 +12720,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/187.png",
       "large": "https://images.pokemontcg.io/swsh8/187_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Togedemaru",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -11301,6 +12797,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/188.png",
       "large": "https://images.pokemontcg.io/swsh8/188_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Meltan",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -11375,6 +12879,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/189.png",
       "large": "https://images.pokemontcg.io/swsh8/189_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Melmetal",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -11443,6 +12955,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/190.png",
       "large": "https://images.pokemontcg.io/swsh8/190_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Corviknight",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -11515,6 +13035,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/191.png",
       "large": "https://images.pokemontcg.io/swsh8/191_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Cufant",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -11589,6 +13117,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/192.png",
       "large": "https://images.pokemontcg.io/swsh8/192_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Copperajah",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -11642,6 +13178,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/193.png",
       "large": "https://images.pokemontcg.io/swsh8/193_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Latias",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.06
+      }
     }
   },
   {
@@ -11697,6 +13241,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/194.png",
       "large": "https://images.pokemontcg.io/swsh8/194_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Latios",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -11753,6 +13305,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/195.png",
       "large": "https://images.pokemontcg.io/swsh8/195_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Goomy",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -11812,6 +13372,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/196.png",
       "large": "https://images.pokemontcg.io/swsh8/196_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Sliggoo",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -11866,6 +13434,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/197.png",
       "large": "https://images.pokemontcg.io/swsh8/197_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Goodra",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -11923,6 +13499,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/198.png",
       "large": "https://images.pokemontcg.io/swsh8/198_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Turtonator",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -11975,6 +13559,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/199.png",
       "large": "https://images.pokemontcg.io/swsh8/199_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Meowth",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -12035,6 +13627,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/200.png",
       "large": "https://images.pokemontcg.io/swsh8/200_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Persian",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -12105,6 +13705,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/201.png",
       "large": "https://images.pokemontcg.io/swsh8/201_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Dodrio-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12170,6 +13778,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/202.png",
       "large": "https://images.pokemontcg.io/swsh8/202_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Chansey",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -12230,6 +13846,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/203.png",
       "large": "https://images.pokemontcg.io/swsh8/203_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Blissey",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -12292,6 +13916,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/204.png",
       "large": "https://images.pokemontcg.io/swsh8/204_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Kangaskhan",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -12351,6 +13983,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/205.png",
       "large": "https://images.pokemontcg.io/swsh8/205_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Eevee",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -12404,6 +14044,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/206.png",
       "large": "https://images.pokemontcg.io/swsh8/206_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Snorlax",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -12461,6 +14109,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/207.png",
       "large": "https://images.pokemontcg.io/swsh8/207_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Dunsparce",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -12520,6 +14176,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/208.png",
       "large": "https://images.pokemontcg.io/swsh8/208_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Stantler",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -12581,6 +14245,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/209.png",
       "large": "https://images.pokemontcg.io/swsh8/209_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Smeargle",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -12633,6 +14305,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/210.png",
       "large": "https://images.pokemontcg.io/swsh8/210_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Skitty-FST210",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -12693,6 +14373,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/211.png",
       "large": "https://images.pokemontcg.io/swsh8/211_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Delcatty",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -12747,6 +14435,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/212.png",
       "large": "https://images.pokemontcg.io/swsh8/212_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Buneary",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -12799,6 +14495,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/213.png",
       "large": "https://images.pokemontcg.io/swsh8/213_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Lopunny",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -12861,6 +14565,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/214.png",
       "large": "https://images.pokemontcg.io/swsh8/214_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Bunnelby",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -12928,6 +14640,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/215.png",
       "large": "https://images.pokemontcg.io/swsh8/215_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Diggersby",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -12984,6 +14704,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/216.png",
       "large": "https://images.pokemontcg.io/swsh8/216_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Hawlucha",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13049,6 +14777,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/217.png",
       "large": "https://images.pokemontcg.io/swsh8/217_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Greedent-V-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13115,6 +14851,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/218.png",
       "large": "https://images.pokemontcg.io/swsh8/218_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Greedent-VMAX-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13173,6 +14917,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/219.png",
       "large": "https://images.pokemontcg.io/swsh8/219_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Rookidee",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13233,6 +14985,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/220.png",
       "large": "https://images.pokemontcg.io/swsh8/220_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Corvisquire",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13295,6 +15055,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/221.png",
       "large": "https://images.pokemontcg.io/swsh8/221_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Wooloo-V1-FST221",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13348,6 +15116,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/222.png",
       "large": "https://images.pokemontcg.io/swsh8/222_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Wooloo-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13409,6 +15185,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/223.png",
       "large": "https://images.pokemontcg.io/swsh8/223_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Dubwool",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13433,6 +15217,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/224.png",
       "large": "https://images.pokemontcg.io/swsh8/224_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Adventurers-Discovery",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13458,6 +15250,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/225.png",
       "large": "https://images.pokemontcg.io/swsh8/225_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Battle-VIP-Pass",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13482,6 +15282,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/226.png",
       "large": "https://images.pokemontcg.io/swsh8/226_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Bug-Catcher",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13507,6 +15315,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/227.png",
       "large": "https://images.pokemontcg.io/swsh8/227_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Chili-Cilan-Cress-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13531,6 +15347,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/228.png",
       "large": "https://images.pokemontcg.io/swsh8/228_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Cook",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13555,6 +15379,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/229.png",
       "large": "https://images.pokemontcg.io/swsh8/229_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Cram-o-matic",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13581,6 +15413,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/230.png",
       "large": "https://images.pokemontcg.io/swsh8/230_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Cross-Switcher",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -13607,6 +15447,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/231.png",
       "large": "https://images.pokemontcg.io/swsh8/231_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Crossceiver",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13631,6 +15479,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/232.png",
       "large": "https://images.pokemontcg.io/swsh8/232_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Dancer-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13656,6 +15512,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/233.png",
       "large": "https://images.pokemontcg.io/swsh8/233_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Elesas-Sparkle-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13682,6 +15546,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/234.png",
       "large": "https://images.pokemontcg.io/swsh8/234_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Farewell-Bell",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -13707,6 +15579,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/235.png",
       "large": "https://images.pokemontcg.io/swsh8/235_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Judge",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13732,6 +15612,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/236.png",
       "large": "https://images.pokemontcg.io/swsh8/236_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Power-Tablet-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13756,6 +15644,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/237.png",
       "large": "https://images.pokemontcg.io/swsh8/237_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Quick-Ball-V1-FST237",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13780,6 +15676,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/238.png",
       "large": "https://images.pokemontcg.io/swsh8/238_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Schoolboy-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13804,6 +15708,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/239.png",
       "large": "https://images.pokemontcg.io/swsh8/239_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Schoolgirl-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13828,6 +15740,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/240.png",
       "large": "https://images.pokemontcg.io/swsh8/240_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Shauna-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13852,6 +15772,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/241.png",
       "large": "https://images.pokemontcg.io/swsh8/241_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Sidney-V1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13875,6 +15803,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/242.png",
       "large": "https://images.pokemontcg.io/swsh8/242_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Skaters-Park",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13901,6 +15837,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/243.png",
       "large": "https://images.pokemontcg.io/swsh8/243_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Spongy-Gloves",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13924,6 +15868,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/244.png",
       "large": "https://images.pokemontcg.io/swsh8/244_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Fusion-Strike-Energy",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -13986,6 +15938,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/245.png",
       "large": "https://images.pokemontcg.io/swsh8/245_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Celebi-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 19.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14040,6 +16000,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/246.png",
       "large": "https://images.pokemontcg.io/swsh8/246_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Tsareena-V-V2-FST246",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14103,6 +16071,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/247.png",
       "large": "https://images.pokemontcg.io/swsh8/247_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Chandelure-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14169,6 +16145,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/248.png",
       "large": "https://images.pokemontcg.io/swsh8/248_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Crabominable-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14232,6 +16216,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/249.png",
       "large": "https://images.pokemontcg.io/swsh8/249_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Boltund-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.18,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14297,6 +16289,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/250.png",
       "large": "https://images.pokemontcg.io/swsh8/250_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Mew-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14362,6 +16362,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/251.png",
       "large": "https://images.pokemontcg.io/swsh8/251_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Mew-V-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 21.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14424,6 +16432,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/252.png",
       "large": "https://images.pokemontcg.io/swsh8/252_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Sandaconda-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14487,6 +16503,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/253.png",
       "large": "https://images.pokemontcg.io/swsh8/253_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Hoopa-V",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14556,6 +16580,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/254.png",
       "large": "https://images.pokemontcg.io/swsh8/254_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Genesect-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14625,6 +16657,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/255.png",
       "large": "https://images.pokemontcg.io/swsh8/255_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Genesect-V-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 12.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14690,6 +16730,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/256.png",
       "large": "https://images.pokemontcg.io/swsh8/256_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Greedent-V-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.28,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14755,6 +16803,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/257.png",
       "large": "https://images.pokemontcg.io/swsh8/257_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Greedent-V-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14780,6 +16836,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/258.png",
       "large": "https://images.pokemontcg.io/swsh8/258_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Chili-Cilan-Cress-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14804,6 +16868,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/259.png",
       "large": "https://images.pokemontcg.io/swsh8/259_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Dancer-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14829,6 +16901,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/260.png",
       "large": "https://images.pokemontcg.io/swsh8/260_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Elesas-Sparkle-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14853,6 +16933,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/261.png",
       "large": "https://images.pokemontcg.io/swsh8/261_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Schoolboy-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14877,6 +16965,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/262.png",
       "large": "https://images.pokemontcg.io/swsh8/262_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Schoolgirl-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14901,6 +16997,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/263.png",
       "large": "https://images.pokemontcg.io/swsh8/263_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Shauna-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14925,6 +17029,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/264.png",
       "large": "https://images.pokemontcg.io/swsh8/264_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Sidney-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.85,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14986,6 +17098,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/265.png",
       "large": "https://images.pokemontcg.io/swsh8/265_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Chandelure-VMAX-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15048,6 +17168,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/266.png",
       "large": "https://images.pokemontcg.io/swsh8/266_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Inteleon-VMAX-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 19.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15113,6 +17241,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/267.png",
       "large": "https://images.pokemontcg.io/swsh8/267_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Boltund-VMAX-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15179,6 +17315,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/268.png",
       "large": "https://images.pokemontcg.io/swsh8/268_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Mew-VMAX-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 20.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15245,6 +17389,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/269.png",
       "large": "https://images.pokemontcg.io/swsh8/269_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Mew-VMAX-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 69.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15313,6 +17465,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/270.png",
       "large": "https://images.pokemontcg.io/swsh8/270_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Espeon-VMAX",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 90.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15380,6 +17540,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/271.png",
       "large": "https://images.pokemontcg.io/swsh8/271_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Gengar-VMAX-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 229.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15446,6 +17614,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/272.png",
       "large": "https://images.pokemontcg.io/swsh8/272_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Greedent-VMAX-V2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15471,6 +17647,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/273.png",
       "large": "https://images.pokemontcg.io/swsh8/273_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Chili-Cilan-Cress-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15495,6 +17679,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/274.png",
       "large": "https://images.pokemontcg.io/swsh8/274_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Dancer-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.34,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15520,6 +17712,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/275.png",
       "large": "https://images.pokemontcg.io/swsh8/275_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Elesas-Sparkle-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15544,6 +17744,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/276.png",
       "large": "https://images.pokemontcg.io/swsh8/276_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Schoolboy-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15568,6 +17776,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/277.png",
       "large": "https://images.pokemontcg.io/swsh8/277_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Schoolgirl-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15592,6 +17808,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/278.png",
       "large": "https://images.pokemontcg.io/swsh8/278_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Shauna-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15616,6 +17840,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/279.png",
       "large": "https://images.pokemontcg.io/swsh8/279_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Sidney-V3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15679,6 +17911,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/280.png",
       "large": "https://images.pokemontcg.io/swsh8/280_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Flaaffy",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15704,6 +17944,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/281.png",
       "large": "https://images.pokemontcg.io/swsh8/281_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Power-Tablet-V2-FST281",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15727,6 +17975,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/282.png",
       "large": "https://images.pokemontcg.io/swsh8/282_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Training-Court",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15746,6 +18002,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/283.png",
       "large": "https://images.pokemontcg.io/swsh8/283_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Grass-Energy",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -15765,6 +18029,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh8/284.png",
       "large": "https://images.pokemontcg.io/swsh8/284_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Fusion-Strike/Fire-Energy",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

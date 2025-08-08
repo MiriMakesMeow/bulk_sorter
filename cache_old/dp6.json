@@ -53,6 +53,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/1.png",
       "large": "https://images.pokemontcg.io/dp6/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Deoxys-Normal-Forme-Lv50-LA1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.7,
+        "reverseHoloLow": 1.7
+      }
     }
   },
   {
@@ -124,6 +132,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/2.png",
       "large": "https://images.pokemontcg.io/dp6/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Dragonite-Lv61-V1-LA2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -183,6 +199,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/3.png",
       "large": "https://images.pokemontcg.io/dp6/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Froslass-Lv46-LA3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -252,6 +276,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/4.png",
       "large": "https://images.pokemontcg.io/dp6/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Giratina-Lv52-LA4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -270,9 +302,7 @@
     "attacks": [
       {
         "name": "Burning Poison",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Choose either Burned or Poisoned. The Defending Pokémon is now affected by that Special Condition. You may return Gliscor and all cards attached to it to your hand."
@@ -317,6 +347,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/5.png",
       "large": "https://images.pokemontcg.io/dp6/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Gliscor-Lv42-LA5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.12,
+        "reverseHoloLow": 0.47
+      }
     }
   },
   {
@@ -378,6 +416,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/6.png",
       "large": "https://images.pokemontcg.io/dp6/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Heatran-Lv47-LA6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -396,9 +442,7 @@
     "attacks": [
       {
         "name": "Aqua Stream",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10×",
         "text": "Search your discard pile for as many Water Energy cards as you like, show them to your opponent, and this attack does 10 damage for each Water Energy card you chose. Put those cards on top of your deck. Shuffle your deck afterward."
@@ -436,6 +480,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/7.png",
       "large": "https://images.pokemontcg.io/dp6/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Kingdra-Lv52-LA7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -506,6 +558,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/8.png",
       "large": "https://images.pokemontcg.io/dp6/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Luxray-Lv51-LA8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -578,6 +638,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/9.png",
       "large": "https://images.pokemontcg.io/dp6/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Mamoswine-Lv54-LA9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -644,6 +712,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/10.png",
       "large": "https://images.pokemontcg.io/dp6/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Metagross-Lv58-LA10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.88
+      }
     }
   },
   {
@@ -704,6 +780,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/11.png",
       "large": "https://images.pokemontcg.io/dp6/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Mewtwo-Lv42-LA11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": 2.49
+      }
     }
   },
   {
@@ -761,6 +845,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/12.png",
       "large": "https://images.pokemontcg.io/dp6/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Politoed-Lv49-LA12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -821,6 +913,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/13.png",
       "large": "https://images.pokemontcg.io/dp6/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Probopass-Lv46-LA13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -887,6 +987,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/14.png",
       "large": "https://images.pokemontcg.io/dp6/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Rayquaza-Lv56-LA14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": 4.0
+      }
     }
   },
   {
@@ -948,6 +1056,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/15.png",
       "large": "https://images.pokemontcg.io/dp6/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Regigigas-Lv52-LA15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.77
+      }
     }
   },
   {
@@ -1004,6 +1120,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/16.png",
       "large": "https://images.pokemontcg.io/dp6/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Spiritomb-Lv44-LA16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.37,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -1022,9 +1146,7 @@
     "attacks": [
       {
         "name": "Sonic Wave",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
@@ -1067,6 +1189,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/17.png",
       "large": "https://images.pokemontcg.io/dp6/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Yanmega-Lv47-LA17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.59
+      }
     }
   },
   {
@@ -1126,6 +1256,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/18.png",
       "large": "https://images.pokemontcg.io/dp6/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Armaldo-Lv52-LA18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1181,6 +1319,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/19.png",
       "large": "https://images.pokemontcg.io/dp6/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Azelf-Lv55-V1-LA19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1246,6 +1392,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/20.png",
       "large": "https://images.pokemontcg.io/dp6/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Bellossom-Lv38-LA20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1308,6 +1462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/21.png",
       "large": "https://images.pokemontcg.io/dp6/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Cradily-Lv49-LA21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1376,6 +1538,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/22.png",
       "large": "https://images.pokemontcg.io/dp6/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Crawdaunt-Lv32-LA22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1432,6 +1602,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/23.png",
       "large": "https://images.pokemontcg.io/dp6/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Delcatty-Lv46-LA23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.48
+      }
     }
   },
   {
@@ -1490,6 +1668,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/24.png",
       "large": "https://images.pokemontcg.io/dp6/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Deoxys-Attack-Forme-Lv50-LA24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 1.21
+      }
     }
   },
   {
@@ -1548,6 +1734,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/25.png",
       "large": "https://images.pokemontcg.io/dp6/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Deoxys-Defense-Forme-Lv50-LA25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1600,6 +1794,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/26.png",
       "large": "https://images.pokemontcg.io/dp6/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Deoxys-Speed-Forme-Lv50-LA26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.85,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -1644,6 +1846,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/27.png",
       "large": "https://images.pokemontcg.io/dp6/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Ditto-Lv33-LA27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": 1.86
+      }
     }
   },
   {
@@ -1710,6 +1920,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/28.png",
       "large": "https://images.pokemontcg.io/dp6/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Forretress-Lv43-LA28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1727,9 +1945,7 @@
     "attacks": [
       {
         "name": "Drought",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Choose up to 2 basic Fighting Energy cards from your hand and attach them to 1 of your Pokémon."
@@ -1777,6 +1993,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/29.png",
       "large": "https://images.pokemontcg.io/dp6/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Groudon-Lv45-LA29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": 0.85
+      }
     }
   },
   {
@@ -1836,6 +2060,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/30.png",
       "large": "https://images.pokemontcg.io/dp6/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Heatran-Lv45-V1-LA30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -1853,9 +2085,7 @@
     "attacks": [
       {
         "name": "One Desire",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for any 1 card. Shuffle your deck, then put that card on top of your deck."
@@ -1900,6 +2130,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/31.png",
       "large": "https://images.pokemontcg.io/dp6/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Jirachi-Lv42-LA31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1917,9 +2155,7 @@
     "attacks": [
       {
         "name": "Drizzle",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Choose up to 2 basic Water Energy cards from your hand and attach them to 1 of your Pokémon."
@@ -1961,6 +2197,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/32.png",
       "large": "https://images.pokemontcg.io/dp6/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Kyogre-Lv47-LA32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -1986,9 +2230,7 @@
     "attacks": [
       {
         "name": "Collect",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Draw 3 cards."
@@ -2027,6 +2269,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/33.png",
       "large": "https://images.pokemontcg.io/dp6/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Lopunny-Lv37-LA33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2083,6 +2333,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/34.png",
       "large": "https://images.pokemontcg.io/dp6/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Mesprit-Lv55-LA34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -2144,6 +2402,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/35.png",
       "large": "https://images.pokemontcg.io/dp6/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Poliwrath-Lv46-LA35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2203,6 +2469,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/36.png",
       "large": "https://images.pokemontcg.io/dp6/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Regice-Lv43-LA36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2263,6 +2537,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/37.png",
       "large": "https://images.pokemontcg.io/dp6/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Regigigas-Lv48-LA37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -2322,6 +2604,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/38.png",
       "large": "https://images.pokemontcg.io/dp6/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Regirock-Lv51-LA38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -2388,6 +2678,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/39.png",
       "large": "https://images.pokemontcg.io/dp6/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Registeel-Lv50-LA39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.18,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2434,6 +2732,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/40.png",
       "large": "https://images.pokemontcg.io/dp6/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Shedinja-Lv34-LA40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2491,6 +2797,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/41.png",
       "large": "https://images.pokemontcg.io/dp6/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Torkoal-Lv32-LA41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2546,6 +2860,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/42.png",
       "large": "https://images.pokemontcg.io/dp6/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Unown-Lv16-LA42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": 4.44
+      }
     }
   },
   {
@@ -2601,6 +2923,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/43.png",
       "large": "https://images.pokemontcg.io/dp6/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Uxie-Lv55-V1-LA43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2619,9 +2949,7 @@
     "attacks": [
       {
         "name": "Burning Scent",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "The Defending Pokémon is now Burned and Poisoned. Before applying these effects, you may switch 1 of the Defending Pokémon with 1 of your opponent's Benched Pokémon. The new Defending Pokémon is now Burned and Poisoned."
@@ -2663,6 +2991,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/44.png",
       "large": "https://images.pokemontcg.io/dp6/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Victreebel-Lv40-LA44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2722,6 +3058,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/45.png",
       "large": "https://images.pokemontcg.io/dp6/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Vileplume-Lv41-LA45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.12,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -2784,6 +3128,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/46.png",
       "large": "https://images.pokemontcg.io/dp6/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Anorith-Lv29-LA46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2847,6 +3199,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/47.png",
       "large": "https://images.pokemontcg.io/dp6/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Camerupt-Lv41-LA47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -2903,6 +3263,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/48.png",
       "large": "https://images.pokemontcg.io/dp6/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Castform-Lv35-LA48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2959,6 +3327,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/49.png",
       "large": "https://images.pokemontcg.io/dp6/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Castform-Rain-Form-Lv35-LA49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3015,6 +3391,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/50.png",
       "large": "https://images.pokemontcg.io/dp6/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Castform-Snow-Cloud-Form-Lv35-LA50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -3071,6 +3455,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/51.png",
       "large": "https://images.pokemontcg.io/dp6/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Castform-Sunny-Form-Lv35-LA51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -3135,6 +3527,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/52.png",
       "large": "https://images.pokemontcg.io/dp6/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Dragonair-Lv31-V2-LA52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -3197,6 +3597,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/53.png",
       "large": "https://images.pokemontcg.io/dp6/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Drifblim-Lv43-LA53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3215,9 +3623,7 @@
     "attacks": [
       {
         "name": "Psychic Strategy",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Each player counts the number of cards in his or her opponent's hand. Each player shuffles his or her hand into his or her deck. Then, each player draws a number of cards up to the number of cards his or her opponent had. (You draw your cards first.)"
@@ -3255,6 +3661,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/54.png",
       "large": "https://images.pokemontcg.io/dp6/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Exeggutor-Lv43-LA54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -3320,6 +3734,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/55.png",
       "large": "https://images.pokemontcg.io/dp6/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Gliscor-Lv44-LA55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3338,9 +3760,7 @@
     "attacks": [
       {
         "name": "Magical Step",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "The Defending Pokémon is now Confused. Put 6 damage counters instead of 3 on the Confused Pokémon."
@@ -3380,6 +3800,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/56.png",
       "large": "https://images.pokemontcg.io/dp6/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Grumpig-Lv36-LA56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -3446,6 +3874,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/57.png",
       "large": "https://images.pokemontcg.io/dp6/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Houndoom-Lv45-LA57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3506,6 +3942,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/58.png",
       "large": "https://images.pokemontcg.io/dp6/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Lanturn-Lv39-LA58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3567,6 +4011,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/59.png",
       "large": "https://images.pokemontcg.io/dp6/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Lanturn-Lv43-LA59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3632,6 +4084,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/60.png",
       "large": "https://images.pokemontcg.io/dp6/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Ledian-Lv39-LA60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3692,6 +4152,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/61.png",
       "large": "https://images.pokemontcg.io/dp6/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Lucario-Lv35-LA61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -3762,6 +4230,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/62.png",
       "large": "https://images.pokemontcg.io/dp6/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Luxio-Lv23-LA62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3828,6 +4304,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/63.png",
       "large": "https://images.pokemontcg.io/dp6/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Marowak-Lv30-LA63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3899,6 +4383,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/64.png",
       "large": "https://images.pokemontcg.io/dp6/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Metang-Lv24-LA64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3970,6 +4462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/65.png",
       "large": "https://images.pokemontcg.io/dp6/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Metang-Lv22-LA65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4035,6 +4535,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/66.png",
       "large": "https://images.pokemontcg.io/dp6/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Mightyena-Lv42-LA66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.37
+      }
     }
   },
   {
@@ -4096,6 +4604,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/67.png",
       "large": "https://images.pokemontcg.io/dp6/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Ninjask-Lv42-LA67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4152,6 +4668,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/68.png",
       "large": "https://images.pokemontcg.io/dp6/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Persian-Lv32-LA68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -4225,6 +4749,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/69.png",
       "large": "https://images.pokemontcg.io/dp6/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Piloswine-Lv35-LA69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4288,6 +4820,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/70.png",
       "large": "https://images.pokemontcg.io/dp6/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Seadra-Lv35-LA70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -4342,6 +4882,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/71.png",
       "large": "https://images.pokemontcg.io/dp6/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Starmie-Lv39-LA71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -4404,6 +4952,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/72.png",
       "large": "https://images.pokemontcg.io/dp6/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Swalot-Lv35-LA72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -4467,6 +5023,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/73.png",
       "large": "https://images.pokemontcg.io/dp6/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Swellow-Lv30-LA73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4528,6 +5092,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/74.png",
       "large": "https://images.pokemontcg.io/dp6/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Tauros-Lv26-LA74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4546,9 +5118,7 @@
     "attacks": [
       {
         "name": "Tentacle Strike",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your opponent's discard pile for up to 2 Energy cards and attach them to any of your opponent's Pokémon in any way you like. For each Energy card attached in this way, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
@@ -4588,6 +5158,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/75.png",
       "large": "https://images.pokemontcg.io/dp6/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Tentacruel-Lv37-LA75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4643,6 +5221,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/76.png",
       "large": "https://images.pokemontcg.io/dp6/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Unown-J-Lv12-LA76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4667,9 +5253,7 @@
     "attacks": [
       {
         "name": "Hidden Power",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Move any number of basic Energy cards attached to your Pokémon to your other Pokémon in any way you like."
@@ -4698,6 +5282,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/77.png",
       "large": "https://images.pokemontcg.io/dp6/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Unown-R-Lv16-LA77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.34,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -4753,6 +5345,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/78.png",
       "large": "https://images.pokemontcg.io/dp6/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Unown-U-Lv15-LA78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4808,6 +5408,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/79.png",
       "large": "https://images.pokemontcg.io/dp6/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Unown-V-Lv17-LA79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4867,6 +5475,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/80.png",
       "large": "https://images.pokemontcg.io/dp6/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Unown-W-Lv21-LA80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -4923,6 +5539,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/81.png",
       "large": "https://images.pokemontcg.io/dp6/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Unown-Y-Lv15-LA81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.13,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4947,9 +5571,7 @@
     "attacks": [
       {
         "name": "Hidden Power",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Discard up to 2 cards from your hand. For each card you discarded, draw a card."
@@ -4978,6 +5600,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/82.png",
       "large": "https://images.pokemontcg.io/dp6/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Unown-Lv18-LA82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.25
+      }
     }
   },
   {
@@ -5044,6 +5674,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/83.png",
       "large": "https://images.pokemontcg.io/dp6/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Beldum-Lv9-LA83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5111,6 +5749,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/84.png",
       "large": "https://images.pokemontcg.io/dp6/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Beldum-Lv7-LA84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -5171,6 +5817,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/85.png",
       "large": "https://images.pokemontcg.io/dp6/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Bellsprout-Lv5-LA85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -5232,6 +5886,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/86.png",
       "large": "https://images.pokemontcg.io/dp6/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Buneary-Lv10-LA86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5293,6 +5955,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/87.png",
       "large": "https://images.pokemontcg.io/dp6/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Chinchou-Lv15-LA87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5354,6 +6024,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/88.png",
       "large": "https://images.pokemontcg.io/dp6/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Chinchou-Lv13-LA88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -5415,6 +6093,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/89.png",
       "large": "https://images.pokemontcg.io/dp6/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Corphish-Lv6-LA89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5482,6 +6168,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/90.png",
       "large": "https://images.pokemontcg.io/dp6/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Cubone-Lv16-LA90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5543,6 +6237,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/91.png",
       "large": "https://images.pokemontcg.io/dp6/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Dratini-Lv8-V1-LA91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5610,6 +6312,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/92.png",
       "large": "https://images.pokemontcg.io/dp6/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Drifloon-Lv14-LA92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -5670,6 +6380,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/93.png",
       "large": "https://images.pokemontcg.io/dp6/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Exeggcute-Lv11-LA93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -5690,9 +6408,7 @@
     "attacks": [
       {
         "name": "Light Poison",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": "Flip a coin. If tails, this attack does nothing. If heads, the Defending Pokémon is now Poisoned."
@@ -5736,6 +6452,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/94.png",
       "large": "https://images.pokemontcg.io/dp6/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Gligar-Lv19-LA94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5803,6 +6527,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/95.png",
       "large": "https://images.pokemontcg.io/dp6/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Gligar-Lv14-LA95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -5866,6 +6598,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/96.png",
       "large": "https://images.pokemontcg.io/dp6/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Gloom-Lv22-LA96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.17
+      }
     }
   },
   {
@@ -5888,9 +6628,7 @@
     "attacks": [
       {
         "name": "Space Out",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Remove 2 damage counters from Gloom. Gloom is now Asleep."
@@ -5930,6 +6668,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/97.png",
       "large": "https://images.pokemontcg.io/dp6/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Gloom-Lv24-LA97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5991,6 +6737,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/98.png",
       "large": "https://images.pokemontcg.io/dp6/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Gulpin-Lv17-LA98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -6049,6 +6803,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/99.png",
       "large": "https://images.pokemontcg.io/dp6/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Hitmonchan-Lv27-LA99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6109,6 +6871,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/100.png",
       "large": "https://images.pokemontcg.io/dp6/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Hitmonlee-Lv24-LA100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6169,6 +6939,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/101.png",
       "large": "https://images.pokemontcg.io/dp6/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Hitmontop-Lv25-LA101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -6229,6 +7007,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/102.png",
       "large": "https://images.pokemontcg.io/dp6/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Horsea-Lv8-LA102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6295,6 +7081,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/103.png",
       "large": "https://images.pokemontcg.io/dp6/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Houndour-Lv12-LA103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -6362,6 +7156,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/104.png",
       "large": "https://images.pokemontcg.io/dp6/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Ledyba-Lv12-LA104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6425,6 +7227,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/105.png",
       "large": "https://images.pokemontcg.io/dp6/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Lileep-Lv27-LA105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -6486,6 +7296,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/106.png",
       "large": "https://images.pokemontcg.io/dp6/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Meowth-Lv13-LA106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -6506,9 +7324,7 @@
     "attacks": [
       {
         "name": "Show Off",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
@@ -6552,6 +7368,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/107.png",
       "large": "https://images.pokemontcg.io/dp6/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Misdreavus-Lv18-LA107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6612,6 +7436,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/108.png",
       "large": "https://images.pokemontcg.io/dp6/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Nincada-Lv10-LA108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -6673,6 +7505,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/109.png",
       "large": "https://images.pokemontcg.io/dp6/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Nosepass-Lv15-LA109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6736,6 +7576,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/110.png",
       "large": "https://images.pokemontcg.io/dp6/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Numel-Lv16-LA110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.74
+      }
     }
   },
   {
@@ -6796,6 +7644,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/111.png",
       "large": "https://images.pokemontcg.io/dp6/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Oddish-Lv6-LA111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.65
+      }
     }
   },
   {
@@ -6857,6 +7713,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/112.png",
       "large": "https://images.pokemontcg.io/dp6/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Oddish-Lv7-LA112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -6918,6 +7782,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/113.png",
       "large": "https://images.pokemontcg.io/dp6/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Pineco-Lv11-LA113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -6978,6 +7850,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/114.png",
       "large": "https://images.pokemontcg.io/dp6/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Poliwag-Lv5-LA114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -7043,6 +7923,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/115.png",
       "large": "https://images.pokemontcg.io/dp6/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Poliwhirl-Lv28-LA115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -7110,6 +7998,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/116.png",
       "large": "https://images.pokemontcg.io/dp6/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Poochyena-Lv17-LA116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -7171,6 +8067,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/117.png",
       "large": "https://images.pokemontcg.io/dp6/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Riolu-Lv11-LA117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7238,6 +8142,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/118.png",
       "large": "https://images.pokemontcg.io/dp6/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Shinx-Lv6-LA118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -7298,6 +8210,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/119.png",
       "large": "https://images.pokemontcg.io/dp6/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Skitty-Lv14-LA119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -7365,6 +8285,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/120.png",
       "large": "https://images.pokemontcg.io/dp6/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Sneasel-Lv23-LA120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -7426,6 +8354,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/121.png",
       "large": "https://images.pokemontcg.io/dp6/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Spoink-Lv10-LA121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.69
+      }
     }
   },
   {
@@ -7487,6 +8423,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/122.png",
       "large": "https://images.pokemontcg.io/dp6/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Staryu-Lv14-LA122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -7555,6 +8499,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/123.png",
       "large": "https://images.pokemontcg.io/dp6/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Swinub-Lv13-LA123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.59
+      }
     }
   },
   {
@@ -7621,6 +8573,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/124.png",
       "large": "https://images.pokemontcg.io/dp6/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Taillow-Lv12-LA124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -7681,6 +8641,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/125.png",
       "large": "https://images.pokemontcg.io/dp6/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Tentacool-Lv16-LA125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -7741,6 +8709,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/126.png",
       "large": "https://images.pokemontcg.io/dp6/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Tyrogue-Lv10-LA126",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -7804,6 +8780,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/127.png",
       "large": "https://images.pokemontcg.io/dp6/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Weepinbell-Lv23-LA127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7871,6 +8855,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/128.png",
       "large": "https://images.pokemontcg.io/dp6/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Yanma-Lv13-LA128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -7893,6 +8885,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/129.png",
       "large": "https://images.pokemontcg.io/dp6/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Bubble-Coat-LA129",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -7915,6 +8915,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/130.png",
       "large": "https://images.pokemontcg.io/dp6/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Bucks-Training-LA130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.36
+      }
     }
   },
   {
@@ -7937,6 +8945,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/131.png",
       "large": "https://images.pokemontcg.io/dp6/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Cynthias-Feelings-LA131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -7958,6 +8974,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/132.png",
       "large": "https://images.pokemontcg.io/dp6/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Energy-Pickup-LA132",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -7979,6 +9003,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/133.png",
       "large": "https://images.pokemontcg.io/dp6/133_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Poke-Radar-LA133",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -8001,6 +9033,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/134.png",
       "large": "https://images.pokemontcg.io/dp6/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Snowpoint-Temple-LA134",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -8023,6 +9063,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/135.png",
       "large": "https://images.pokemontcg.io/dp6/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Stark-Mountain-LA135",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -8038,9 +9086,7 @@
     "attacks": [
       {
         "name": "Evoluter",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward."
@@ -8055,6 +9101,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/136.png",
       "large": "https://images.pokemontcg.io/dp6/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Technical-Machine-TS-1-LA136",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -8070,9 +9124,7 @@
     "attacks": [
       {
         "name": "Devoluter",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Choose 1 of your opponent's Evolved Pokémon (excluding Pokémon LV.X). Remove the highest Stage Evolution card from that Pokémon and put that card back into your opponent's hand."
@@ -8087,6 +9139,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/137.png",
       "large": "https://images.pokemontcg.io/dp6/137_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Technical-Machine-TS-2-LA137",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -8116,6 +9176,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/138.png",
       "large": "https://images.pokemontcg.io/dp6/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Claw-Fossil-LA138",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -8145,6 +9213,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/139.png",
       "large": "https://images.pokemontcg.io/dp6/139_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Root-Fossil-LA139",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -8203,6 +9279,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/140.png",
       "large": "https://images.pokemontcg.io/dp6/140_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Azelf-LVX-LA140",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8264,6 +9348,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/141.png",
       "large": "https://images.pokemontcg.io/dp6/141_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Gliscor-LVX-LA141",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.55,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8332,6 +9424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/142.png",
       "large": "https://images.pokemontcg.io/dp6/142_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Magnezone-LVX-LA142",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8353,9 +9453,7 @@
     "attacks": [
       {
         "name": "Healing Look",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Remove 3 damage counters from each of your Benched Pokémon."
@@ -8393,6 +9491,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/143.png",
       "large": "https://images.pokemontcg.io/dp6/143_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Mesprit-LVX-LA143",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 14.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8454,6 +9560,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/144.png",
       "large": "https://images.pokemontcg.io/dp6/144_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Mewtwo-LVX-LA144",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 12.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8475,9 +9589,7 @@
     "attacks": [
       {
         "name": "Hard Crush",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "50×",
         "text": "Discard the top 5 cards from your deck. This attack does 50 damage for each Energy card you discarded."
@@ -8525,6 +9637,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/145.png",
       "large": "https://images.pokemontcg.io/dp6/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Rhyperior-LVX-LA145",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8584,6 +9704,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp6/146.png",
       "large": "https://images.pokemontcg.io/dp6/146_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Uxie-LVX-LA146",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 13.0,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

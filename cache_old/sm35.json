@@ -50,6 +50,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/1.png",
       "large": "https://images.pokemontcg.io/sm35/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Bulbasaur-SLG1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -118,6 +126,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/2.png",
       "large": "https://images.pokemontcg.io/sm35/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Ivysaur-SLG2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -180,6 +196,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/3.png",
       "large": "https://images.pokemontcg.io/sm35/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Venusaur-SLG3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.34
+      }
     }
   },
   {
@@ -232,6 +256,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/4.png",
       "large": "https://images.pokemontcg.io/sm35/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shroomish-SLG4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -293,6 +325,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/5.png",
       "large": "https://images.pokemontcg.io/sm35/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Breloom-SLG5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -352,6 +392,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/6.png",
       "large": "https://images.pokemontcg.io/sm35/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Carnivine-SLG6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -410,6 +458,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/7.png",
       "large": "https://images.pokemontcg.io/sm35/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shaymin-SLG7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -469,6 +525,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/8.png",
       "large": "https://images.pokemontcg.io/sm35/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Virizion-SLG8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -527,6 +591,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/9.png",
       "large": "https://images.pokemontcg.io/sm35/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shining-Genesect-SLG9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -602,6 +674,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/10.png",
       "large": "https://images.pokemontcg.io/sm35/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Entei-GX-V1-SLG10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.98,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -739,6 +819,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/11.png",
       "large": "https://images.pokemontcg.io/sm35/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Torkoal-SLG11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -793,6 +881,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/12.png",
       "large": "https://images.pokemontcg.io/sm35/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Larvesta-SLG12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -850,6 +946,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/13.png",
       "large": "https://images.pokemontcg.io/sm35/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Volcarona-SLG13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -912,6 +1016,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/14.png",
       "large": "https://images.pokemontcg.io/sm35/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Reshiram-SLG14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -963,6 +1075,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/15.png",
       "large": "https://images.pokemontcg.io/sm35/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Litten-SLG15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -1025,6 +1145,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/16.png",
       "large": "https://images.pokemontcg.io/sm35/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Torracat-SLG16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1087,6 +1215,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/17.png",
       "large": "https://images.pokemontcg.io/sm35/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Incineroar-SLG17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1148,6 +1284,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/18.png",
       "large": "https://images.pokemontcg.io/sm35/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Totodile-SLG18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -1211,6 +1355,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/19.png",
       "large": "https://images.pokemontcg.io/sm35/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Croconaw-SLG19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -1276,6 +1428,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/20.png",
       "large": "https://images.pokemontcg.io/sm35/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Feraligatr-SLG20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1334,6 +1494,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/21.png",
       "large": "https://images.pokemontcg.io/sm35/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Qwilfish-SLG21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -1396,6 +1564,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/22.png",
       "large": "https://images.pokemontcg.io/sm35/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Buizel-SLG22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1456,6 +1632,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/23.png",
       "large": "https://images.pokemontcg.io/sm35/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Floatzel-SLG23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -1517,6 +1701,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/24.png",
       "large": "https://images.pokemontcg.io/sm35/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Palkia-SLG24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1573,6 +1765,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/25.png",
       "large": "https://images.pokemontcg.io/sm35/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Manaphy-SLG25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1632,6 +1832,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/26.png",
       "large": "https://images.pokemontcg.io/sm35/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Keldeo-SLG26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1696,6 +1904,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/27.png",
       "large": "https://images.pokemontcg.io/sm35/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shining-Volcanion-SLG27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1753,6 +1969,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/28.png",
       "large": "https://images.pokemontcg.io/sm35/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Pikachu-SLG28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1834,6 +2058,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/29.png",
       "large": "https://images.pokemontcg.io/sm35/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Raichu-GX-V1-SLG29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1891,6 +2123,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/30.png",
       "large": "https://images.pokemontcg.io/sm35/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Voltorb-SLG30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1942,6 +2182,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/31.png",
       "large": "https://images.pokemontcg.io/sm35/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Electrode-SLG31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -2008,6 +2256,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/32.png",
       "large": "https://images.pokemontcg.io/sm35/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Raikou-SLG32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -2062,6 +2318,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/33.png",
       "large": "https://images.pokemontcg.io/sm35/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Plusle-SLG33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -2125,6 +2389,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/34.png",
       "large": "https://images.pokemontcg.io/sm35/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Minun-SLG34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -2193,6 +2465,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/35.png",
       "large": "https://images.pokemontcg.io/sm35/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Zekrom-SLG35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2245,6 +2525,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/36.png",
       "large": "https://images.pokemontcg.io/sm35/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Ekans-SLG36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2305,6 +2593,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/37.png",
       "large": "https://images.pokemontcg.io/sm35/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Arbok-SLG37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -2363,6 +2659,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/38.png",
       "large": "https://images.pokemontcg.io/sm35/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Jynx-SLG38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -2436,6 +2740,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/39.png",
       "large": "https://images.pokemontcg.io/sm35/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Mewtwo-GX-V1-SLG39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2489,6 +2801,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/40.png",
       "large": "https://images.pokemontcg.io/sm35/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shining-Mew-SLG40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 20.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2549,6 +2869,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/41.png",
       "large": "https://images.pokemontcg.io/sm35/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Latios-SLG41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.14,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -2597,6 +2925,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/42.png",
       "large": "https://images.pokemontcg.io/sm35/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shining-Jirachi-SLG42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2658,6 +2994,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/43.png",
       "large": "https://images.pokemontcg.io/sm35/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Golett-SLG43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -2730,6 +3074,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/44.png",
       "large": "https://images.pokemontcg.io/sm35/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Golurk-SLG44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2792,6 +3144,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/45.png",
       "large": "https://images.pokemontcg.io/sm35/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Marshadow-SLG45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -2854,6 +3214,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/46.png",
       "large": "https://images.pokemontcg.io/sm35/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Stunfisk-SLG46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -2905,6 +3273,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/47.png",
       "large": "https://images.pokemontcg.io/sm35/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Spiritomb-SLG47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2972,6 +3348,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/48.png",
       "large": "https://images.pokemontcg.io/sm35/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Purrloin-SLG48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -3037,6 +3421,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/49.png",
       "large": "https://images.pokemontcg.io/sm35/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Liepard-SLG49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3104,6 +3496,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/50.png",
       "large": "https://images.pokemontcg.io/sm35/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Scraggy-SLG50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -3172,6 +3572,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/51.png",
       "large": "https://images.pokemontcg.io/sm35/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Scrafty-SLG51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3239,6 +3647,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/52.png",
       "large": "https://images.pokemontcg.io/sm35/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Zorua-SLG52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3316,6 +3732,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/53.png",
       "large": "https://images.pokemontcg.io/sm35/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Zoroark-GX-V1-SLG53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3383,6 +3807,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/54.png",
       "large": "https://images.pokemontcg.io/sm35/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Yveltal-SLG54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3447,6 +3879,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/55.png",
       "large": "https://images.pokemontcg.io/sm35/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Hoopa-SLG55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3509,6 +3949,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/56.png",
       "large": "https://images.pokemontcg.io/sm35/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shining-Rayquaza-SLG56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3568,6 +4016,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/57.png",
       "large": "https://images.pokemontcg.io/sm35/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Shining-Arceus-SLG57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3591,6 +4047,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/58.png",
       "large": "https://images.pokemontcg.io/sm35/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Damage-Mover-SLG58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -3615,6 +4079,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/59.png",
       "large": "https://images.pokemontcg.io/sm35/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Energy-Retrieval-SLG59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3639,6 +4111,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/60.png",
       "large": "https://images.pokemontcg.io/sm35/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Great-Ball-SLG60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3662,6 +4142,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/61.png",
       "large": "https://images.pokemontcg.io/sm35/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Hau-SLG61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -3685,6 +4173,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/62.png",
       "large": "https://images.pokemontcg.io/sm35/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Lillie-SLG62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3708,6 +4204,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/63.png",
       "large": "https://images.pokemontcg.io/sm35/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Pokemon-Breeder-V1-SLG63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -3732,6 +4236,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/64.png",
       "large": "https://images.pokemontcg.io/sm35/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Pokemon-Catcher-SLG64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -3755,6 +4267,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/65.png",
       "large": "https://images.pokemontcg.io/sm35/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Sophocles-SLG65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3778,6 +4298,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/66.png",
       "large": "https://images.pokemontcg.io/sm35/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Super-Scoop-Up-SLG66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3802,6 +4330,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/67.png",
       "large": "https://images.pokemontcg.io/sm35/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Switch-SLG67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3826,6 +4362,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/68.png",
       "large": "https://images.pokemontcg.io/sm35/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Ultra-Ball-V1-SLG68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3870,6 +4414,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/69.png",
       "large": "https://images.pokemontcg.io/sm35/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Double-Colorless-Energy-SLG69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3892,6 +4444,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/70.png",
       "large": "https://images.pokemontcg.io/sm35/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Warp-Energy-SLG70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -3967,6 +4527,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/71.png",
       "large": "https://images.pokemontcg.io/sm35/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Entei-GX-V2-SLG71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.7,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4040,6 +4608,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/72.png",
       "large": "https://images.pokemontcg.io/sm35/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Mewtwo-GX-V2-SLG72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4063,6 +4639,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/73.png",
       "large": "https://images.pokemontcg.io/sm35/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Pokemon-Breeder-V2-SLG73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4138,6 +4722,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/74.png",
       "large": "https://images.pokemontcg.io/sm35/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Entei-GX-V3-SLG74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 16.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4219,6 +4811,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/75.png",
       "large": "https://images.pokemontcg.io/sm35/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Raichu-GX-V2-SLG75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4292,6 +4892,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/76.png",
       "large": "https://images.pokemontcg.io/sm35/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Mewtwo-GX-V3-SLG76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 25.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4369,6 +4977,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/77.png",
       "large": "https://images.pokemontcg.io/sm35/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Zoroark-GX-V2-SLG77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4519,6 +5135,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm35/78.png",
       "large": "https://images.pokemontcg.io/sm35/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Legends/Mewtwo-GX-V4-SLG78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 119.99,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

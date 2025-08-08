@@ -14988,5 +14988,368 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "sm8-promo-14",
+    "name": "Jumpluff  (LOT 14) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "70",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Skiploom",
+    "attacks": [
+      {
+        "name": "Lost March",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20×",
+        "text": "This attack does 20 damage for each of your Pokémon, except ◇ (Prism Star) Pokémon, in the Lost Zone."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "number": "14",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "flavorText": "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants.",
+    "nationalPokedexNumbers": [
+      189
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm8/14.png",
+      "large": "https://images.pokemontcg.io/sm8/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Jumpluff-V2-LOT14",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm8-promo-75",
+    "name": "Mareep  (LOT 75) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Flaaffy"
+    ],
+    "abilities": [
+      {
+        "name": "Fluffy Pillow",
+        "text": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may leave your opponent's Active Pokémon Asleep.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "75",
+    "artist": "Midori Harada",
+    "rarity": "Promo",
+    "flavorText": "It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter.",
+    "nationalPokedexNumbers": [
+      179
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm8/75.png",
+      "large": "https://images.pokemontcg.io/sm8/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Mareep-V2-LOT75",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.4
+      }
+    }
+  },
+  {
+    "id": "sm8-promo-82",
+    "name": "Zebstrika  (LOT 82) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Blitzle",
+    "abilities": [
+      {
+        "name": "Sprint",
+        "text": "Once during your turn (before your attack), you may discard your hand and draw 4 cards.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Head Bolt",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "82",
+    "artist": "Misa Tsutsui",
+    "rarity": "Promo",
+    "flavorText": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+    "nationalPokedexNumbers": [
+      523
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm8/82.png",
+      "large": "https://images.pokemontcg.io/sm8/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Zebstrika-V5-LOT82",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm8-promo-108",
+    "name": "Naganadel  (LOT 108) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "Ultra Beast"
+    ],
+    "hp": "130",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Poipole",
+    "abilities": [
+      {
+        "name": "Charging Up",
+        "text": "Once during your turn (before your attack), you may attach a basic Energy card from your discard pile to this Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Turning Point",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80+",
+        "text": "If you have exactly 3 Prize cards remaining, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "108",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "flavorText": "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
+    "nationalPokedexNumbers": [
+      804
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm8/108.png",
+      "large": "https://images.pokemontcg.io/sm8/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Naganadel-V2-LOT108",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm8-promo-172",
+    "name": "Electropower (LOT 172) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "During this turn, your Lightning Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "172",
+    "artist": "Eske Yoshinob",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm8/172.png",
+      "large": "https://images.pokemontcg.io/sm8/172_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Electropower-V3-LOT172",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm8-promo-181",
+    "name": "Lost Blender (LOT 181) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Put 2 cards from your hand in the Lost Zone. If you do, draw a card.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "181",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm8/181.png",
+      "large": "https://images.pokemontcg.io/sm8/181_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Lost-Blender-V3-LOT181",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm8-promo-188",
+    "name": "Professor Elm's Lecture (LOT 188) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 Pokémon with 60 HP or less, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "188",
+    "artist": "Hideki Ishikawa",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm8/188.png",
+      "large": "https://images.pokemontcg.io/sm8/188_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder/Professor-Elms-Lecture-V7-LOT188",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 12.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

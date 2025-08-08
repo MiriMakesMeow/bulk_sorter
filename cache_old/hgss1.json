@@ -249,6 +249,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss1/4.png",
       "large": "https://images.pokemontcg.io/hgss1/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Budew-PRE004",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -307,6 +315,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss1/5.png",
       "large": "https://images.pokemontcg.io/hgss1/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Pikachu-V1-CEL005",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -616,6 +632,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss1/10.png",
       "large": "https://images.pokemontcg.io/hgss1/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Shaymin-V1-DRI010",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -989,9 +1013,7 @@
     "attacks": [
       {
         "name": "Eeeeeeek",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Shuffle your hand into your deck, then draw 6 cards. Cleffa is now Asleep."
@@ -1644,9 +1666,7 @@
     "attacks": [
       {
         "name": "Playground",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Each player may search his or her deck for as many Basic Pokémon as he or she likes, put them onto his or her Bench, and shuffle his or her deck afterward. (You put your Pokémon on the Bench first.) Pichu is now Asleep."
@@ -1753,9 +1773,7 @@
     "attacks": [
       {
         "name": "Energy Antics",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Move an Energy card attached to 1 of your opponent's Pokémon to another of your opponent's Pokémon. Smoochum is now Asleep."
@@ -1925,9 +1943,7 @@
     "attacks": [
       {
         "name": "Mischievous Punch",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "30",
         "text": "This attack's damage isn't affected by Weakness or Resistance. Tyrogue is now Asleep."
@@ -2602,9 +2618,7 @@
     "attacks": [
       {
         "name": "Graffiti",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Igglybuff is now Asleep. During your opponent's next turn, the attack cost of each of the Defending Pokémon's attacks is Colorless more."
@@ -2623,6 +2637,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss1/44.png",
       "large": "https://images.pokemontcg.io/hgss1/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Munkidori-PRE044",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3601,6 +3623,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss1/61.png",
       "large": "https://images.pokemontcg.io/hgss1/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Night-Stretcher-SFA061",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4732,6 +4762,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss1/80.png",
       "large": "https://images.pokemontcg.io/hgss1/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Iono-V1-PAF080",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5363,6 +5401,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss1/95.png",
       "large": "https://images.pokemontcg.io/hgss1/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Twilight-Masquerade/Munkidori-V1-TWM095",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5495,6 +5541,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss1/101.png",
       "large": "https://images.pokemontcg.io/hgss1/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Buddy-Buddy-Poffin-PRE101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5684,6 +5738,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss1/106.png",
       "large": "https://images.pokemontcg.io/hgss1/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Earthen-Vessel-PRE106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6447,6 +6509,20 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss1/ONE.png",
       "large": "https://images.pokemontcg.io/hgss1/ONE_hires.png"
+    }
+  },
+  {
+    "id": "hgss1-promo-291",
+    "name": "Lucario VSTAR  (SWSH 291) (Promo)",
+    "rarity": "Promo",
+    "number": "291",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SWSH-Black-Star-Promos/Lucario-VSTAR-SWSH291",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

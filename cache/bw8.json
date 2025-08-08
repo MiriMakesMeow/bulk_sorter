@@ -8956,5 +8956,100 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "bw8-promo-118",
+    "name": "Colress (PLS 118) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter",
+      "Team Plasma"
+    ],
+    "rules": [
+      "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of Benched Pokémon (both yours and your opponent's).",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "118",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw8/118.png",
+      "large": "https://images.pokemontcg.io/bw8/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Colress-V3-PLS118",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw8-promo-120",
+    "name": "Escape Rope (PLS 120) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Each player switches his or her Active Pokémon with 1 of his or her Benched Pokémon. (Your opponent switches first. If a player does not have a Benched Pokémon, he or she doesn't switch Pokémon.)",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "120",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw8/120.png",
+      "large": "https://images.pokemontcg.io/bw8/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Escape-Rope-V2-PLS120",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw8-promo-123",
+    "name": "Hypnotoxic Laser (PLS 123) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Team Plasma"
+    ],
+    "rules": [
+      "Your opponent's Active Pokémon is now Poisoned. Flip a coin. If heads, your opponent's Active Pokémon is also Asleep.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "123",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw8/123.png",
+      "large": "https://images.pokemontcg.io/bw8/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Hypnotoxic-Laser-V2-PLS123",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

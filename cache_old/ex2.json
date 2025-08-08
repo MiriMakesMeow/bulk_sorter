@@ -55,6 +55,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/1.png",
       "large": "https://images.pokemontcg.io/ex2/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Armaldo-SS1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -111,6 +119,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/2.png",
       "large": "https://images.pokemontcg.io/ex2/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Cacturne-SS2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -177,6 +193,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/3.png",
       "large": "https://images.pokemontcg.io/ex2/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Cradily-SS3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": 0.95
+      }
     }
   },
   {
@@ -245,6 +269,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/4.png",
       "large": "https://images.pokemontcg.io/ex2/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Dusclops-SS4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.95,
+        "reverseHoloLow": 1.95
+      }
     }
   },
   {
@@ -306,6 +338,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/5.png",
       "large": "https://images.pokemontcg.io/ex2/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Flareon-SS5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -371,6 +411,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/6.png",
       "large": "https://images.pokemontcg.io/ex2/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Jolteon-SS6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 4.0
+      }
     }
   },
   {
@@ -428,6 +476,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/7.png",
       "large": "https://images.pokemontcg.io/ex2/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Ludicolo-SS7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.8,
+        "reverseHoloLow": 4.99
+      }
     }
   },
   {
@@ -491,6 +547,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/8.png",
       "large": "https://images.pokemontcg.io/ex2/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Lunatone-SS8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": 1.29
+      }
     }
   },
   {
@@ -547,6 +611,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/9.png",
       "large": "https://images.pokemontcg.io/ex2/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Mawile-SS9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -603,6 +675,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/10.png",
       "large": "https://images.pokemontcg.io/ex2/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Sableye-SS10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 4.0
+      }
     }
   },
   {
@@ -660,6 +740,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/11.png",
       "large": "https://images.pokemontcg.io/ex2/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Seviper-SS11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -718,6 +806,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/12.png",
       "large": "https://images.pokemontcg.io/ex2/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Shiftry-SS12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -782,6 +878,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/13.png",
       "large": "https://images.pokemontcg.io/ex2/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Solrock-SS13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -846,6 +950,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/14.png",
       "large": "https://images.pokemontcg.io/ex2/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Zangoose-SS14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.75
+      }
     }
   },
   {
@@ -902,6 +1014,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/15.png",
       "large": "https://images.pokemontcg.io/ex2/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Arcanine-SS15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -960,6 +1080,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/16.png",
       "large": "https://images.pokemontcg.io/ex2/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Espeon-SS16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1015,6 +1143,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/17.png",
       "large": "https://images.pokemontcg.io/ex2/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Golduck-SS17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -1069,6 +1205,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/18.png",
       "large": "https://images.pokemontcg.io/ex2/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Kecleon-SS18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -1127,6 +1271,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/19.png",
       "large": "https://images.pokemontcg.io/ex2/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Omastar-SS19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1183,6 +1335,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/20.png",
       "large": "https://images.pokemontcg.io/ex2/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Pichu-SS20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1238,6 +1398,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/21.png",
       "large": "https://images.pokemontcg.io/ex2/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Sandslash-SS21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1300,6 +1468,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/22.png",
       "large": "https://images.pokemontcg.io/ex2/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Shiftry-SS22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1370,6 +1546,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/23.png",
       "large": "https://images.pokemontcg.io/ex2/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Steelix-SS23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1434,6 +1618,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/24.png",
       "large": "https://images.pokemontcg.io/ex2/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Umbreon-SS24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 5.15
+      }
     }
   },
   {
@@ -1493,6 +1685,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/25.png",
       "large": "https://images.pokemontcg.io/ex2/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Vaporeon-SS25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 3.49
+      }
     }
   },
   {
@@ -1549,6 +1749,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/26.png",
       "large": "https://images.pokemontcg.io/ex2/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Wobbuffet-SS26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -1609,6 +1817,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/27.png",
       "large": "https://images.pokemontcg.io/ex2/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Anorith-SS27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -1671,6 +1887,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/28.png",
       "large": "https://images.pokemontcg.io/ex2/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Anorith-SS28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1727,6 +1951,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/29.png",
       "large": "https://images.pokemontcg.io/ex2/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Arbok-SS29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.45
+      }
     }
   },
   {
@@ -1784,6 +2016,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/30.png",
       "large": "https://images.pokemontcg.io/ex2/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Azumarill-SS30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -1840,6 +2080,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/31.png",
       "large": "https://images.pokemontcg.io/ex2/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Azurill-SS31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 3.25
+      }
     }
   },
   {
@@ -1889,6 +2137,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/32.png",
       "large": "https://images.pokemontcg.io/ex2/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Baltoy-SS32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.06,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1947,6 +2203,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/33.png",
       "large": "https://images.pokemontcg.io/ex2/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Breloom-SS33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -2006,6 +2270,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/34.png",
       "large": "https://images.pokemontcg.io/ex2/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Delcatty-SS34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -2072,6 +2344,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/35.png",
       "large": "https://images.pokemontcg.io/ex2/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Electabuzz-SS35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.95
+      }
     }
   },
   {
@@ -2128,6 +2408,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/36.png",
       "large": "https://images.pokemontcg.io/ex2/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Elekid-SS36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 1.45
+      }
     }
   },
   {
@@ -2189,6 +2477,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/37.png",
       "large": "https://images.pokemontcg.io/ex2/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Fearow-SS37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.74
+      }
     }
   },
   {
@@ -2252,6 +2548,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/38.png",
       "large": "https://images.pokemontcg.io/ex2/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Illumise-SS38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2320,6 +2624,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/39.png",
       "large": "https://images.pokemontcg.io/ex2/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Kabuto-SS39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -2383,6 +2695,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/40.png",
       "large": "https://images.pokemontcg.io/ex2/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Kirlia-SS40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2451,6 +2771,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/41.png",
       "large": "https://images.pokemontcg.io/ex2/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Lairon-SS41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.12,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2512,6 +2840,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/42.png",
       "large": "https://images.pokemontcg.io/ex2/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Lileep-SS42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -2574,6 +2910,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/43.png",
       "large": "https://images.pokemontcg.io/ex2/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Lileep-SS43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2627,6 +2971,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/44.png",
       "large": "https://images.pokemontcg.io/ex2/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Linoone-SS44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -2685,6 +3037,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/45.png",
       "large": "https://images.pokemontcg.io/ex2/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Lombre-SS45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2745,6 +3105,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/46.png",
       "large": "https://images.pokemontcg.io/ex2/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Lombre-SS46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -2810,6 +3178,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/47.png",
       "large": "https://images.pokemontcg.io/ex2/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Murkrow-SS47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -2872,6 +3248,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/48.png",
       "large": "https://images.pokemontcg.io/ex2/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Nuzleaf-SS48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2934,6 +3318,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/49.png",
       "large": "https://images.pokemontcg.io/ex2/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Nuzleaf-SS49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -2984,6 +3376,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/50.png",
       "large": "https://images.pokemontcg.io/ex2/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Pelipper-SS50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -3047,6 +3447,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/51.png",
       "large": "https://images.pokemontcg.io/ex2/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Quilava-SS51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.89
+      }
     }
   },
   {
@@ -3108,6 +3516,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/52.png",
       "large": "https://images.pokemontcg.io/ex2/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Vigoroth-SS52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -3171,6 +3587,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/53.png",
       "large": "https://images.pokemontcg.io/ex2/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Volbeat-SS53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -3227,6 +3651,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/54.png",
       "large": "https://images.pokemontcg.io/ex2/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Wynaut-SS54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -3284,6 +3716,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/55.png",
       "large": "https://images.pokemontcg.io/ex2/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Xatu-SS55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3340,6 +3780,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/56.png",
       "large": "https://images.pokemontcg.io/ex2/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Aron-SS56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3396,6 +3844,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/57.png",
       "large": "https://images.pokemontcg.io/ex2/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Cacnea-SS57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3445,6 +3901,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/58.png",
       "large": "https://images.pokemontcg.io/ex2/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Cacnea-SS58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3503,6 +3967,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/59.png",
       "large": "https://images.pokemontcg.io/ex2/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Cyndaquil-SS59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -3558,6 +4030,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/60.png",
       "large": "https://images.pokemontcg.io/ex2/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Dunsparce-SS60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.21
+      }
     }
   },
   {
@@ -3622,6 +4102,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/61.png",
       "large": "https://images.pokemontcg.io/ex2/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Duskull-SS61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.95
+      }
     }
   },
   {
@@ -3687,6 +4175,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/62.png",
       "large": "https://images.pokemontcg.io/ex2/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Duskull-SS62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -3752,6 +4248,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/63.png",
       "large": "https://images.pokemontcg.io/ex2/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Eevee-SS63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 1.97
+      }
     }
   },
   {
@@ -3801,6 +4305,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/64.png",
       "large": "https://images.pokemontcg.io/ex2/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Ekans-SS64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3858,6 +4370,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/65.png",
       "large": "https://images.pokemontcg.io/ex2/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Growlithe-SS65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3914,6 +4434,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/66.png",
       "large": "https://images.pokemontcg.io/ex2/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Lotad-SS66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -3973,6 +4501,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/67.png",
       "large": "https://images.pokemontcg.io/ex2/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Lotad-SS67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4023,6 +4559,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/68.png",
       "large": "https://images.pokemontcg.io/ex2/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Marill-SS68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -4081,6 +4625,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/69.png",
       "large": "https://images.pokemontcg.io/ex2/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Natu-SS69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4141,6 +4693,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/70.png",
       "large": "https://images.pokemontcg.io/ex2/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Omanyte-SS70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4204,6 +4764,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/71.png",
       "large": "https://images.pokemontcg.io/ex2/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Onix-SS71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4264,6 +4832,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/72.png",
       "large": "https://images.pokemontcg.io/ex2/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Pikachu-SS72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -4313,6 +4889,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/73.png",
       "large": "https://images.pokemontcg.io/ex2/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Psyduck-SS73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -4371,6 +4955,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/74.png",
       "large": "https://images.pokemontcg.io/ex2/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Ralts-SS74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4420,6 +5012,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/75.png",
       "large": "https://images.pokemontcg.io/ex2/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Sandshrew-SS75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4469,6 +5069,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/76.png",
       "large": "https://images.pokemontcg.io/ex2/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Seedot-SS76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4518,6 +5126,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/77.png",
       "large": "https://images.pokemontcg.io/ex2/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Seedot-SS77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4583,6 +5199,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/78.png",
       "large": "https://images.pokemontcg.io/ex2/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Shroomish-SS78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -4642,6 +5266,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/79.png",
       "large": "https://images.pokemontcg.io/ex2/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Skitty-SS79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.42
+      }
     }
   },
   {
@@ -4691,6 +5323,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/80.png",
       "large": "https://images.pokemontcg.io/ex2/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Slakoth-SS80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4755,6 +5395,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/81.png",
       "large": "https://images.pokemontcg.io/ex2/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Spearow-SS81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4814,6 +5462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/82.png",
       "large": "https://images.pokemontcg.io/ex2/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Trapinch-SS82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4877,6 +5533,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/83.png",
       "large": "https://images.pokemontcg.io/ex2/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Wailmer-SS83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4932,6 +5596,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/84.png",
       "large": "https://images.pokemontcg.io/ex2/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Wingull-SS84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4991,6 +5663,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/85.png",
       "large": "https://images.pokemontcg.io/ex2/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Zigzagoon-SS85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -5012,6 +5692,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/86.png",
       "large": "https://images.pokemontcg.io/ex2/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Double-Full-Heal-SS86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5034,6 +5722,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/87.png",
       "large": "https://images.pokemontcg.io/ex2/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Lanettes-Net-Search-SS87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5057,6 +5753,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/88.png",
       "large": "https://images.pokemontcg.io/ex2/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Rare-Candy-SS88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -5079,6 +5783,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/89.png",
       "large": "https://images.pokemontcg.io/ex2/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Wallys-Training-SS89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.48
+      }
     }
   },
   {
@@ -5108,6 +5820,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/90.png",
       "large": "https://images.pokemontcg.io/ex2/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Claw-Fossil-SS90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5130,6 +5850,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/91.png",
       "large": "https://images.pokemontcg.io/ex2/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Mysterious-Fossil-SS91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5159,6 +5887,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/92.png",
       "large": "https://images.pokemontcg.io/ex2/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Root-Fossil-SS92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5180,6 +5916,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/93.png",
       "large": "https://images.pokemontcg.io/ex2/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Multi-Energy-V1-SS93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5255,6 +5999,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/94.png",
       "large": "https://images.pokemontcg.io/ex2/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Aerodactyl-ex-SS94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5334,6 +6086,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/95.png",
       "large": "https://images.pokemontcg.io/ex2/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Aggron-ex-SS95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5403,6 +6163,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/96.png",
       "large": "https://images.pokemontcg.io/ex2/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Gardevoir-ex-SS96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.93,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5471,6 +6239,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/97.png",
       "large": "https://images.pokemontcg.io/ex2/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Kabutops-ex-SS97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5533,6 +6309,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/98.png",
       "large": "https://images.pokemontcg.io/ex2/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Raichu-ex-SS98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5604,6 +6388,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/99.png",
       "large": "https://images.pokemontcg.io/ex2/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Typhlosion-ex-SS99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5675,6 +6467,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex2/100.png",
       "large": "https://images.pokemontcg.io/ex2/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Sandstorm/Wailord-ex-SS100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

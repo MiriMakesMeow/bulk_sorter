@@ -60,6 +60,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/1.png",
       "large": "https://images.pokemontcg.io/ex5/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Banette-HL1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -114,6 +122,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/2.png",
       "large": "https://images.pokemontcg.io/ex5/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Claydol-HL2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.98
+      }
     }
   },
   {
@@ -167,6 +183,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/3.png",
       "large": "https://images.pokemontcg.io/ex5/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Crobat-HL3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 1.69
+      }
     }
   },
   {
@@ -227,6 +251,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/4.png",
       "large": "https://images.pokemontcg.io/ex5/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Dark-Celebi-HL4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.29,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -285,6 +317,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/5.png",
       "large": "https://images.pokemontcg.io/ex5/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Electrode-HL5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -366,6 +406,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/6.png",
       "large": "https://images.pokemontcg.io/ex5/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Exploud-HL6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 4.0
+      }
     }
   },
   {
@@ -423,6 +471,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/7.png",
       "large": "https://images.pokemontcg.io/ex5/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Heracross-HL7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -483,6 +539,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/8.png",
       "large": "https://images.pokemontcg.io/ex5/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Jirachi-HL8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.4
+      }
     }
   },
   {
@@ -551,6 +615,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/9.png",
       "large": "https://images.pokemontcg.io/ex5/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Machamp-V1-HL9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.85
+      }
     }
   },
   {
@@ -610,6 +682,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/10.png",
       "large": "https://images.pokemontcg.io/ex5/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Medicham-HL10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -677,6 +757,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/11.png",
       "large": "https://images.pokemontcg.io/ex5/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Metagross-HL11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -745,6 +833,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/12.png",
       "large": "https://images.pokemontcg.io/ex5/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Milotic-HL12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -799,6 +895,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/13.png",
       "large": "https://images.pokemontcg.io/ex5/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Pinsir-HL13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -865,6 +969,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/14.png",
       "large": "https://images.pokemontcg.io/ex5/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Shiftry-HL14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.95
+      }
     }
   },
   {
@@ -923,6 +1035,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/15.png",
       "large": "https://images.pokemontcg.io/ex5/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Walrein-HL15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.69
+      }
     }
   },
   {
@@ -995,6 +1115,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/16.png",
       "large": "https://images.pokemontcg.io/ex5/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Bellossom-HL16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1050,6 +1178,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/17.png",
       "large": "https://images.pokemontcg.io/ex5/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Chimecho-HL17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -1103,6 +1239,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/18.png",
       "large": "https://images.pokemontcg.io/ex5/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Gorebyss-HL18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1162,6 +1306,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/19.png",
       "large": "https://images.pokemontcg.io/ex5/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Huntail-HL19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.68
+      }
     }
   },
   {
@@ -1221,6 +1373,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/20.png",
       "large": "https://images.pokemontcg.io/ex5/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Masquerain-HL20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1288,6 +1448,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/21.png",
       "large": "https://images.pokemontcg.io/ex5/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Metang-HL21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1354,6 +1522,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/22.png",
       "large": "https://images.pokemontcg.io/ex5/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Ninetales-HL22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -1417,6 +1593,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/23.png",
       "large": "https://images.pokemontcg.io/ex5/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Rain-Castform-HL23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1470,6 +1654,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/24.png",
       "large": "https://images.pokemontcg.io/ex5/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Relicanth-HL24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -1536,6 +1728,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/25.png",
       "large": "https://images.pokemontcg.io/ex5/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Snow-cloud-Castform-HL25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.98
+      }
     }
   },
   {
@@ -1601,6 +1801,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/26.png",
       "large": "https://images.pokemontcg.io/ex5/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Sunny-Castform-HL26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1657,6 +1865,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/27.png",
       "large": "https://images.pokemontcg.io/ex5/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Tropius-HL27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.23
+      }
     }
   },
   {
@@ -1720,6 +1936,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/28.png",
       "large": "https://images.pokemontcg.io/ex5/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Beldum-HL28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -1784,6 +2008,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/29.png",
       "large": "https://images.pokemontcg.io/ex5/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Beldum-V1-HL29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1847,6 +2079,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/30.png",
       "large": "https://images.pokemontcg.io/ex5/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Castform-HL30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1906,6 +2146,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/31.png",
       "large": "https://images.pokemontcg.io/ex5/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Claydol-HL31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -1966,6 +2214,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/32.png",
       "large": "https://images.pokemontcg.io/ex5/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Corsola-HL32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2033,6 +2289,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/33.png",
       "large": "https://images.pokemontcg.io/ex5/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Dodrio-HL33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2089,6 +2353,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/34.png",
       "large": "https://images.pokemontcg.io/ex5/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Glalie-HL34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2152,6 +2424,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/35.png",
       "large": "https://images.pokemontcg.io/ex5/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Gloom-HL35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.4
+      }
     }
   },
   {
@@ -2212,6 +2492,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/36.png",
       "large": "https://images.pokemontcg.io/ex5/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Golbat-HL36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -2268,6 +2556,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/37.png",
       "large": "https://images.pokemontcg.io/ex5/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Igglybuff-HL37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2325,6 +2621,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/38.png",
       "large": "https://images.pokemontcg.io/ex5/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Lanturn-HL38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.95
+      }
     }
   },
   {
@@ -2388,6 +2692,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/39.png",
       "large": "https://images.pokemontcg.io/ex5/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Loudred-HL39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2443,6 +2755,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/40.png",
       "large": "https://images.pokemontcg.io/ex5/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Luvdisc-HL40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -2501,6 +2821,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/41.png",
       "large": "https://images.pokemontcg.io/ex5/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Machoke-V1-HL41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.46
+      }
     }
   },
   {
@@ -2558,6 +2886,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/42.png",
       "large": "https://images.pokemontcg.io/ex5/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Medicham-HL42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -2621,6 +2957,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/43.png",
       "large": "https://images.pokemontcg.io/ex5/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Metang-HL43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2686,6 +3030,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/44.png",
       "large": "https://images.pokemontcg.io/ex5/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Metang-HL44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2753,6 +3105,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/45.png",
       "large": "https://images.pokemontcg.io/ex5/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Nuzleaf-HL45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2822,6 +3182,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/46.png",
       "large": "https://images.pokemontcg.io/ex5/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Rhydon-HL46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2883,6 +3251,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/47.png",
       "large": "https://images.pokemontcg.io/ex5/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Sealeo-HL47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2938,6 +3314,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/48.png",
       "large": "https://images.pokemontcg.io/ex5/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Spinda-HL48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -2996,6 +3380,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/49.png",
       "large": "https://images.pokemontcg.io/ex5/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Starmie-HL49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3055,6 +3447,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/50.png",
       "large": "https://images.pokemontcg.io/ex5/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Swalot-HL50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -3108,6 +3508,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/51.png",
       "large": "https://images.pokemontcg.io/ex5/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Tentacruel-HL51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3157,6 +3565,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/52.png",
       "large": "https://images.pokemontcg.io/ex5/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Baltoy-HL52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.95
+      }
     }
   },
   {
@@ -3216,6 +3632,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/53.png",
       "large": "https://images.pokemontcg.io/ex5/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Baltoy-HL53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3274,6 +3698,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/54.png",
       "large": "https://images.pokemontcg.io/ex5/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Beldum-HL54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.65
+      }
     }
   },
   {
@@ -3329,6 +3761,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/55.png",
       "large": "https://images.pokemontcg.io/ex5/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Chikorita-HL55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -3388,6 +3828,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/56.png",
       "large": "https://images.pokemontcg.io/ex5/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Chinchou-HL56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3447,6 +3895,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/57.png",
       "large": "https://images.pokemontcg.io/ex5/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Chinchou-HL57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -3505,6 +3961,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/58.png",
       "large": "https://images.pokemontcg.io/ex5/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Clamperl-HL58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.51
+      }
     }
   },
   {
@@ -3564,6 +4028,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/59.png",
       "large": "https://images.pokemontcg.io/ex5/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Cyndaquil-HL59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.69
+      }
     }
   },
   {
@@ -3619,6 +4091,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/60.png",
       "large": "https://images.pokemontcg.io/ex5/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Doduo-HL60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3677,6 +4157,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/61.png",
       "large": "https://images.pokemontcg.io/ex5/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Feebas-HL61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.9
+      }
     }
   },
   {
@@ -3735,6 +4223,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/62.png",
       "large": "https://images.pokemontcg.io/ex5/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Gulpin-HL62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -3794,6 +4290,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/63.png",
       "large": "https://images.pokemontcg.io/ex5/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Jigglypuff-HL63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -3853,6 +4357,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/64.png",
       "large": "https://images.pokemontcg.io/ex5/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Machop-V1-HL64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -3911,6 +4423,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/65.png",
       "large": "https://images.pokemontcg.io/ex5/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Meditite-HL65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3970,6 +4490,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/66.png",
       "large": "https://images.pokemontcg.io/ex5/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Meditite-HL66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.48
+      }
     }
   },
   {
@@ -4032,6 +4560,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/67.png",
       "large": "https://images.pokemontcg.io/ex5/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Minun-HL67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.48
+      }
     }
   },
   {
@@ -4090,6 +4626,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/68.png",
       "large": "https://images.pokemontcg.io/ex5/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Oddish-HL68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.89
+      }
     }
   },
   {
@@ -4152,6 +4696,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/69.png",
       "large": "https://images.pokemontcg.io/ex5/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Plusle-HL69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -4212,6 +4764,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/70.png",
       "large": "https://images.pokemontcg.io/ex5/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Rhyhorn-HL70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4271,6 +4831,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/71.png",
       "large": "https://images.pokemontcg.io/ex5/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Seedot-HL71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.75
+      }
     }
   },
   {
@@ -4326,6 +4894,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/72.png",
       "large": "https://images.pokemontcg.io/ex5/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Shuppet-HL72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4386,6 +4962,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/73.png",
       "large": "https://images.pokemontcg.io/ex5/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Snorunt-HL73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4435,6 +5019,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/74.png",
       "large": "https://images.pokemontcg.io/ex5/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Spheal-HL74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -4491,6 +5083,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/75.png",
       "large": "https://images.pokemontcg.io/ex5/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Staryu-HL75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4540,6 +5140,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/76.png",
       "large": "https://images.pokemontcg.io/ex5/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Surskit-HL76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4596,6 +5204,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/77.png",
       "large": "https://images.pokemontcg.io/ex5/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Tentacool-HL77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.48
+      }
     }
   },
   {
@@ -4645,6 +5261,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/78.png",
       "large": "https://images.pokemontcg.io/ex5/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Togepi-HL78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.85
+      }
     }
   },
   {
@@ -4704,6 +5328,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/79.png",
       "large": "https://images.pokemontcg.io/ex5/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Totodile-HL79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.75
+      }
     }
   },
   {
@@ -4763,6 +5395,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/80.png",
       "large": "https://images.pokemontcg.io/ex5/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Voltorb-HL80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -4821,6 +5461,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/81.png",
       "large": "https://images.pokemontcg.io/ex5/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Vulpix-HL81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4870,6 +5518,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/82.png",
       "large": "https://images.pokemontcg.io/ex5/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Whismur-HL82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.98
+      }
     }
   },
   {
@@ -4928,6 +5584,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/83.png",
       "large": "https://images.pokemontcg.io/ex5/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Zubat-HL83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4960,6 +5624,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/84.png",
       "large": "https://images.pokemontcg.io/ex5/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Ancient-Technical-Machine-HL84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -4992,6 +5664,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/85.png",
       "large": "https://images.pokemontcg.io/ex5/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Ancient-Technical-Machine-HL85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -5025,6 +5705,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/86.png",
       "large": "https://images.pokemontcg.io/ex5/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Ancient-Technical-Machine-HL86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.46
+      }
     }
   },
   {
@@ -5047,6 +5735,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/87.png",
       "large": "https://images.pokemontcg.io/ex5/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Ancient-Tomb-HL87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -5069,6 +5765,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/88.png",
       "large": "https://images.pokemontcg.io/ex5/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Desert-Ruins-HL88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.26,
+        "reverseHoloLow": 1.9
+      }
     }
   },
   {
@@ -5091,6 +5795,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/89.png",
       "large": "https://images.pokemontcg.io/ex5/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Island-Cave-HL89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -5112,6 +5824,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/90.png",
       "large": "https://images.pokemontcg.io/ex5/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Life-Herb-HL90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -5134,6 +5854,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/91.png",
       "large": "https://images.pokemontcg.io/ex5/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Magnetic-Storm-HL91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -5157,6 +5885,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/92.png",
       "large": "https://images.pokemontcg.io/ex5/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Stevens-Advice-HL92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5228,6 +5964,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/93.png",
       "large": "https://images.pokemontcg.io/ex5/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Groudon-ex-HL93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5299,6 +6043,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/94.png",
       "large": "https://images.pokemontcg.io/ex5/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Kyogre-ex-HL94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5376,6 +6128,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/95.png",
       "large": "https://images.pokemontcg.io/ex5/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Metagross-ex-HL95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 11.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5439,6 +6199,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/96.png",
       "large": "https://images.pokemontcg.io/ex5/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Ninetales-ex-HL96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 14.85,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5499,6 +6267,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/97.png",
       "large": "https://images.pokemontcg.io/ex5/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Regice-ex-HL97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5560,6 +6336,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/98.png",
       "large": "https://images.pokemontcg.io/ex5/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Regirock-ex-HL98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5626,6 +6410,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/99.png",
       "large": "https://images.pokemontcg.io/ex5/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Registeel-ex-HL99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5687,6 +6479,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/100.png",
       "large": "https://images.pokemontcg.io/ex5/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Vileplume-ex-HL100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5750,6 +6550,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/101.png",
       "large": "https://images.pokemontcg.io/ex5/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Wigglytuff-ex-HL101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5811,6 +6619,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex5/102.png",
       "large": "https://images.pokemontcg.io/ex5/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Hidden-Legends/Groudon-HL102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

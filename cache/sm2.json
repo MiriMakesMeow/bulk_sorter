@@ -11601,5 +11601,406 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "sm2-promo-14",
+    "name": "Oricorio  (GRI 14) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Fire"
+    ],
+    "attacks": [
+      {
+        "name": "Passionate Dance",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for up to 3 Basic Fire Pokémon and put them onto your Bench. Then, shuffle your deck."
+      },
+      {
+        "name": "Kindle",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Discard an Energy from this Pokémon. If you do, discard an Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "14",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "flavorText": "It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames.",
+    "nationalPokedexNumbers": [
+      741
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm2/14.png",
+      "large": "https://images.pokemontcg.io/sm2/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Guardians-Rising/Oricorio-V2-GRI14",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm2-promo-21",
+    "name": "Alolan Vulpix  (GRI 21) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Ninetales"
+    ],
+    "attacks": [
+      {
+        "name": "Beacon",
+        "cost": [],
+        "convertedEnergyCost": 0,
+        "damage": "",
+        "text": "Search your deck for up to 2 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+      },
+      {
+        "name": "Icy Snow",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "21",
+    "artist": "You Iribi",
+    "rarity": "Promo",
+    "flavorText": "It exhales air colder than -58 degrees Fahrenheit. Elderly people in Alola call this Pokémon by an older name—Keokeo.",
+    "nationalPokedexNumbers": [
+      37
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm2/21.png",
+      "large": "https://images.pokemontcg.io/sm2/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Guardians-Rising/Alolan-Vulpix-V4-GRI",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm2-promo-46",
+    "name": "Oricorio  (GRI 46) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Feather Dance",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "During your next turn, this Pokémon's Pom-Pom Punch attack's base damage is 100."
+      },
+      {
+        "name": "Pom-Pom Punch",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "46",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "flavorText": "This Oricorio has sipped bright yellow nectar. Its bright, cheerful dance melts the hearts of its enemies.",
+    "nationalPokedexNumbers": [
+      741
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm2/46.png",
+      "large": "https://images.pokemontcg.io/sm2/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Guardians-Rising/Oricorio-V2-GRI46",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm2-promo-55",
+    "name": "Oricorio  (GRI 55) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      {
+        "name": "Vital Dance",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Casual Slap",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "55",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "This Oricorio relaxes by swaying gently. This increases its psychic energy, which it then fires at its enemies.",
+    "nationalPokedexNumbers": [
+      741
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm2/55.png",
+      "large": "https://images.pokemontcg.io/sm2/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Guardians-Rising/Oricorio-V2-GRI55",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm2-promo-56",
+    "name": "Oricorio  (GRI 56) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Supernatural Dance",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "For each Pokémon in your opponent's discard pile, put 1 damage counter on your opponent's Pokémon in any way you like."
+      },
+      {
+        "name": "Revelation Dance",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "If there is no Stadium card in play, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "56",
+    "artist": "TOKIYA",
+    "rarity": "Promo",
+    "flavorText": "This Oricorio has sipped purple nectar. Its elegant, attractive dance will send the minds and hearts of its enemies to another world.",
+    "nationalPokedexNumbers": [
+      741
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm2/56.png",
+      "large": "https://images.pokemontcg.io/sm2/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Guardians-Rising/Oricorio-V2-GRI56",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm2-promo-119",
+    "name": "Aqua Patch (GRI 119) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Attach a Water Energy card from your discard pile to 1 of your Benched Water Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "119",
+    "artist": "Toyste Beach",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm2/119.png",
+      "large": "https://images.pokemontcg.io/sm2/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Guardians-Rising/Aqua-Patch-V3-GRI119",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm2-promo-126",
+    "name": "Hala (GRI 126) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Shuffle your hand into your deck. If you have used your GX attack, draw 7 cards. If not, draw 4 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "126",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm2/126.png",
+      "large": "https://images.pokemontcg.io/sm2/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Guardians-Rising/Hala-V3-GRI126",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

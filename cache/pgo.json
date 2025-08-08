@@ -5772,5 +5772,212 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "pgo-promo-27",
+    "name": "Pikachu  (PGO 027) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "attacks": [
+      {
+        "name": "Buddy Bolt",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "If you played a Supporter card from your hand during this turn, this attack does 30 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "27",
+    "artist": "N-DESIGN Inc.",
+    "rarity": "Promo",
+    "flavorText": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/pgo/27.png",
+      "large": "https://images.pokemontcg.io/pgo/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Pikachu-V2-PGO027",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pgo-promo-52",
+    "name": "Blissey  (PGO 052) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "200",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Chansey",
+    "attacks": [
+      {
+        "name": "Enriching Egg",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Heal all damage from 1 of your Benched Pokémon."
+      },
+      {
+        "name": "Zen Headbutt",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "52",
+    "artist": "Teeziro",
+    "rarity": "Promo",
+    "flavorText": "Whenever a Blissey finds a weakened Pokémon, it will share its egg and offer its care until the other Pokémon is all better.",
+    "nationalPokedexNumbers": [
+      242
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/pgo/52.png",
+      "large": "https://images.pokemontcg.io/pgo/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Blissey-V2-PGO052",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pgo-promo-55",
+    "name": "Snorlax  (PGO 055) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "150",
+    "types": [
+      "Colorless"
+    ],
+    "abilities": [
+      {
+        "name": "Block",
+        "text": "As long as this Pokémon is in the Active Spot, your opponent's Active Pokémon can't retreat.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Collapse",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "150",
+        "text": "This Pokémon is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "55",
+    "artist": "N-DESIGN Inc.",
+    "rarity": "Promo",
+    "flavorText": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+    "nationalPokedexNumbers": [
+      143
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/pgo/55.png",
+      "large": "https://images.pokemontcg.io/pgo/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Snorlax-V2-PGO055",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

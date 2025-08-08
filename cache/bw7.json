@@ -9827,5 +9827,102 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "bw7-promo-38",
+    "name": "Delibird  (BCR 38) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Present",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, search your deck for a card and put it into your hand. Shuffle your deck afterward."
+      },
+      {
+        "name": "Icy Wind",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "The Defending Pokémon is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "38",
+    "artist": "Sumiyoshi Kizuki",
+    "rarity": "Promo",
+    "flavorText": "It carries food all day long. When someone is lost in the mountains, it shares that food.",
+    "nationalPokedexNumbers": [
+      225
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw7/38.png",
+      "large": "https://images.pokemontcg.io/bw7/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Delibird-V2-BCR97",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 18.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw7-promo-134",
+    "name": "Skyla (BCR 134) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for a Trainer card, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "134",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw7/134.png",
+      "large": "https://images.pokemontcg.io/bw7/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Boundaries-Crossed/Skyla-V3-BCR134",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

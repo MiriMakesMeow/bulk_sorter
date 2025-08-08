@@ -235,6 +235,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/4.png",
       "large": "https://images.pokemontcg.io/bw4/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Budew-PRE004",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -302,6 +310,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/5.png",
       "large": "https://images.pokemontcg.io/bw4/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Pikachu-V1-CEL005",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -620,6 +636,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/10.png",
       "large": "https://images.pokemontcg.io/bw4/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Shaymin-V1-DRI010",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -2658,6 +2682,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/44.png",
       "large": "https://images.pokemontcg.io/bw4/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Munkidori-PRE044",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3657,6 +3689,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/61.png",
       "large": "https://images.pokemontcg.io/bw4/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Night-Stretcher-SFA061",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4862,6 +4902,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/80.png",
       "large": "https://images.pokemontcg.io/bw4/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Iono-V1-PAF080",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5494,6 +5542,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/95.png",
       "large": "https://images.pokemontcg.io/bw4/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Twilight-Masquerade/Munkidori-V1-TWM095",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5884,6 +5940,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/101.png",
       "large": "https://images.pokemontcg.io/bw4/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Buddy-Buddy-Poffin-PRE101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6016,6 +6080,20 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/103.png",
       "large": "https://images.pokemontcg.io/bw4/103_hires.png"
+    }
+  },
+  {
+    "id": "bw4-promo-291",
+    "name": "Lucario VSTAR  (SWSH 291) (Promo)",
+    "rarity": "Promo",
+    "number": "291",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SWSH-Black-Star-Promos/Lucario-VSTAR-SWSH291",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

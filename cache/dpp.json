@@ -4068,5 +4068,789 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "dpp-promo-1",
+    "name": "Turtwig Lv.10  (DPPR 01) (Promo)",
+    "rarity": "Promo",
+    "number": "1",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Turtwig-Lv10-DPPRDP01",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.65,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-2",
+    "name": "Chimchar Lv.8  (DPPR 02) (Promo)",
+    "rarity": "Promo",
+    "number": "2",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Chimchar-Lv8-DPPRDP02",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-3",
+    "name": "Piplup Lv.9  (DPPR 03) (Promo)",
+    "rarity": "Promo",
+    "number": "3",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Piplup-Lv9-DPPRDP03",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.6,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-4",
+    "name": "Pachirisu Lv.23  (DPPR 04) (Promo)",
+    "rarity": "Promo",
+    "number": "4",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Pachirisu-Lv23-DPPRDP04",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.45,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-5",
+    "name": "Tropical Wind (DPPR 05) (Promo)",
+    "rarity": "Promo",
+    "number": "5",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Tropical-Wind-V1-DPPRDP05",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 299.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-6",
+    "name": "Buneary Lv.11  (DPPR 06) (Promo)",
+    "rarity": "Promo",
+    "number": "6",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Buneary-Lv11-DPPRDP06",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-7",
+    "name": "Cranidos Lv.24  (DPPR 07) (Promo)",
+    "rarity": "Promo",
+    "number": "7",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Cranidos-Lv24-DPPRDP07",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-8",
+    "name": "Shieldon Lv.26  (DPPR 08) (Promo)",
+    "rarity": "Promo",
+    "number": "8",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Shieldon-Lv26-DPPRDP08",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-9",
+    "name": "Torterra LV.X  (DPPR 09) (Promo)",
+    "rarity": "Promo",
+    "number": "9",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Torterra-LVX-DPPRDP09",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-10",
+    "name": "Infernape LV.X  (DPPR 10) (Promo)",
+    "rarity": "Promo",
+    "number": "10",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Infernape-LVX-DPPRDP10",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.85,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-11",
+    "name": "Empoleon LV.X  (DPPR 11) (Promo)",
+    "rarity": "Promo",
+    "number": "11",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Empoleon-LVX-DPPRDP11",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-12",
+    "name": "Lucario LV.X  (DPPR 12) (Promo)",
+    "rarity": "Promo",
+    "number": "12",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Lucario-LVX-DPPRDP12",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-13",
+    "name": "Buizel Lv.10  (DPPR 13) (Promo)",
+    "rarity": "Promo",
+    "number": "13",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Buizel-Lv10-DPPRDP13",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-14",
+    "name": "Chatot Lv.27  (DPPR 14) (Promo)",
+    "rarity": "Promo",
+    "number": "14",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Chatot-Lv27-DPPRDP14",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-15",
+    "name": "Shinx Lv.7  (DPPR 15) (Promo)",
+    "rarity": "Promo",
+    "number": "15",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Shinx-Lv7-DPPRDP15",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-16",
+    "name": "Pikachu Lv.15  (DPPR 16) (Promo)",
+    "rarity": "Promo",
+    "number": "16",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Pikachu-Lv15-V1-DPPR16",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-17",
+    "name": "Dialga LV.X  (DPPR 17) (Promo)",
+    "rarity": "Promo",
+    "number": "17",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Dialga-LVX-V1-DPPR17",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-18",
+    "name": "Palkia LV.X  (DPPR 18) (Promo)",
+    "rarity": "Promo",
+    "number": "18",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Palkia-LVX-DPPR18",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.98,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-19",
+    "name": "Darkrai LV.X  (DPPR 19) (Promo)",
+    "rarity": "Promo",
+    "number": "19",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Darkrai-LVX-DPPRDP19",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-20",
+    "name": "Magmortar Lv.48  (DPPR 20) (Promo)",
+    "rarity": "Promo",
+    "number": "20",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Magmortar-Lv48-DPPRDP20",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-21",
+    "name": "Raichu Lv.40  (DPPR 21) (Promo)",
+    "rarity": "Promo",
+    "number": "21",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Raichu-Lv40-DPPRDP21",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-22",
+    "name": "Mime Jr. Lv.5  (DPPR 22) (Promo)",
+    "rarity": "Promo",
+    "number": "22",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Mime-Jr-Lv5-DPPRDP22",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-23",
+    "name": "Glameow Lv.12  (DPPR 23) (Promo)",
+    "rarity": "Promo",
+    "number": "23",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Glameow-Lv12-DPPRDP23",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-24",
+    "name": "Darkrai Lv.50  (DPPR 24) (Promo)",
+    "rarity": "Promo",
+    "number": "24",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Darkrai-Lv50-V1-DPPR24",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-25",
+    "name": "Tropical Wind (DPPR 25) (Promo)",
+    "rarity": "Promo",
+    "number": "25",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Tropical-Wind-V2-DPPRDP25",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 119.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-26",
+    "name": "Dialga Lv.68  (DPPR 26) (Promo)",
+    "rarity": "Promo",
+    "number": "26",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Dialga-Lv68-V1-DPPR26",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-27",
+    "name": "Palkia Lv.67  (DPPR 27) (Promo)",
+    "rarity": "Promo",
+    "number": "27",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Palkia-Lv67-V1-DPPR27",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-28",
+    "name": "Mewtwo LV.X  (DPPR 28) (Promo)",
+    "rarity": "Promo",
+    "number": "28",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Mewtwo-LVX-DPPRDP28",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-29",
+    "name": "Rhyperior LV.X  (DPPR 29) (Promo)",
+    "rarity": "Promo",
+    "number": "29",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Rhyperior-LVX-DPPRDP29",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-30",
+    "name": "Regigigas LV.X  (DPPR 30) (Promo)",
+    "rarity": "Promo",
+    "number": "30",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Regigigas-LVX-DPPRDP30",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-31",
+    "name": "Heatran LV.X  (DPPR 31) (Promo)",
+    "rarity": "Promo",
+    "number": "31",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Heatran-LVX-DPPRDP31",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-32",
+    "name": "Magnezone Lv.51  (DPPR 32) (Promo)",
+    "rarity": "Promo",
+    "number": "32",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Magnezone-Lv51-DPPRDP32",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-33",
+    "name": "Dusknoir Lv.49  (DPPR 33) (Promo)",
+    "rarity": "Promo",
+    "number": "33",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Dusknoir-Lv49-DPPRDP33",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.14,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-34",
+    "name": "Drifblim Lv.40  (DPPR 34) (Promo)",
+    "rarity": "Promo",
+    "number": "34",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Drifblim-Lv40-DPPRDP34",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-35",
+    "name": "Porygon-Z Lv.56  (DPPR 35) (Promo)",
+    "rarity": "Promo",
+    "number": "35",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Porygon-Z-Lv56-DPPRDP35",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-36",
+    "name": "Gliscor Lv.47  (DPPR 36) (Promo)",
+    "rarity": "Promo",
+    "number": "36",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Gliscor-Lv47-DPPRDP36",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-37",
+    "name": "Dialga LV.X  (DPPR 37) (Promo)",
+    "rarity": "Promo",
+    "number": "37",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Dialga-LVX-V2-DPPRDP37",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-38",
+    "name": "Giratina LV.X  (DPPR 38) (Promo)",
+    "rarity": "Promo",
+    "number": "38",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Giratina-LVX-DPPRDP38",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-39",
+    "name": "Shaymin LV.X  (DPPR 39) (Promo)",
+    "rarity": "Promo",
+    "number": "39",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Shaymin-LVX-DPPRDP39",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-40",
+    "name": "Regigigas Lv.46  (DPPR 40) (Promo)",
+    "rarity": "Promo",
+    "number": "40",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Regigigas-Lv46-V1-DPPRDP40",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.59,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-41",
+    "name": "Toxicroak [G] Lv.45  (DPPR 41) (Promo)",
+    "rarity": "Promo",
+    "number": "41",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Toxicroak-G-Lv45-DPPRDP41",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 24.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-42",
+    "name": "Carnivine [G] Lv.43  (DPPR 42) (Promo)",
+    "rarity": "Promo",
+    "number": "42",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Carnivine-G-Lv43-DPPRDP42",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-43",
+    "name": "Probopass [G] Lv.53  (DPPR 43) (Promo)",
+    "rarity": "Promo",
+    "number": "43",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Probopass-G-Lv53-DPPRDP43",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-44",
+    "name": "Magnezone Lv.53  (DPPR 44) (Promo)",
+    "rarity": "Promo",
+    "number": "44",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Magnezone-Lv53-DPPRDP44",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-45",
+    "name": "Charizard [G] LV.X  (DPPR 45) (Promo)",
+    "rarity": "Promo",
+    "number": "45",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Charizard-G-LVX-DPPRDP45",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-46",
+    "name": "Garchomp [C] LV.X  (DPPR 46) (Promo)",
+    "rarity": "Promo",
+    "number": "46",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Garchomp-C-LVX-DPPRDP46",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-47",
+    "name": "Rayquaza [C] LV.X  (DPPR 47) (Promo)",
+    "rarity": "Promo",
+    "number": "47",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Rayquaza-C-LVX-DPPRDP47",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-48",
+    "name": "Tropical Wind (DPPR 48) (Promo)",
+    "rarity": "Promo",
+    "number": "48",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Tropical-Wind-V3-DPPRDP48",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 189.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-49",
+    "name": "Dialga Lv.69  (DPPR 49) (Promo)",
+    "rarity": "Promo",
+    "number": "49",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Dialga-Lv69-DPPRDP49",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-50",
+    "name": "Arceus Lv.100  (DPPR 50) (Promo)",
+    "rarity": "Promo",
+    "number": "50",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Arceus-Lv100-V1-DPPRDP50",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.4,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-51",
+    "name": "Cresselia Lv.62  (DPPR 51) (Promo)",
+    "rarity": "Promo",
+    "number": "51",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Cresselia-Lv62-DPPRDP51",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-52",
+    "name": "Darkrai Lv.61  (DPPR 52) (Promo)",
+    "rarity": "Promo",
+    "number": "52",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Darkrai-Lv61-DPPRDP52",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-53",
+    "name": "Arceus LV.X  (DPPR 53) (Promo)",
+    "rarity": "Promo",
+    "number": "53",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Arceus-LVX-DPPRDP53",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-54",
+    "name": "Beginning Door (DPPR 54) (Promo)",
+    "rarity": "Promo",
+    "number": "54",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Beginning-Door-DPPR54",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-55",
+    "name": "Ultimate Zone (DPPR 55) (Promo)",
+    "rarity": "Promo",
+    "number": "55",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Ultimate-Zone-DPPR55",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 39.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dpp-promo-56",
+    "name": "Arceus LV.X  (DPPR 56) (Promo)",
+    "rarity": "Promo",
+    "number": "56",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/DP-Black-Star-Promos/Arceus-LVX-DPPRDP56",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

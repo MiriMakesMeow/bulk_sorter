@@ -2,7 +2,7 @@
   {
     "id": "swsh35-1",
     "name": "Venusaur V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -12,7 +12,7 @@
       "Grass"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -24,7 +24,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "Your opponent's Active Pok\u00e9mon is now Asleep and Poisoned."
+        "text": "Your opponent's Active Pokémon is now Asleep and Poisoned."
       },
       {
         "name": "Solar Typhoon",
@@ -36,13 +36,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "220",
-        "text": "During your next turn, this Pok\u00e9mon can't use Solar Typhoon."
+        "text": "During your next turn, this Pokémon can't use Solar Typhoon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -98,31 +98,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-1",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Venusaur-V-CPA1",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.52,
-        "lowPrice": 0.85,
-        "trendPrice": 2.81,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.88,
-        "lowPriceExPlus": 0.85,
-        "avg1": 5.8,
-        "avg7": 2.43,
-        "avg30": 2.55,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 3.05,
-        "reverseHoloAvg30": 3.59
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-2",
     "name": "Weedle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -141,13 +128,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a Basic Pok\u00e9mon and put it onto your Bench. Then, shuffle your deck."
+        "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -209,31 +196,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-2",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Weedle-CPA2",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.28,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.27,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.08,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.39,
-        "reverseHoloAvg7": 0.34,
-        "reverseHoloAvg30": 0.28
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "swsh35-3",
     "name": "Kakuna",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -259,7 +233,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -323,31 +297,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-3",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Kakuna-CPA3",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.23,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.22,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.04,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.11,
-        "reverseHoloAvg7": 0.19,
-        "reverseHoloAvg30": 0.2
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-4",
     "name": "Beedrill",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -364,13 +325,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "80",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -432,31 +393,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-4",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Beedrill-CPA4",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.27,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.27,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.1,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.25,
-        "reverseHoloAvg30": 0.27
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-5",
     "name": "Eldegoss V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -466,12 +414,12 @@
       "Grass"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Happy Match",
-        "text": "When you play this Pok\u00e9mon from your hand onto your Bench during your turn, you may put a Supporter card from your discard pile into your hand.",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may put a Supporter card from your discard pile into your hand.",
         "type": "Ability"
       }
     ],
@@ -484,13 +432,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
-        "text": "You may shuffle this Pok\u00e9mon and all cards attached to it into your deck."
+        "text": "You may shuffle this Pokémon and all cards attached to it into your deck."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -544,31 +492,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-5",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Eldegoss-V-CPA5",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.12,
         "lowPrice": 0.35,
-        "trendPrice": 1.46,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.62,
-        "lowPriceExPlus": 0.45,
-        "avg1": 1.52,
-        "avg7": 1.48,
-        "avg30": 1.15,
-        "reverseHoloAvg1": 1.48,
-        "reverseHoloAvg7": 1.67,
-        "reverseHoloAvg30": 1.78
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-6",
     "name": "Vulpix",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -597,13 +532,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Your opponent's Active Pok\u00e9mon is now Burned."
+        "text": "Your opponent's Active Pokémon is now Burned."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -665,31 +600,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-6",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Vulpix-CPA6",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.29,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.31,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.3,
-        "reverseHoloAvg30": 0.28
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-7",
     "name": "Victini",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -721,7 +643,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -783,31 +705,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-7",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Victini-CPA7",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.32,
-        "reverseHoloLow": 0.07,
-        "reverseHoloTrend": 0.31,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.06,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.19,
-        "reverseHoloAvg7": 0.3,
-        "reverseHoloAvg30": 0.3
+        "reverseHoloLow": 0.07
       }
     }
   },
   {
     "id": "swsh35-8",
     "name": "Incineroar V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -817,7 +726,7 @@
       "Fire"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -829,7 +738,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90",
-        "text": "Attach up to 2 Fire Energy cards from your discard pile to 1 of your Benched Pok\u00e9mon."
+        "text": "Attach up to 2 Fire Energy cards from your discard pile to 1 of your Benched Pokémon."
       },
       {
         "name": "Flare Blitzer",
@@ -841,13 +750,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "220",
-        "text": "This Pok\u00e9mon also does 30 damage to itself."
+        "text": "This Pokémon also does 30 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -903,31 +812,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-8",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Incineroar-V-CPA8",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.8,
         "lowPrice": 0.45,
-        "trendPrice": 1.42,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.9,
-        "lowPriceExPlus": 0.5,
-        "avg1": 1.42,
-        "avg7": 1.41,
-        "avg30": 1.79,
-        "reverseHoloAvg1": 1.92,
-        "reverseHoloAvg7": 1.74,
-        "reverseHoloAvg30": 1.86
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-9",
     "name": "Sizzlipede",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -963,7 +859,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1025,31 +921,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-9",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Sizzlipede-CPA9",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.22,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.28,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.06,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.13,
-        "reverseHoloAvg7": 0.2,
-        "reverseHoloAvg30": 0.21
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-10",
     "name": "Centiskorch",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1068,7 +951,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
-        "text": "Your opponent's Active Pok\u00e9mon is now Burned."
+        "text": "Your opponent's Active Pokémon is now Burned."
       },
       {
         "name": "Heat Crawler",
@@ -1086,7 +969,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1150,31 +1033,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-10",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Centiskorch-CPA10",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.27,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.32,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.34,
-        "avg7": 0.16,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.23,
-        "reverseHoloAvg30": 0.34
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-11",
     "name": "Carvanha",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1199,7 +1069,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1261,31 +1131,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-11",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Carvanha-CPA11",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.21,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.21,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.05,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.07,
-        "reverseHoloAvg7": 0.19,
-        "reverseHoloAvg30": 0.19
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "swsh35-12",
     "name": "Sharpedo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1302,13 +1159,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "50",
-        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1370,31 +1227,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-12",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Sharpedo-CPA12",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.22,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.23,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.06,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.06,
-        "reverseHoloAvg7": 0.18,
-        "reverseHoloAvg30": 0.19
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "swsh35-13",
     "name": "Wailord V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -1404,7 +1248,7 @@
       "Water"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1414,7 +1258,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Attach up to 3 Water Energy cards from your discard pile to this Pok\u00e9mon."
+        "text": "Attach up to 3 Water Energy cards from your discard pile to this Pokémon."
       },
       {
         "name": "Ocean Waves",
@@ -1425,14 +1269,14 @@
           "Water"
         ],
         "convertedEnergyCost": 4,
-        "damage": "120\u00d7",
+        "damage": "120×",
         "text": "Flip 3 coins. This attack does 120 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1489,31 +1333,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-13",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Wailord-V-CPA13",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.14,
-        "lowPrice": 0.6,
-        "trendPrice": 2.3,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.56,
-        "lowPriceExPlus": 0.8,
-        "avg1": 2.72,
-        "avg7": 2.08,
-        "avg30": 1.98,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 1.46,
-        "reverseHoloAvg30": 1.86
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-14",
     "name": "Drednaw V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -1523,12 +1354,12 @@
       "Water"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Solid Shell",
-        "text": "This Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+        "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -1542,13 +1373,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1605,31 +1436,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-14",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Drednaw-V-V1-CPA14",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.09,
-        "lowPrice": 0.4,
-        "trendPrice": 1.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.33,
-        "lowPriceExPlus": 0.4,
-        "avg1": 1.25,
-        "avg7": 1.0,
-        "avg30": 1.11,
-        "reverseHoloAvg1": 0.8,
-        "reverseHoloAvg7": 1.35,
-        "reverseHoloAvg30": 1.46
+        "lowPrice": 0.68,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-15",
     "name": "Drednaw VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -1639,12 +1457,12 @@
     ],
     "evolvesFrom": "Drednaw V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "abilities": [
       {
         "name": "Solid Shell",
-        "text": "This Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+        "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -1664,7 +1482,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1721,31 +1539,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-15",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Drednaw-VMAX-V1-CPA15",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.16,
         "lowPrice": 1.0,
-        "trendPrice": 2.67,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 4.35,
-        "lowPriceExPlus": 1.0,
-        "avg1": 3.19,
-        "avg7": 2.75,
-        "avg30": 2.12,
-        "reverseHoloAvg1": 4.0,
-        "reverseHoloAvg7": 4.36,
-        "reverseHoloAvg30": 4.85
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-16",
     "name": "Gardevoir V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -1755,7 +1560,7 @@
       "Psychic"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1776,13 +1581,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120+",
-        "text": "If this Pok\u00e9mon was healed during this turn, this attack does 80 more damage."
+        "text": "If this Pokémon was healed during this turn, this attack does 80 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1837,31 +1642,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-16",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Gardevoir-V-V1-CPA16",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.55,
-        "lowPrice": 0.9,
-        "trendPrice": 1.36,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.19,
-        "lowPriceExPlus": 0.9,
-        "avg1": 2.26,
-        "avg7": 1.76,
-        "avg30": 1.58,
-        "reverseHoloAvg1": 1.49,
-        "reverseHoloAvg7": 1.34,
-        "reverseHoloAvg30": 1.53
+        "lowPrice": 0.8,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-17",
     "name": "Gardevoir VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -1871,7 +1663,7 @@
     ],
     "evolvesFrom": "Gardevoir V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -1883,13 +1675,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "180",
-        "text": "Heal 50 damage from this Pok\u00e9mon."
+        "text": "Heal 50 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1944,31 +1736,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-17",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Gardevoir-VMAX-V1-CPA17",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.51,
-        "lowPrice": 1.6,
-        "trendPrice": 2.57,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 4.57,
-        "lowPriceExPlus": 1.8,
-        "avg1": 2.0,
-        "avg7": 2.66,
-        "avg30": 2.57,
-        "reverseHoloAvg1": 5.07,
-        "reverseHoloAvg7": 4.31,
-        "reverseHoloAvg30": 4.4
+        "lowPrice": 1.8,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-18",
     "name": "Hatenna",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2003,7 +1782,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2071,31 +1850,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-18",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Hatenna-CPA18",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.19,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.21,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.06,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.19,
-        "reverseHoloAvg30": 0.19
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "swsh35-19",
     "name": "Hattrem",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2131,7 +1897,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2166,7 +1932,7 @@
     "number": "19",
     "artist": "Hitoshi Ariga",
     "rarity": "Uncommon",
-    "flavorText": "No matter who you are, if you bring strong emotions near this Pok\u00e9mon, it will silence you violently.",
+    "flavorText": "No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.",
     "nationalPokedexNumbers": [
       857
     ],
@@ -2200,31 +1966,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-19",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Hattrem-CPA19",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.19,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.2,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.07,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.13,
-        "reverseHoloAvg7": 0.18,
-        "reverseHoloAvg30": 0.23
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-20",
     "name": "Hatterene",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -2236,7 +1989,7 @@
     "abilities": [
       {
         "name": "Hazard Sensor",
-        "text": "If this Pok\u00e9mon is in the Active Spot and is damaged by an attack from your opponent's Pok\u00e9mon (even if this Pok\u00e9mon is Knocked Out), the Attacking Pok\u00e9mon is now Confused.",
+        "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Confused.",
         "type": "Ability"
       }
     ],
@@ -2249,13 +2002,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "100",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2324,31 +2077,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-20",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Hatterene-CPA20",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.2,
         "lowPrice": 0.02,
-        "trendPrice": 0.2,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.32,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.28,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.23,
-        "avg30": 0.22,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.3,
-        "reverseHoloAvg30": 0.36
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-21",
     "name": "Galarian Cursola V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -2358,12 +2098,12 @@
       "Psychic"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Gnawing Aura",
-        "text": "As long as this Pok\u00e9mon is in the Active Spot, whenever your opponent attaches an Energy card from their hand to 1 of their Pok\u00e9mon, put 3 damage counters on that Pok\u00e9mon.",
+        "text": "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 3 damage counters on that Pokémon.",
         "type": "Ability"
       }
     ],
@@ -2376,13 +2116,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "60",
-        "text": "Put 3 damage counters on your opponent's Benched Pok\u00e9mon in any way you like."
+        "text": "Put 3 damage counters on your opponent's Benched Pokémon in any way you like."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2443,31 +2183,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-21",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Galarian-Cursola-V-V1-CPA21",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.07,
-        "lowPrice": 0.35,
-        "trendPrice": 1.51,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.23,
-        "lowPriceExPlus": 0.35,
-        "avg1": 2.99,
-        "avg7": 1.27,
-        "avg30": 1.08,
-        "reverseHoloAvg1": 1.03,
-        "reverseHoloAvg7": 1.24,
-        "reverseHoloAvg30": 1.43
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-22",
     "name": "Alcremie V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -2477,7 +2204,7 @@
       "Psychic"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -2487,7 +2214,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 30 damage from each of your Benched Pok\u00e9mon."
+        "text": "Heal 30 damage from each of your Benched Pokémon."
       },
       {
         "name": "Sweet Splash",
@@ -2498,13 +2225,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "If the Defending Pok\u00e9mon is a Basic Pok\u00e9mon, it can't attack during your opponent's next turn."
+        "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2559,31 +2286,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-22",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Alcremie-V-CPA22",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.42,
         "lowPrice": 0.48,
-        "trendPrice": 1.44,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.44,
-        "lowPriceExPlus": 0.48,
-        "avg1": 1.2,
-        "avg7": 1.27,
-        "avg30": 1.44,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 1.38,
-        "reverseHoloAvg30": 1.43
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-23",
     "name": "Alcremie VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -2593,7 +2307,7 @@
     ],
     "evolvesFrom": "Alcremie V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -2603,7 +2317,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "For each of your Benched Pok\u00e9mon, search your deck for a Psychic Energy card and attach it to that Pok\u00e9mon. Then, shuffle your deck."
+        "text": "For each of your Benched Pokémon, search your deck for a Psychic Energy card and attach it to that Pokémon. Then, shuffle your deck."
       },
       {
         "name": "G-Max Whisk",
@@ -2612,14 +2326,14 @@
           "Psychic"
         ],
         "convertedEnergyCost": 2,
-        "damage": "60\u00d7",
-        "text": "Discard any amount of Energy from your Pok\u00e9mon. This attack does 60 damage for each card you discarded in this way."
+        "damage": "60×",
+        "text": "Discard any amount of Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2675,31 +2389,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-23",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Alcremie-VMAX-CPA23",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.51,
         "lowPrice": 1.0,
-        "trendPrice": 3.65,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.05,
-        "lowPriceExPlus": 1.0,
-        "avg1": 7.0,
-        "avg7": 3.7,
-        "avg30": 3.44,
-        "reverseHoloAvg1": 3.98,
-        "reverseHoloAvg7": 3.81,
-        "reverseHoloAvg30": 5.16
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-24",
     "name": "Machop",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2734,7 +2435,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2797,31 +2498,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-24",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Machop-CPA24",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.26,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.28,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.26,
-        "reverseHoloAvg30": 0.24
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "swsh35-25",
     "name": "Machoke",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2858,7 +2546,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2922,31 +2610,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-25",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Machoke-CPA25",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.25,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.22,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.1,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.25,
-        "reverseHoloAvg30": 0.3
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-26",
     "name": "Machamp",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -2963,8 +2638,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
-        "text": "This attack does 20 damage for each Fighting Pok\u00e9mon in your discard pile."
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Fighting Pokémon in your discard pile."
       },
       {
         "name": "Dynamite Punch",
@@ -2975,13 +2650,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "200",
-        "text": "This Pok\u00e9mon also does 50 damage to itself."
+        "text": "This Pokémon also does 50 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3045,31 +2720,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-26",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Machamp-CPA26",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.31,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.57,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.53,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.27,
-        "avg30": 0.19,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.33,
-        "reverseHoloAvg30": 0.53
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-27",
     "name": "Lucario V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -3079,7 +2741,7 @@
       "Fighting"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -3089,7 +2751,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "40",
-        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Beatdown Smash",
@@ -3100,13 +2762,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "180",
-        "text": "During your next turn, this Pok\u00e9mon can't use Beatdown Smash."
+        "text": "During your next turn, this Pokémon can't use Beatdown Smash."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3161,31 +2823,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-27",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Lucario-V-CPA27",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.43,
         "lowPrice": 0.5,
-        "trendPrice": 1.43,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.29,
-        "lowPriceExPlus": 0.8,
-        "avg1": 1.03,
-        "avg7": 1.53,
-        "avg30": 1.45,
-        "reverseHoloAvg1": 1.35,
-        "reverseHoloAvg7": 1.28,
-        "reverseHoloAvg30": 1.38
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-28",
     "name": "Zygarde",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3213,13 +2862,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "130",
-        "text": "Discard a Fighting Energy from this Pok\u00e9mon."
+        "text": "Discard a Fighting Energy from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3283,31 +2932,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-28",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Zygarde-CPA28",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.21,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.3,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.32,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.29,
-        "avg7": 0.16,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.32,
-        "reverseHoloAvg30": 0.29
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-29",
     "name": "Rockruff",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3342,7 +2978,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3404,31 +3040,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-29",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Rockruff-CPA29",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.26,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.36,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.05,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.37,
-        "reverseHoloAvg30": 0.23
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-30",
     "name": "Lycanroc",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3456,13 +3079,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "150",
-        "text": "During your next turn, this Pok\u00e9mon can't use Slashing Strike."
+        "text": "During your next turn, this Pokémon can't use Slashing Strike."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3525,31 +3148,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-30",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Lycanroc-CPA30",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.23,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.31,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.39,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.17,
-        "avg7": 0.24,
-        "avg30": 0.18,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.45,
-        "reverseHoloAvg30": 0.3
+        "reverseHoloLow": 0.04
       }
     }
   },
   {
     "id": "swsh35-31",
     "name": "Rolycoly",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3574,7 +3184,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3603,7 +3213,7 @@
     "number": "31",
     "artist": "Masakazu Fukuda",
     "rarity": "Common",
-    "flavorText": "Most of its body has the same composition as coal. Fittingly, this Pok\u00e9mon was first discovered in coal mines about 400 years ago.",
+    "flavorText": "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
     "nationalPokedexNumbers": [
       837
     ],
@@ -3637,31 +3247,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-31",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Rolycoly-CPA31",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.21,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.22,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.06,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.07,
-        "reverseHoloAvg7": 0.21,
-        "reverseHoloAvg30": 0.2
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-32",
     "name": "Grapploct V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -3671,7 +3268,7 @@
       "Fighting"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -3681,7 +3278,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "If the Defending Pok\u00e9mon is a Basic Pok\u00e9mon, it can't attack during your opponent's next turn."
+        "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
       },
       {
         "name": "Moonsault Press",
@@ -3698,7 +3295,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3753,31 +3350,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-32",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Grapploct-V-V1-CPA32",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.12,
         "lowPrice": 0.29,
-        "trendPrice": 1.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.18,
-        "lowPriceExPlus": 0.29,
-        "avg1": 0.99,
-        "avg7": 1.03,
-        "avg30": 1.1,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 1.11,
-        "reverseHoloAvg30": 1.15
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-33",
     "name": "Ekans",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3812,7 +3396,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3840,7 +3424,7 @@
     "number": "33",
     "artist": "Uta",
     "rarity": "Common",
-    "flavorText": "The eggs of bird Pok\u00e9mon are its favorite food. It swallows eggs whole, so sometimes an egg gets stuck, and Ekans faints.",
+    "flavorText": "The eggs of bird Pokémon are its favorite food. It swallows eggs whole, so sometimes an egg gets stuck, and Ekans faints.",
     "nationalPokedexNumbers": [
       23
     ],
@@ -3874,31 +3458,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-33",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Ekans-CPA33",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.25,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.24,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.06,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.25,
-        "reverseHoloAvg30": 0.23
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-34",
     "name": "Arbok",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3931,7 +3502,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3993,31 +3564,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-34",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Arbok-CPA34",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.28,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.25,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.09,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 0.24,
-        "reverseHoloAvg30": 0.28
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "swsh35-35",
     "name": "Galarian Zigzagoon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4035,14 +3593,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 4 coins. This attack does 10 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4071,7 +3629,7 @@
     "number": "35",
     "artist": "Kouki Saitou",
     "rarity": "Common",
-    "flavorText": "Its restlessness has it constantly running around. If it sees another Pok\u00e9mon, it will purposely run into them in order to start a fight.",
+    "flavorText": "Its restlessness has it constantly running around. If it sees another Pokémon, it will purposely run into them in order to start a fight.",
     "nationalPokedexNumbers": [
       263
     ],
@@ -4105,31 +3663,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-35",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Galarian-Zigzagoon-CPA35",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.19,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.22,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.07,
-        "avg7": 0.14,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.19,
-        "reverseHoloAvg30": 0.23
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-36",
     "name": "Galarian Linoone",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4150,13 +3695,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "60",
-        "text": "This Pok\u00e9mon also does 20 damage to itself."
+        "text": "This Pokémon also does 20 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4185,7 +3730,7 @@
     "number": "36",
     "artist": "Akira Komayama",
     "rarity": "Common",
-    "flavorText": "It uses its long tongue to taunt opponents. Once the opposition is enraged, this Pok\u00e9mon hurls itself at the opponent, tackling them forcefully.",
+    "flavorText": "It uses its long tongue to taunt opponents. Once the opposition is enraged, this Pokémon hurls itself at the opponent, tackling them forcefully.",
     "nationalPokedexNumbers": [
       264
     ],
@@ -4219,31 +3764,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-36",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Galarian-Linoone-CPA36",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.16,
-        "reverseHoloLow": 0.04,
-        "reverseHoloTrend": 0.21,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.05,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.14,
-        "reverseHoloAvg7": 0.2,
-        "reverseHoloAvg30": 0.21
+        "reverseHoloLow": 0.04
       }
     }
   },
   {
     "id": "swsh35-37",
     "name": "Galarian Obstagoon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -4269,13 +3801,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "180",
-        "text": "During your next turn, this Pok\u00e9mon can't attack."
+        "text": "During your next turn, this Pokémon can't attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4304,7 +3836,7 @@
     "number": "37",
     "artist": "Shin Nagasawa",
     "rarity": "Rare Holo",
-    "flavorText": "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout\u2014this move is known as Obstruct.",
+    "flavorText": "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.",
     "nationalPokedexNumbers": [
       862
     ],
@@ -4338,31 +3870,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-37",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Galarian-Obstagoon-CPA37",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.2,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.3,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.27,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.11,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 0.26,
-        "reverseHoloAvg30": 0.33
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-38",
     "name": "Absol",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4385,7 +3904,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4413,7 +3932,7 @@
     "number": "38",
     "artist": "kodama",
     "rarity": "Uncommon",
-    "flavorText": "The elderly call it the disaster Pok\u00e9mon and detest it, but interest in its power to predict disasters is on the rise.",
+    "flavorText": "The elderly call it the disaster Pokémon and detest it, but interest in its power to predict disasters is on the rise.",
     "nationalPokedexNumbers": [
       359
     ],
@@ -4447,31 +3966,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-38",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Absol-CPA38",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.27,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.26,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.25,
-        "reverseHoloAvg7": 0.28,
-        "reverseHoloAvg30": 0.27
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-39",
     "name": "Purrloin",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4500,13 +4006,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4534,7 +4040,7 @@
     "number": "39",
     "artist": "sowsow",
     "rarity": "Common",
-    "flavorText": "It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pok\u00e9mon and Nickit.",
+    "flavorText": "It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.",
     "nationalPokedexNumbers": [
       509
     ],
@@ -4568,31 +4074,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-39",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Purrloin-CPA39",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.19,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.18,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.07,
-        "avg7": 0.06,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.24,
-        "reverseHoloAvg7": 0.21,
-        "reverseHoloAvg30": 0.24
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "swsh35-40",
     "name": "Liepard",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4604,7 +4097,7 @@
     "abilities": [
       {
         "name": "Limber",
-        "text": "This Pok\u00e9mon can't be Paralyzed.",
+        "text": "This Pokémon can't be Paralyzed.",
         "type": "Ability"
       }
     ],
@@ -4624,7 +4117,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4652,7 +4145,7 @@
     "number": "40",
     "artist": "Hasuno",
     "rarity": "Uncommon",
-    "flavorText": "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pok\u00e9mon.",
+    "flavorText": "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
     "nationalPokedexNumbers": [
       510
     ],
@@ -4686,31 +4179,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-40",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Liepard-CPA40",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.16,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.17,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.09,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.19,
-        "reverseHoloAvg30": 0.2
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-41",
     "name": "Scraggy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4745,7 +4225,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4773,7 +4253,7 @@
     "number": "41",
     "artist": "miki kudo",
     "rarity": "Common",
-    "flavorText": "If it locks eyes with you, watch out! Nothing and no one is safe from the reckless headbutts of this troublesome Pok\u00e9mon.",
+    "flavorText": "If it locks eyes with you, watch out! Nothing and no one is safe from the reckless headbutts of this troublesome Pokémon.",
     "nationalPokedexNumbers": [
       559
     ],
@@ -4807,31 +4287,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-41",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Scraggy-CPA41",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.23,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.24,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.05,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.45,
-        "reverseHoloAvg7": 0.23,
-        "reverseHoloAvg30": 0.22
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "swsh35-42",
     "name": "Scrafty",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4848,7 +4315,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       },
       {
         "name": "Bad Brawl",
@@ -4865,7 +4332,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4894,7 +4361,7 @@
     "number": "42",
     "artist": "tetsuya koizumi",
     "rarity": "Rare Holo",
-    "flavorText": "As halfhearted as this Pok\u00e9mon's kicks may seem, they pack enough power to shatter Conkeldurr's concrete pillars.",
+    "flavorText": "As halfhearted as this Pokémon's kicks may seem, they pack enough power to shatter Conkeldurr's concrete pillars.",
     "nationalPokedexNumbers": [
       560
     ],
@@ -4928,31 +4395,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-42",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Scrafty-CPA42",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.19,
         "lowPrice": 0.02,
-        "trendPrice": 0.2,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.39,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.35,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.18,
-        "avg30": 0.17,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.38,
-        "reverseHoloAvg30": 0.31
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-43",
     "name": "Trubbish",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4972,13 +4426,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "If your opponent's Active Pok\u00e9mon is Poisoned, this attack does 50 more damage."
+        "text": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5006,7 +4460,7 @@
     "number": "43",
     "artist": "nagimiso",
     "rarity": "Common",
-    "flavorText": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pok\u00e9mon living in your room.",
+    "flavorText": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
     "nationalPokedexNumbers": [
       568
     ],
@@ -5040,31 +4494,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-43",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Trubbish-CPA43",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.16,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.16,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.05,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.16,
-        "reverseHoloAvg30": 0.2
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "swsh35-44",
     "name": "Inkay",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5093,13 +4534,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "If your opponent's Active Pok\u00e9mon is Confused, this attack does 50 more damage."
+        "text": "If your opponent's Active Pokémon is Confused, this attack does 50 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5161,31 +4602,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-44",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Inkay-CPA44",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.16,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.19,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.13,
-        "reverseHoloAvg7": 0.13,
-        "reverseHoloAvg30": 0.18
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "swsh35-45",
     "name": "Malamar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5203,7 +4631,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
-        "text": "Your opponent's Active Pok\u00e9mon is now Confused."
+        "text": "Your opponent's Active Pokémon is now Confused."
       },
       {
         "name": "Random Peck",
@@ -5220,7 +4648,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5284,31 +4712,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-45",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Malamar-CPA45",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.14,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.08,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.08,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.11,
-        "reverseHoloAvg7": 0.11,
-        "reverseHoloAvg30": 0.22
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-46",
     "name": "Nickit",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5343,7 +4758,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5371,7 +4786,7 @@
     "number": "46",
     "artist": "Naoki Saito",
     "rarity": "Common",
-    "flavorText": "Aided by the soft pads on its feet, it silently raids the food stores of other Pok\u00e9mon. It survives off its ill-gotten gains.",
+    "flavorText": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
     "nationalPokedexNumbers": [
       827
     ],
@@ -5405,31 +4820,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-46",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Nickit-CPA46",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.19,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.18,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.06,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.17,
-        "reverseHoloAvg30": 0.19
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-47",
     "name": "Duraludon V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -5439,12 +4841,12 @@
       "Metal"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Hard Coat",
-        "text": "This Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+        "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -5458,13 +4860,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "10+",
-        "text": "This attack does 40 more damage for each Metal Energy attached to this Pok\u00e9mon."
+        "text": "This attack does 40 more damage for each Metal Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5526,31 +4928,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-47",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Duraludon-V-CPA47",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.16,
         "lowPrice": 0.29,
-        "trendPrice": 0.98,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.46,
-        "lowPriceExPlus": 0.29,
-        "avg1": 1.0,
-        "avg7": 0.89,
-        "avg30": 1.14,
-        "reverseHoloAvg1": 1.22,
-        "reverseHoloAvg7": 1.27,
-        "reverseHoloAvg30": 1.45
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-48",
     "name": "Swablu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5575,7 +4964,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5643,31 +5032,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-48",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Swablu-CPA48",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.27,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.29,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.09,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.06,
-        "reverseHoloAvg7": 0.22,
-        "reverseHoloAvg30": 0.25
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "swsh35-49",
     "name": "Altaria",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5679,7 +5055,7 @@
     "abilities": [
       {
         "name": "Miraculous Charm",
-        "text": "Prevent all damage done to this Pok\u00e9mon by attacks from your opponent's Pok\u00e9mon V and Pok\u00e9mon-GX.",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon V and Pokémon-GX.",
         "type": "Ability"
       }
     ],
@@ -5698,7 +5074,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5766,24 +5142,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-49",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Altaria-CPA49",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.24,
         "lowPrice": 0.02,
-        "trendPrice": 0.21,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.33,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.28,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.12,
-        "avg7": 0.19,
-        "avg30": 0.21,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.39,
-        "reverseHoloAvg30": 0.33
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -5795,7 +5158,7 @@
       "Supporter"
     ],
     "rules": [
-      "Attach a basic Energy card from your hand to 1 of your Benched Pok\u00e9mon.",
+      "Attach a basic Energy card from your hand to 1 of your Benched Pokémon.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -5849,24 +5212,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-50",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Bede-CPA50",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.23,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.29,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.05,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.24,
-        "reverseHoloAvg30": 0.19
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -5878,7 +5228,7 @@
       "Item"
     ],
     "rules": [
-      "Remove all Special Conditions from your Active Pok\u00e9mon.",
+      "Remove all Special Conditions from your Active Pokémon.",
       "You may play any number of Item cards during your turn."
     ],
     "set": {
@@ -5932,24 +5282,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-51",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Full-Heal-CPA51",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.16,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.21,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.06,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.17,
-        "reverseHoloAvg30": 0.2
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -5961,7 +5298,7 @@
       "Item"
     ],
     "rules": [
-      "Look at the top 7 cards of your deck. You may reveal a Pok\u00e9mon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+      "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
       "You may play any number of Item cards during your turn."
     ],
     "set": {
@@ -6016,24 +5353,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-52",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Great-Ball-CPA52",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.16,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.06,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.07,
-        "reverseHoloAvg7": 0.19,
-        "reverseHoloAvg30": 0.2
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6099,24 +5423,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-53",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Hop-V1-CPA53",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.25,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.27,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.11,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.24,
-        "reverseHoloAvg30": 0.19
+        "reverseHoloLow": 0.03
       }
     }
   },
@@ -6128,7 +5439,7 @@
       "Item"
     ],
     "rules": [
-      "Heal 120 damage from 1 of your Pok\u00e9mon that has at least 2 Energy attached. If you healed any damage in this way, discard 2 Energy from it.",
+      "Heal 120 damage from 1 of your Pokémon that has at least 2 Energy attached. If you healed any damage in this way, discard 2 Energy from it.",
       "You may play any number of Item cards during your turn."
     ],
     "set": {
@@ -6182,24 +5493,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-54",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Hyper-Potion-CPA54",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.24,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.18,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.09,
-        "reverseHoloAvg7": 0.2,
-        "reverseHoloAvg30": 0.24
+        "reverseHoloLow": 0.07
       }
     }
   },
@@ -6211,7 +5509,7 @@
       "Supporter"
     ],
     "rules": [
-      "Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pok\u00e9mon is your only Pok\u00e9mon in play, draw 8 cards instead.",
+      "Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pokémon is your only Pokémon in play, draw 8 cards instead.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -6265,24 +5563,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-55",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Kabu-V1-CPA55",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.2,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.05,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.16,
-        "reverseHoloAvg30": 0.2
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6348,24 +5633,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-56",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Marnie-CPA56",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.29,
         "lowPrice": 0.02,
-        "trendPrice": 0.45,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.43,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.7,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.57,
-        "avg7": 0.45,
-        "avg30": 0.31,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.34,
-        "reverseHoloAvg30": 0.59
+        "reverseHoloLow": 0.03
       }
     }
   },
@@ -6431,24 +5703,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-57",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Milo-CPA57",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.13,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.18,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.05,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.12,
-        "reverseHoloAvg30": 0.17
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6460,7 +5719,7 @@
       "Supporter"
     ],
     "rules": [
-      "Search your deck for an Energy card and a Darkness Pok\u00e9mon, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "Search your deck for an Energy card and a Darkness Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -6514,36 +5773,23 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-58",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Piers-V1-CPA58",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.23,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.22,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.21,
-        "reverseHoloAvg30": 0.24
+        "reverseHoloLow": 0.06
       }
     }
   },
   {
     "id": "swsh35-59",
-    "name": "Pok\u00e9 Ball",
+    "name": "Poké Ball",
     "supertype": "Trainer",
     "subtypes": [
       "Item"
     ],
     "rules": [
-      "Flip a coin. If heads, search your deck for a Pok\u00e9mon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
       "You may play any number of Item cards during your turn."
     ],
     "set": {
@@ -6598,36 +5844,23 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-59",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Poke-Ball-CPA59",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.17,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.06,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.04,
-        "reverseHoloAvg7": 0.16,
-        "reverseHoloAvg30": 0.18
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "swsh35-60",
-    "name": "Pok\u00e9mon Center Lady",
+    "name": "Pokémon Center Lady",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
     ],
     "rules": [
-      "Heal 60 damage from 1 of your Pok\u00e9mon, and it recovers from all Special Conditions.",
+      "Heal 60 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -6681,24 +5914,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-60",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Pokemon-Center-Lady-CPA60",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.23,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.19,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.14,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.06,
-        "reverseHoloAvg7": 0.18,
-        "reverseHoloAvg30": 0.23
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6710,7 +5930,7 @@
       "Item"
     ],
     "rules": [
-      "Heal 30 damage from 1 of your Pok\u00e9mon.",
+      "Heal 30 damage from 1 of your Pokémon.",
       "You may play any number of Item cards during your turn."
     ],
     "set": {
@@ -6765,24 +5985,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-61",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Potion-CPA61",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.24,
-        "reverseHoloLow": 0.04,
-        "reverseHoloTrend": 0.19,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.05,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.19,
-        "reverseHoloAvg30": 0.18
+        "reverseHoloLow": 0.04
       }
     }
   },
@@ -6849,24 +6056,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-62",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Professors-Research-Professor-Magnolia-CPA62",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.42,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.42,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.12,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.31,
-        "reverseHoloAvg30": 0.24
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6932,24 +6126,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-63",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Rotom-Bike-CPA63",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.12,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.2,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.19,
-        "avg7": 0.08,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.15,
-        "reverseHoloAvg30": 0.22
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -7015,24 +6196,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-64",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Rotom-Phone-CPA64",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.24,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.18,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.12,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.06,
-        "reverseHoloAvg7": 0.23,
-        "reverseHoloAvg30": 0.26
+        "reverseHoloLow": 0.03
       }
     }
   },
@@ -7044,7 +6212,7 @@
       "Supporter"
     ],
     "rules": [
-      "Search your deck for up to 2 Basic Pok\u00e9mon or up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "Search your deck for up to 2 Basic Pokémon or up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -7098,24 +6266,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-65",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Sonia-CPA65",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.21,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.16,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.04,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.07,
-        "reverseHoloAvg7": 0.18,
-        "reverseHoloAvg30": 0.2
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -7127,7 +6282,7 @@
       "Item"
     ],
     "rules": [
-      "Heal 80 damage from 1 of your Pok\u00e9mon that has at least 1 Psychic Energy attached. If you healed any damage in this way, discard a Psychic Energy from it.",
+      "Heal 80 damage from 1 of your Pokémon that has at least 1 Psychic Energy attached. If you healed any damage in this way, discard a Psychic Energy from it.",
       "You may play any number of Item cards during your turn."
     ],
     "set": {
@@ -7181,24 +6336,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-66",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Suspicious-Food-Tin-V1-CPA66",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.23,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.21,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.12,
-        "avg7": 0.12,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.07,
-        "reverseHoloAvg7": 0.17,
-        "reverseHoloAvg30": 0.23
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -7210,7 +6352,7 @@
       "Supporter"
     ],
     "rules": [
-      "Put an Energy attached to 1 of your opponent's Pok\u00e9mon into their hand.",
+      "Put an Energy attached to 1 of your opponent's Pokémon into their hand.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -7264,24 +6406,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-67",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Team-Yell-Grunt-CPA67",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.25,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.23,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.11,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.12,
-        "reverseHoloAvg7": 0.21,
-        "reverseHoloAvg30": 0.23
+        "reverseHoloLow": 0.03
       }
     }
   },
@@ -7293,7 +6422,7 @@
       "Stadium"
     ],
     "rules": [
-      "Once during each player's turn, that player may search their deck for an Evolution Grass Pok\u00e9mon, reveal it, and put it into their hand. Then, that player shuffles their deck.",
+      "Once during each player's turn, that player may search their deck for an Evolution Grass Pokémon, reveal it, and put it into their hand. Then, that player shuffles their deck.",
       "This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card."
     ],
     "set": {
@@ -7347,31 +6476,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-68",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Turffield-Stadium-CPA68",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.32,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.27,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.07,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.6,
-        "reverseHoloAvg7": 0.36,
-        "reverseHoloAvg30": 0.31
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "swsh35-69",
     "name": "Drednaw V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -7381,12 +6497,12 @@
       "Water"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Solid Shell",
-        "text": "This Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+        "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -7400,13 +6516,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7463,31 +6579,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-69",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Drednaw-V-V2-CPA69",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.67,
-        "lowPrice": 0.2,
-        "trendPrice": 1.86,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.36,
-        "lowPriceExPlus": 0.49,
-        "avg1": 1.7,
-        "avg7": 1.83,
-        "avg30": 1.69,
-        "reverseHoloAvg1": 2.99,
-        "reverseHoloAvg7": 2.28,
-        "reverseHoloAvg30": 2.54
+        "lowPrice": 0.48,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-70",
     "name": "Gardevoir V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -7497,7 +6600,7 @@
       "Psychic"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -7518,13 +6621,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120+",
-        "text": "If this Pok\u00e9mon was healed during this turn, this attack does 80 more damage."
+        "text": "If this Pokémon was healed during this turn, this attack does 80 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7579,31 +6682,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-70",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Gardevoir-V-V2-CPA70",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.83,
         "lowPrice": 1.4,
-        "trendPrice": 3.39,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.13,
-        "lowPriceExPlus": 1.4,
-        "avg1": 6.99,
-        "avg7": 6.32,
-        "avg30": 3.88,
-        "reverseHoloAvg1": 2.7,
-        "reverseHoloAvg7": 3.29,
-        "reverseHoloAvg30": 3.55
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-71",
     "name": "Galarian Cursola V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -7613,12 +6703,12 @@
       "Psychic"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Gnawing Aura",
-        "text": "As long as this Pok\u00e9mon is in the Active Spot, whenever your opponent attaches an Energy card from their hand to 1 of their Pok\u00e9mon, put 3 damage counters on that Pok\u00e9mon.",
+        "text": "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 3 damage counters on that Pokémon.",
         "type": "Ability"
       }
     ],
@@ -7631,13 +6721,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "60",
-        "text": "Put 3 damage counters on your opponent's Benched Pok\u00e9mon in any way you like."
+        "text": "Put 3 damage counters on your opponent's Benched Pokémon in any way you like."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7698,31 +6788,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-71",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Galarian-Cursola-V-V2-CPA71",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.8,
-        "lowPrice": 0.8,
-        "trendPrice": 1.72,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.1,
-        "lowPriceExPlus": 0.8,
-        "avg1": 2.7,
-        "avg7": 1.83,
-        "avg30": 1.84,
-        "reverseHoloAvg1": 2.9,
-        "reverseHoloAvg7": 2.22,
-        "reverseHoloAvg30": 2.45
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-72",
     "name": "Grapploct V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -7732,7 +6809,7 @@
       "Fighting"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -7742,7 +6819,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "If the Defending Pok\u00e9mon is a Basic Pok\u00e9mon, it can't attack during your opponent's next turn."
+        "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
       },
       {
         "name": "Moonsault Press",
@@ -7759,7 +6836,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7814,24 +6891,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-72",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Grapploct-V-V2-CPA72",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.49,
         "lowPrice": 0.5,
-        "trendPrice": 1.3,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.17,
-        "lowPriceExPlus": 0.5,
-        "avg1": 1.0,
-        "avg7": 1.26,
-        "avg30": 1.5,
-        "reverseHoloAvg1": 2.15,
-        "reverseHoloAvg7": 1.98,
-        "reverseHoloAvg30": 2.32
+        "reverseHoloLow": null
       }
     }
   },
@@ -7890,31 +6954,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-73",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Hop-V2-CPA73",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.64,
-        "lowPrice": 0.7,
-        "trendPrice": 1.89,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.98,
-        "lowPriceExPlus": 0.85,
-        "avg1": 1.68,
-        "avg7": 1.85,
-        "avg30": 1.66,
-        "reverseHoloAvg1": 4.0,
-        "reverseHoloAvg7": 3.15,
-        "reverseHoloAvg30": 3.26
+        "lowPrice": 0.85,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-74",
     "name": "Charizard VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -7924,7 +6975,7 @@
     ],
     "evolvesFrom": "Charizard V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -7949,13 +7000,13 @@
         ],
         "convertedEnergyCost": 5,
         "damage": "300",
-        "text": "Discard 2 Energy from this Pok\u00e9mon."
+        "text": "Discard 2 Energy from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8011,31 +7062,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-74",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Charizard-VMAX-CPA74",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 197.72,
-        "lowPrice": 45.0,
-        "trendPrice": 187.88,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 271.61,
-        "lowPriceExPlus": 134.99,
-        "avg1": 159.95,
-        "avg7": 183.1,
-        "avg30": 167.05,
-        "reverseHoloAvg1": 245.0,
-        "reverseHoloAvg7": 273.18,
-        "reverseHoloAvg30": 293.48
+        "lowPrice": 44.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-75",
     "name": "Drednaw VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -8045,12 +7083,12 @@
     ],
     "evolvesFrom": "Drednaw V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "abilities": [
       {
         "name": "Solid Shell",
-        "text": "This Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+        "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -8070,7 +7108,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8127,31 +7165,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-75",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Drednaw-VMAX-V2-CPA75",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 6.08,
-        "lowPrice": 3.5,
-        "trendPrice": 7.65,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 17.04,
-        "lowPriceExPlus": 4.89,
-        "avg1": 16.99,
-        "avg7": 7.85,
-        "avg30": 7.82,
-        "reverseHoloAvg1": 12.99,
-        "reverseHoloAvg7": 16.06,
-        "reverseHoloAvg30": 18.15
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-76",
     "name": "Gardevoir VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -8161,7 +7186,7 @@
     ],
     "evolvesFrom": "Gardevoir V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -8173,13 +7198,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "180",
-        "text": "Heal 50 damage from this Pok\u00e9mon."
+        "text": "Heal 50 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8234,24 +7259,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-76",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Gardevoir-VMAX-V2-CPA76",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 15.65,
         "lowPrice": 5.0,
-        "trendPrice": 16.4,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 19.77,
-        "lowPriceExPlus": 5.0,
-        "avg1": 16.0,
-        "avg7": 12.94,
-        "avg30": 13.48,
-        "reverseHoloAvg1": 19.25,
-        "reverseHoloAvg7": 21.24,
-        "reverseHoloAvg30": 21.8
+        "reverseHoloLow": null
       }
     }
   },
@@ -8263,7 +7275,7 @@
       "Supporter"
     ],
     "rules": [
-      "Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pok\u00e9mon is your only Pok\u00e9mon in play, draw 8 cards instead.",
+      "Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pokémon is your only Pokémon in play, draw 8 cards instead.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -8310,24 +7322,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-77",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Kabu-V2-CPA77",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.07,
         "lowPrice": 2.0,
-        "trendPrice": 2.53,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 12.61,
-        "lowPriceExPlus": 2.4,
-        "avg1": 8.29,
-        "avg7": 4.79,
-        "avg30": 5.41,
-        "reverseHoloAvg1": 13.0,
-        "reverseHoloAvg7": 11.87,
-        "reverseHoloAvg30": 14.27
+        "reverseHoloLow": null
       }
     }
   },
@@ -8339,7 +7338,7 @@
       "Supporter"
     ],
     "rules": [
-      "Search your deck for an Energy card and a Darkness Pok\u00e9mon, reveal them, and put them into your hand. Then, shuffle your deck.",
+      "Search your deck for an Energy card and a Darkness Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -8386,31 +7385,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-78",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Piers-V2-CPA78",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.02,
-        "lowPrice": 3.0,
-        "trendPrice": 4.95,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 10.89,
-        "lowPriceExPlus": 3.0,
-        "avg1": 3.5,
-        "avg7": 4.9,
-        "avg30": 5.35,
-        "reverseHoloAvg1": 13.5,
-        "reverseHoloAvg7": 10.91,
-        "reverseHoloAvg30": 13.46
+        "lowPrice": 2.8,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "swsh35-79",
     "name": "Charizard V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -8420,7 +7406,7 @@
       "Fire"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -8444,13 +7430,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "220",
-        "text": "Discard 2 Energy from this Pok\u00e9mon."
+        "text": "Discard 2 Energy from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8506,24 +7492,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-79",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Charizard-V-CPA79",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 241.12,
-        "lowPrice": 85.0,
-        "trendPrice": 175.99,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 313.39,
-        "lowPriceExPlus": 149.99,
-        "avg1": 170.0,
-        "avg7": 212.67,
-        "avg30": 229.74,
-        "reverseHoloAvg1": 349.99,
-        "reverseHoloAvg7": 331.81,
-        "reverseHoloAvg30": 351.0
+        "lowPrice": 100.0,
+        "reverseHoloLow": null
       }
     }
   },
@@ -8535,7 +7508,7 @@
       "Item"
     ],
     "rules": [
-      "Heal 80 damage from 1 of your Pok\u00e9mon that has at least 1 Psychic Energy attached. If you healed any damage in this way, discard a Psychic Energy from it.",
+      "Heal 80 damage from 1 of your Pokémon that has at least 1 Psychic Energy attached. If you healed any damage in this way, discard a Psychic Energy from it.",
       "You may play any number of Item cards during your turn."
     ],
     "set": {
@@ -8582,24 +7555,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/swsh35-80",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Champions-Path/Suspicious-Food-Tin-V2-CPA80",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.2,
         "lowPrice": 0.99,
-        "trendPrice": 2.61,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.44,
-        "lowPriceExPlus": 0.99,
-        "avg1": 3.3,
-        "avg7": 2.91,
-        "avg30": 3.09,
-        "reverseHoloAvg1": 5.12,
-        "reverseHoloAvg7": 5.11,
-        "reverseHoloAvg30": 5.41
+        "reverseHoloLow": null
       }
     }
   }

@@ -11312,5 +11312,360 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "sm3-promo-41",
+    "name": "Raichu  (BUS 41) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Pikachu",
+    "abilities": [
+      {
+        "name": "Evoshock",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may leave your opponent's Active Pokémon Paralyzed.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Volt Tackle",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "This Pokémon does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "41",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "It unleashes electric shocks that can reach 100,000 volts. When agitated, it can knock out even an Indian elephant.",
+    "nationalPokedexNumbers": [
+      26
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm3/41.png",
+      "large": "https://images.pokemontcg.io/sm3/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Raichu-V2-BUS41",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm3-promo-87",
+    "name": "Darkrai  (BUS 87) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Hypnoblast",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Your opponent's Active Pokémon is now Asleep."
+      },
+      {
+        "name": "Dark Raid",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80+",
+        "text": "If your opponent has already used their GX attack, this attack does 80 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "87",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Promo",
+    "flavorText": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",
+    "nationalPokedexNumbers": [
+      491
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm3/87.png",
+      "large": "https://images.pokemontcg.io/sm3/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Darkrai-V2-BUS87",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm3-promo-94",
+    "name": "Diancie  (BUS 94) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Fairy"
+    ],
+    "attacks": [
+      {
+        "name": "Sparkling Wish",
+        "cost": [
+          "Fairy"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck."
+      },
+      {
+        "name": "Diamond Storm",
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Heal 30 damage from each of your Fairy Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "94",
+    "artist": "TOKIYA",
+    "rarity": "Promo",
+    "flavorText": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
+    "nationalPokedexNumbers": [
+      719
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm3/94.png",
+      "large": "https://images.pokemontcg.io/sm3/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Diancie-V2-BUS94",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm3-promo-100",
+    "name": "Zygarde  (BUS 100) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "150",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Land Crush",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": ""
+      },
+      {
+        "name": "Core Enforcer",
+        "cost": [
+          "Darkness",
+          "Fairy",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "150",
+        "text": "Discard a Darkness Energy and a Fairy Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fairy",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "100",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "flavorText": "This is Zygarde's form at times when it uses its overwhelming power to suppress those who endanger the ecosystem.",
+    "nationalPokedexNumbers": [
+      718
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm3/100.png",
+      "large": "https://images.pokemontcg.io/sm3/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Zygarde-V2-BUS100",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm3-promo-113",
+    "name": "Bodybuilding Dumbbells (BUS 113) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "The Stage 1 Pokémon this card is attached to gets +40 HP.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "113",
+    "artist": "Eske Yoshinob",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm3/113.png",
+      "large": "https://images.pokemontcg.io/sm3/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Bodybuilding-Dumbbells-V3-BUS113",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm3-promo-115",
+    "name": "Guzma (BUS 115) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. If you do, switch your Active Pokémon with 1 of your Benched Pokémon.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "115",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm3/115.png",
+      "large": "https://images.pokemontcg.io/sm3/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Burning-Shadows/Guzma-V3-BUS115",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.9,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

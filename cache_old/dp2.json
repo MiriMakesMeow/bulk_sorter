@@ -68,6 +68,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/1.png",
       "large": "https://images.pokemontcg.io/dp2/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Aggron-Lv49-MT1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -126,6 +134,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/2.png",
       "large": "https://images.pokemontcg.io/dp2/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Alakazam-Lv47-MT2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 1.99
+      }
     }
   },
   {
@@ -186,6 +202,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/3.png",
       "large": "https://images.pokemontcg.io/dp2/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Ambipom-Lv36-MT3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -241,6 +265,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/4.png",
       "large": "https://images.pokemontcg.io/dp2/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Azelf-Lv50-MT4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.37,
+        "reverseHoloLow": 0.37
+      }
     }
   },
   {
@@ -299,6 +331,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/5.png",
       "large": "https://images.pokemontcg.io/dp2/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Blissey-Lv44-MT5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -365,6 +405,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/6.png",
       "large": "https://images.pokemontcg.io/dp2/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Bronzong-Lv40-MT6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -382,9 +430,7 @@
     "attacks": [
       {
         "name": "Sprouting",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a Grass Energy card and attach it to Celebi. Shuffle your deck afterward."
@@ -423,6 +469,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/7.png",
       "large": "https://images.pokemontcg.io/dp2/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Celebi-Lv39-MT7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -485,6 +539,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/8.png",
       "large": "https://images.pokemontcg.io/dp2/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Feraligatr-Lv53-MT8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -539,6 +601,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/9.png",
       "large": "https://images.pokemontcg.io/dp2/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Garchomp-Lv66-MT9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -603,6 +673,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/10.png",
       "large": "https://images.pokemontcg.io/dp2/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Honchkrow-Lv42-MT10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.33,
+        "reverseHoloLow": 0.33
+      }
     }
   },
   {
@@ -660,6 +738,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/11.png",
       "large": "https://images.pokemontcg.io/dp2/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Lumineon-Lv34-MT11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -723,6 +809,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/12.png",
       "large": "https://images.pokemontcg.io/dp2/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Magmortar-Lv48-MT12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -790,6 +884,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/13.png",
       "large": "https://images.pokemontcg.io/dp2/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Meganium-Lv48-MT13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -846,6 +948,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/14.png",
       "large": "https://images.pokemontcg.io/dp2/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Mesprit-Lv50-MT14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -864,9 +974,7 @@
     "attacks": [
       {
         "name": "Electromagnetic Induction",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 Lightning Energy cards and attach them to 1 of your Pokémon. Shuffle your deck afterward."
@@ -911,6 +1019,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/15.png",
       "large": "https://images.pokemontcg.io/dp2/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Raichu-Lv40-MT15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.1,
+        "reverseHoloLow": 1.35
+      }
     }
   },
   {
@@ -970,6 +1086,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/16.png",
       "large": "https://images.pokemontcg.io/dp2/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Typhlosion-Lv46-MT16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -1041,6 +1165,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/17.png",
       "large": "https://images.pokemontcg.io/dp2/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Tyranitar-Lv57-MT17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1096,6 +1228,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/18.png",
       "large": "https://images.pokemontcg.io/dp2/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Uxie-Lv50-MT18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1156,6 +1296,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/19.png",
       "large": "https://images.pokemontcg.io/dp2/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Abomasnow-Lv40-MT19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -1213,6 +1361,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/20.png",
       "large": "https://images.pokemontcg.io/dp2/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Ariados-Lv32-MT20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1279,6 +1435,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/21.png",
       "large": "https://images.pokemontcg.io/dp2/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Bastiodon-Lv51-MT21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -1336,6 +1500,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/22.png",
       "large": "https://images.pokemontcg.io/dp2/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Chimecho-Lv21-MT22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1395,6 +1567,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/23.png",
       "large": "https://images.pokemontcg.io/dp2/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Crobat-Lv45-MT23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1454,6 +1634,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/24.png",
       "large": "https://images.pokemontcg.io/dp2/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Exeggutor-Lv46-MT24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1513,6 +1701,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/25.png",
       "large": "https://images.pokemontcg.io/dp2/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Glalie-Lv43-MT25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1580,6 +1776,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/26.png",
       "large": "https://images.pokemontcg.io/dp2/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Gyarados-Lv49-MT26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 1.2
+      }
     }
   },
   {
@@ -1641,6 +1845,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/27.png",
       "large": "https://images.pokemontcg.io/dp2/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Kricketune-Lv38-MT27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1703,6 +1915,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/28.png",
       "large": "https://images.pokemontcg.io/dp2/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Manectric-Lv38-MT28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1765,6 +1985,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/29.png",
       "large": "https://images.pokemontcg.io/dp2/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Mantine-Lv25-MT29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1821,6 +2049,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/30.png",
       "large": "https://images.pokemontcg.io/dp2/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Mr-Mime-Lv33-MT30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1886,6 +2122,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/31.png",
       "large": "https://images.pokemontcg.io/dp2/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Nidoqueen-Lv50-MT31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.74
+      }
     }
   },
   {
@@ -1943,6 +2187,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/32.png",
       "large": "https://images.pokemontcg.io/dp2/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Ninetales-Lv37-MT32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2004,6 +2256,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/33.png",
       "large": "https://images.pokemontcg.io/dp2/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Rampardos-Lv48-MT33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2066,6 +2326,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/34.png",
       "large": "https://images.pokemontcg.io/dp2/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Slaking-Lv56-MT34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2124,6 +2392,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/35.png",
       "large": "https://images.pokemontcg.io/dp2/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Sudowoodo-Lv22-MT35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2181,6 +2457,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/36.png",
       "large": "https://images.pokemontcg.io/dp2/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Toxicroak-Lv39-MT36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -2236,6 +2520,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/37.png",
       "large": "https://images.pokemontcg.io/dp2/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Unown-I-Lv16-MT37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2299,6 +2591,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/38.png",
       "large": "https://images.pokemontcg.io/dp2/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Ursaring-Lv38-MT38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2359,6 +2659,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/39.png",
       "large": "https://images.pokemontcg.io/dp2/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Walrein-Lv51-MT39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2430,6 +2738,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/40.png",
       "large": "https://images.pokemontcg.io/dp2/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Whiscash-Lv41-MT40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2498,6 +2814,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/41.png",
       "large": "https://images.pokemontcg.io/dp2/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Bayleef-Lv28-MT41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2525,9 +2849,7 @@
     "attacks": [
       {
         "name": "Inviting Bell",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a Supporter card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
@@ -2556,6 +2878,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/42.png",
       "large": "https://images.pokemontcg.io/dp2/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Chingling-Lv6-MT42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2618,6 +2948,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/43.png",
       "large": "https://images.pokemontcg.io/dp2/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Cranidos-Lv24-MT43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2679,6 +3017,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/44.png",
       "large": "https://images.pokemontcg.io/dp2/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Croconaw-Lv27-MT44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2738,6 +3084,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/45.png",
       "large": "https://images.pokemontcg.io/dp2/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Dewgong-Lv36-MT45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2800,6 +3154,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/46.png",
       "large": "https://images.pokemontcg.io/dp2/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Dodrio-Lv34-MT46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2817,18 +3179,14 @@
     "attacks": [
       {
         "name": "Snake Hook",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Draw a card."
       },
       {
         "name": "Bite and Run",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": "Switch Dunsparce with 1 of your Benched Pokémon."
@@ -2857,6 +3215,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/47.png",
       "large": "https://images.pokemontcg.io/dp2/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Dunsparce-Lv21-MT47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.22
+      }
     }
   },
   {
@@ -2919,6 +3285,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/48.png",
       "large": "https://images.pokemontcg.io/dp2/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Gabite-Lv32-MT48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2977,6 +3351,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/49.png",
       "large": "https://images.pokemontcg.io/dp2/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Girafarig-Lv27-MT49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3031,6 +3413,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/50.png",
       "large": "https://images.pokemontcg.io/dp2/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Golbat-Lv22-MT50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3103,6 +3493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/51.png",
       "large": "https://images.pokemontcg.io/dp2/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Graveler-Lv34-MT51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3130,9 +3528,7 @@
     "attacks": [
       {
         "name": "Lively",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Remove 2 damage counters from 1 of your Pokémon."
@@ -3161,6 +3557,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/52.png",
       "large": "https://images.pokemontcg.io/dp2/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Happiny-Lv8-MT52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.41
+      }
     }
   },
   {
@@ -3232,6 +3636,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/53.png",
       "large": "https://images.pokemontcg.io/dp2/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Lairon-Lv32-MT53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3295,6 +3707,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/54.png",
       "large": "https://images.pokemontcg.io/dp2/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Magmar-Lv30-MT54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -3357,6 +3777,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/55.png",
       "large": "https://images.pokemontcg.io/dp2/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Masquerain-Lv32-MT55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3419,6 +3847,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/56.png",
       "large": "https://images.pokemontcg.io/dp2/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Nidorina-Lv25-MT56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3479,6 +3915,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/57.png",
       "large": "https://images.pokemontcg.io/dp2/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Octillery-Lv32-MT57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3540,6 +3984,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/58.png",
       "large": "https://images.pokemontcg.io/dp2/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Parasect-Lv36-MT58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3606,6 +4058,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/59.png",
       "large": "https://images.pokemontcg.io/dp2/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Pupitar-Lv31-MT59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3659,6 +4119,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/60.png",
       "large": "https://images.pokemontcg.io/dp2/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Quilava-Lv25-MT60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3725,6 +4193,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/61.png",
       "large": "https://images.pokemontcg.io/dp2/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Sandslash-Lv37-MT61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3779,6 +4255,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/62.png",
       "large": "https://images.pokemontcg.io/dp2/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Sealeo-Lv27-MT62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3850,6 +4334,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/63.png",
       "large": "https://images.pokemontcg.io/dp2/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Shieldon-Lv26-MT63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3914,6 +4406,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/64.png",
       "large": "https://images.pokemontcg.io/dp2/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Tropius-Lv28-MT64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3970,6 +4470,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/65.png",
       "large": "https://images.pokemontcg.io/dp2/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Unown-E-Lv18-MT65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4025,6 +4533,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/66.png",
       "large": "https://images.pokemontcg.io/dp2/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Unown-M-Lv15-MT66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -4080,6 +4596,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/67.png",
       "large": "https://images.pokemontcg.io/dp2/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Unown-T-Lv14-MT67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4143,6 +4667,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/68.png",
       "large": "https://images.pokemontcg.io/dp2/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Vigoroth-Lv24-MT68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -4204,6 +4736,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/69.png",
       "large": "https://images.pokemontcg.io/dp2/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Abra-Lv8-MT69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4265,6 +4805,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/70.png",
       "large": "https://images.pokemontcg.io/dp2/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Aipom-Lv17-MT70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4324,6 +4872,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/71.png",
       "large": "https://images.pokemontcg.io/dp2/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Aron-Lv15-MT71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4381,6 +4937,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/72.png",
       "large": "https://images.pokemontcg.io/dp2/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Barboach-Lv12-MT72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4436,6 +5000,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/73.png",
       "large": "https://images.pokemontcg.io/dp2/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Bidoof-Lv11-MT73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4494,6 +5066,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/74.png",
       "large": "https://images.pokemontcg.io/dp2/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Bronzor-Lv8-MT74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4548,6 +5128,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/75.png",
       "large": "https://images.pokemontcg.io/dp2/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Buizel-Lv12-MT75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4613,6 +5201,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/76.png",
       "large": "https://images.pokemontcg.io/dp2/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Chansey-Lv31-MT76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -4633,9 +5229,7 @@
     "attacks": [
       {
         "name": "Sleep Scent",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
@@ -4679,6 +5273,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/77.png",
       "large": "https://images.pokemontcg.io/dp2/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Chikorita-Lv10-MT77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4740,6 +5342,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/78.png",
       "large": "https://images.pokemontcg.io/dp2/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Croagunk-Lv17-MT78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4760,9 +5370,7 @@
     "attacks": [
       {
         "name": "Tackle",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -4801,6 +5409,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/79.png",
       "large": "https://images.pokemontcg.io/dp2/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Cyndaquil-Lv12-MT79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.22
+      }
     }
   },
   {
@@ -4868,6 +5484,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/80.png",
       "large": "https://images.pokemontcg.io/dp2/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Doduo-Lv18-MT80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4925,6 +5549,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/81.png",
       "large": "https://images.pokemontcg.io/dp2/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Electrike-Lv16-MT81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4976,6 +5608,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/82.png",
       "large": "https://images.pokemontcg.io/dp2/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Exeggcute-Lv12-MT82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5037,6 +5677,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/83.png",
       "large": "https://images.pokemontcg.io/dp2/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Finneon-Lv12-MT83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5095,6 +5743,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/84.png",
       "large": "https://images.pokemontcg.io/dp2/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Geodude-Lv12-MT84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5146,6 +5802,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/85.png",
       "large": "https://images.pokemontcg.io/dp2/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Gible-Lv9-MT85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -5207,6 +5871,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/86.png",
       "large": "https://images.pokemontcg.io/dp2/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Kricketot-Lv9-MT86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -5274,6 +5946,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/87.png",
       "large": "https://images.pokemontcg.io/dp2/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Larvitar-Lv18-MT87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5301,9 +5981,7 @@
     "attacks": [
       {
         "name": "Scorch",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
@@ -5332,6 +6010,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/88.png",
       "large": "https://images.pokemontcg.io/dp2/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Magby-Lv5-MT88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -5393,6 +6079,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/89.png",
       "large": "https://images.pokemontcg.io/dp2/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Magikarp-Lv13-MT89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -5413,9 +6107,7 @@
     "attacks": [
       {
         "name": "Swarm",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for Murkrow and put it onto your Bench. Shuffle your deck afterward."
@@ -5460,6 +6152,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/90.png",
       "large": "https://images.pokemontcg.io/dp2/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Murkrow-Lv20-MT90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5521,6 +6221,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/91.png",
       "large": "https://images.pokemontcg.io/dp2/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Nidoran-F-Lv12-MT91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5582,6 +6290,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/92.png",
       "large": "https://images.pokemontcg.io/dp2/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Paras-Lv16-MT92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5609,9 +6325,7 @@
     "attacks": [
       {
         "name": "Chupi",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "20",
         "text": "Flip a coin. If tails, this attack does nothing."
@@ -5646,6 +6360,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/93.png",
       "large": "https://images.pokemontcg.io/dp2/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Pichu-Lv6-MT93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -5711,6 +6433,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/94.png",
       "large": "https://images.pokemontcg.io/dp2/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Pikachu-Lv15-MT94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -5772,6 +6502,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/95.png",
       "large": "https://images.pokemontcg.io/dp2/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Remoraid-Lv15-MT95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -5839,6 +6577,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/96.png",
       "large": "https://images.pokemontcg.io/dp2/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Sandshrew-Lv16-MT96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -5892,6 +6638,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/97.png",
       "large": "https://images.pokemontcg.io/dp2/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Seel-Lv18-MT97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5951,6 +6705,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/98.png",
       "large": "https://images.pokemontcg.io/dp2/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Shinx-Lv9-MT98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6002,6 +6764,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/99.png",
       "large": "https://images.pokemontcg.io/dp2/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Slakoth-Lv7-MT99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6063,6 +6833,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/100.png",
       "large": "https://images.pokemontcg.io/dp2/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Snorunt-Lv14-MT100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -6083,9 +6861,7 @@
     "attacks": [
       {
         "name": "Curiosity",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Look at your opponent's hand."
@@ -6125,6 +6901,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/101.png",
       "large": "https://images.pokemontcg.io/dp2/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Snover-Lv20-MT101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.13
+      }
     }
   },
   {
@@ -6186,6 +6970,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/102.png",
       "large": "https://images.pokemontcg.io/dp2/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Spheal-Lv17-MT102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6247,6 +7039,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/103.png",
       "large": "https://images.pokemontcg.io/dp2/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Spinarak-Lv18-MT103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6298,6 +7098,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/104.png",
       "large": "https://images.pokemontcg.io/dp2/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Surskit-Lv14-MT104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6359,6 +7167,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/105.png",
       "large": "https://images.pokemontcg.io/dp2/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Teddiursa-Lv20-MT105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6379,9 +7195,7 @@
     "attacks": [
       {
         "name": "Bite",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -6419,6 +7233,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/106.png",
       "large": "https://images.pokemontcg.io/dp2/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Totodile-Lv15-MT106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6471,6 +7293,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/107.png",
       "large": "https://images.pokemontcg.io/dp2/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Vulpix-Lv16-MT107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6538,6 +7368,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/108.png",
       "large": "https://images.pokemontcg.io/dp2/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Zubat-Lv8-MT108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6560,6 +7398,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/109.png",
       "large": "https://images.pokemontcg.io/dp2/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Bebes-Search-MT109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -6581,6 +7427,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/110.png",
       "large": "https://images.pokemontcg.io/dp2/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Dusk-Ball-MT110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6603,6 +7457,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/111.png",
       "large": "https://images.pokemontcg.io/dp2/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Fossil-Excavator-MT111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6625,6 +7487,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/112.png",
       "large": "https://images.pokemontcg.io/dp2/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Lake-Boundary-MT112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6646,6 +7516,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/113.png",
       "large": "https://images.pokemontcg.io/dp2/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Night-Maintenance-MT113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6668,6 +7546,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/114.png",
       "large": "https://images.pokemontcg.io/dp2/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Quick-Ball-MT114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -6690,6 +7576,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/115.png",
       "large": "https://images.pokemontcg.io/dp2/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Team-Galactics-Wager-MT115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6719,6 +7613,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/116.png",
       "large": "https://images.pokemontcg.io/dp2/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Armor-Fossil-MT116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6748,6 +7650,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/117.png",
       "large": "https://images.pokemontcg.io/dp2/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Skull-Fossil-MT117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -6769,6 +7679,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/118.png",
       "large": "https://images.pokemontcg.io/dp2/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Multi-Energy-MT118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -6790,6 +7708,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/119.png",
       "large": "https://images.pokemontcg.io/dp2/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Darkness-Energy-MT119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -6811,6 +7737,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/120.png",
       "large": "https://images.pokemontcg.io/dp2/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Metal-Energy-MT120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6878,6 +7812,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/121.png",
       "large": "https://images.pokemontcg.io/dp2/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Electivire-LVX-MT121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6938,6 +7880,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/122.png",
       "large": "https://images.pokemontcg.io/dp2/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Lucario-LVX-MT122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": 40.0
+      }
     }
   },
   {
@@ -7001,6 +7951,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/123.png",
       "large": "https://images.pokemontcg.io/dp2/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Magmortar-LVX-MT123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7022,6 +7980,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/dp2/124.png",
       "large": "https://images.pokemontcg.io/dp2/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mysterious-Treasures/Time-Space-Distortion-MT124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.9,
+        "reverseHoloLow": 12.0
+      }
     }
   }
 ]

@@ -6942,5 +6942,67 @@
         "reverseHoloLow": 300.0
       }
     }
+  },
+  {
+    "id": "ex8-promo-16",
+    "name": "Deoxys  (DX 16) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      {
+        "name": "Form Change",
+        "text": "Once during your turn (before your attack), you may search your deck for another Deoxys and switch it with Deoxys. (Any cards attached to Deoxys, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Deoxys on top of your deck. Shuffle your deck afterward. You can't use more than 1 Form Change Poké-Power each turn.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Link Blast",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": "If Deoxys and the Defending Pokémon have a different amount of Energy attached to them, this attack's base damage is 20 instead of 40."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "16",
+    "artist": "Hironobu Yoshida",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      386
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex8/16.png",
+      "large": "https://images.pokemontcg.io/ex8/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Deoxys/Deoxys-V2-DX16",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 20.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

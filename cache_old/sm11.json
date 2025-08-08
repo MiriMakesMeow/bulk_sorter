@@ -21,9 +21,7 @@
     "attacks": [
       {
         "name": "Super Growth",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a card that evolves from 1 of your Grass Pokémon and put it onto that Pokémon to evolve it. If that Pokémon is now a Stage 1 Pokémon, search your deck for a Stage 2 Pokémon that evolves from that Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck."
@@ -77,6 +75,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/1.png",
       "large": "https://images.pokemontcg.io/sm11/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Rowlet-Alolan-Exeggutor-GX-V1-UNM1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -138,6 +144,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/2.png",
       "large": "https://images.pokemontcg.io/sm11/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Yanma-UNM2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -199,6 +213,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/3.png",
       "large": "https://images.pokemontcg.io/sm11/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Yanmega-UNM3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -256,6 +278,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/4.png",
       "large": "https://images.pokemontcg.io/sm11/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Celebi-UNM4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.79,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -307,6 +337,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/5.png",
       "large": "https://images.pokemontcg.io/sm11/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Shroomish-UNM5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -367,6 +405,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/6.png",
       "large": "https://images.pokemontcg.io/sm11/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Sewaddle-UNM6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -425,6 +471,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/7.png",
       "large": "https://images.pokemontcg.io/sm11/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Sewaddle-UNM7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -485,6 +539,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/8.png",
       "large": "https://images.pokemontcg.io/sm11/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Swadloon-UNM8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -542,6 +604,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/9.png",
       "large": "https://images.pokemontcg.io/sm11/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Leavanny-UNM9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -594,6 +664,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/10.png",
       "large": "https://images.pokemontcg.io/sm11/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Dwebble-UNM10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -654,6 +732,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/11.png",
       "large": "https://images.pokemontcg.io/sm11/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Crustle-UNM11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -706,6 +792,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/12.png",
       "large": "https://images.pokemontcg.io/sm11/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Karrablast-UNM12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -757,6 +851,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/13.png",
       "large": "https://images.pokemontcg.io/sm11/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Foongus-UNM13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -815,6 +917,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/14.png",
       "large": "https://images.pokemontcg.io/sm11/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Amoonguss-UNM14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -875,6 +985,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/15.png",
       "large": "https://images.pokemontcg.io/sm11/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Fomantis-UNM15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -933,6 +1051,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/16.png",
       "large": "https://images.pokemontcg.io/sm11/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Lurantis-UNM16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -994,6 +1120,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/17.png",
       "large": "https://images.pokemontcg.io/sm11/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Bounsweet-UNM17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1059,6 +1193,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/18.png",
       "large": "https://images.pokemontcg.io/sm11/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Steenee-UNM18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1118,6 +1260,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/19.png",
       "large": "https://images.pokemontcg.io/sm11/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Tsareena-UNM19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1176,6 +1326,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/20.png",
       "large": "https://images.pokemontcg.io/sm11/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Dhelmise-UNM20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1228,6 +1386,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/21.png",
       "large": "https://images.pokemontcg.io/sm11/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Magmar-UNM21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1291,6 +1457,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/22.png",
       "large": "https://images.pokemontcg.io/sm11/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Magmortar-UNM22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1357,6 +1531,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/23.png",
       "large": "https://images.pokemontcg.io/sm11/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Numel-UNM23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1422,6 +1604,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/24.png",
       "large": "https://images.pokemontcg.io/sm11/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Camerupt-UNM24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1493,6 +1683,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/25.png",
       "large": "https://images.pokemontcg.io/sm11/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Heatran-GX-V1-UNM25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1550,6 +1748,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/26.png",
       "large": "https://images.pokemontcg.io/sm11/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Victini-V1-UNM26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1601,6 +1807,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/27.png",
       "large": "https://images.pokemontcg.io/sm11/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Litwick-V1-UNM27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1652,6 +1866,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/28.png",
       "large": "https://images.pokemontcg.io/sm11/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Litwick-V2-UNM28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1704,6 +1926,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/29.png",
       "large": "https://images.pokemontcg.io/sm11/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Lampent-UNM29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1754,6 +1984,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/30.png",
       "large": "https://images.pokemontcg.io/sm11/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Chandelure-UNM30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1806,6 +2044,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/31.png",
       "large": "https://images.pokemontcg.io/sm11/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Fletchinder-UNM31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1861,6 +2107,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/32.png",
       "large": "https://images.pokemontcg.io/sm11/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Talonflame-UNM32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1912,6 +2166,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/33.png",
       "large": "https://images.pokemontcg.io/sm11/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Salandit-UNM33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1962,6 +2224,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/34.png",
       "large": "https://images.pokemontcg.io/sm11/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Salazzle-V1-UNM34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2031,6 +2301,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/35.png",
       "large": "https://images.pokemontcg.io/sm11/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Slowpoke-Psyduck-GX-V1-UNM35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2088,6 +2366,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/36.png",
       "large": "https://images.pokemontcg.io/sm11/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Lapras-UNM36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2140,6 +2426,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/37.png",
       "large": "https://images.pokemontcg.io/sm11/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Snorunt-UNM37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2198,6 +2492,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/38.png",
       "large": "https://images.pokemontcg.io/sm11/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Froslass-UNM38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2249,6 +2551,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/39.png",
       "large": "https://images.pokemontcg.io/sm11/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Finneon-UNM39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2295,6 +2605,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/40.png",
       "large": "https://images.pokemontcg.io/sm11/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Lumineon-UNM40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2349,6 +2667,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/41.png",
       "large": "https://images.pokemontcg.io/sm11/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Snover-UNM41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2415,6 +2741,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/42.png",
       "large": "https://images.pokemontcg.io/sm11/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Abomasnow-UNM42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2472,6 +2806,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/43.png",
       "large": "https://images.pokemontcg.io/sm11/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Basculin-UNM43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2537,6 +2879,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/44.png",
       "large": "https://images.pokemontcg.io/sm11/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Tirtouga-UNM44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2597,6 +2947,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/45.png",
       "large": "https://images.pokemontcg.io/sm11/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Carracosta-UNM45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -2645,6 +3003,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/46.png",
       "large": "https://images.pokemontcg.io/sm11/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Cryogonal-UNM46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2717,6 +3083,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/47.png",
       "large": "https://images.pokemontcg.io/sm11/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Keldeo-GX-V1-UNM47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2778,6 +3152,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/48.png",
       "large": "https://images.pokemontcg.io/sm11/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Dewpider-UNM48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2838,6 +3220,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/49.png",
       "large": "https://images.pokemontcg.io/sm11/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Araquanid-UNM49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2889,6 +3279,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/50.png",
       "large": "https://images.pokemontcg.io/sm11/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Wimpod-UNM50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -2951,6 +3349,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/51.png",
       "large": "https://images.pokemontcg.io/sm11/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Golisopod-UNM51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3009,6 +3415,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/52.png",
       "large": "https://images.pokemontcg.io/sm11/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Pyukumuku-UNM52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3068,6 +3482,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/53.png",
       "large": "https://images.pokemontcg.io/sm11/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Tapu-Fini-V1-UNM53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3140,6 +3562,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/54.png",
       "large": "https://images.pokemontcg.io/sm11/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Raichu-Alolan-Raichu-GX-V1-UNM54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3207,6 +3637,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/55.png",
       "large": "https://images.pokemontcg.io/sm11/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Pikachu-UNM55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3275,6 +3713,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/56.png",
       "large": "https://images.pokemontcg.io/sm11/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Pikachu-UNM56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -3341,6 +3787,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/57.png",
       "large": "https://images.pokemontcg.io/sm11/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Alolan-Raichu-UNM57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -3398,6 +3852,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/58.png",
       "large": "https://images.pokemontcg.io/sm11/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Magnemite-UNM58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3468,6 +3930,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/59.png",
       "large": "https://images.pokemontcg.io/sm11/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Magneton-UNM59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3534,6 +4004,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/60.png",
       "large": "https://images.pokemontcg.io/sm11/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Magnezone-UNM60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3591,6 +4069,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/61.png",
       "large": "https://images.pokemontcg.io/sm11/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Joltik-UNM61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3646,6 +4132,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/62.png",
       "large": "https://images.pokemontcg.io/sm11/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Galvantula-UNM62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -3703,6 +4197,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/63.png",
       "large": "https://images.pokemontcg.io/sm11/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Tynamo-UNM63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -3760,6 +4262,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/64.png",
       "large": "https://images.pokemontcg.io/sm11/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Tynamo-UNM64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.06
+      }
     }
   },
   {
@@ -3819,6 +4329,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/65.png",
       "large": "https://images.pokemontcg.io/sm11/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Eelektrik-UNM65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3886,6 +4404,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/66.png",
       "large": "https://images.pokemontcg.io/sm11/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Eelektross-UNM66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3940,6 +4466,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/67.png",
       "large": "https://images.pokemontcg.io/sm11/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Stunfisk-UNM67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4006,6 +4540,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/68.png",
       "large": "https://images.pokemontcg.io/sm11/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Thundurus-UNM68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4071,6 +4613,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/69.png",
       "large": "https://images.pokemontcg.io/sm11/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Tapu-Koko-UNM69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.18,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4137,6 +4687,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/70.png",
       "large": "https://images.pokemontcg.io/sm11/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Xurkitree-UNM70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4200,6 +4758,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/71.png",
       "large": "https://images.pokemontcg.io/sm11/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mewtwo-Mew-GX-V1-UNM71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 14.98,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4267,6 +4833,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/72.png",
       "large": "https://images.pokemontcg.io/sm11/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Espeon-Deoxys-GX-V1-UNM72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4318,6 +4892,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/73.png",
       "large": "https://images.pokemontcg.io/sm11/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Exeggcute-UNM73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -4380,6 +4962,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/74.png",
       "large": "https://images.pokemontcg.io/sm11/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Exeggutor-UNM74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4397,9 +4987,7 @@
     "attacks": [
       {
         "name": "Spirit Smash",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Discard the top card of your opponent's deck. If the card you discarded is a Pokémon, this attack does damage equal to that Pokémon's HP to your opponent's Active Pokémon."
@@ -4446,6 +5034,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/75.png",
       "large": "https://images.pokemontcg.io/sm11/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Alolan-Marowak-UNM75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4502,6 +5098,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/76.png",
       "large": "https://images.pokemontcg.io/sm11/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Jynx-UNM76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4539,6 +5143,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/77.png",
       "large": "https://images.pokemontcg.io/sm11/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Wynaut-UNM77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4604,6 +5216,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/78.png",
       "large": "https://images.pokemontcg.io/sm11/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Latios-GX-V1-UNM78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4673,6 +5293,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/79.png",
       "large": "https://images.pokemontcg.io/sm11/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Jirachi-GX-V1-UNM79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4799,6 +5427,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/80.png",
       "large": "https://images.pokemontcg.io/sm11/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Drifloon-UNM80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4863,6 +5499,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/81.png",
       "large": "https://images.pokemontcg.io/sm11/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Drifblim-UNM81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4927,6 +5571,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/82.png",
       "large": "https://images.pokemontcg.io/sm11/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Skorupi-UNM82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -4984,6 +5636,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/83.png",
       "large": "https://images.pokemontcg.io/sm11/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Uxie-UNM83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.36,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5041,6 +5701,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/84.png",
       "large": "https://images.pokemontcg.io/sm11/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mesprit-V1-UNM84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5089,6 +5757,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/85.png",
       "large": "https://images.pokemontcg.io/sm11/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Azelf-UNM85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5152,6 +5828,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/86.png",
       "large": "https://images.pokemontcg.io/sm11/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Giratina-UNM86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 1.19
+      }
     }
   },
   {
@@ -5215,6 +5899,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/87.png",
       "large": "https://images.pokemontcg.io/sm11/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Cresselia-V1-UNM87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5266,6 +5958,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/88.png",
       "large": "https://images.pokemontcg.io/sm11/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Munna-UNM88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5325,6 +6025,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/89.png",
       "large": "https://images.pokemontcg.io/sm11/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Musharna-UNM89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -5376,6 +6084,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/90.png",
       "large": "https://images.pokemontcg.io/sm11/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Elgyem-UNM90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -5436,6 +6152,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/91.png",
       "large": "https://images.pokemontcg.io/sm11/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Beheeyem-UNM91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5502,6 +6226,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/92.png",
       "large": "https://images.pokemontcg.io/sm11/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Honedge-UNM92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5561,6 +6293,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/93.png",
       "large": "https://images.pokemontcg.io/sm11/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Honedge-UNM93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5621,6 +6361,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/94.png",
       "large": "https://images.pokemontcg.io/sm11/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Doublade-UNM94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5685,6 +6433,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/95.png",
       "large": "https://images.pokemontcg.io/sm11/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Aegislash-UNM95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5737,6 +6493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/96.png",
       "large": "https://images.pokemontcg.io/sm11/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mareanie-UNM96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5788,6 +6552,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/97.png",
       "large": "https://images.pokemontcg.io/sm11/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Toxapex-V1-UNM97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5849,6 +6621,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/98.png",
       "large": "https://images.pokemontcg.io/sm11/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Salandit-UNM98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5909,6 +6689,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/99.png",
       "large": "https://images.pokemontcg.io/sm11/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Salazzle-UNM99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -5956,6 +6744,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/100.png",
       "large": "https://images.pokemontcg.io/sm11/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Cosmog-UNM100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6017,6 +6813,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/101.png",
       "large": "https://images.pokemontcg.io/sm11/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Necrozma-UNM101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6080,6 +6884,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/102.png",
       "large": "https://images.pokemontcg.io/sm11/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Poipole-UNM102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -6134,6 +6946,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/103.png",
       "large": "https://images.pokemontcg.io/sm11/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Onix-UNM103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -6199,6 +7019,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/104.png",
       "large": "https://images.pokemontcg.io/sm11/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Steelix-UNM104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6260,6 +7088,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/105.png",
       "large": "https://images.pokemontcg.io/sm11/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Cubone-UNM105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6326,6 +7162,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/106.png",
       "large": "https://images.pokemontcg.io/sm11/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Aerodactyl-GX-V1-UNM106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6385,6 +7229,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/107.png",
       "large": "https://images.pokemontcg.io/sm11/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Heracross-UNM107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6444,6 +7296,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/108.png",
       "large": "https://images.pokemontcg.io/sm11/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Breloom-UNM108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -6495,6 +7355,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/109.png",
       "large": "https://images.pokemontcg.io/sm11/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Meditite-UNM109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.06
+      }
     }
   },
   {
@@ -6554,6 +7422,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/110.png",
       "large": "https://images.pokemontcg.io/sm11/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Medicham-UNM110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -6612,6 +7488,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/111.png",
       "large": "https://images.pokemontcg.io/sm11/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Relicanth-UNM111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -6673,6 +7557,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/112.png",
       "large": "https://images.pokemontcg.io/sm11/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Gible-UNM112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6735,6 +7627,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/113.png",
       "large": "https://images.pokemontcg.io/sm11/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Gabite-UNM113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -6788,6 +7688,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/114.png",
       "large": "https://images.pokemontcg.io/sm11/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Garchomp-UNM114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -6839,6 +7747,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/115.png",
       "large": "https://images.pokemontcg.io/sm11/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Riolu-V1-UNM115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -6890,6 +7806,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/116.png",
       "large": "https://images.pokemontcg.io/sm11/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Riolu-V2-UNM116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6949,6 +7873,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/117.png",
       "large": "https://images.pokemontcg.io/sm11/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Lucario-UNM117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -7001,6 +7933,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/118.png",
       "large": "https://images.pokemontcg.io/sm11/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Drilbur-UNM118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7062,6 +8002,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/119.png",
       "large": "https://images.pokemontcg.io/sm11/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Excadrill-UNM119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -7120,6 +8068,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/120.png",
       "large": "https://images.pokemontcg.io/sm11/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Archen-UNM120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7184,6 +8140,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/121.png",
       "large": "https://images.pokemontcg.io/sm11/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Archeops-UNM121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7249,6 +8213,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/122.png",
       "large": "https://images.pokemontcg.io/sm11/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Terrakion-UNM122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -7307,6 +8279,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/123.png",
       "large": "https://images.pokemontcg.io/sm11/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Meloetta-UNM123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.22
+      }
     }
   },
   {
@@ -7362,6 +8342,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/124.png",
       "large": "https://images.pokemontcg.io/sm11/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Zygarde-UNM124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -7433,6 +8421,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/125.png",
       "large": "https://images.pokemontcg.io/sm11/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Umbreon-Darkrai-GX-UNM125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7512,6 +8508,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/126.png",
       "large": "https://images.pokemontcg.io/sm11/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mega-Sableye-Tyranitar-GX-V1-UNM126",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7531,9 +8535,7 @@
     "attacks": [
       {
         "name": "Collect",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Draw 2 cards."
@@ -7581,6 +8583,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/127.png",
       "large": "https://images.pokemontcg.io/sm11/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Alolan-Grimer-UNM127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7638,6 +8648,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/128.png",
       "large": "https://images.pokemontcg.io/sm11/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Murkrow-UNM128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7695,6 +8713,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/129.png",
       "large": "https://images.pokemontcg.io/sm11/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Murkrow-UNM129",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7759,6 +8785,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/130.png",
       "large": "https://images.pokemontcg.io/sm11/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Honchkrow-UNM130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -7817,6 +8851,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/131.png",
       "large": "https://images.pokemontcg.io/sm11/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Sneasel-UNM131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -7893,6 +8935,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/132.png",
       "large": "https://images.pokemontcg.io/sm11/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Weavile-GX-UNM132",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7935,6 +8985,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/133.png",
       "large": "https://images.pokemontcg.io/sm11/133_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Sableye-UNM133",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -8007,6 +9065,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/134.png",
       "large": "https://images.pokemontcg.io/sm11/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Drapion-UNM134",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -8064,6 +9130,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/135.png",
       "large": "https://images.pokemontcg.io/sm11/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Purrloin-UNM135",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -8130,6 +9204,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/136.png",
       "large": "https://images.pokemontcg.io/sm11/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Liepard-UNM136",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -8199,6 +9281,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/137.png",
       "large": "https://images.pokemontcg.io/sm11/137_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Scraggy-UNM137",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -8267,6 +9357,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/138.png",
       "large": "https://images.pokemontcg.io/sm11/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Scrafty-UNM138",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -8333,6 +9431,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/139.png",
       "large": "https://images.pokemontcg.io/sm11/139_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Yveltal-UNM139",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -8399,6 +9505,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/140.png",
       "large": "https://images.pokemontcg.io/sm11/140_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Hoopa-V1-UNM140",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -8474,6 +9588,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/141.png",
       "large": "https://images.pokemontcg.io/sm11/141_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mawile-GX-V1-UNM141",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8542,6 +9664,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/142.png",
       "large": "https://images.pokemontcg.io/sm11/142_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Escavalier-UNM142",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -8599,6 +9729,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/143.png",
       "large": "https://images.pokemontcg.io/sm11/143_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Cottonee-UNM143",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -8657,6 +9795,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/144.png",
       "large": "https://images.pokemontcg.io/sm11/144_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Whimsicott-UNM144",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -8711,6 +9857,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/145.png",
       "large": "https://images.pokemontcg.io/sm11/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Dedenne-UNM145",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -8788,6 +9942,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/146.png",
       "large": "https://images.pokemontcg.io/sm11/146_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Garchomp-Giratina-GX-V1-UNM146",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.98,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8840,6 +10002,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/147.png",
       "large": "https://images.pokemontcg.io/sm11/147_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Dratini-UNM147",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -8900,6 +10070,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/148.png",
       "large": "https://images.pokemontcg.io/sm11/148_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Dratini-UNM148",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -8954,6 +10132,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/149.png",
       "large": "https://images.pokemontcg.io/sm11/149_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Dragonair-UNM149",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -9019,6 +10205,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/150.png",
       "large": "https://images.pokemontcg.io/sm11/150_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Dragonair-UNM150",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -9079,6 +10273,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/151.png",
       "large": "https://images.pokemontcg.io/sm11/151_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Dragonite-UNM151",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -9156,6 +10358,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/152.png",
       "large": "https://images.pokemontcg.io/sm11/152_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Dragonite-GX-V1-UNM152",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9215,6 +10425,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/153.png",
       "large": "https://images.pokemontcg.io/sm11/153_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Latias-UNM153",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -9274,6 +10492,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/154.png",
       "large": "https://images.pokemontcg.io/sm11/154_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Axew-UNM154",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -9339,6 +10565,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/155.png",
       "large": "https://images.pokemontcg.io/sm11/155_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Fraxure-UNM155",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.11
+      }
     }
   },
   {
@@ -9398,6 +10632,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/156.png",
       "large": "https://images.pokemontcg.io/sm11/156_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Haxorus-UNM156",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -9459,6 +10701,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/157.png",
       "large": "https://images.pokemontcg.io/sm11/157_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Druddigon-UNM157",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -9511,6 +10761,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/158.png",
       "large": "https://images.pokemontcg.io/sm11/158_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Noibat-UNM158",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -9567,6 +10825,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/159.png",
       "large": "https://images.pokemontcg.io/sm11/159_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Noivern-UNM159",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -9639,6 +10905,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/160.png",
       "large": "https://images.pokemontcg.io/sm11/160_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Naganadel-GX-V1-UNM160",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -9704,6 +10978,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/161.png",
       "large": "https://images.pokemontcg.io/sm11/161_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Lickitung-UNM161",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -9767,6 +11049,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/162.png",
       "large": "https://images.pokemontcg.io/sm11/162_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Lickilicky-UNM162",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -9828,6 +11118,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/163.png",
       "large": "https://images.pokemontcg.io/sm11/163_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Kangaskhan-UNM163",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -9886,6 +11184,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/164.png",
       "large": "https://images.pokemontcg.io/sm11/164_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Tauros-V1-UNM164",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -9944,6 +11250,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/165.png",
       "large": "https://images.pokemontcg.io/sm11/165_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Hoothoot-UNM165",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -10010,6 +11324,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/166.png",
       "large": "https://images.pokemontcg.io/sm11/166_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Noctowl-UNM166",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.16
+      }
     }
   },
   {
@@ -10072,6 +11394,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/167.png",
       "large": "https://images.pokemontcg.io/sm11/167_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Slakoth-UNM167",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -10137,6 +11467,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/168.png",
       "large": "https://images.pokemontcg.io/sm11/168_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Slakoth-UNM168",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -10200,6 +11538,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/169.png",
       "large": "https://images.pokemontcg.io/sm11/169_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Vigoroth-UNM169",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -10262,6 +11608,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/170.png",
       "large": "https://images.pokemontcg.io/sm11/170_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Slaking-UNM170",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -10325,6 +11679,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/171.png",
       "large": "https://images.pokemontcg.io/sm11/171_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Bidoof-UNM171",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -10384,6 +11746,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/172.png",
       "large": "https://images.pokemontcg.io/sm11/172_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Bibarel-UNM172",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -10421,6 +11791,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/173.png",
       "large": "https://images.pokemontcg.io/sm11/173_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Munchlax-UNM173",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -10488,6 +11866,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/174.png",
       "large": "https://images.pokemontcg.io/sm11/174_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Pidove-UNM174",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -10556,6 +11942,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/175.png",
       "large": "https://images.pokemontcg.io/sm11/175_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Tranquill-UNM175",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -10622,6 +12016,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/176.png",
       "large": "https://images.pokemontcg.io/sm11/176_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Unfezant-UNM176",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -10678,6 +12080,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/177.png",
       "large": "https://images.pokemontcg.io/sm11/177_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Audino-UNM177",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -10743,6 +12153,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/178.png",
       "large": "https://images.pokemontcg.io/sm11/178_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Tornadus-UNM178",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -10800,6 +12218,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/179.png",
       "large": "https://images.pokemontcg.io/sm11/179_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Fletchling-UNM179",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -10852,6 +12278,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/180.png",
       "large": "https://images.pokemontcg.io/sm11/180_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Yungoos-UNM180",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -10902,6 +12336,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/181.png",
       "large": "https://images.pokemontcg.io/sm11/181_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Gumshoos-UNM181",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -10963,6 +12405,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/182.png",
       "large": "https://images.pokemontcg.io/sm11/182_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Oranguru-UNM182",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -11021,6 +12471,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/183.png",
       "large": "https://images.pokemontcg.io/sm11/183_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Type-Null-UNM183",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -11083,6 +12541,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/184.png",
       "large": "https://images.pokemontcg.io/sm11/184_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Silvally-UNM184",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -11138,6 +12604,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/185.png",
       "large": "https://images.pokemontcg.io/sm11/185_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Komala-UNM185",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -11161,6 +12635,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/186.png",
       "large": "https://images.pokemontcg.io/sm11/186_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Blaines-Quiz-Show-UNM186",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -11184,6 +12666,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/187.png",
       "large": "https://images.pokemontcg.io/sm11/187_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Blizzard-Town-UNM187",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -11207,6 +12697,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/188.png",
       "large": "https://images.pokemontcg.io/sm11/188_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Blues-Tactics-V1-UNM188",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -11230,6 +12728,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/189.png",
       "large": "https://images.pokemontcg.io/sm11/189_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Bug-Catcher-V1-UNM189",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -11253,6 +12759,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/190.png",
       "large": "https://images.pokemontcg.io/sm11/190_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Channeler-V1-UNM190",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -11276,6 +12790,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/191.png",
       "large": "https://images.pokemontcg.io/sm11/191_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Cherish-Ball-V1-UNM191",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -11322,6 +12844,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/192.png",
       "large": "https://images.pokemontcg.io/sm11/192_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Coach-Trainer-V1-UNM192",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -11345,6 +12875,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/193.png",
       "large": "https://images.pokemontcg.io/sm11/193_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Dark-City-UNM193",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -11369,6 +12907,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/194.png",
       "large": "https://images.pokemontcg.io/sm11/194_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Ear-Ringing-Bell-UNM194",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -11407,6 +12953,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/195.png",
       "large": "https://images.pokemontcg.io/sm11/195_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Flyinium-Z-Air-Slash-UNM195",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -11432,6 +12986,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/196.png",
       "large": "https://images.pokemontcg.io/sm11/196_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Giant-Bomb-V1-UNM196",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -11455,6 +13017,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/197.png",
       "large": "https://images.pokemontcg.io/sm11/197_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Giant-Hearth-V1-UNM197",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -11478,6 +13048,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/198.png",
       "large": "https://images.pokemontcg.io/sm11/198_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Great-Potion-UNM198",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -11501,6 +13079,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/199.png",
       "large": "https://images.pokemontcg.io/sm11/199_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Grimsley-V1-UNM199",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -11524,6 +13110,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/200.png",
       "large": "https://images.pokemontcg.io/sm11/200_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Hapu-V1-UNM200",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -11548,6 +13142,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/201.png",
       "large": "https://images.pokemontcg.io/sm11/201_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Karate-Belt-V1-UNM201",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -11571,6 +13173,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/202.png",
       "large": "https://images.pokemontcg.io/sm11/202_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mistys-Favor-V1-UNM202",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -11609,6 +13219,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/203.png",
       "large": "https://images.pokemontcg.io/sm11/203_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Normalium-Z-Tackle-UNM203",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -11632,6 +13250,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/204.png",
       "large": "https://images.pokemontcg.io/sm11/204_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Poke-Maniac-V1-UNM204",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -11655,6 +13281,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/205.png",
       "large": "https://images.pokemontcg.io/sm11/205_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Pokemon-Research-Lab-UNM205",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -11678,6 +13312,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/206.png",
       "large": "https://images.pokemontcg.io/sm11/206_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Reset-Stamp-V1-UNM206",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -11724,6 +13366,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/207.png",
       "large": "https://images.pokemontcg.io/sm11/207_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Slumbering-Forest-UNM207",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -11747,6 +13397,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/208.png",
       "large": "https://images.pokemontcg.io/sm11/208_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Stadium-Nav-V1-UNM208",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -11770,6 +13428,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/209.png",
       "large": "https://images.pokemontcg.io/sm11/209_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Tag-Switch-V1-UNM209",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -11796,6 +13462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/210.png",
       "large": "https://images.pokemontcg.io/sm11/210_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Unidentified-Fossil-UNM210",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -11821,6 +13495,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/211.png",
       "large": "https://images.pokemontcg.io/sm11/211_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/U-Turn-Board-V1-UNM211",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -11843,6 +13525,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/212.png",
       "large": "https://images.pokemontcg.io/sm11/212_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Recycle-Energy-V1-UNM212",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -11865,6 +13555,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/213.png",
       "large": "https://images.pokemontcg.io/sm11/213_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Weakness-Guard-Energy-V1-UNM213",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -11889,9 +13587,7 @@
     "attacks": [
       {
         "name": "Super Growth",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a card that evolves from 1 of your Grass Pokémon and put it onto that Pokémon to evolve it. If that Pokémon is now a Stage 1 Pokémon, search your deck for a Stage 2 Pokémon that evolves from that Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck."
@@ -11945,6 +13641,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/214.png",
       "large": "https://images.pokemontcg.io/sm11/214_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Rowlet-Alolan-Exeggutor-GX-V2-UNM214",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -11969,9 +13673,7 @@
     "attacks": [
       {
         "name": "Super Growth",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a card that evolves from 1 of your Grass Pokémon and put it onto that Pokémon to evolve it. If that Pokémon is now a Stage 1 Pokémon, search your deck for a Stage 2 Pokémon that evolves from that Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck."
@@ -12025,6 +13727,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/215.png",
       "large": "https://images.pokemontcg.io/sm11/215_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Rowlet-Alolan-Exeggutor-GX-V3-UNM215",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 19.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12096,6 +13806,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/216.png",
       "large": "https://images.pokemontcg.io/sm11/216_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Heatran-GX-V2-UNM216",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12165,6 +13883,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/217.png",
       "large": "https://images.pokemontcg.io/sm11/217_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Slowpoke-Psyduck-GX-V2-UNM217",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12234,6 +13960,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/218.png",
       "large": "https://images.pokemontcg.io/sm11/218_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Slowpoke-Psyduck-GX-V3-UNM218",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 25.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12306,6 +14040,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/219.png",
       "large": "https://images.pokemontcg.io/sm11/219_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Keldeo-GX-V2-UNM219",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12378,6 +14120,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/220.png",
       "large": "https://images.pokemontcg.io/sm11/220_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Raichu-Alolan-Raichu-GX-V2-UNM220",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12450,6 +14200,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/221.png",
       "large": "https://images.pokemontcg.io/sm11/221_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Raichu-Alolan-Raichu-GX-V3-UNM221",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 34.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12513,6 +14271,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/222.png",
       "large": "https://images.pokemontcg.io/sm11/222_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mewtwo-Mew-GX-V2-UNM222",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12578,6 +14344,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/223.png",
       "large": "https://images.pokemontcg.io/sm11/223_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Latios-GX-V2-UNM223",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12644,6 +14418,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/224.png",
       "large": "https://images.pokemontcg.io/sm11/224_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Aerodactyl-GX-V2-UNM224",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.97,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12723,6 +14505,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/225.png",
       "large": "https://images.pokemontcg.io/sm11/225_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mega-Sableye-Tyranitar-GX-V2-UNM225",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12802,6 +14592,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/226.png",
       "large": "https://images.pokemontcg.io/sm11/226_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mega-Sableye-Tyranitar-GX-V3-UNM226",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 19.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12877,6 +14675,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/227.png",
       "large": "https://images.pokemontcg.io/sm11/227_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mawile-GX-V2-UNM227",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -12954,6 +14760,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/228.png",
       "large": "https://images.pokemontcg.io/sm11/228_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Garchomp-Giratina-GX-V2-UNM228",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13031,6 +14845,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/229.png",
       "large": "https://images.pokemontcg.io/sm11/229_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Dragonite-GX-V2-UNM229",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13103,6 +14925,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/230.png",
       "large": "https://images.pokemontcg.io/sm11/230_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Naganadel-GX-V2-UNM230",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13126,6 +14956,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/231.png",
       "large": "https://images.pokemontcg.io/sm11/231_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Blues-Tactics-V2-UNM231",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.45,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13149,6 +14987,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/232.png",
       "large": "https://images.pokemontcg.io/sm11/232_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Channeler-V2-UNM232",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13172,6 +15018,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/233.png",
       "large": "https://images.pokemontcg.io/sm11/233_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Coach-Trainer-V2-UNM233",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.98,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13195,6 +15049,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/234.png",
       "large": "https://images.pokemontcg.io/sm11/234_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Grimsley-V2-UNM234",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.46,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13218,6 +15080,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/235.png",
       "large": "https://images.pokemontcg.io/sm11/235_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mistys-Favor-V2-UNM235",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 34.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13241,6 +15111,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/236.png",
       "large": "https://images.pokemontcg.io/sm11/236_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Poke-Maniac-V2-UNM236",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13265,9 +15143,7 @@
     "attacks": [
       {
         "name": "Super Growth",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a card that evolves from 1 of your Grass Pokémon and put it onto that Pokémon to evolve it. If that Pokémon is now a Stage 1 Pokémon, search your deck for a Stage 2 Pokémon that evolves from that Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck."
@@ -13321,6 +15197,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/237.png",
       "large": "https://images.pokemontcg.io/sm11/237_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Rowlet-Alolan-Exeggutor-GX-V4-UNM237",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13392,6 +15276,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/238.png",
       "large": "https://images.pokemontcg.io/sm11/238_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Heatran-GX-V3-UNM238",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13461,6 +15353,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/239.png",
       "large": "https://images.pokemontcg.io/sm11/239_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Slowpoke-Psyduck-GX-V4-UNM239",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13533,6 +15433,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/240.png",
       "large": "https://images.pokemontcg.io/sm11/240_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Keldeo-GX-V3-UNM240",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13605,6 +15513,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/241.png",
       "large": "https://images.pokemontcg.io/sm11/241_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Raichu-Alolan-Raichu-GX-V4-UNM241",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 16.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13668,6 +15584,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/242.png",
       "large": "https://images.pokemontcg.io/sm11/242_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mewtwo-Mew-GX-V3-UNM242",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 36.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13733,6 +15657,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/243.png",
       "large": "https://images.pokemontcg.io/sm11/243_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Latios-GX-V3-UNM243",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13799,6 +15731,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/244.png",
       "large": "https://images.pokemontcg.io/sm11/244_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Aerodactyl-GX-V3-UNM244",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13878,6 +15818,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/245.png",
       "large": "https://images.pokemontcg.io/sm11/245_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mega-Sableye-Tyranitar-GX-V4-UNM245",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 14.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -13953,6 +15901,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/246.png",
       "large": "https://images.pokemontcg.io/sm11/246_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Mawile-GX-V3-UNM246",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14030,6 +15986,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/247.png",
       "large": "https://images.pokemontcg.io/sm11/247_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Garchomp-Giratina-GX-V3-UNM247",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 13.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14107,6 +16071,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/248.png",
       "large": "https://images.pokemontcg.io/sm11/248_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Dragonite-GX-V3-UNM248",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 14.97,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14179,6 +16151,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/249.png",
       "large": "https://images.pokemontcg.io/sm11/249_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Naganadel-GX-V3-UNM249",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.97,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14202,6 +16182,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/250.png",
       "large": "https://images.pokemontcg.io/sm11/250_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Cherish-Ball-V2-UNM250",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14227,6 +16215,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/251.png",
       "large": "https://images.pokemontcg.io/sm11/251_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Giant-Bomb-V2-UNM251",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14251,6 +16247,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/252.png",
       "large": "https://images.pokemontcg.io/sm11/252_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Karate-Belt-V2-UNM252",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14274,6 +16278,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/253.png",
       "large": "https://images.pokemontcg.io/sm11/253_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Reset-Stamp-V2-UNM253",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14297,6 +16309,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/254.png",
       "large": "https://images.pokemontcg.io/sm11/254_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Tag-Switch-V2-UNM254",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14322,6 +16342,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/255.png",
       "large": "https://images.pokemontcg.io/sm11/255_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/U-Turn-Board-V2-UNM255",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14345,6 +16373,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/256.png",
       "large": "https://images.pokemontcg.io/sm11/256_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Viridian-Forest-UNM256",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.89,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14367,6 +16403,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/257.png",
       "large": "https://images.pokemontcg.io/sm11/257_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Recycle-Energy-V2-UNM257",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.48,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -14389,6 +16433,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm11/258.png",
       "large": "https://images.pokemontcg.io/sm11/258_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unified-Minds/Weakness-Guard-Energy-V2-UNM258",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

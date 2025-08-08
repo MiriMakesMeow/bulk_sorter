@@ -49,6 +49,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/1.png",
       "large": "https://images.pokemontcg.io/ru1/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Venusaur-Lv56-RM1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -103,6 +111,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/2.png",
       "large": "https://images.pokemontcg.io/ru1/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Cherrim-Lv28-RM2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -151,6 +167,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/3.png",
       "large": "https://images.pokemontcg.io/ru1/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Ninetales-Lv42-RM3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 13.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -202,6 +226,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/4.png",
       "large": "https://images.pokemontcg.io/ru1/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Heatran-Lv60-RM4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -250,6 +282,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/5.png",
       "large": "https://images.pokemontcg.io/ru1/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Starmie-Lv43-RM5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -307,6 +347,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/6.png",
       "large": "https://images.pokemontcg.io/ru1/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Gyarados-Lv55-RM6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 18.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -363,6 +411,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/7.png",
       "large": "https://images.pokemontcg.io/ru1/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Pikachu-Lv16-RM7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 89.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -418,6 +474,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/8.png",
       "large": "https://images.pokemontcg.io/ru1/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Zapdos-Lv41-RM8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -466,6 +530,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/9.png",
       "large": "https://images.pokemontcg.io/ru1/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Mewtwo-Lv65-RM9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 25.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -519,6 +591,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/10.png",
       "large": "https://images.pokemontcg.io/ru1/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Mew-Lv39-RM10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 35.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -574,6 +654,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/11.png",
       "large": "https://images.pokemontcg.io/ru1/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Diglett-Lv6-RM11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.88,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -634,6 +722,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/12.png",
       "large": "https://images.pokemontcg.io/ru1/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Lucario-Lv41-RM12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 18.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -689,6 +785,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/13.png",
       "large": "https://images.pokemontcg.io/ru1/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Skuntank-Lv35-RM13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -746,6 +850,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/14.png",
       "large": "https://images.pokemontcg.io/ru1/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Bastiodon-Lv49-RM14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -795,6 +907,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/15.png",
       "large": "https://images.pokemontcg.io/ru1/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Rattata-Lv9-RM15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -846,6 +966,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ru1/16.png",
       "large": "https://images.pokemontcg.io/ru1/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-Rumble/Bibarel-Lv22-RM16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.5,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

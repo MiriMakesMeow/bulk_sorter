@@ -7964,5 +7964,252 @@
       "small": "https://images.pokemontcg.io/pl2/RT6.png",
       "large": "https://images.pokemontcg.io/pl2/RT6_hires.png"
     }
+  },
+  {
+    "id": "pl2-promo-33",
+    "name": "Snorlax Lv.37  (RR 33) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "37",
+    "hp": "100",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Pick and Collect",
+        "cost": [],
+        "convertedEnergyCost": 0,
+        "damage": "",
+        "text": "Search your discard pile for up to 4 basic Energy cards, show them to your opponent, and put them into your hand."
+      },
+      {
+        "name": "Roll Over",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60",
+        "text": "Flip a coin. If heads, both Snorlax and the Defending Pokémon are now Asleep. If tails, Snorlax is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "33",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "It stops eating only to sleep. It doesn't feel full unless it eats nearly 900 pounds a day.",
+    "nationalPokedexNumbers": [
+      143
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl2/33.png",
+      "large": "https://images.pokemontcg.io/pl2/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Snorlax-Lv37-V2-RR33",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl2-promo-89",
+    "name": "Bebe's Search (RR 89) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "Choose a card from your hand and put it on top of your deck. Search your deck for a Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward. (If this is the only card in your hand, you can't play this card.)"
+    ],
+    "number": "89",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl2/89.png",
+      "large": "https://images.pokemontcg.io/pl2/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Bebes-Search-V2-RR109",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl2-promo-92",
+    "name": "Lucian's Assignment (RR 92) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "Move as many Energy cards attached to 1 of your Pokémon as you like to another of your Pokémon."
+    ],
+    "number": "92",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl2/92.png",
+      "large": "https://images.pokemontcg.io/pl2/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Lucians-Assignment-V2-RR92",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl2-promo-96",
+    "name": "Team Galactic's Invention G-109 SP Radar (RR 96) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Choose a card from your hand and put it on top of your deck. Search your deck for a Pokémon SP, show it to your opponent, and put it into your hand. Shuffle your deck afterward. (If this is the only card in your hand, you can't play this card.)"
+    ],
+    "number": "96",
+    "artist": "Kent Kanetsuna",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl2/96.png",
+      "large": "https://images.pokemontcg.io/pl2/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Team-Galactics-Invention-G-109-SP-Radar-V2-RR96",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl2-promo-97",
+    "name": "Underground Expedition (RR 97) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "Look at the 4 cards from the bottom of your deck. Choose any 2 cards there and put them into your hand. Put the remaining cards back on the bottom of your deck in any order."
+    ],
+    "number": "97",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl2/97.png",
+      "large": "https://images.pokemontcg.io/pl2/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Underground-Expedition-V2-RR140",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl2-promo-98",
+    "name": "Volkner's Philosophy (RR 98) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "You may discard a card from your hand. Then, draw cards until you have 6 cards in your hand. (If you can't draw any cards, you can't play this card.)"
+    ],
+    "number": "98",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl2/98.png",
+      "large": "https://images.pokemontcg.io/pl2/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Volkners-Philosophy-V2-RR98",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl2-promo-102",
+    "name": "Upper Energy (RR 102) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "Upper Energy provides Colorless Energy. If you have more Prize cards left than your opponent and this card is attached to a Pokémon (excluding Pokémon LV.X), Upper Energy provides ColorlessColorless."
+    ],
+    "number": "102",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl2/102.png",
+      "large": "https://images.pokemontcg.io/pl2/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Upper-Energy-V2-RR102",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

@@ -60,6 +60,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/1.png",
       "large": "https://images.pokemontcg.io/ex4/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Cacturne-MA1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -123,6 +131,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/2.png",
       "large": "https://images.pokemontcg.io/ex4/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Crawdaunt-MA2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -194,6 +210,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/3.png",
       "large": "https://images.pokemontcg.io/ex4/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Kyogre-MA3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 1.2
+      }
     }
   },
   {
@@ -260,6 +284,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/4.png",
       "large": "https://images.pokemontcg.io/ex4/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Manectric-MA4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.85,
+        "reverseHoloLow": 1.85
+      }
     }
   },
   {
@@ -319,6 +351,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/5.png",
       "large": "https://images.pokemontcg.io/ex4/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Sharpedo-MA5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -387,6 +427,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/6.png",
       "large": "https://images.pokemontcg.io/ex4/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Walrein-MA6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.44,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -455,6 +503,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/7.png",
       "large": "https://images.pokemontcg.io/ex4/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Aggron-MA7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -516,6 +572,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/8.png",
       "large": "https://images.pokemontcg.io/ex4/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Claydol-MA8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 2.3
+      }
     }
   },
   {
@@ -587,6 +651,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/9.png",
       "large": "https://images.pokemontcg.io/ex4/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Groudon-MA9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -650,6 +722,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/10.png",
       "large": "https://images.pokemontcg.io/ex4/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Houndoom-MA10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 4.75
+      }
     }
   },
   {
@@ -717,6 +797,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/11.png",
       "large": "https://images.pokemontcg.io/ex4/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Rhydon-MA11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": 1.88
+      }
     }
   },
   {
@@ -778,6 +866,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/12.png",
       "large": "https://images.pokemontcg.io/ex4/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Torkoal-MA12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.09,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -837,6 +933,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/13.png",
       "large": "https://images.pokemontcg.io/ex4/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Raichu-MA13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -896,6 +1000,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/14.png",
       "large": "https://images.pokemontcg.io/ex4/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Crawdaunt-MA14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -961,6 +1073,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/15.png",
       "large": "https://images.pokemontcg.io/ex4/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Mightyena-MA15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -1021,6 +1141,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/16.png",
       "large": "https://images.pokemontcg.io/ex4/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Sealeo-MA16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1079,6 +1207,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/17.png",
       "large": "https://images.pokemontcg.io/ex4/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Seviper-MA17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1134,6 +1270,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/18.png",
       "large": "https://images.pokemontcg.io/ex4/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Sharpedo-MA18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -1191,6 +1335,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/19.png",
       "large": "https://images.pokemontcg.io/ex4/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Camerupt-MA19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -1253,6 +1405,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/20.png",
       "large": "https://images.pokemontcg.io/ex4/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Lairon-MA20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.64
+      }
     }
   },
   {
@@ -1317,6 +1477,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/21.png",
       "large": "https://images.pokemontcg.io/ex4/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Mightyena-MA21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -1380,6 +1548,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/22.png",
       "large": "https://images.pokemontcg.io/ex4/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Rhydon-MA22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 1.2
+      }
     }
   },
   {
@@ -1437,6 +1613,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/23.png",
       "large": "https://images.pokemontcg.io/ex4/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Zangoose-MA23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.7
+      }
     }
   },
   {
@@ -1500,6 +1684,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/24.png",
       "large": "https://images.pokemontcg.io/ex4/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Cacnea-MA24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1557,6 +1749,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/25.png",
       "large": "https://images.pokemontcg.io/ex4/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Carvanha-MA25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1616,6 +1816,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/26.png",
       "large": "https://images.pokemontcg.io/ex4/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Corphish-MA26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.12,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1681,6 +1889,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/27.png",
       "large": "https://images.pokemontcg.io/ex4/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Electrike-MA27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1743,6 +1959,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/28.png",
       "large": "https://images.pokemontcg.io/ex4/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Lanturn-MA28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -1808,6 +2032,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/29.png",
       "large": "https://images.pokemontcg.io/ex4/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Manectric-MA29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1871,6 +2103,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/30.png",
       "large": "https://images.pokemontcg.io/ex4/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Mightyena-MA30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1934,6 +2174,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/31.png",
       "large": "https://images.pokemontcg.io/ex4/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Sealeo-MA31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -1993,6 +2241,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/32.png",
       "large": "https://images.pokemontcg.io/ex4/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Baltoy-MA32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2052,6 +2308,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/33.png",
       "large": "https://images.pokemontcg.io/ex4/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Claydol-MA33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2111,6 +2375,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/34.png",
       "large": "https://images.pokemontcg.io/ex4/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Houndoom-MA34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -2170,6 +2442,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/35.png",
       "large": "https://images.pokemontcg.io/ex4/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Houndour-MA35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2231,6 +2511,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/36.png",
       "large": "https://images.pokemontcg.io/ex4/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Lairon-MA36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2292,6 +2580,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/37.png",
       "large": "https://images.pokemontcg.io/ex4/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Mightyena-MA37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -2352,6 +2648,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/38.png",
       "large": "https://images.pokemontcg.io/ex4/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Rhyhorn-MA38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -2410,6 +2714,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/39.png",
       "large": "https://images.pokemontcg.io/ex4/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Bulbasaur-MA39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 4.8
+      }
     }
   },
   {
@@ -2459,6 +2771,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/40.png",
       "large": "https://images.pokemontcg.io/ex4/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Cubone-MA40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 3.99
+      }
     }
   },
   {
@@ -2518,6 +2838,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/41.png",
       "large": "https://images.pokemontcg.io/ex4/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Jigglypuff-MA41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 2.94
+      }
     }
   },
   {
@@ -2577,6 +2905,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/42.png",
       "large": "https://images.pokemontcg.io/ex4/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Meowth-MA42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -2636,6 +2972,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/43.png",
       "large": "https://images.pokemontcg.io/ex4/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Pikachu-MA43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 10.0
+      }
     }
   },
   {
@@ -2694,6 +3038,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/44.png",
       "large": "https://images.pokemontcg.io/ex4/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Psyduck-MA44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 7.5
+      }
     }
   },
   {
@@ -2754,6 +3106,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/45.png",
       "large": "https://images.pokemontcg.io/ex4/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Slowpoke-MA45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.25
+      }
     }
   },
   {
@@ -2810,6 +3170,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/46.png",
       "large": "https://images.pokemontcg.io/ex4/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Squirtle-MA46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 6.0
+      }
     }
   },
   {
@@ -2869,6 +3237,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/47.png",
       "large": "https://images.pokemontcg.io/ex4/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Carvanha-MA47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2928,6 +3304,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/48.png",
       "large": "https://images.pokemontcg.io/ex4/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Carvanha-MA48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -2993,6 +3377,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/49.png",
       "large": "https://images.pokemontcg.io/ex4/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Chinchou-MA49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -3042,6 +3434,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/50.png",
       "large": "https://images.pokemontcg.io/ex4/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Corphish-MA50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3101,6 +3501,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/51.png",
       "large": "https://images.pokemontcg.io/ex4/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Corphish-MA51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.38
+      }
     }
   },
   {
@@ -3166,6 +3574,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/52.png",
       "large": "https://images.pokemontcg.io/ex4/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Electrike-MA52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.3
+      }
     }
   },
   {
@@ -3231,6 +3647,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/53.png",
       "large": "https://images.pokemontcg.io/ex4/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Electrike-MA53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -3296,6 +3720,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/54.png",
       "large": "https://images.pokemontcg.io/ex4/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Poochyena-MA54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -3361,6 +3793,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/55.png",
       "large": "https://images.pokemontcg.io/ex4/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Poochyena-MA55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3410,6 +3850,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/56.png",
       "large": "https://images.pokemontcg.io/ex4/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Spheal-MA56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 1.6
+      }
     }
   },
   {
@@ -3469,6 +3917,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/57.png",
       "large": "https://images.pokemontcg.io/ex4/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aquas-Spheal-MA57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -3528,6 +3984,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/58.png",
       "large": "https://images.pokemontcg.io/ex4/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Aron-MA58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3577,6 +4041,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/59.png",
       "large": "https://images.pokemontcg.io/ex4/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Aron-MA59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -3636,6 +4108,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/60.png",
       "large": "https://images.pokemontcg.io/ex4/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Baltoy-MA60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3695,6 +4175,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/61.png",
       "large": "https://images.pokemontcg.io/ex4/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Baltoy-MA61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3754,6 +4242,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/62.png",
       "large": "https://images.pokemontcg.io/ex4/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Houndour-MA62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3813,6 +4309,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/63.png",
       "large": "https://images.pokemontcg.io/ex4/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Houndour-MA63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.69
+      }
     }
   },
   {
@@ -3872,6 +4376,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/64.png",
       "large": "https://images.pokemontcg.io/ex4/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Numel-MA64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3927,6 +4439,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/65.png",
       "large": "https://images.pokemontcg.io/ex4/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Poochyena-MA65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -3992,6 +4512,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/66.png",
       "large": "https://images.pokemontcg.io/ex4/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Poochyena-MA66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -4051,6 +4579,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/67.png",
       "large": "https://images.pokemontcg.io/ex4/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Rhyhorn-MA67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -4111,6 +4647,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/68.png",
       "large": "https://images.pokemontcg.io/ex4/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magmas-Rhyhorn-MA68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.65
+      }
     }
   },
   {
@@ -4133,6 +4677,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/69.png",
       "large": "https://images.pokemontcg.io/ex4/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aqua-Schemer-MA69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4155,6 +4707,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/70.png",
       "large": "https://images.pokemontcg.io/ex4/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magma-Schemer-MA70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -4177,6 +4737,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/71.png",
       "large": "https://images.pokemontcg.io/ex4/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Archie-MA71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4198,6 +4766,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/72.png",
       "large": "https://images.pokemontcg.io/ex4/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Dual-Ball-MA72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4220,6 +4796,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/73.png",
       "large": "https://images.pokemontcg.io/ex4/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Maxie-MA73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.85
+      }
     }
   },
   {
@@ -4242,6 +4826,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/74.png",
       "large": "https://images.pokemontcg.io/ex4/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Strength-Charm-MA74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4263,6 +4855,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/75.png",
       "large": "https://images.pokemontcg.io/ex4/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aqua-Ball-MA75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4285,6 +4885,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/76.png",
       "large": "https://images.pokemontcg.io/ex4/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aqua-Belt-MA76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4307,6 +4915,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/77.png",
       "large": "https://images.pokemontcg.io/ex4/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aqua-Conspirator-MA77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4329,6 +4945,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/78.png",
       "large": "https://images.pokemontcg.io/ex4/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aqua-Hideout-MA78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4361,6 +4985,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/79.png",
       "large": "https://images.pokemontcg.io/ex4/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Aqua-Technical-Machine-01-MA79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -4382,6 +5014,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/80.png",
       "large": "https://images.pokemontcg.io/ex4/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magma-Ball-MA80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.78
+      }
     }
   },
   {
@@ -4404,6 +5044,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/81.png",
       "large": "https://images.pokemontcg.io/ex4/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magma-Belt-MA81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -4426,6 +5074,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/82.png",
       "large": "https://images.pokemontcg.io/ex4/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magma-Conspirator-MA82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4448,6 +5104,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/83.png",
       "large": "https://images.pokemontcg.io/ex4/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magma-Hideout-MA83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4480,6 +5144,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/84.png",
       "large": "https://images.pokemontcg.io/ex4/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Team-Magma-Technical-Machine-01-MA84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4501,6 +5173,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/85.png",
       "large": "https://images.pokemontcg.io/ex4/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Warp-Point-MA85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4522,6 +5202,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/86.png",
       "large": "https://images.pokemontcg.io/ex4/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Aqua-Energy-MA86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.98
+      }
     }
   },
   {
@@ -4543,6 +5231,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/87.png",
       "large": "https://images.pokemontcg.io/ex4/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Magma-Energy-MA87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4564,6 +5260,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/88.png",
       "large": "https://images.pokemontcg.io/ex4/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Double-Rainbow-Energy-MA88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -4633,6 +5337,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/89.png",
       "large": "https://images.pokemontcg.io/ex4/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Blaziken-ex-MA89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 11.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4709,6 +5421,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/90.png",
       "large": "https://images.pokemontcg.io/ex4/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Cradily-ex-MA90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4771,6 +5491,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/91.png",
       "large": "https://images.pokemontcg.io/ex4/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Entei-ex-MA91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 19.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4833,6 +5561,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/92.png",
       "large": "https://images.pokemontcg.io/ex4/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Raikou-ex-MA92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 19.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4919,6 +5655,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/93.png",
       "large": "https://images.pokemontcg.io/ex4/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Sceptile-ex-MA93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 16.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4981,6 +5725,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/94.png",
       "large": "https://images.pokemontcg.io/ex4/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Suicune-ex-MA94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5045,6 +5797,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/95.png",
       "large": "https://images.pokemontcg.io/ex4/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Swampert-ex-MA95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 11.98,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5103,6 +5863,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/96.png",
       "large": "https://images.pokemontcg.io/ex4/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Absol-MA96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5159,6 +5927,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex4/97.png",
       "large": "https://images.pokemontcg.io/ex4/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Team-Magma-vs-Team-Aqua/Jirachi-MA97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

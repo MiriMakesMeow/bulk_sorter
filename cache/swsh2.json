@@ -20970,5 +20970,352 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "swsh2-promo-91",
+    "name": "Dragapult  (RCL 91) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Drakloak",
+    "abilities": [
+      {
+        "name": "Infiltrator",
+        "text": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Phantom Force",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": "Put 3 damage counters on your opponent's Benched Pokémon in any way you like."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "set": {
+      "id": "swsh2",
+      "name": "Rebel Clash",
+      "series": "Sword & Shield",
+      "printedTotal": 192,
+      "total": 209,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "RCL",
+      "releaseDate": "2020/05/01",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh2/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh2/logo.png"
+      }
+    },
+    "number": "91",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "flavorText": "When it isn't battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.",
+    "nationalPokedexNumbers": [
+      887
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh2/91.png",
+      "large": "https://images.pokemontcg.io/swsh2/91_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh2-91",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.23,
+          "mid": 0.4,
+          "high": 4.95,
+          "market": 0.34,
+          "directLow": 0.39
+        },
+        "reverseHolofoil": {
+          "low": 0.45,
+          "mid": 0.67,
+          "high": 5.95,
+          "market": 0.62,
+          "directLow": 1.0
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rebel-Clash/Dragapult-V2-RCL91",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh2-promo-55",
+    "name": "Eiscue V  (RCL 055) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "210",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Cold Absorption",
+        "text": "Whenever you attach a Water Energy card from your hand to this Pokémon during your turn, heal 30 damage from it.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Blizzard",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "swsh2",
+      "name": "Rebel Clash",
+      "series": "Sword & Shield",
+      "printedTotal": 192,
+      "total": 209,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "RCL",
+      "releaseDate": "2020/05/01",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh2/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh2/logo.png"
+      }
+    },
+    "number": "55",
+    "artist": "PLANETA Tsuji",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      875
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh2/55.png",
+      "large": "https://images.pokemontcg.io/swsh2/55_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh2-55",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.49,
+          "mid": 0.99,
+          "high": 89.0,
+          "market": 0.85,
+          "directLow": 0.79
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rebel-Clash/Eiscue-V-V2-RCL055",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh2-promo-154",
+    "name": "Boss's Orders - Giovanni (RCL 154) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh2",
+      "name": "Rebel Clash",
+      "series": "Sword & Shield",
+      "printedTotal": 192,
+      "total": 209,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "RCL",
+      "releaseDate": "2020/05/01",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh2/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh2/logo.png"
+      }
+    },
+    "number": "154",
+    "artist": "nagimiso",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh2/154.png",
+      "large": "https://images.pokemontcg.io/swsh2/154_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh2-154",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 1.39,
+          "mid": 2.82,
+          "high": 78.02,
+          "market": 2.72,
+          "directLow": 2.66
+        },
+        "reverseHolofoil": {
+          "low": 1.5,
+          "mid": 4.67,
+          "high": 89.0,
+          "market": 4.32,
+          "directLow": 5.14
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rebel-Clash/Bosss-Orders-Giovanni-V4-RCL154",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 17.0,
+        "reverseHoloLow": 17.0
+      }
+    }
+  },
+  {
+    "id": "swsh2-promo-174",
+    "name": "Twin Energy (RCL 174) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "As long as this card is attached to a Pokémon that isn't a Pokémon V or a Pokémon-GX, it provides ColorlessColorless Energy.",
+      "If this card is attached to a Pokémon V or a Pokémon-GX, it provides Colorless Energy instead."
+    ],
+    "set": {
+      "id": "swsh2",
+      "name": "Rebel Clash",
+      "series": "Sword & Shield",
+      "printedTotal": 192,
+      "total": 209,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "RCL",
+      "releaseDate": "2020/05/01",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh2/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh2/logo.png"
+      }
+    },
+    "number": "174",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh2/174.png",
+      "large": "https://images.pokemontcg.io/swsh2/174_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh2-174",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.3,
+          "high": 89.0,
+          "market": 0.27,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 1.0,
+          "high": 7.95,
+          "market": 0.95,
+          "directLow": 0.88
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rebel-Clash/Twin-Energy-V3-RCL174",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
   }
 ]

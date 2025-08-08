@@ -57,6 +57,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/1.png",
       "large": "https://images.pokemontcg.io/xy6/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Exeggcute-ROS1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -119,6 +127,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/2.png",
       "large": "https://images.pokemontcg.io/xy6/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Exeggutor-ROS2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -181,6 +197,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/3.png",
       "large": "https://images.pokemontcg.io/xy6/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Wurmple-ROS3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -235,6 +259,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/4.png",
       "large": "https://images.pokemontcg.io/xy6/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Silcoon-ROS4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -289,6 +321,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/5.png",
       "large": "https://images.pokemontcg.io/xy6/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Beautifly-ROS5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -353,6 +393,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/6.png",
       "large": "https://images.pokemontcg.io/xy6/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Cascoon-ROS6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -416,6 +464,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/7.png",
       "large": "https://images.pokemontcg.io/xy6/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Dustox-ROS7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -480,6 +536,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/8.png",
       "large": "https://images.pokemontcg.io/xy6/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Dustox-ROS8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -531,6 +595,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/9.png",
       "large": "https://images.pokemontcg.io/xy6/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Nincada-ROS9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -587,6 +659,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/10.png",
       "large": "https://images.pokemontcg.io/xy6/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Ninjask-ROS10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -639,6 +719,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/11.png",
       "large": "https://images.pokemontcg.io/xy6/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Shedinja-ROS11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -702,6 +790,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/12.png",
       "large": "https://images.pokemontcg.io/xy6/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Tropius-ROS12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -760,6 +856,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/13.png",
       "large": "https://images.pokemontcg.io/xy6/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Victini-ROS13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -808,6 +912,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/14.png",
       "large": "https://images.pokemontcg.io/xy6/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Fletchinder-ROS14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -863,6 +975,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/15.png",
       "large": "https://images.pokemontcg.io/xy6/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Talonflame-ROS15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -929,6 +1049,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/16.png",
       "large": "https://images.pokemontcg.io/xy6/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Articuno-ROS16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -999,6 +1127,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/17.png",
       "large": "https://images.pokemontcg.io/xy6/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Articuno-ROS17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -1056,6 +1192,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/18.png",
       "large": "https://images.pokemontcg.io/xy6/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Wingull-ROS18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -1125,6 +1269,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/19.png",
       "large": "https://images.pokemontcg.io/xy6/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Pelipper-ROS19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1192,6 +1344,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/20.png",
       "large": "https://images.pokemontcg.io/xy6/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Pikachu-ROS20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1259,6 +1419,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/21.png",
       "large": "https://images.pokemontcg.io/xy6/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Voltorb-ROS21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1325,6 +1493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/22.png",
       "large": "https://images.pokemontcg.io/xy6/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Electrode-ROS22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -1391,6 +1567,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/23.png",
       "large": "https://images.pokemontcg.io/xy6/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Zapdos-ROS23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -1448,6 +1632,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/24.png",
       "large": "https://images.pokemontcg.io/xy6/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Electrike-ROS24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1513,6 +1705,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/25.png",
       "large": "https://images.pokemontcg.io/xy6/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Manectric-ROS25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -1583,6 +1783,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/26.png",
       "large": "https://images.pokemontcg.io/xy6/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Thundurus-EX-ROS26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1634,6 +1842,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/27.png",
       "large": "https://images.pokemontcg.io/xy6/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Natu-ROS27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1690,6 +1906,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/28.png",
       "large": "https://images.pokemontcg.io/xy6/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Natu-ROS28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1749,6 +1973,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/29.png",
       "large": "https://images.pokemontcg.io/xy6/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Xatu-ROS29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1806,6 +2038,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/30.png",
       "large": "https://images.pokemontcg.io/xy6/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Shuppet-ROS30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1870,6 +2110,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/31.png",
       "large": "https://images.pokemontcg.io/xy6/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Banette-ROS31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1939,6 +2187,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/32.png",
       "large": "https://images.pokemontcg.io/xy6/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Banette-ROS32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -1997,6 +2253,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/33.png",
       "large": "https://images.pokemontcg.io/xy6/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Deoxys-ROS33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -2064,6 +2328,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/34.png",
       "large": "https://images.pokemontcg.io/xy6/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Gallade-EX-ROS34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.85,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2120,6 +2392,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/35.png",
       "large": "https://images.pokemontcg.io/xy6/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/MGallade-EX-ROS35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2171,6 +2451,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/36.png",
       "large": "https://images.pokemontcg.io/xy6/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Gligar-ROS36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2230,6 +2518,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/37.png",
       "large": "https://images.pokemontcg.io/xy6/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Gliscor-ROS37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2293,6 +2589,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/38.png",
       "large": "https://images.pokemontcg.io/xy6/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Binacle-ROS38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2358,6 +2662,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/39.png",
       "large": "https://images.pokemontcg.io/xy6/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Hawlucha-ROS39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2420,6 +2732,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/40.png",
       "large": "https://images.pokemontcg.io/xy6/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Absol-ROS40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -2487,6 +2807,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/41.png",
       "large": "https://images.pokemontcg.io/xy6/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Inkay-ROS41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2551,6 +2879,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/42.png",
       "large": "https://images.pokemontcg.io/xy6/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Jirachi-ROS42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -2608,6 +2944,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/43.png",
       "large": "https://images.pokemontcg.io/xy6/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Togepi-ROS43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2677,6 +3021,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/44.png",
       "large": "https://images.pokemontcg.io/xy6/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Togetic-ROS44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2744,6 +3096,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/45.png",
       "large": "https://images.pokemontcg.io/xy6/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Togekiss-ROS45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2812,6 +3172,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/46.png",
       "large": "https://images.pokemontcg.io/xy6/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Togekiss-ROS46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.55
+      }
     }
   },
   {
@@ -2876,6 +3244,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/47.png",
       "large": "https://images.pokemontcg.io/xy6/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Carbink-ROS47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2940,6 +3316,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/48.png",
       "large": "https://images.pokemontcg.io/xy6/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Klefki-ROS48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3001,6 +3385,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/49.png",
       "large": "https://images.pokemontcg.io/xy6/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Dratini-ROS49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -3065,6 +3457,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/50.png",
       "large": "https://images.pokemontcg.io/xy6/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Dragonair-ROS50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3125,6 +3525,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/51.png",
       "large": "https://images.pokemontcg.io/xy6/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Dragonite-ROS51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.6,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -3194,6 +3602,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/52.png",
       "large": "https://images.pokemontcg.io/xy6/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Dragonite-ROS52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 2.89
+      }
     }
   },
   {
@@ -3253,6 +3669,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/53.png",
       "large": "https://images.pokemontcg.io/xy6/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Altaria-ROS53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3305,6 +3729,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/54.png",
       "large": "https://images.pokemontcg.io/xy6/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Bagon-ROS54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -3366,6 +3798,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/55.png",
       "large": "https://images.pokemontcg.io/xy6/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Bagon-ROS55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3429,6 +3869,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/56.png",
       "large": "https://images.pokemontcg.io/xy6/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Shelgon-ROS56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3504,6 +3952,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/57.png",
       "large": "https://images.pokemontcg.io/xy6/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Salamence-ROS57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3571,6 +4027,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/58.png",
       "large": "https://images.pokemontcg.io/xy6/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Latios-EX-V1-ROS58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3622,6 +4086,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/59.png",
       "large": "https://images.pokemontcg.io/xy6/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/MLatios-EX-V1-ROS59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3690,6 +4162,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/60.png",
       "large": "https://images.pokemontcg.io/xy6/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Rayquaza-EX-ROS60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3752,6 +4232,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/61.png",
       "large": "https://images.pokemontcg.io/xy6/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/MRayquaza-EX-ROS61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3814,6 +4302,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/62.png",
       "large": "https://images.pokemontcg.io/xy6/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Hydreigon-EX-ROS62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3873,6 +4369,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/63.png",
       "large": "https://images.pokemontcg.io/xy6/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Reshiram-ROS63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3934,6 +4438,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/64.png",
       "large": "https://images.pokemontcg.io/xy6/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Zekrom-ROS64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -3992,6 +4504,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/65.png",
       "large": "https://images.pokemontcg.io/xy6/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Spearow-ROS65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4059,6 +4579,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/66.png",
       "large": "https://images.pokemontcg.io/xy6/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Fearow-ROS66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4121,6 +4649,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/67.png",
       "large": "https://images.pokemontcg.io/xy6/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Meowth-ROS67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4174,6 +4710,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/68.png",
       "large": "https://images.pokemontcg.io/xy6/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Dunsparce-ROS68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4238,6 +4782,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/69.png",
       "large": "https://images.pokemontcg.io/xy6/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Skarmory-ROS69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4295,6 +4847,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/70.png",
       "large": "https://images.pokemontcg.io/xy6/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Taillow-ROS70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -4361,6 +4921,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/71.png",
       "large": "https://images.pokemontcg.io/xy6/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Swellow-ROS71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4432,6 +5000,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/72.png",
       "large": "https://images.pokemontcg.io/xy6/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Swellow-ROS72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -4489,6 +5065,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/73.png",
       "large": "https://images.pokemontcg.io/xy6/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Swablu-ROS73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -4556,6 +5140,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/74.png",
       "large": "https://images.pokemontcg.io/xy6/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Altaria-ROS74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.17
+      }
     }
   },
   {
@@ -4628,6 +5220,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/75.png",
       "large": "https://images.pokemontcg.io/xy6/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Rayquaza-EX-ROS75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4693,6 +5293,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/76.png",
       "large": "https://images.pokemontcg.io/xy6/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/MRayquaza-EX-V1-ROS76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4758,6 +5366,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/77.png",
       "large": "https://images.pokemontcg.io/xy6/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Shaymin-EX-V1-ROS77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4890,6 +5506,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/78.png",
       "large": "https://images.pokemontcg.io/xy6/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Pidove-ROS78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4949,6 +5573,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/79.png",
       "large": "https://images.pokemontcg.io/xy6/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Tranquill-ROS79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5015,6 +5647,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/80.png",
       "large": "https://images.pokemontcg.io/xy6/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Unfezant-ROS80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5082,6 +5722,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/81.png",
       "large": "https://images.pokemontcg.io/xy6/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Unfezant-ROS81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -5139,6 +5787,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/82.png",
       "large": "https://images.pokemontcg.io/xy6/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Fletchling-ROS82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5163,6 +5819,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/83.png",
       "large": "https://images.pokemontcg.io/xy6/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Gallade-Spirit-Link-ROS83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5187,6 +5851,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/84.png",
       "large": "https://images.pokemontcg.io/xy6/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Healing-Scarf-ROS84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5211,6 +5883,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/85.png",
       "large": "https://images.pokemontcg.io/xy6/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Latios-Spirit-Link-ROS85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5234,6 +5914,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/86.png",
       "large": "https://images.pokemontcg.io/xy6/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Mega-Turbo-ROS86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5258,6 +5946,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/87.png",
       "large": "https://images.pokemontcg.io/xy6/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Rayquaza-Spirit-Link-ROS87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5281,6 +5977,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/88.png",
       "large": "https://images.pokemontcg.io/xy6/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Revive-ROS88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5305,6 +6009,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/89.png",
       "large": "https://images.pokemontcg.io/xy6/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Sky-Field-ROS89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -5328,6 +6040,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/90.png",
       "large": "https://images.pokemontcg.io/xy6/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Steven-ROS90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5352,6 +6072,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/91.png",
       "large": "https://images.pokemontcg.io/xy6/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Switch-ROS91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5375,6 +6103,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/92.png",
       "large": "https://images.pokemontcg.io/xy6/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Trainers-Mail-V1-ROS92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.65,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -5422,6 +6158,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/93.png",
       "large": "https://images.pokemontcg.io/xy6/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Ultra-Ball-ROS93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -5445,6 +6189,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/94.png",
       "large": "https://images.pokemontcg.io/xy6/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Wally-ROS94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5469,6 +6221,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/95.png",
       "large": "https://images.pokemontcg.io/xy6/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Wide-Lens-ROS95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -5492,6 +6252,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/96.png",
       "large": "https://images.pokemontcg.io/xy6/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Winona-ROS96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5515,6 +6283,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/97.png",
       "large": "https://images.pokemontcg.io/xy6/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Double-Dragon-Energy-ROS97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.49,
+        "reverseHoloLow": 3.75
+      }
     }
   },
   {
@@ -5585,6 +6361,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/98.png",
       "large": "https://images.pokemontcg.io/xy6/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Thundurus-EX-ROS98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.8,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5652,6 +6436,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/99.png",
       "large": "https://images.pokemontcg.io/xy6/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Gallade-EX-ROS99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5708,6 +6500,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/100.png",
       "large": "https://images.pokemontcg.io/xy6/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/MGallade-EX-ROS100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5775,6 +6575,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/101.png",
       "large": "https://images.pokemontcg.io/xy6/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Latios-EX-V2-ROS101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5826,6 +6634,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/102.png",
       "large": "https://images.pokemontcg.io/xy6/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/MLatios-EX-V2-ROS102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5888,6 +6704,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/103.png",
       "large": "https://images.pokemontcg.io/xy6/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Hydreigon-EX-ROS103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5960,6 +6784,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/104.png",
       "large": "https://images.pokemontcg.io/xy6/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Rayquaza-EX-ROS104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6025,6 +6857,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/105.png",
       "large": "https://images.pokemontcg.io/xy6/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/MRayquaza-EX-V2-ROS105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 25.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6090,6 +6930,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/106.png",
       "large": "https://images.pokemontcg.io/xy6/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Shaymin-EX-V2-ROS106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6113,6 +6961,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/107.png",
       "large": "https://images.pokemontcg.io/xy6/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Wally-ROS107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6136,6 +6992,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/108.png",
       "large": "https://images.pokemontcg.io/xy6/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Winona-ROS108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6160,6 +7024,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/109.png",
       "large": "https://images.pokemontcg.io/xy6/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/Energy-Switch-ROS109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6183,6 +7055,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/xy6/110.png",
       "large": "https://images.pokemontcg.io/xy6/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Roaring-Skies/VS-Seeker-ROS110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

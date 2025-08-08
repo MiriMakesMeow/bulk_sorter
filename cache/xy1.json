@@ -9139,5 +9139,205 @@
         "reverseHoloLow": 40.0
       }
     }
+  },
+  {
+    "id": "xy1-promo-56",
+    "name": "Pumpkaboo  (XY 56) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [
+      "Gourgeist"
+    ],
+    "attacks": [
+      {
+        "name": "Confuse Ray",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "56",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "flavorText": "The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.",
+    "nationalPokedexNumbers": [
+      710
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/56.png",
+      "large": "https://images.pokemontcg.io/xy1/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY/Pumpkaboo-V2-XY56",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy1-promo-64",
+    "name": "Solrock  (XY 64) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Cosmic Spin",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "If Lunatone is on your Bench, this attack does 30 more damage."
+      },
+      {
+        "name": "Solar Beam",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "64",
+    "artist": "kawayoo",
+    "rarity": "Promo",
+    "flavorText": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
+    "nationalPokedexNumbers": [
+      338
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/64.png",
+      "large": "https://images.pokemontcg.io/xy1/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY/Solrock-V2-XY64",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "xy1-promo-83",
+    "name": "Honedge  (XY 83) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [
+      "Doublade"
+    ],
+    "attacks": [
+      {
+        "name": "Pierce",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "83",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "flavorText": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
+    "nationalPokedexNumbers": [
+      679
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy1/83.png",
+      "large": "https://images.pokemontcg.io/xy1/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY/Honedge-V2-XY83",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.6,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

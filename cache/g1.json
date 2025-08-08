@@ -6729,5 +6729,350 @@
       "small": "https://images.pokemontcg.io/g1/RC32.png",
       "large": "https://images.pokemontcg.io/g1/RC32_hires.png"
     }
+  },
+  {
+    "id": "g1-promo-8",
+    "name": "Tangela  (GEN 8) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [
+      "Tangrowth"
+    ],
+    "attacks": [
+      {
+        "name": "Absorb",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Heal 20 damage from this Pokémon."
+      },
+      {
+        "name": "Vine Whip",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "8",
+    "artist": "match",
+    "rarity": "Promo",
+    "flavorText": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
+    "nationalPokedexNumbers": [
+      114
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/8.png",
+      "large": "https://images.pokemontcg.io/g1/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Tangela-V2-GEN8",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "g1-promo-14",
+    "name": "Ponyta  (GEN 14) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [
+      "Rapidash"
+    ],
+    "attacks": [
+      {
+        "name": "Agility",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+      },
+      {
+        "name": "Flame Tail",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "14",
+    "artist": "Tomokazu Komiya",
+    "rarity": "Promo",
+    "flavorText": "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",
+    "nationalPokedexNumbers": [
+      77
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/14.png",
+      "large": "https://images.pokemontcg.io/g1/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Ponyta-V2-GEN14",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "g1-promo-43",
+    "name": "Geodude  (GEN 43) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesTo": [
+      "Graveler"
+    ],
+    "attacks": [
+      {
+        "name": "Rollout",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Flail",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10×",
+        "text": "This attack does 10 damage times the number of damage counters on this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "43",
+    "artist": "MAHOU",
+    "rarity": "Promo",
+    "flavorText": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+    "nationalPokedexNumbers": [
+      74
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/43.png",
+      "large": "https://images.pokemontcg.io/g1/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Geodude-V2-GEN43",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.75,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "g1-promo-50",
+    "name": "Clefairy  (GEN 50) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Fairy"
+    ],
+    "evolvesTo": [
+      "Clefable"
+    ],
+    "attacks": [
+      {
+        "name": "Moonlight",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Heal 30 damage from this Pokémon."
+      },
+      {
+        "name": "Pound",
+        "cost": [
+          "Fairy",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Darkness",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "50",
+    "artist": "Shibuzoh.",
+    "rarity": "Promo",
+    "flavorText": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+    "nationalPokedexNumbers": [
+      35
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/50.png",
+      "large": "https://images.pokemontcg.io/g1/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Clefairy-V2-GEN50",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "g1-promo-53",
+    "name": "Meowth  (GEN 53) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Persian"
+    ],
+    "attacks": [
+      {
+        "name": "Exhausted Tackle",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, this attack does 30 damage to your opponent's Active Pokémon. If tails, this Pokémon does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "53",
+    "artist": "kirisAki",
+    "rarity": "Promo",
+    "flavorText": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
+    "nationalPokedexNumbers": [
+      52
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/g1/53.png",
+      "large": "https://images.pokemontcg.io/g1/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Generations/Meowth-V2-GEN53",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

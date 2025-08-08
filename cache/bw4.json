@@ -6095,5 +6095,94 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "bw4-promo-291",
+    "name": "Lucario VSTAR  (SWSH 291) (Promo)",
+    "rarity": "Promo",
+    "number": "291",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SWSH-Black-Star-Promos/Lucario-VSTAR-SWSH291",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw4-promo-51",
+    "name": "Snorlax  (SVP 051) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "EX"
+    ],
+    "hp": "180",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Glinting Claw",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50+",
+        "text": "Flip a coin. If heads, this attack does 30 more damage."
+      },
+      {
+        "name": "Strong Volt",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "150",
+        "text": "Discard 2 Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "51",
+    "artist": "Shizurow",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      644
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw4/51.png",
+      "large": "https://images.pokemontcg.io/bw4/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos/Snorlax-V1-SVP051",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.89,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

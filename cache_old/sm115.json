@@ -48,6 +48,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/1.png",
       "large": "https://images.pokemontcg.io/sm115/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Caterpie-HIF1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -102,6 +110,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/2.png",
       "large": "https://images.pokemontcg.io/sm115/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Metapod-HIF2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -152,6 +168,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/3.png",
       "large": "https://images.pokemontcg.io/sm115/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Butterfree-HIF3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -213,6 +237,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/4.png",
       "large": "https://images.pokemontcg.io/sm115/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Paras-HIF4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -274,6 +306,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/5.png",
       "large": "https://images.pokemontcg.io/sm115/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Scyther-HIF5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -339,6 +379,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/6.png",
       "large": "https://images.pokemontcg.io/sm115/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Pinsir-GX-HIF6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.59,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -400,6 +448,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/7.png",
       "large": "https://images.pokemontcg.io/sm115/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Charmander-HIF7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -464,6 +520,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/8.png",
       "large": "https://images.pokemontcg.io/sm115/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Charmeleon-V1-HIF8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -533,6 +597,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/9.png",
       "large": "https://images.pokemontcg.io/sm115/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Charizard-GX-V1-HIF9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -586,6 +658,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/10.png",
       "large": "https://images.pokemontcg.io/sm115/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Magmar-HIF10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -637,6 +717,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/11.png",
       "large": "https://images.pokemontcg.io/sm115/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Psyduck-HIF11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -690,6 +778,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/12.png",
       "large": "https://images.pokemontcg.io/sm115/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Slowpoke-HIF12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -741,6 +837,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/13.png",
       "large": "https://images.pokemontcg.io/sm115/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Staryu-HIF13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -809,6 +913,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/14.png",
       "large": "https://images.pokemontcg.io/sm115/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Starmie-GX-HIF14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -860,6 +972,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/15.png",
       "large": "https://images.pokemontcg.io/sm115/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Magikarp-HIF15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -929,6 +1049,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/16.png",
       "large": "https://images.pokemontcg.io/sm115/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Gyarados-GX-HIF16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -980,6 +1108,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/17.png",
       "large": "https://images.pokemontcg.io/sm115/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Lapras-HIF17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -1043,6 +1179,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/18.png",
       "large": "https://images.pokemontcg.io/sm115/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Vaporeon-HIF18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1111,6 +1255,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/19.png",
       "large": "https://images.pokemontcg.io/sm115/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Pikachu-V1-HIF19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1182,6 +1334,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/20.png",
       "large": "https://images.pokemontcg.io/sm115/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Raichu-GX-V1-HIF20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1239,6 +1399,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/21.png",
       "large": "https://images.pokemontcg.io/sm115/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Voltorb-HIF21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1305,6 +1473,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/22.png",
       "large": "https://images.pokemontcg.io/sm115/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Electrode-HIF22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1364,6 +1540,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/23.png",
       "large": "https://images.pokemontcg.io/sm115/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Jolteon-HIF23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1431,6 +1615,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/24.png",
       "large": "https://images.pokemontcg.io/sm115/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Zapdos-HIF24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.06,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1482,6 +1674,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/25.png",
       "large": "https://images.pokemontcg.io/sm115/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Ekans-HIF25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -1534,6 +1734,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/26.png",
       "large": "https://images.pokemontcg.io/sm115/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Ekans-HIF26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1593,6 +1801,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/27.png",
       "large": "https://images.pokemontcg.io/sm115/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Arbok-HIF27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1644,6 +1860,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/28.png",
       "large": "https://images.pokemontcg.io/sm115/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Koffing-HIF28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1702,6 +1926,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/29.png",
       "large": "https://images.pokemontcg.io/sm115/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Weezing-HIF29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -1760,6 +1992,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/30.png",
       "large": "https://images.pokemontcg.io/sm115/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Jynx-HIF30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1825,6 +2065,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/31.png",
       "large": "https://images.pokemontcg.io/sm115/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Mewtwo-GX-V1-HIF31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1874,6 +2122,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/32.png",
       "large": "https://images.pokemontcg.io/sm115/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Mew-V1-HIF32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -1926,6 +2182,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/33.png",
       "large": "https://images.pokemontcg.io/sm115/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Geodude-HIF33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.06
+      }
     }
   },
   {
@@ -1993,6 +2257,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/34.png",
       "large": "https://images.pokemontcg.io/sm115/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Graveler-HIF34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2059,6 +2331,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/35.png",
       "large": "https://images.pokemontcg.io/sm115/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Golem-HIF35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2142,6 +2422,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/36.png",
       "large": "https://images.pokemontcg.io/sm115/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Onix-GX-HIF36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2195,6 +2483,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/37.png",
       "large": "https://images.pokemontcg.io/sm115/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Cubone-HIF37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -2261,6 +2557,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/38.png",
       "large": "https://images.pokemontcg.io/sm115/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Clefairy-HIF38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2328,6 +2632,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/39.png",
       "large": "https://images.pokemontcg.io/sm115/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Clefairy-HIF39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -2396,6 +2708,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/40.png",
       "large": "https://images.pokemontcg.io/sm115/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Clefable-HIF40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2463,6 +2783,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/41.png",
       "large": "https://images.pokemontcg.io/sm115/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Jigglypuff-HIF41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2535,6 +2863,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/42.png",
       "large": "https://images.pokemontcg.io/sm115/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Wigglytuff-GX-HIF42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2599,6 +2935,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/43.png",
       "large": "https://images.pokemontcg.io/sm115/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Mr-Mime-HIF43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2673,6 +3017,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/44.png",
       "large": "https://images.pokemontcg.io/sm115/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Moltres-Zapdos-Articuno-GX-V1-HIF44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 20.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2731,6 +3083,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/45.png",
       "large": "https://images.pokemontcg.io/sm115/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Farfetchd-HIF45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -2785,6 +3145,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/46.png",
       "large": "https://images.pokemontcg.io/sm115/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Chansey-V1-HIF46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -2835,6 +3203,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/47.png",
       "large": "https://images.pokemontcg.io/sm115/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Kangaskhan-HIF47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -2903,6 +3279,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/48.png",
       "large": "https://images.pokemontcg.io/sm115/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Eevee-HIF48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2961,6 +3345,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/49.png",
       "large": "https://images.pokemontcg.io/sm115/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Eevee-V1-HIF49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3014,6 +3406,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/50.png",
       "large": "https://images.pokemontcg.io/sm115/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Snorlax-V1-HIF50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3037,6 +3437,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/51.png",
       "large": "https://images.pokemontcg.io/sm115/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Bills-Analysis-HIF51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -3061,6 +3469,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/52.png",
       "large": "https://images.pokemontcg.io/sm115/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Blaines-Last-Stand-HIF52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3084,6 +3500,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/53.png",
       "large": "https://images.pokemontcg.io/sm115/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Brocks-Grit-HIF53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -3107,6 +3531,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/54.png",
       "large": "https://images.pokemontcg.io/sm115/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Brocks-Pewter-City-Gym-HIF54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -3130,6 +3562,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/55.png",
       "large": "https://images.pokemontcg.io/sm115/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Brocks-Training-HIF55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3154,6 +3594,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/56.png",
       "large": "https://images.pokemontcg.io/sm115/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Erikas-Hospitality-HIF56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3177,6 +3625,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/57.png",
       "large": "https://images.pokemontcg.io/sm115/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Giovannis-Exile-V1-HIF57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3200,6 +3656,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/58.png",
       "large": "https://images.pokemontcg.io/sm115/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Jessie-James-V1-HIF58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3223,6 +3687,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/59.png",
       "large": "https://images.pokemontcg.io/sm115/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Kogas-Trap-HIF59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -3247,6 +3719,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/60.png",
       "large": "https://images.pokemontcg.io/sm115/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Lt-Surges-Strategy-HIF60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3270,6 +3750,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/61.png",
       "large": "https://images.pokemontcg.io/sm115/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Mistys-Cerulean-City-Gym-HIF61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3293,6 +3781,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/62.png",
       "large": "https://images.pokemontcg.io/sm115/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Mistys-Determination-HIF62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3316,6 +3812,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/63.png",
       "large": "https://images.pokemontcg.io/sm115/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Mistys-Water-Command-HIF63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3339,6 +3843,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/64.png",
       "large": "https://images.pokemontcg.io/sm115/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Pokemon-Center-Lady-HIF64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3362,6 +3874,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/65.png",
       "large": "https://images.pokemontcg.io/sm115/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Sabrinas-Suggestion-HIF65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3436,6 +3956,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/66.png",
       "large": "https://images.pokemontcg.io/sm115/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Moltres-Zapdos-Articuno-GX-V2-HIF66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3459,6 +3987,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/67.png",
       "large": "https://images.pokemontcg.io/sm115/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Giovannis-Exile-V2-HIF67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3482,6 +4018,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/68.png",
       "large": "https://images.pokemontcg.io/sm115/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Jessie-James-V2-HIF68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 24.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3556,6 +4100,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm115/69.png",
       "large": "https://images.pokemontcg.io/sm115/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates/Moltres-Zapdos-Articuno-GX-V3-HIF69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.49,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

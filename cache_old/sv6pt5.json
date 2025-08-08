@@ -2,7 +2,7 @@
   {
     "id": "sv6pt5-1",
     "name": "Joltik",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -21,13 +21,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pok\u00e9mon."
+        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -89,31 +89,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-1",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Joltik-SFA001",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.09,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.05,
-        "reverseHoloAvg7": 0.08,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-2",
     "name": "Galvantula",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -125,7 +112,7 @@
     "abilities": [
       {
         "name": "Compound Eyes",
-        "text": "Attacks used by this Pok\u00e9mon do 50 more damage to your opponent's Active Pok\u00e9mon that has an Ability (before applying Weakness and Resistance).",
+        "text": "Attacks used by this Pokémon do 50 more damage to your opponent's Active Pokémon that has an Ability (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -138,13 +125,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50+",
-        "text": "If this Pok\u00e9mon has any Lightning Energy attached, this attack does 80 more damage."
+        "text": "If this Pokémon has any Lightning Energy attached, this attack does 80 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -206,31 +193,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-2",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Galvantula-SFA002",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.15,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.05,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.19,
-        "reverseHoloAvg7": 0.16,
-        "reverseHoloAvg30": 0.11
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-3",
     "name": "Rowlet",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -264,7 +238,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -326,31 +300,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-3",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Rowlet-SFA003",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.08,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.03,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.19,
-        "reverseHoloAvg7": 0.1,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-4",
     "name": "Dartrix",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -369,8 +330,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "20\u00d7",
-        "text": "This attack does 20 damage for each Pok\u00e9mon in your discard pile that has the United Wings attack."
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Pokémon in your discard pile that has the United Wings attack."
       },
       {
         "name": "Cutting Wind",
@@ -385,7 +346,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -447,31 +408,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-4",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Dartrix-SFA004",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.12,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.1,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.04,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.08,
-        "reverseHoloAvg7": 0.08,
-        "reverseHoloAvg30": 0.14
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-5",
     "name": "Decidueye",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -503,7 +451,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -566,31 +514,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-5",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Decidueye-SFA005",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.07,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.11,
-        "reverseHoloAvg7": 0.08,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-6",
     "name": "Tapu Bulu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -609,13 +544,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "220",
-        "text": "This Pok\u00e9mon also does 30 damage to itself."
+        "text": "This Pokémon also does 30 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -676,31 +611,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-6",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Tapu-Bulu-V1-SFA006",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.12,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.2,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.05,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.25,
-        "reverseHoloAvg30": 0.12
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-7",
     "name": "Houndour",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -737,7 +659,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -799,31 +721,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-7",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Houndour-SFA007",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.07,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.07,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.07,
-        "reverseHoloAvg30": 0.07
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-8",
     "name": "Houndoom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -852,13 +761,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "During your opponent's next turn, attacks used by the Defending Pok\u00e9mon do 100 less damage (before applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, attacks used by the Defending Pokémon do 100 less damage (before applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -921,31 +830,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-8",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Houndoom-V1-SFA008",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.1,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.13,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.22,
-        "reverseHoloAvg7": 0.18,
-        "reverseHoloAvg30": 0.11
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-9",
     "name": "Iron Moth",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "Future"
@@ -963,7 +859,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Heal from this Pok\u00e9mon the same amount of damage you did to your opponent's Active Pok\u00e9mon."
+        "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
       },
       {
         "name": "Anachronism Repulsor",
@@ -974,13 +870,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "During your opponent's next turn, prevent all damage done to this Pok\u00e9mon by attacks from Ancient Pok\u00e9mon."
+        "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Ancient Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1040,31 +936,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-9",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Iron-Moth-SFA009",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.12,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.11,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.12,
-        "reverseHoloAvg30": 0.12
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-10",
     "name": "Horsea",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1083,7 +966,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       },
       {
         "name": "Razor Fin",
@@ -1099,7 +982,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1161,31 +1044,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-10",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Horsea-V1-SFA010",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.09,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.09,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.08,
-        "reverseHoloAvg30": 0.09
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-11",
     "name": "Seadra",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1205,7 +1075,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for up to 3 Pok\u00e9mon, reveal them, and put them into your hand. Then, shuffle your deck."
+        "text": "Search your deck for up to 3 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
       },
       {
         "name": "Sharp Fin",
@@ -1221,7 +1091,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1283,31 +1153,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-11",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Seadra-V1-SFA011",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.1,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.13,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.07,
-        "reverseHoloAvg7": 0.11,
-        "reverseHoloAvg30": 0.1
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-12",
     "name": "Kingdra ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
       "ex"
@@ -1318,7 +1175,7 @@
     ],
     "evolvesFrom": "Seadra",
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1328,7 +1185,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Put up to 3 Water Pok\u00e9mon from your discard pile onto your Bench."
+        "text": "Put up to 3 Water Pokémon from your discard pile onto your Bench."
       },
       {
         "name": "Hydro Pump",
@@ -1338,13 +1195,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50+",
-        "text": "This attack does 50 more damage for each Water Energy attached to this Pok\u00e9mon."
+        "text": "This attack does 50 more damage for each Water Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1399,31 +1256,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-12",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Kingdra-ex-V1-SFA012",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.58,
         "lowPrice": 0.1,
-        "trendPrice": 0.52,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.51,
-        "avg7": 0.54,
-        "avg30": 0.57,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-13",
     "name": "Sneasel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1452,13 +1296,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1520,31 +1364,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-13",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Sneasel-SFA013",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.07,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.08,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.15,
-        "reverseHoloAvg7": 0.08,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-14",
     "name": "Weavile",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1571,13 +1402,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "70",
-        "text": "Discard all Energy from this Pok\u00e9mon. Your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Discard all Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1639,31 +1470,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-14",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Weavile-SFA014",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.06,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.06,
-        "reverseHoloAvg7": 0.07,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-15",
     "name": "Revavroom ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Tera",
@@ -1675,8 +1493,8 @@
     ],
     "evolvesFrom": "Varoom",
     "rules": [
-      "As long as this Pok\u00e9mon is on your Bench, prevent all damage done to this Pok\u00e9mon by attacks (both yours and your opponent's).",
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1686,7 +1504,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20+",
-        "text": "If this Pok\u00e9mon moved from your Bench to the Active Spot this turn, this attack does 120 more damage."
+        "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 120 more damage."
       },
       {
         "name": "Shattering Speed",
@@ -1697,13 +1515,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "250",
-        "text": "Discard this Pok\u00e9mon and all attached cards."
+        "text": "Discard this Pokémon and all attached cards."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1758,31 +1576,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-15",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Revavroom-ex-V1-SFA015",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.52,
-        "lowPrice": 0.05,
-        "trendPrice": 0.47,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.41,
-        "avg7": 0.55,
-        "avg30": 0.52,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.04,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-16",
     "name": "Drowzee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1807,7 +1612,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1876,31 +1681,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-16",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Drowzee-SFA016",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.09,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.03,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.14,
-        "reverseHoloAvg7": 0.1,
-        "reverseHoloAvg30": 0.12
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-17",
     "name": "Hypno",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1918,13 +1710,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "80",
-        "text": "During your opponent's next turn, if they attach an Energy card from their hand to the Defending Pok\u00e9mon, their turn ends."
+        "text": "During your opponent's next turn, if they attach an Energy card from their hand to the Defending Pokémon, their turn ends."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1993,31 +1785,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-17",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Hypno-SFA017",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.1,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.09,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.07,
-        "reverseHoloAvg7": 0.09,
-        "reverseHoloAvg30": 0.11
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-18",
     "name": "Duskull",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2052,7 +1831,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2120,31 +1899,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-18",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Duskull-V1-SFA018",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.14,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.15,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.05,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.24,
-        "reverseHoloAvg7": 0.18,
-        "reverseHoloAvg30": 0.15
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-19",
     "name": "Dusclops",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2159,7 +1925,7 @@
     "abilities": [
       {
         "name": "Cursed Blast",
-        "text": "Once during your turn, you may put 5 damage counters on 1 of your opponent's Pok\u00e9mon. If you use this Ability, this Pok\u00e9mon is Knocked Out.",
+        "text": "Once during your turn, you may put 5 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.",
         "type": "Ability"
       }
     ],
@@ -2178,7 +1944,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2247,31 +2013,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-19",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Dusclops-V1-SFA019",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.18,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.19,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.06,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.27,
-        "reverseHoloAvg7": 0.22,
-        "reverseHoloAvg30": 0.18
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-20",
     "name": "Dusknoir",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -2283,7 +2036,7 @@
     "abilities": [
       {
         "name": "Cursed Blast",
-        "text": "Once during your turn, you may put 13 damage counters on 1 of your opponent's Pok\u00e9mon. If you use this Ability, this Pok\u00e9mon is Knocked Out.",
+        "text": "Once during your turn, you may put 13 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.",
         "type": "Ability"
       }
     ],
@@ -2297,13 +2050,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "150",
-        "text": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2373,31 +2126,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-20",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Dusknoir-V1-SFA020",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.18,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.12,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.1,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.04,
-        "reverseHoloAvg7": 0.15,
-        "reverseHoloAvg30": 0.18
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-21",
     "name": "Cresselia",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2413,7 +2153,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 20 damage from each of your Pok\u00e9mon."
+        "text": "Heal 20 damage from each of your Pokémon."
       },
       {
         "name": "Crescent Purge",
@@ -2430,7 +2170,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2498,31 +2238,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-21",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cresselia-V1-SFA021",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.14,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.07,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.13,
-        "reverseHoloAvg7": 0.19,
-        "reverseHoloAvg30": 0.11
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-22",
     "name": "Sylveon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2539,7 +2266,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, choose 1 of your opponent's Benched Pok\u00e9mon. Shuffle that Pok\u00e9mon and all attached cards into their deck."
+        "text": "Flip a coin. If heads, choose 1 of your opponent's Benched Pokémon. Shuffle that Pokémon and all attached cards into their deck."
       },
       {
         "name": "Disarming Voice",
@@ -2550,13 +2277,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90",
-        "text": "Your opponent's Active Pok\u00e9mon is now Confused."
+        "text": "Your opponent's Active Pokémon is now Confused."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2618,31 +2345,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-22",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Sylveon-SFA022",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.17,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.12,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.21,
-        "avg7": 0.1,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.38,
-        "reverseHoloAvg7": 0.21,
-        "reverseHoloAvg30": 0.17
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-23",
     "name": "Croagunk",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2677,7 +2391,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2739,31 +2453,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-23",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Croagunk-SFA023",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.09,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.1,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.05,
-        "reverseHoloAvg7": 0.09,
-        "reverseHoloAvg30": 0.09
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-24",
     "name": "Toxicroak",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2792,13 +2493,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90+",
-        "text": "If your opponent's Active Pok\u00e9mon is an Evolution Pok\u00e9mon, this attack does 90 more damage."
+        "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 90 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2860,31 +2561,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-24",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Toxicroak-SFA024",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.07,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.08,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.08,
-        "reverseHoloAvg7": 0.09,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-25",
     "name": "Bloodmoon Ursaluna",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2895,7 +2583,7 @@
     "abilities": [
       {
         "name": "Battle-Hardened",
-        "text": "When you play this Pok\u00e9mon from your hand onto your Bench during your turn, you may attach up to 2 Basic Fighting Energy cards from your hand to this Pok\u00e9mon.",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may attach up to 2 Basic Fighting Energy cards from your hand to this Pokémon.",
         "type": "Ability"
       }
     ],
@@ -2909,13 +2597,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100+",
-        "text": "This attack does 30 more damage for each damage counter on your opponent's Active Pok\u00e9mon."
+        "text": "This attack does 30 more damage for each damage counter on your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2980,31 +2668,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-25",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Bloodmoon-Ursaluna-SFA025",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.09,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.12,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.03,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.18,
-        "reverseHoloAvg7": 0.13,
-        "reverseHoloAvg30": 0.1
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-26",
     "name": "Slither Wing",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "Ancient"
@@ -3022,7 +2697,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "If your opponent has any Future Pok\u00e9mon in play, this attack does 120 more damage."
+        "text": "If your opponent has any Future Pokémon in play, this attack does 120 more damage."
       },
       {
         "name": "Smashing Wing",
@@ -3033,13 +2708,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "Discard 2 Energy from this Pok\u00e9mon."
+        "text": "Discard 2 Energy from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3100,31 +2775,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-26",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Slither-Wing-SFA026",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.1,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.1,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.09,
-        "reverseHoloAvg7": 0.11,
-        "reverseHoloAvg30": 0.1
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-27",
     "name": "Zubat",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3158,7 +2820,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3226,31 +2888,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-27",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Zubat-SFA027",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.1,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.11,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.03,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.14,
-        "reverseHoloAvg7": 0.1,
-        "reverseHoloAvg30": 0.1
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-28",
     "name": "Golbat",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3280,13 +2929,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "80",
-        "text": "During your next turn, this Pok\u00e9mon can't attack."
+        "text": "During your next turn, this Pokémon can't attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3354,31 +3003,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-28",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Golbat-SFA028",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.1,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.09,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.08,
-        "reverseHoloAvg7": 0.09,
-        "reverseHoloAvg30": 0.1
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-29",
     "name": "Crobat",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -3403,13 +3039,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "120",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned. During Pok\u00e9mon Checkup, put 2 damage counters on that Pok\u00e9mon instead of 1."
+        "text": "Your opponent's Active Pokémon is now Poisoned. During Pokémon Checkup, put 2 damage counters on that Pokémon instead of 1."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3473,31 +3109,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-29",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Crobat-SFA029",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.09,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.11,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.13,
-        "reverseHoloAvg7": 0.14,
-        "reverseHoloAvg30": 0.09
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-30",
     "name": "Absol",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3519,7 +3142,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3581,31 +3204,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-30",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Absol-SFA030",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.09,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.14,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.03,
-        "reverseHoloAvg7": 0.12,
-        "reverseHoloAvg30": 0.1
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-31",
     "name": "Zorua",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3633,14 +3243,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3702,31 +3312,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-31",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Zorua-V1-SFA031",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.09,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.12,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.07,
-        "reverseHoloAvg7": 0.12,
-        "reverseHoloAvg30": 0.09
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-32",
     "name": "Zoroark",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3743,8 +3340,8 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "60\u00d7",
-        "text": "This attack does 60 damage for each of your opponent's Pok\u00e9mon ex and Pok\u00e9mon V in play."
+        "damage": "60×",
+        "text": "This attack does 60 damage for each of your opponent's Pokémon ex and Pokémon V in play."
       },
       {
         "name": "Claw Slash",
@@ -3761,7 +3358,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3823,31 +3420,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-32",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Zoroark-SFA032",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.12,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.18,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.04,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.18,
-        "reverseHoloAvg7": 0.17,
-        "reverseHoloAvg30": 0.12
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-33",
     "name": "Inkay",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3881,7 +3465,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3943,31 +3527,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-33",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Inkay-SFA033",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.09,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.17,
-        "reverseHoloAvg7": 0.1,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-34",
     "name": "Malamar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3984,7 +3555,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Switch in 1 of your opponent's Benched Pok\u00e9mon to the Active Spot. If you do, this attack does 120 damage to the new Active Pok\u00e9mon. If you didn't play Xerosic's Machinations from your hand during this turn, this attack does nothing."
+        "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 120 damage to the new Active Pokémon. If you didn't play Xerosic's Machinations from your hand during this turn, this attack does nothing."
       },
       {
         "name": "Spinning Attack",
@@ -4001,7 +3572,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4065,31 +3636,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-34",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Malamar-SFA034",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.13,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.37,
-        "reverseHoloAvg7": 0.14,
-        "reverseHoloAvg30": 0.09
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-35",
     "name": "Yveltal",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4105,7 +3663,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Put 2 damage counters on each of your opponent's Pok\u00e9mon that has any damage counters on it."
+        "text": "Put 2 damage counters on each of your opponent's Pokémon that has any damage counters on it."
       },
       {
         "name": "Destructive Beam",
@@ -4116,13 +3674,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4190,31 +3748,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-35",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Yveltal-SFA035",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.15,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.19,
-        "reverseHoloAvg7": 0.17,
-        "reverseHoloAvg30": 0.12
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-36",
     "name": "Okidogi ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "ex"
@@ -4224,7 +3769,7 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -4234,7 +3779,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pok\u00e9mon. Then, shuffle your deck. If you attached Energy to a Pok\u00e9mon in this way, this Pok\u00e9mon is now Poisoned."
+        "text": "Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, this Pokémon is now Poisoned."
       },
       {
         "name": "Chain-Crazed",
@@ -4245,13 +3790,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130+",
-        "text": "If this Pok\u00e9mon is Poisoned, this attack does 130 more damage."
+        "text": "If this Pokémon is Poisoned, this attack does 130 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4305,31 +3850,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-36",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Okidogi-ex-V1-SFA036",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.63,
         "lowPrice": 0.02,
-        "trendPrice": 0.61,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.47,
-        "avg7": 0.61,
-        "avg30": 0.62,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-37",
     "name": "Munkidori ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "ex"
@@ -4339,12 +3871,12 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Oh No You Don't",
-        "text": "If this Pok\u00e9mon is Knocked Out by damage from an attack from your opponent's Pok\u00e9mon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.",
+        "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.",
         "type": "Ability"
       }
     ],
@@ -4358,13 +3890,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "190",
-        "text": "During your next turn, this Pok\u00e9mon can't use Dirty Headbutt."
+        "text": "During your next turn, this Pokémon can't use Dirty Headbutt."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4416,31 +3948,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-37",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Munkidori-ex-V1-SFA037",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.54,
         "lowPrice": 0.07,
-        "trendPrice": 0.49,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.07,
-        "avg1": 0.37,
-        "avg7": 0.55,
-        "avg30": 0.53,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-38",
     "name": "Fezandipiti ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "ex"
@@ -4450,12 +3969,12 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Flip the Script",
-        "text": "Once during your turn, if any of your Pok\u00e9mon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.",
+        "text": "Once during your turn, if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.",
         "type": "Ability"
       }
     ],
@@ -4469,13 +3988,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "This attack does 100 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4527,31 +4046,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-38",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fezandipiti-ex-V1-SFA038",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 6.28,
-        "lowPrice": 4.0,
-        "trendPrice": 6.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 4.0,
-        "avg1": 6.09,
-        "avg7": 6.22,
-        "avg30": 6.26,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-39",
     "name": "Pecharunt ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "ex"
@@ -4561,12 +4067,12 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Subjugating Chains",
-        "text": "Once during your turn, you may switch 1 of your Benched Darkness Pok\u00e9mon, except any Pecharunt ex, with your Active Pok\u00e9mon. If you do, the new Active Pok\u00e9mon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.",
+        "text": "Once during your turn, you may switch 1 of your Benched Darkness Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.",
         "type": "Ability"
       }
     ],
@@ -4578,14 +4084,14 @@
           "Darkness"
         ],
         "convertedEnergyCost": 2,
-        "damage": "60\u00d7",
+        "damage": "60×",
         "text": "This attack does 60 damage for each Prize card your opponent has taken."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4637,31 +4143,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-39",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Pecharunt-ex-V1-SFA039",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.82,
-        "lowPrice": 0.1,
-        "trendPrice": 0.71,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.84,
-        "avg7": 0.72,
-        "avg30": 0.82,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.09,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-40",
     "name": "Genesect",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4672,7 +4165,7 @@
     "abilities": [
       {
         "name": "ACE Nullifier",
-        "text": "If this Pok\u00e9mon has a Pok\u00e9mon Tool attached, your opponent can't play any ACE SPEC cards from their hand.",
+        "text": "If this Pokémon has a Pokémon Tool attached, your opponent can't play any ACE SPEC cards from their hand.",
         "type": "Ability"
       }
     ],
@@ -4692,7 +4185,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4760,31 +4253,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-40",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Genesect-SFA040",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.12,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.18,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.05,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.31,
-        "reverseHoloAvg7": 0.21,
-        "reverseHoloAvg30": 0.13
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-41",
     "name": "Cufant",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4821,7 +4301,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4891,31 +4371,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-41",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cufant-V1-SFA041",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.06,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.04,
-        "reverseHoloAvg7": 0.05,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-42",
     "name": "Copperajah",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4927,7 +4394,7 @@
     "abilities": [
       {
         "name": "Massive Body",
-        "text": "As long as this Pok\u00e9mon is in the Active Spot, your opponent can't play any Stadium cards from their hand.",
+        "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand.",
         "type": "Ability"
       }
     ],
@@ -4942,13 +4409,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "130+",
-        "text": "You may do 100 more damage. If you do, during your next turn, this Pok\u00e9mon can't attack."
+        "text": "You may do 100 more damage. If you do, during your next turn, this Pokémon can't attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5019,31 +4486,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-42",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Copperajah-SFA042",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.11,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.03,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.07,
-        "reverseHoloAvg7": 0.1,
-        "reverseHoloAvg30": 0.09
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-43",
     "name": "Varoom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5059,7 +4513,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "During your opponent's next turn, this Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
       },
       {
         "name": "Headbutt Bounce",
@@ -5075,7 +4529,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5143,31 +4597,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-43",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Varoom-SFA043",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.08,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.08,
-        "reverseHoloAvg7": 0.09,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-44",
     "name": "Axew",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5259,31 +4700,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-44",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Axew-SFA044",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.07,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.03,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.03,
-        "reverseHoloAvg7": 0.07,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-45",
     "name": "Fraxure",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5298,7 +4726,7 @@
     "abilities": [
       {
         "name": "Unnerve",
-        "text": "Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pok\u00e9mon.",
+        "text": "Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon.",
         "type": "Ability"
       }
     ],
@@ -5374,31 +4802,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-45",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fraxure-V1-SFA045",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.08,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.12,
-        "reverseHoloAvg7": 0.09,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-46",
     "name": "Haxorus",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -5415,7 +4830,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "If your opponent's Active Pok\u00e9mon has any Special Energy attached, it is Knocked Out."
+        "text": "If your opponent's Active Pokémon has any Special Energy attached, it is Knocked Out."
       },
       {
         "name": "Dragon Pulse",
@@ -5488,31 +4903,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-46",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Haxorus-SFA046",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.1,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.12,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.06,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.11,
-        "reverseHoloAvg7": 0.1,
-        "reverseHoloAvg30": 0.11
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-47",
     "name": "Kyurem",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5523,7 +4925,7 @@
     "abilities": [
       {
         "name": "Plasma Bane",
-        "text": "If your opponent has any cards in their discard pile that have \"Colress\" in the name, this Pok\u00e9mon can use the Trifrost attack for Colorless.",
+        "text": "If your opponent has any cards in their discard pile that have \"Colress\" in the name, this Pokémon can use the Trifrost attack for Colorless.",
         "type": "Ability"
       }
     ],
@@ -5539,7 +4941,7 @@
         ],
         "convertedEnergyCost": 5,
         "damage": "",
-        "text": "Discard all Energy from this Pok\u00e9mon. This attack does 110 damage to 3 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "Discard all Energy from this Pokémon. This attack does 110 damage to 3 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "retreatCost": [
@@ -5602,31 +5004,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-47",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Kyurem-SFA047",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.1,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.04,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.11,
-        "reverseHoloAvg7": 0.1,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-48",
     "name": "Meowth",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5645,14 +5034,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip 3 coins. This attack does 20 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5714,31 +5103,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-48",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Meowth-SFA048",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.09,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.04,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.07,
-        "reverseHoloAvg7": 0.1,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-49",
     "name": "Persian",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5755,7 +5131,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "50\u00d7",
+        "damage": "50×",
         "text": "Flip 3 coins. This attack does 50 damage for each heads."
       },
       {
@@ -5773,7 +5149,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5835,31 +5211,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-49",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Persian-V1-SFA049",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.11,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.16,
-        "reverseHoloAvg7": 0.11,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-50",
     "name": "Eevee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5901,7 +5264,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5963,31 +5326,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-50",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Eevee-SFA050",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.11,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.12,
-        "reverseHoloAvg7": 0.11,
-        "reverseHoloAvg30": 0.12
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-51",
     "name": "Furfrou",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6003,13 +5353,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Attach a Basic Energy card from your discard pile to 1 of your Benched Pok\u00e9mon."
+        "text": "Attach a Basic Energy card from your discard pile to 1 of your Benched Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6071,31 +5421,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-51",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Furfrou-SFA051",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.11,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.08,
-        "reverseHoloAvg7": 0.09,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-52",
     "name": "Stufful",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6114,13 +5451,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "This Pok\u00e9mon also does 10 damage to itself."
+        "text": "This Pokémon also does 10 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6183,31 +5520,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-52",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Stufful-SFA052",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.08,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.1,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.02,
-        "avg30": 0.03,
-        "reverseHoloAvg1": 0.17,
-        "reverseHoloAvg7": 0.1,
-        "reverseHoloAvg30": 0.08
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-53",
     "name": "Bewear",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6224,7 +5548,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Search your deck for a Basic Energy card and attach it to this Pok\u00e9mon. Then, shuffle your deck."
+        "text": "Search your deck for a Basic Energy card and attach it to this Pokémon. Then, shuffle your deck."
       },
       {
         "name": "Hammer In",
@@ -6241,7 +5565,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6305,24 +5629,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-53",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Bewear-V1-SFA053",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.03,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.09,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.09,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.02,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.04,
-        "reverseHoloAvg7": 0.1,
-        "reverseHoloAvg30": 0.09
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6389,24 +5700,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-54",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Academy-at-Night-SFA054",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.11,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.12,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.05,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.11,
-        "reverseHoloAvg7": 0.12,
-        "reverseHoloAvg30": 0.12
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6415,11 +5713,11 @@
     "name": "Binding Mochi",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attacks used by the Poisoned Pok\u00e9mon this card is attached to do 40 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance).",
-      "You may attach any number of Pok\u00e9mon Tools to your Pok\u00e9mon during your turn. You may attach only 1 Pok\u00e9mon Tool to each Pok\u00e9mon, and it stays attached."
+      "Attacks used by the Poisoned Pokémon this card is attached to do 40 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
     ],
     "set": {
       "id": "sv6pt5",
@@ -6473,24 +5771,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-55",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Binding-Mochi-SFA055",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.12,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.1,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.06,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.13,
-        "reverseHoloAvg7": 0.12,
-        "reverseHoloAvg30": 0.13
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6557,24 +5842,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-56",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cassiopeia-V1-SFA056",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.02,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.09,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.17,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.03,
-        "avg30": 0.02,
-        "reverseHoloAvg1": 0.59,
-        "reverseHoloAvg7": 0.16,
-        "reverseHoloAvg30": 0.1
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6641,24 +5913,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-57",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Colresss-Tenacity-V1-SFA057",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.12,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.12,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.12,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.17,
-        "reverseHoloAvg7": 0.16,
-        "reverseHoloAvg30": 0.13
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6672,7 +5931,7 @@
     ],
     "rules": [
       "You can't have more than 1 ACE SPEC card in your deck.",
-      "Your opponent's Active Pok\u00e9mon is now Burned and Confused.",
+      "Your opponent's Active Pokémon is now Burned and Confused.",
       "You may play any number of Item cards during your turn."
     ],
     "set": {
@@ -6720,24 +5979,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-58",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Dangerous-Laser-SFA058",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.62,
         "lowPrice": 0.09,
-        "trendPrice": 0.56,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.09,
-        "avg1": 0.83,
-        "avg7": 0.53,
-        "avg30": 0.63,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
@@ -6749,7 +5995,7 @@
       "Supporter"
     ],
     "rules": [
-      "Choose up to 2 of your Darkness Pok\u00e9mon. For each of those Pok\u00e9mon, search your deck for a Basic Darkness Energy card and attach it to that Pok\u00e9mon. Then, shuffle your deck. If you attached Energy to your Active Pok\u00e9mon in this way, it is now Poisoned.",
+      "Choose up to 2 of your Darkness Pokémon. For each of those Pokémon, search your deck for a Basic Darkness Energy card and attach it to that Pokémon. Then, shuffle your deck. If you attached Energy to your Active Pokémon in this way, it is now Poisoned.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -6804,24 +6050,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-59",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Janines-Secret-Art-V1-SFA059",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.09,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.12,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.05,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.11,
-        "reverseHoloAvg7": 0.12,
-        "reverseHoloAvg30": 0.1
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6835,7 +6068,7 @@
     ],
     "rules": [
       "You can't have more than 1 ACE SPEC card in your deck.",
-      "Prevent all damage done to Pok\u00e9mon that don't have a Rule Box (both yours and your opponent's) by attacks from the opponent's Pok\u00e9mon ex and Pok\u00e9mon V. (Pok\u00e9mon ex, Pok\u00e9mon V, etc. have Rule Boxes.)    This card can't be put into your hand or deck from the discard pile.",
+      "Prevent all damage done to Pokémon that don't have a Rule Box (both yours and your opponent's) by attacks from the opponent's Pokémon ex and Pokémon V. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)    This card can't be put into your hand or deck from the discard pile.",
       "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
     ],
     "set": {
@@ -6883,24 +6116,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-60",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Neutralization-Zone-SFA060",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.76,
-        "lowPrice": 0.19,
-        "trendPrice": 0.72,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.19,
-        "avg1": 0.59,
-        "avg7": 0.75,
-        "avg30": 0.76,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
       }
     }
   },
@@ -6912,7 +6132,7 @@
       "Item"
     ],
     "rules": [
-      "Put a Pok\u00e9mon or a Basic Energy card from your discard pile into your hand.",
+      "Put a Pokémon or a Basic Energy card from your discard pile into your hand.",
       "You may play any number of Item cards during your turn."
     ],
     "set": {
@@ -6967,30 +6187,17 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-61",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Night-Stretcher-SFA061",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.05,
         "lowPrice": 0.02,
-        "trendPrice": 1.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.4,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 1.22,
-        "lowPriceExPlus": 0.02,
-        "avg1": 1.04,
-        "avg7": 0.99,
-        "avg30": 1.05,
-        "reverseHoloAvg1": 1.55,
-        "reverseHoloAvg7": 1.22,
-        "reverseHoloAvg30": 1.39
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-62",
-    "name": "Pok\u00e9 Vital A",
+    "name": "Poké Vital A",
     "supertype": "Trainer",
     "subtypes": [
       "Item",
@@ -6998,7 +6205,7 @@
     ],
     "rules": [
       "You can't have more than 1 ACE SPEC card in your deck.",
-      "Heal 150 damage from 1 of your Pok\u00e9mon.    This card can't be put into your hand or deck from the discard pile.",
+      "Heal 150 damage from 1 of your Pokémon.    This card can't be put into your hand or deck from the discard pile.",
       "You may play any number of Item cards during your turn."
     ],
     "set": {
@@ -7046,24 +6253,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-62",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Poke-Vital-A-SFA062",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.75,
-        "lowPrice": 0.05,
-        "trendPrice": 0.62,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.55,
-        "avg7": 0.59,
-        "avg30": 0.74,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
       }
     }
   },
@@ -7072,11 +6266,11 @@
     "name": "Powerglass",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "At the end of your turn (after your attack), if the Pok\u00e9mon this card is attached to is in the Active Spot, you may attach a Basic Energy card from your discard pile to it.",
-      "You may attach any number of Pok\u00e9mon Tools to your Pok\u00e9mon during your turn. You may attach only 1 Pok\u00e9mon Tool to each Pok\u00e9mon, and it stays attached."
+      "At the end of your turn (after your attack), if the Pokémon this card is attached to is in the Active Spot, you may attach a Basic Energy card from your discard pile to it.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
     ],
     "set": {
       "id": "sv6pt5",
@@ -7130,24 +6324,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-63",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Powerglass-V1-SFA063",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.13,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.18,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.06,
-        "avg7": 0.07,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.08,
-        "reverseHoloAvg7": 0.22,
-        "reverseHoloAvg30": 0.14
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -7214,31 +6395,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-64",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Xerosics-Machinations-V1-SFA064",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.13,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.13,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.03,
-        "avg7": 0.04,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.27,
-        "reverseHoloAvg7": 0.15,
-        "reverseHoloAvg30": 0.13
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "sv6pt5-65",
     "name": "Tapu Bulu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7257,13 +6425,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "220",
-        "text": "This Pok\u00e9mon also does 30 damage to itself."
+        "text": "This Pokémon also does 30 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7317,31 +6485,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-65",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Tapu-Bulu-V2-SFA065",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 6.06,
         "lowPrice": 3.8,
-        "trendPrice": 5.39,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 4.0,
-        "avg1": 4.78,
-        "avg7": 4.89,
-        "avg30": 6.01,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-66",
     "name": "Houndoom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7370,13 +6525,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "During your opponent's next turn, attacks used by the Defending Pok\u00e9mon do 100 less damage (before applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, attacks used by the Defending Pokémon do 100 less damage (before applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7432,31 +6587,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-66",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Houndoom-V2-SFA066",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 27.54,
-        "lowPrice": 16.99,
-        "trendPrice": 26.72,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 17.0,
-        "avg1": 20.45,
-        "avg7": 24.0,
-        "avg30": 27.05,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 16.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-67",
     "name": "Horsea",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7475,7 +6617,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       },
       {
         "name": "Razor Fin",
@@ -7491,7 +6633,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7546,31 +6688,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-67",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Horsea-V2-SFA067",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 15.91,
-        "lowPrice": 12.5,
-        "trendPrice": 17.59,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 13.29,
-        "avg1": 15.81,
-        "avg7": 17.88,
-        "avg30": 15.83,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.03,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-68",
     "name": "Duskull",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7605,7 +6734,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7666,31 +6795,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-68",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Duskull-V2-SFA068",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 18.76,
-        "lowPrice": 15.5,
-        "trendPrice": 18.91,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 15.5,
-        "avg1": 18.77,
-        "avg7": 18.96,
-        "avg30": 18.63,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 12.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-69",
     "name": "Dusclops",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7705,7 +6821,7 @@
     "abilities": [
       {
         "name": "Cursed Blast",
-        "text": "Once during your turn, you may put 5 damage counters on 1 of your opponent's Pok\u00e9mon. If you use this Ability, this Pok\u00e9mon is Knocked Out.",
+        "text": "Once during your turn, you may put 5 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.",
         "type": "Ability"
       }
     ],
@@ -7724,7 +6840,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7786,31 +6902,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-69",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Dusclops-V2-SFA069",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 16.24,
-        "lowPrice": 14.5,
-        "trendPrice": 17.22,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 14.99,
-        "avg1": 16.21,
-        "avg7": 18.43,
-        "avg30": 16.17,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 12.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-70",
     "name": "Dusknoir",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -7822,7 +6925,7 @@
     "abilities": [
       {
         "name": "Cursed Blast",
-        "text": "Once during your turn, you may put 13 damage counters on 1 of your opponent's Pok\u00e9mon. If you use this Ability, this Pok\u00e9mon is Knocked Out.",
+        "text": "Once during your turn, you may put 13 damage counters on 1 of your opponent's Pokémon. If you use this Ability, this Pokémon is Knocked Out.",
         "type": "Ability"
       }
     ],
@@ -7836,13 +6939,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "150",
-        "text": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7905,31 +7008,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-70",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Dusknoir-V2-SFA070",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 15.79,
-        "lowPrice": 13.95,
-        "trendPrice": 15.44,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 13.95,
-        "avg1": 15.76,
-        "avg7": 14.94,
-        "avg30": 15.63,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 13.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-71",
     "name": "Cresselia",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7945,7 +7035,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 20 damage from each of your Pok\u00e9mon."
+        "text": "Heal 20 damage from each of your Pokémon."
       },
       {
         "name": "Crescent Purge",
@@ -7962,7 +7052,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8023,31 +7113,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-71",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cresselia-V2-SFA071",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 15.88,
-        "lowPrice": 9.0,
-        "trendPrice": 14.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 10.49,
-        "avg1": 14.08,
-        "avg7": 14.53,
-        "avg30": 15.67,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 9.5,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-72",
     "name": "Munkidori",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8058,7 +7135,7 @@
     "abilities": [
       {
         "name": "Adrena-Brain",
-        "text": "Once during your turn, if this Pok\u00e9mon has any Darkness Energy attached, you may move up to 3 damage counters from 1 of your Pok\u00e9mon to 1 of your opponent's Pok\u00e9mon.",
+        "text": "Once during your turn, if this Pokémon has any Darkness Energy attached, you may move up to 3 damage counters from 1 of your Pokémon to 1 of your opponent's Pokémon.",
         "type": "Ability"
       }
     ],
@@ -8071,13 +7148,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "60",
-        "text": "Your opponent's Active Pok\u00e9mon is now Confused."
+        "text": "Your opponent's Active Pokémon is now Confused."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8135,31 +7212,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-72",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Munkidori-V2-SFA072",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 20.72,
-        "lowPrice": 16.49,
-        "trendPrice": 20.83,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 16.49,
-        "avg1": 20.55,
-        "avg7": 20.64,
-        "avg30": 20.68,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 18.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-73",
     "name": "Fezandipiti",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8170,7 +7234,7 @@
     "abilities": [
       {
         "name": "Adrena-Pheromone",
-        "text": "If this Pok\u00e9mon has any Darkness Energy attached and is damaged by an attack, flip a coin. If heads, prevent that damage.",
+        "text": "If this Pokémon has any Darkness Energy attached and is damaged by an attack, flip a coin. If heads, prevent that damage.",
         "type": "Ability"
       }
     ],
@@ -8181,14 +7245,14 @@
           "Psychic"
         ],
         "convertedEnergyCost": 1,
-        "damage": "30\u00d7",
-        "text": "This attack does 30 damage for each Energy attached to this Pok\u00e9mon."
+        "damage": "30×",
+        "text": "This attack does 30 damage for each Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8240,31 +7304,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-73",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fezandipiti-V2-SFA073",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 8.51,
-        "lowPrice": 5.99,
-        "trendPrice": 15.45,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 5.99,
-        "avg1": 7.95,
-        "avg7": 9.75,
-        "avg30": 8.41,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 5.49,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-74",
     "name": "Okidogi",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8275,7 +7326,7 @@
     "abilities": [
       {
         "name": "Adrena-Power",
-        "text": "If this Pok\u00e9mon has any Darkness Energy attached, it gets +100 HP, and the attacks it uses do 100 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance).",
+        "text": "If this Pokémon has any Darkness Energy attached, it gets +100 HP, and the attacks it uses do 100 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -8294,7 +7345,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8347,31 +7398,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-74",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Okidogi-V2-SFA074",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 7.58,
-        "lowPrice": 4.6,
-        "trendPrice": 9.38,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 4.6,
-        "avg1": 7.37,
-        "avg7": 10.21,
-        "avg30": 7.38,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 4.9,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-75",
     "name": "Zorua",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8399,14 +7437,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8461,31 +7499,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-75",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Zorua-V2-SFA075",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 11.56,
-        "lowPrice": 8.0,
-        "trendPrice": 10.93,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 9.5,
-        "avg1": 10.92,
-        "avg7": 11.05,
-        "avg30": 11.55,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 6.95,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-76",
     "name": "Cufant",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8522,7 +7547,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8585,31 +7610,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-76",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cufant-V2-SFA076",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 9.27,
         "lowPrice": 4.9,
-        "trendPrice": 10.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 6.2,
-        "avg1": 8.52,
-        "avg7": 10.86,
-        "avg30": 9.25,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-77",
     "name": "Fraxure",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8624,7 +7636,7 @@
     "abilities": [
       {
         "name": "Unnerve",
-        "text": "Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pok\u00e9mon.",
+        "text": "Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon.",
         "type": "Ability"
       }
     ],
@@ -8693,31 +7705,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-77",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fraxure-V2-SFA077",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 7.81,
         "lowPrice": 3.5,
-        "trendPrice": 7.99,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 5.95,
-        "avg1": 7.93,
-        "avg7": 8.57,
-        "avg30": 7.79,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-78",
     "name": "Persian",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8734,7 +7733,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "50\u00d7",
+        "damage": "50×",
         "text": "Flip 3 coins. This attack does 50 damage for each heads."
       },
       {
@@ -8752,7 +7751,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8807,31 +7806,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-78",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Persian-V2-SFA078",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 40.89,
         "lowPrice": 19.49,
-        "trendPrice": 53.71,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 30.0,
-        "avg1": 38.75,
-        "avg7": 45.16,
-        "avg30": 40.76,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-79",
     "name": "Bewear",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8848,7 +7834,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Search your deck for a Basic Energy card and attach it to this Pok\u00e9mon. Then, shuffle your deck."
+        "text": "Search your deck for a Basic Energy card and attach it to this Pokémon. Then, shuffle your deck."
       },
       {
         "name": "Hammer In",
@@ -8865,7 +7851,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8922,31 +7908,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-79",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Bewear-V2-SFA079",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.85,
-        "lowPrice": 3.0,
-        "trendPrice": 5.47,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 3.0,
-        "avg1": 5.96,
-        "avg7": 5.59,
-        "avg30": 5.82,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 2.9,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-80",
     "name": "Kingdra ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2",
       "ex"
@@ -8957,7 +7930,7 @@
     ],
     "evolvesFrom": "Seadra",
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -8967,7 +7940,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Put up to 3 Water Pok\u00e9mon from your discard pile onto your Bench."
+        "text": "Put up to 3 Water Pokémon from your discard pile onto your Bench."
       },
       {
         "name": "Hydro Pump",
@@ -8977,13 +7950,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50+",
-        "text": "This attack does 50 more damage for each Water Energy attached to this Pok\u00e9mon."
+        "text": "This attack does 50 more damage for each Water Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9038,31 +8011,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-80",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Kingdra-ex-V2-SFA080",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.9,
-        "lowPrice": 1.4,
-        "trendPrice": 2.77,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 1.4,
-        "avg1": 3.38,
-        "avg7": 2.87,
-        "avg30": 2.91,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-81",
     "name": "Revavroom ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1",
       "Tera",
@@ -9074,8 +8034,8 @@
     ],
     "evolvesFrom": "Varoom",
     "rules": [
-      "As long as this Pok\u00e9mon is on your Bench, prevent all damage done to this Pok\u00e9mon by attacks (both yours and your opponent's).",
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -9085,7 +8045,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20+",
-        "text": "If this Pok\u00e9mon moved from your Bench to the Active Spot this turn, this attack does 120 more damage."
+        "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 120 more damage."
       },
       {
         "name": "Shattering Speed",
@@ -9096,13 +8056,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "250",
-        "text": "Discard this Pok\u00e9mon and all attached cards."
+        "text": "Discard this Pokémon and all attached cards."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9157,31 +8117,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-81",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Revavroom-ex-V2-SFA081",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.54,
-        "lowPrice": 0.8,
-        "trendPrice": 1.48,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.8,
-        "avg1": 1.56,
-        "avg7": 1.42,
-        "avg30": 1.55,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.9,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-82",
     "name": "Okidogi ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "ex"
@@ -9191,7 +8138,7 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -9201,7 +8148,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pok\u00e9mon. Then, shuffle your deck. If you attached Energy to a Pok\u00e9mon in this way, this Pok\u00e9mon is now Poisoned."
+        "text": "Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, this Pokémon is now Poisoned."
       },
       {
         "name": "Chain-Crazed",
@@ -9212,13 +8159,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130+",
-        "text": "If this Pok\u00e9mon is Poisoned, this attack does 130 more damage."
+        "text": "If this Pokémon is Poisoned, this attack does 130 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9272,31 +8219,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-82",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Okidogi-ex-V2-SFA082",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.49,
-        "lowPrice": 1.45,
-        "trendPrice": 2.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 1.45,
-        "avg1": 2.66,
-        "avg7": 2.2,
-        "avg30": 2.5,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 1.3,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-83",
     "name": "Munkidori ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "ex"
@@ -9306,12 +8240,12 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Oh No You Don't",
-        "text": "If this Pok\u00e9mon is Knocked Out by damage from an attack from your opponent's Pok\u00e9mon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.",
+        "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.",
         "type": "Ability"
       }
     ],
@@ -9325,13 +8259,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "190",
-        "text": "During your next turn, this Pok\u00e9mon can't use Dirty Headbutt."
+        "text": "During your next turn, this Pokémon can't use Dirty Headbutt."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9383,31 +8317,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-83",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Munkidori-ex-V2-SFA083",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.97,
-        "lowPrice": 0.9,
-        "trendPrice": 1.91,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.9,
-        "avg1": 1.69,
-        "avg7": 2.0,
-        "avg30": 1.97,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.85,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-84",
     "name": "Fezandipiti ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "ex"
@@ -9417,12 +8338,12 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Flip the Script",
-        "text": "Once during your turn, if any of your Pok\u00e9mon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.",
+        "text": "Once during your turn, if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.",
         "type": "Ability"
       }
     ],
@@ -9436,13 +8357,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "This attack does 100 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9494,31 +8415,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-84",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fezandipiti-ex-V2-SFA084",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 9.18,
         "lowPrice": 6.49,
-        "trendPrice": 8.88,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 6.99,
-        "avg1": 8.54,
-        "avg7": 8.86,
-        "avg30": 9.2,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-85",
     "name": "Pecharunt ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "ex"
@@ -9528,12 +8436,12 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Subjugating Chains",
-        "text": "Once during your turn, you may switch 1 of your Benched Darkness Pok\u00e9mon, except any Pecharunt ex, with your Active Pok\u00e9mon. If you do, the new Active Pok\u00e9mon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.",
+        "text": "Once during your turn, you may switch 1 of your Benched Darkness Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.",
         "type": "Ability"
       }
     ],
@@ -9545,14 +8453,14 @@
           "Darkness"
         ],
         "convertedEnergyCost": 2,
-        "damage": "60\u00d7",
+        "damage": "60×",
         "text": "This attack does 60 damage for each Prize card your opponent has taken."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9604,24 +8512,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-85",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Pecharunt-ex-V2-SFA085",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.57,
-        "lowPrice": 1.75,
-        "trendPrice": 2.28,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 1.8,
-        "avg1": 2.46,
-        "avg7": 2.29,
-        "avg30": 2.54,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 1.7,
+        "reverseHoloLow": null
       }
     }
   },
@@ -9681,24 +8576,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-86",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cassiopeia-V2-SFA086",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.96,
-        "lowPrice": 1.49,
-        "trendPrice": 2.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 1.49,
-        "avg1": 2.23,
-        "avg7": 2.72,
-        "avg30": 2.93,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 1.2,
+        "reverseHoloLow": null
       }
     }
   },
@@ -9758,24 +8640,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-87",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Colresss-Tenacity-V2-SFA087",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.27,
-        "lowPrice": 1.99,
-        "trendPrice": 3.01,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 1.99,
-        "avg1": 3.15,
-        "avg7": 3.17,
-        "avg30": 3.25,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
       }
     }
   },
@@ -9787,7 +8656,7 @@
       "Supporter"
     ],
     "rules": [
-      "Choose up to 2 of your Darkness Pok\u00e9mon. For each of those Pok\u00e9mon, search your deck for a Basic Darkness Energy card and attach it to that Pok\u00e9mon. Then, shuffle your deck. If you attached Energy to your Active Pok\u00e9mon in this way, it is now Poisoned.",
+      "Choose up to 2 of your Darkness Pokémon. For each of those Pokémon, search your deck for a Basic Darkness Energy card and attach it to that Pokémon. Then, shuffle your deck. If you attached Energy to your Active Pokémon in this way, it is now Poisoned.",
       "You may play only 1 Supporter card during your turn."
     ],
     "set": {
@@ -9835,24 +8704,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-88",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Janines-Secret-Art-V2-SFA088",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.61,
-        "lowPrice": 1.45,
-        "trendPrice": 2.72,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 1.5,
-        "avg1": 2.54,
-        "avg7": 2.45,
-        "avg30": 2.6,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
       }
     }
   },
@@ -9912,31 +8768,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-89",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Xerosics-Machinations-V2-SFA089",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.95,
-        "lowPrice": 0.9,
-        "trendPrice": 1.97,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 1.0,
-        "avg1": 2.2,
-        "avg7": 1.89,
-        "avg30": 1.97,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.8,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-90",
     "name": "Okidogi ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "ex"
@@ -9946,7 +8789,7 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -9956,7 +8799,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pok\u00e9mon. Then, shuffle your deck. If you attached Energy to a Pok\u00e9mon in this way, this Pok\u00e9mon is now Poisoned."
+        "text": "Search your deck for up to 2 Basic Darkness Energy cards and attach them to this Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, this Pokémon is now Poisoned."
       },
       {
         "name": "Chain-Crazed",
@@ -9967,13 +8810,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130+",
-        "text": "If this Pok\u00e9mon is Poisoned, this attack does 130 more damage."
+        "text": "If this Pokémon is Poisoned, this attack does 130 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10027,31 +8870,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-90",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Okidogi-ex-V3-SFA090",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 20.41,
         "lowPrice": 15.95,
-        "trendPrice": 20.65,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 15.95,
-        "avg1": 20.99,
-        "avg7": 19.79,
-        "avg30": 20.53,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-91",
     "name": "Munkidori ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "ex"
@@ -10061,12 +8891,12 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Oh No You Don't",
-        "text": "If this Pok\u00e9mon is Knocked Out by damage from an attack from your opponent's Pok\u00e9mon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.",
+        "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, and if you have any Pecharunt ex in play, your opponent takes 1 fewer Prize card.",
         "type": "Ability"
       }
     ],
@@ -10080,13 +8910,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "190",
-        "text": "During your next turn, this Pok\u00e9mon can't use Dirty Headbutt."
+        "text": "During your next turn, this Pokémon can't use Dirty Headbutt."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10138,31 +8968,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-91",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Munkidori-ex-V3-SFA091",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 17.44,
         "lowPrice": 8.0,
-        "trendPrice": 17.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 8.0,
-        "avg1": 16.83,
-        "avg7": 16.98,
-        "avg30": 17.6,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-92",
     "name": "Fezandipiti ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "ex"
@@ -10172,12 +8989,12 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Flip the Script",
-        "text": "Once during your turn, if any of your Pok\u00e9mon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.",
+        "text": "Once during your turn, if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn.",
         "type": "Ability"
       }
     ],
@@ -10191,13 +9008,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "This attack does 100 damage to 1 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10249,31 +9066,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-92",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fezandipiti-ex-V3-SFA092",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 34.02,
-        "lowPrice": 20.0,
-        "trendPrice": 31.54,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 29.55,
-        "avg1": 28.83,
-        "avg7": 32.75,
-        "avg30": 34.13,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 22.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-93",
     "name": "Pecharunt ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "ex"
@@ -10283,12 +9087,12 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Subjugating Chains",
-        "text": "Once during your turn, you may switch 1 of your Benched Darkness Pok\u00e9mon, except any Pecharunt ex, with your Active Pok\u00e9mon. If you do, the new Active Pok\u00e9mon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.",
+        "text": "Once during your turn, you may switch 1 of your Benched Darkness Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.",
         "type": "Ability"
       }
     ],
@@ -10300,14 +9104,14 @@
           "Darkness"
         ],
         "convertedEnergyCost": 2,
-        "damage": "60\u00d7",
+        "damage": "60×",
         "text": "This attack does 60 damage for each Prize card your opponent has taken."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10359,24 +9163,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-93",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Pecharunt-ex-V3-SFA093",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 19.19,
-        "lowPrice": 16.0,
-        "trendPrice": 19.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 16.0,
-        "avg1": 17.81,
-        "avg7": 18.52,
-        "avg30": 19.07,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
       }
     }
   },
@@ -10436,31 +9227,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-94",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cassiopeia-V3-SFA094",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 31.78,
         "lowPrice": 25.0,
-        "trendPrice": 31.34,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 25.0,
-        "avg1": 27.83,
-        "avg7": 30.34,
-        "avg30": 32.03,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "sv6pt5-95",
     "name": "Pecharunt ex",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "ex"
@@ -10470,12 +9248,12 @@
       "Darkness"
     ],
     "rules": [
-      "Pok\u00e9mon ex rule: When your Pok\u00e9mon ex is Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Subjugating Chains",
-        "text": "Once during your turn, you may switch 1 of your Benched Darkness Pok\u00e9mon, except any Pecharunt ex, with your Active Pok\u00e9mon. If you do, the new Active Pok\u00e9mon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.",
+        "text": "Once during your turn, you may switch 1 of your Benched Darkness Pokémon, except any Pecharunt ex, with your Active Pokémon. If you do, the new Active Pokémon is now Poisoned. You can't use more than 1 Subjugating Chains Ability each turn.",
         "type": "Ability"
       }
     ],
@@ -10487,14 +9265,14 @@
           "Darkness"
         ],
         "convertedEnergyCost": 2,
-        "damage": "60\u00d7",
+        "damage": "60×",
         "text": "This attack does 60 damage for each Prize card your opponent has taken."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10546,24 +9324,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-95",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Pecharunt-ex-V4-SFA095",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 29.35,
         "lowPrice": 21.0,
-        "trendPrice": 28.47,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 21.0,
-        "avg1": 26.56,
-        "avg7": 26.37,
-        "avg30": 29.05,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
@@ -10624,24 +9389,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-96",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Earthen-Vessel-SFA096",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 38.45,
-        "lowPrice": 30.99,
-        "trendPrice": 38.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 30.99,
-        "avg1": 36.25,
-        "avg7": 36.8,
-        "avg30": 38.01,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 29.0,
+        "reverseHoloLow": null
       }
     }
   },
@@ -10650,11 +9402,11 @@
     "name": "Powerglass",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "At the end of your turn (after your attack), if the Pok\u00e9mon this card is attached to is in the Active Spot, you may attach a Basic Energy card from your discard pile to it.",
-      "You may attach any number of Pok\u00e9mon Tools to your Pok\u00e9mon during your turn. You may attach only 1 Pok\u00e9mon Tool to each Pok\u00e9mon, and it stays attached."
+      "At the end of your turn (after your attack), if the Pokémon this card is attached to is in the Active Spot, you may attach a Basic Energy card from your discard pile to it.",
+      "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached."
     ],
     "set": {
       "id": "sv6pt5",
@@ -10701,24 +9453,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-97",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Powerglass-V2-SFA097",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 26.96,
         "lowPrice": 14.95,
-        "trendPrice": 25.24,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 15.95,
-        "avg1": 28.5,
-        "avg7": 25.77,
-        "avg30": 25.99,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
@@ -10776,24 +9515,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-98",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Basic-Darkness-Energy-SFA098",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 36.48,
-        "lowPrice": 29.9,
-        "trendPrice": 38.45,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 29.9,
-        "avg1": 39.72,
-        "avg7": 36.33,
-        "avg30": 35.68,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 32.0,
+        "reverseHoloLow": null
       }
     }
   },
@@ -10851,24 +9577,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/sv6pt5-99",
-      "updatedAt": "2025/07/24",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Basic-Metal-Energy-SFA099",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 32.81,
         "lowPrice": 28.0,
-        "trendPrice": 32.66,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 29.0,
-        "avg1": 29.0,
-        "avg7": 32.11,
-        "avg30": 32.15,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   }

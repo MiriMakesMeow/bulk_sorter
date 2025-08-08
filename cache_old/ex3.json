@@ -59,6 +59,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/1.png",
       "large": "https://images.pokemontcg.io/ex3/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Absol-DR1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 5.0
+      }
     }
   },
   {
@@ -126,6 +134,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/2.png",
       "large": "https://images.pokemontcg.io/ex3/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Altaria-DR2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -183,6 +199,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/3.png",
       "large": "https://images.pokemontcg.io/ex3/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Crawdaunt-DR3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -253,6 +277,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/4.png",
       "large": "https://images.pokemontcg.io/ex3/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Flygon-DR4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -318,6 +350,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/5.png",
       "large": "https://images.pokemontcg.io/ex3/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Golem-DR5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -377,6 +417,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/6.png",
       "large": "https://images.pokemontcg.io/ex3/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Grumpig-DR6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -446,6 +494,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/7.png",
       "large": "https://images.pokemontcg.io/ex3/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Minun-DR7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 2.5
+      }
     }
   },
   {
@@ -515,6 +571,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/8.png",
       "large": "https://images.pokemontcg.io/ex3/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Plusle-DR8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 2.99
+      }
     }
   },
   {
@@ -580,6 +644,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/9.png",
       "large": "https://images.pokemontcg.io/ex3/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Roselia-DR9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -658,6 +730,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/10.png",
       "large": "https://images.pokemontcg.io/ex3/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Salamence-DR10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.49,
+        "reverseHoloLow": 2.49
+      }
     }
   },
   {
@@ -706,6 +786,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/11.png",
       "large": "https://images.pokemontcg.io/ex3/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Shedinja-DR11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -763,6 +851,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/12.png",
       "large": "https://images.pokemontcg.io/ex3/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Torkoal-DR12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.45,
+        "reverseHoloLow": 1.45
+      }
     }
   },
   {
@@ -821,6 +917,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/13.png",
       "large": "https://images.pokemontcg.io/ex3/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Crawdaunt-DR13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.94
+      }
     }
   },
   {
@@ -894,6 +998,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/14.png",
       "large": "https://images.pokemontcg.io/ex3/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Dragonair-DR14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -945,6 +1057,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/15.png",
       "large": "https://images.pokemontcg.io/ex3/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Flygon-V1-DR15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.79
+      }
     }
   },
   {
@@ -1001,6 +1121,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/16.png",
       "large": "https://images.pokemontcg.io/ex3/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Girafarig-DR16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -1065,6 +1193,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/17.png",
       "large": "https://images.pokemontcg.io/ex3/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magneton-DR17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -1119,6 +1255,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/18.png",
       "large": "https://images.pokemontcg.io/ex3/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Ninjask-DR18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1170,6 +1314,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/19.png",
       "large": "https://images.pokemontcg.io/ex3/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Salamence-V1-DR19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.79
+      }
     }
   },
   {
@@ -1242,6 +1394,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/20.png",
       "large": "https://images.pokemontcg.io/ex3/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Shelgon-DR20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -1304,6 +1464,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/21.png",
       "large": "https://images.pokemontcg.io/ex3/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Skarmory-DR21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.88
+      }
     }
   },
   {
@@ -1374,6 +1542,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/22.png",
       "large": "https://images.pokemontcg.io/ex3/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Vibrava-DR22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -1443,6 +1619,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/23.png",
       "large": "https://images.pokemontcg.io/ex3/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Bagon-DR23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.23,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -1503,6 +1687,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/24.png",
       "large": "https://images.pokemontcg.io/ex3/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Camerupt-DR24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -1565,6 +1757,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/25.png",
       "large": "https://images.pokemontcg.io/ex3/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Combusken-DR25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -1633,6 +1833,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/26.png",
       "large": "https://images.pokemontcg.io/ex3/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Dratini-DR26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 1.19
+      }
     }
   },
   {
@@ -1699,6 +1907,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/27.png",
       "large": "https://images.pokemontcg.io/ex3/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Flaaffy-DR27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -1765,6 +1981,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/28.png",
       "large": "https://images.pokemontcg.io/ex3/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Forretress-DR28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1829,6 +2053,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/29.png",
       "large": "https://images.pokemontcg.io/ex3/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Graveler-DR29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1893,6 +2125,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/30.png",
       "large": "https://images.pokemontcg.io/ex3/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Graveler-DR30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.94
+      }
     }
   },
   {
@@ -1950,6 +2190,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/31.png",
       "large": "https://images.pokemontcg.io/ex3/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Grovyle-DR31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.88
+      }
     }
   },
   {
@@ -2011,6 +2259,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/32.png",
       "large": "https://images.pokemontcg.io/ex3/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Gyarados-DR32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2069,6 +2325,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/33.png",
       "large": "https://images.pokemontcg.io/ex3/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Horsea-DR33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2134,6 +2398,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/34.png",
       "large": "https://images.pokemontcg.io/ex3/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Houndoom-DR34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.49
+      }
     }
   },
   {
@@ -2196,6 +2468,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/35.png",
       "large": "https://images.pokemontcg.io/ex3/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magneton-DR35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.97
+      }
     }
   },
   {
@@ -2247,6 +2527,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/36.png",
       "large": "https://images.pokemontcg.io/ex3/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Marshtomp-DR36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2306,6 +2594,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/37.png",
       "large": "https://images.pokemontcg.io/ex3/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Meditite-DR37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -2362,6 +2658,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/38.png",
       "large": "https://images.pokemontcg.io/ex3/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Ninjask-DR38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2423,6 +2727,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/39.png",
       "large": "https://images.pokemontcg.io/ex3/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Seadra-DR39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -2485,6 +2797,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/40.png",
       "large": "https://images.pokemontcg.io/ex3/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Seadra-DR40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2538,6 +2858,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/41.png",
       "large": "https://images.pokemontcg.io/ex3/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Shelgon-DR41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.94
+      }
     }
   },
   {
@@ -2595,6 +2923,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/42.png",
       "large": "https://images.pokemontcg.io/ex3/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Shelgon-DR42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2659,6 +2995,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/43.png",
       "large": "https://images.pokemontcg.io/ex3/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Shuppet-DR43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -2709,6 +3053,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/44.png",
       "large": "https://images.pokemontcg.io/ex3/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Snorunt-DR44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2768,6 +3120,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/45.png",
       "large": "https://images.pokemontcg.io/ex3/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Swellow-DR45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2820,6 +3180,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/46.png",
       "large": "https://images.pokemontcg.io/ex3/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Vibrava-DR46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -2876,6 +3244,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/47.png",
       "large": "https://images.pokemontcg.io/ex3/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Vibrava-DR47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -2944,6 +3320,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/48.png",
       "large": "https://images.pokemontcg.io/ex3/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Whiscash-DR48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.79
+      }
     }
   },
   {
@@ -2997,6 +3381,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/49.png",
       "large": "https://images.pokemontcg.io/ex3/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Bagon-DR49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3050,6 +3442,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/50.png",
       "large": "https://images.pokemontcg.io/ex3/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Bagon-DR50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.44
+      }
     }
   },
   {
@@ -3109,6 +3509,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/51.png",
       "large": "https://images.pokemontcg.io/ex3/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Barboach-DR51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -3167,6 +3575,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/52.png",
       "large": "https://images.pokemontcg.io/ex3/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Corphish-DR52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -3226,6 +3642,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/53.png",
       "large": "https://images.pokemontcg.io/ex3/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Corphish-DR53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3285,6 +3709,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/54.png",
       "large": "https://images.pokemontcg.io/ex3/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Corphish-DR54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3343,6 +3775,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/55.png",
       "large": "https://images.pokemontcg.io/ex3/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Geodude-DR55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3392,6 +3832,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/56.png",
       "large": "https://images.pokemontcg.io/ex3/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Geodude-DR56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3450,6 +3898,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/57.png",
       "large": "https://images.pokemontcg.io/ex3/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Grimer-DR57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -3509,6 +3965,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/58.png",
       "large": "https://images.pokemontcg.io/ex3/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Horsea-DR58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3574,6 +4038,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/59.png",
       "large": "https://images.pokemontcg.io/ex3/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Houndour-DR59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3633,6 +4105,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/60.png",
       "large": "https://images.pokemontcg.io/ex3/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magikarp-DR60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3698,6 +4178,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/61.png",
       "large": "https://images.pokemontcg.io/ex3/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magnemite-DR61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3753,6 +4241,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/62.png",
       "large": "https://images.pokemontcg.io/ex3/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magnemite-DR62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -3802,6 +4298,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/63.png",
       "large": "https://images.pokemontcg.io/ex3/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magnemite-DR63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3857,6 +4361,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/64.png",
       "large": "https://images.pokemontcg.io/ex3/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Mareep-DR64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -3906,6 +4418,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/65.png",
       "large": "https://images.pokemontcg.io/ex3/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Mudkip-DR65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -3955,6 +4475,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/66.png",
       "large": "https://images.pokemontcg.io/ex3/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Nincada-DR66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.79
+      }
     }
   },
   {
@@ -4014,6 +4542,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/67.png",
       "large": "https://images.pokemontcg.io/ex3/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Nincada-DR67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4063,6 +4599,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/68.png",
       "large": "https://images.pokemontcg.io/ex3/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Nincada-DR68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -4122,6 +4666,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/69.png",
       "large": "https://images.pokemontcg.io/ex3/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Numel-DR69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4181,6 +4733,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/70.png",
       "large": "https://images.pokemontcg.io/ex3/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Numel-DR70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4238,6 +4798,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/71.png",
       "large": "https://images.pokemontcg.io/ex3/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Pineco-DR71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4298,6 +4866,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/72.png",
       "large": "https://images.pokemontcg.io/ex3/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Slugma-DR72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4347,6 +4923,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/73.png",
       "large": "https://images.pokemontcg.io/ex3/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Spoink-DR73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -4406,6 +4990,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/74.png",
       "large": "https://images.pokemontcg.io/ex3/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Spoink-DR74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4470,6 +5062,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/75.png",
       "large": "https://images.pokemontcg.io/ex3/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Swablu-DR75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -4525,6 +5125,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/76.png",
       "large": "https://images.pokemontcg.io/ex3/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Taillow-DR76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4575,6 +5183,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/77.png",
       "large": "https://images.pokemontcg.io/ex3/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Torchic-DR77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4624,6 +5240,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/78.png",
       "large": "https://images.pokemontcg.io/ex3/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Trapinch-DR78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4683,6 +5307,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/79.png",
       "large": "https://images.pokemontcg.io/ex3/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Trapinch-DR79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4739,6 +5371,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/80.png",
       "large": "https://images.pokemontcg.io/ex3/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Treecko-DR80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4798,6 +5438,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/81.png",
       "large": "https://images.pokemontcg.io/ex3/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Wurmple-DR81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -4820,6 +5468,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/82.png",
       "large": "https://images.pokemontcg.io/ex3/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Balloon-Berry-DR82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4842,6 +5498,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/83.png",
       "large": "https://images.pokemontcg.io/ex3/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Buffer-Piece-DR83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.42
+      }
     }
   },
   {
@@ -4864,6 +5528,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/84.png",
       "large": "https://images.pokemontcg.io/ex3/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Energy-Recycle-System-DR84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -4886,6 +5558,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/85.png",
       "large": "https://images.pokemontcg.io/ex3/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/High-Pressure-System-DR85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4908,6 +5588,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/86.png",
       "large": "https://images.pokemontcg.io/ex3/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Low-Pressure-System-DR86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4930,6 +5618,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/87.png",
       "large": "https://images.pokemontcg.io/ex3/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Mr-Brineys-Compassion-DR87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -4953,6 +5649,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/88.png",
       "large": "https://images.pokemontcg.io/ex3/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/TV-Reporter-DR88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 6.0
+      }
     }
   },
   {
@@ -5021,6 +5725,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/89.png",
       "large": "https://images.pokemontcg.io/ex3/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Ampharos-ex-DR89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.97,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5103,6 +5815,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/90.png",
       "large": "https://images.pokemontcg.io/ex3/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Dragonite-ex-DR90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 14.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5177,6 +5897,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/91.png",
       "large": "https://images.pokemontcg.io/ex3/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Golem-ex-DR91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5245,6 +5973,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/92.png",
       "large": "https://images.pokemontcg.io/ex3/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Kingdra-ex-DR92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5317,6 +6053,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/93.png",
       "large": "https://images.pokemontcg.io/ex3/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Latias-ex-DR93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5389,6 +6133,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/94.png",
       "large": "https://images.pokemontcg.io/ex3/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Latios-ex-DR94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5453,6 +6205,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/95.png",
       "large": "https://images.pokemontcg.io/ex3/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magcargo-ex-DR95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5523,6 +6283,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/96.png",
       "large": "https://images.pokemontcg.io/ex3/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Muk-ex-DR96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.87,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5594,6 +6362,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/97.png",
       "large": "https://images.pokemontcg.io/ex3/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Rayquaza-ex-DR97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 14.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5653,6 +6429,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/98.png",
       "large": "https://images.pokemontcg.io/ex3/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Charmander-V1-DR98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": 20.0
+      }
     }
   },
   {
@@ -5713,6 +6497,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/99.png",
       "large": "https://images.pokemontcg.io/ex3/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Charmeleon-V1-DR99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": 24.0
+      }
     }
   },
   {
@@ -5774,6 +6566,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex3/100.png",
       "large": "https://images.pokemontcg.io/ex3/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Charizard-V1-DR100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 55.0,
+        "reverseHoloLow": 119.99
+      }
     }
   }
 ]

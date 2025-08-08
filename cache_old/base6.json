@@ -57,6 +57,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/1.png",
       "large": "https://images.pokemontcg.io/base6/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Alakazam-LC1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": 42.0
+      }
     }
   },
   {
@@ -120,6 +128,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/2.png",
       "large": "https://images.pokemontcg.io/base6/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Articuno-LC2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.97,
+        "reverseHoloLow": 50.0
+      }
     }
   },
   {
@@ -187,6 +203,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/3.png",
       "large": "https://images.pokemontcg.io/base6/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Charizard-LC3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 39.99,
+        "reverseHoloLow": 399.95
+      }
     }
   },
   {
@@ -249,6 +273,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/4.png",
       "large": "https://images.pokemontcg.io/base6/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Dark-Blastoise-LC4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 17.99,
+        "reverseHoloLow": 75.0
+      }
     }
   },
   {
@@ -309,6 +341,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/5.png",
       "large": "https://images.pokemontcg.io/base6/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Dark-Dragonite-LC5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.99,
+        "reverseHoloLow": 129.9
+      }
     }
   },
   {
@@ -370,6 +410,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/6.png",
       "large": "https://images.pokemontcg.io/base6/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Dark-Persian-LC6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": 23.0
+      }
     }
   },
   {
@@ -421,6 +469,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/7.png",
       "large": "https://images.pokemontcg.io/base6/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Dark-Raichu-LC7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 40.0
+      }
     }
   },
   {
@@ -479,6 +535,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/8.png",
       "large": "https://images.pokemontcg.io/base6/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Dark-Slowbro-LC8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 20.0
+      }
     }
   },
   {
@@ -541,6 +605,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/9.png",
       "large": "https://images.pokemontcg.io/base6/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Dark-Vaporeon-LC9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": 79.9
+      }
     }
   },
   {
@@ -603,6 +675,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/10.png",
       "large": "https://images.pokemontcg.io/base6/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Flareon-LC10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 51.98
+      }
     }
   },
   {
@@ -661,6 +741,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/11.png",
       "large": "https://images.pokemontcg.io/base6/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Gengar-LC11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.89,
+        "reverseHoloLow": 150.0
+      }
     }
   },
   {
@@ -732,6 +820,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/12.png",
       "large": "https://images.pokemontcg.io/base6/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Gyarados-LC12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": 32.0
+      }
     }
   },
   {
@@ -792,6 +888,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/13.png",
       "large": "https://images.pokemontcg.io/base6/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Hitmonlee-LC13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": 17.0
+      }
     }
   },
   {
@@ -853,6 +957,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/14.png",
       "large": "https://images.pokemontcg.io/base6/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Jolteon-LC14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.99,
+        "reverseHoloLow": 65.0
+      }
     }
   },
   {
@@ -914,6 +1026,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/15.png",
       "large": "https://images.pokemontcg.io/base6/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Machamp-LC15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.09,
+        "reverseHoloLow": 25.0
+      }
     }
   },
   {
@@ -973,6 +1093,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/16.png",
       "large": "https://images.pokemontcg.io/base6/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Muk-LC16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 23.0
+      }
     }
   },
   {
@@ -1035,6 +1163,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/17.png",
       "large": "https://images.pokemontcg.io/base6/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Ninetales-LC17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 12.0
+      }
     }
   },
   {
@@ -1095,6 +1231,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/18.png",
       "large": "https://images.pokemontcg.io/base6/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Venusaur-LC18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": 90.0
+      }
     }
   },
   {
@@ -1160,6 +1304,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/19.png",
       "large": "https://images.pokemontcg.io/base6/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Zapdos-LC19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": 50.0
+      }
     }
   },
   {
@@ -1224,6 +1376,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/20.png",
       "large": "https://images.pokemontcg.io/base6/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Beedrill-LC20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 15.0
+      }
     }
   },
   {
@@ -1288,6 +1448,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/21.png",
       "large": "https://images.pokemontcg.io/base6/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Butterfree-LC21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 18.0
+      }
     }
   },
   {
@@ -1349,6 +1517,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/22.png",
       "large": "https://images.pokemontcg.io/base6/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Electrode-LC22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.68,
+        "reverseHoloLow": 20.0
+      }
     }
   },
   {
@@ -1409,6 +1585,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/23.png",
       "large": "https://images.pokemontcg.io/base6/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Exeggutor-LC23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 20.0
+      }
     }
   },
   {
@@ -1476,6 +1660,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/24.png",
       "large": "https://images.pokemontcg.io/base6/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Golem-LC24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": 24.0
+      }
     }
   },
   {
@@ -1537,6 +1729,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/25.png",
       "large": "https://images.pokemontcg.io/base6/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Hypno-LC25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 15.0
+      }
     }
   },
   {
@@ -1597,6 +1797,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/26.png",
       "large": "https://images.pokemontcg.io/base6/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Jynx-LC26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.11,
+        "reverseHoloLow": 19.98
+      }
     }
   },
   {
@@ -1659,6 +1867,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/27.png",
       "large": "https://images.pokemontcg.io/base6/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Kabutops-LC27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": 24.49
+      }
     }
   },
   {
@@ -1725,6 +1941,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/28.png",
       "large": "https://images.pokemontcg.io/base6/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Magneton-LC28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 19.99
+      }
     }
   },
   {
@@ -1785,6 +2009,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/29.png",
       "large": "https://images.pokemontcg.io/base6/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Mewtwo-V1-LC29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": 89.0
+      }
     }
   },
   {
@@ -1846,6 +2078,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/30.png",
       "large": "https://images.pokemontcg.io/base6/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Moltres-LC30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": 40.0
+      }
     }
   },
   {
@@ -1910,6 +2150,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/31.png",
       "large": "https://images.pokemontcg.io/base6/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Nidoking-LC31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": 35.0
+      }
     }
   },
   {
@@ -1974,6 +2222,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/32.png",
       "large": "https://images.pokemontcg.io/base6/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Nidoqueen-LC32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": 20.0
+      }
     }
   },
   {
@@ -2037,6 +2293,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/33.png",
       "large": "https://images.pokemontcg.io/base6/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Pidgeot-LC33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 18.99
+      }
     }
   },
   {
@@ -2107,6 +2371,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/34.png",
       "large": "https://images.pokemontcg.io/base6/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Pidgeotto-LC34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 17.0
+      }
     }
   },
   {
@@ -2181,6 +2453,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/35.png",
       "large": "https://images.pokemontcg.io/base6/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Rhydon-LC35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 24.99
+      }
     }
   },
   {
@@ -2246,6 +2526,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/36.png",
       "large": "https://images.pokemontcg.io/base6/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Arcanine-LC36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 75.0
+      }
     }
   },
   {
@@ -2311,6 +2599,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/37.png",
       "large": "https://images.pokemontcg.io/base6/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Charmeleon-LC37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 35.0
+      }
     }
   },
   {
@@ -2373,6 +2669,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/38.png",
       "large": "https://images.pokemontcg.io/base6/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Dark-Dragonair-LC38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 30.0
+      }
     }
   },
   {
@@ -2435,6 +2739,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/39.png",
       "large": "https://images.pokemontcg.io/base6/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Dark-Wartortle-LC39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 39.99
+      }
     }
   },
   {
@@ -2500,6 +2812,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/40.png",
       "large": "https://images.pokemontcg.io/base6/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Dewgong-LC40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.14,
+        "reverseHoloLow": 10.0
+      }
     }
   },
   {
@@ -2560,6 +2880,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/41.png",
       "large": "https://images.pokemontcg.io/base6/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Dodrio-LC41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 16.0
+      }
     }
   },
   {
@@ -2625,6 +2953,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/42.png",
       "large": "https://images.pokemontcg.io/base6/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Fearow-LC42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 10.0
+      }
     }
   },
   {
@@ -2685,6 +3021,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/43.png",
       "large": "https://images.pokemontcg.io/base6/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Golduck-LC43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 24.99
+      }
     }
   },
   {
@@ -2750,6 +3094,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/44.png",
       "large": "https://images.pokemontcg.io/base6/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Graveler-LC44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 23.0
+      }
     }
   },
   {
@@ -2802,6 +3154,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/45.png",
       "large": "https://images.pokemontcg.io/base6/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Growlithe-LC45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.22,
+        "reverseHoloLow": 39.31
+      }
     }
   },
   {
@@ -2858,6 +3218,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/46.png",
       "large": "https://images.pokemontcg.io/base6/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Haunter-LC46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 25.0
+      }
     }
   },
   {
@@ -2923,6 +3291,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/47.png",
       "large": "https://images.pokemontcg.io/base6/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Ivysaur-LC47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 22.0
+      }
     }
   },
   {
@@ -2982,6 +3358,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/48.png",
       "large": "https://images.pokemontcg.io/base6/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Kabuto-LC48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.15
+      }
     }
   },
   {
@@ -3048,6 +3432,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/49.png",
       "large": "https://images.pokemontcg.io/base6/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Kadabra-LC49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 14.99
+      }
     }
   },
   {
@@ -3112,6 +3504,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/50.png",
       "large": "https://images.pokemontcg.io/base6/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Kakuna-LC50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 11.0
+      }
     }
   },
   {
@@ -3180,6 +3580,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/51.png",
       "large": "https://images.pokemontcg.io/base6/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Machoke-LC51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 23.98
+      }
     }
   },
   {
@@ -3240,6 +3648,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/52.png",
       "large": "https://images.pokemontcg.io/base6/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Magikarp-LC52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": 40.0
+      }
     }
   },
   {
@@ -3298,6 +3714,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/53.png",
       "large": "https://images.pokemontcg.io/base6/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Meowth-LC53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 25.0
+      }
     }
   },
   {
@@ -3362,6 +3786,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/54.png",
       "large": "https://images.pokemontcg.io/base6/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Metapod-LC54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 17.4
+      }
     }
   },
   {
@@ -3425,6 +3857,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/55.png",
       "large": "https://images.pokemontcg.io/base6/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Nidorina-LC55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 25.3
+      }
     }
   },
   {
@@ -3491,6 +3931,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/56.png",
       "large": "https://images.pokemontcg.io/base6/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Nidorino-LC56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 19.99
+      }
     }
   },
   {
@@ -3550,6 +3998,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/57.png",
       "large": "https://images.pokemontcg.io/base6/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Omanyte-LC57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 18.98
+      }
     }
   },
   {
@@ -3610,6 +4066,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/58.png",
       "large": "https://images.pokemontcg.io/base6/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Omastar-LC58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 25.0
+      }
     }
   },
   {
@@ -3671,6 +4135,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/59.png",
       "large": "https://images.pokemontcg.io/base6/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Primeape-LC59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 20.0
+      }
     }
   },
   {
@@ -3728,6 +4200,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/60.png",
       "large": "https://images.pokemontcg.io/base6/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Rapidash-LC60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 19.99
+      }
     }
   },
   {
@@ -3794,6 +4274,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/61.png",
       "large": "https://images.pokemontcg.io/base6/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Raticate-LC61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.12,
+        "reverseHoloLow": 18.0
+      }
     }
   },
   {
@@ -3860,6 +4348,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/62.png",
       "large": "https://images.pokemontcg.io/base6/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Sandslash-LC62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 16.9
+      }
     }
   },
   {
@@ -3924,6 +4420,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/63.png",
       "large": "https://images.pokemontcg.io/base6/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Seadra-LC63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 14.95
+      }
     }
   },
   {
@@ -3991,6 +4495,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/64.png",
       "large": "https://images.pokemontcg.io/base6/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Snorlax-LC64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 150.0
+      }
     }
   },
   {
@@ -4058,6 +4570,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/65.png",
       "large": "https://images.pokemontcg.io/base6/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Tauros-LC65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 17.99
+      }
     }
   },
   {
@@ -4113,6 +4633,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/66.png",
       "large": "https://images.pokemontcg.io/base6/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Tentacruel-LC66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.12,
+        "reverseHoloLow": 25.0
+      }
     }
   },
   {
@@ -4160,6 +4688,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/67.png",
       "large": "https://images.pokemontcg.io/base6/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Abra-LC67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 25.0
+      }
     }
   },
   {
@@ -4212,6 +4748,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/68.png",
       "large": "https://images.pokemontcg.io/base6/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Bulbasaur-LC68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 49.98
+      }
     }
   },
   {
@@ -4264,6 +4808,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/69.png",
       "large": "https://images.pokemontcg.io/base6/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Caterpie-LC69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 19.99
+      }
     }
   },
   {
@@ -4325,6 +4877,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/70.png",
       "large": "https://images.pokemontcg.io/base6/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Charmander-LC70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 40.0
+      }
     }
   },
   {
@@ -4378,6 +4938,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/71.png",
       "large": "https://images.pokemontcg.io/base6/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Doduo-LC71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 19.95
+      }
     }
   },
   {
@@ -4429,6 +4997,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/72.png",
       "large": "https://images.pokemontcg.io/base6/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Dratini-LC72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 19.0
+      }
     }
   },
   {
@@ -4488,6 +5064,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/73.png",
       "large": "https://images.pokemontcg.io/base6/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Drowzee-LC73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 12.95
+      }
     }
   },
   {
@@ -4562,6 +5146,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/74.png",
       "large": "https://images.pokemontcg.io/base6/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Eevee-LC74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 100.0
+      }
     }
   },
   {
@@ -4623,6 +5215,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/75.png",
       "large": "https://images.pokemontcg.io/base6/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Exeggcute-LC75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 30.0
+      }
     }
   },
   {
@@ -4680,6 +5280,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/76.png",
       "large": "https://images.pokemontcg.io/base6/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Gastly-LC76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 40.0
+      }
     }
   },
   {
@@ -4732,6 +5340,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/77.png",
       "large": "https://images.pokemontcg.io/base6/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Geodude-LC77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 14.95
+      }
     }
   },
   {
@@ -4792,6 +5408,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/78.png",
       "large": "https://images.pokemontcg.io/base6/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Grimer-LC78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 20.0
+      }
     }
   },
   {
@@ -4855,6 +5479,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/79.png",
       "large": "https://images.pokemontcg.io/base6/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Machop-LC79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 22.0
+      }
     }
   },
   {
@@ -4916,6 +5548,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/80.png",
       "large": "https://images.pokemontcg.io/base6/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Magnemite-LC80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 12.0
+      }
     }
   },
   {
@@ -4973,6 +5613,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/81.png",
       "large": "https://images.pokemontcg.io/base6/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Mankey-LC81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 40.0
+      }
     }
   },
   {
@@ -5034,6 +5682,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/82.png",
       "large": "https://images.pokemontcg.io/base6/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Nidoran-LC82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 17.5
+      }
     }
   },
   {
@@ -5085,6 +5741,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/83.png",
       "large": "https://images.pokemontcg.io/base6/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Nidoran-M-LC83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 14.9
+      }
     }
   },
   {
@@ -5148,6 +5812,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/84.png",
       "large": "https://images.pokemontcg.io/base6/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Onix-LC84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 14.9
+      }
     }
   },
   {
@@ -5206,6 +5878,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/85.png",
       "large": "https://images.pokemontcg.io/base6/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Pidgey-LC85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 25.0
+      }
     }
   },
   {
@@ -5258,6 +5938,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/86.png",
       "large": "https://images.pokemontcg.io/base6/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Pikachu-LC86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 141.0
+      }
     }
   },
   {
@@ -5320,6 +6008,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/87.png",
       "large": "https://images.pokemontcg.io/base6/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Ponyta-LC87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 14.99
+      }
     }
   },
   {
@@ -5381,6 +6077,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/88.png",
       "large": "https://images.pokemontcg.io/base6/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Psyduck-LC88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 60.0
+      }
     }
   },
   {
@@ -5434,6 +6138,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/89.png",
       "large": "https://images.pokemontcg.io/base6/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Rattata-LC89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 13.5
+      }
     }
   },
   {
@@ -5504,6 +6216,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/90.png",
       "large": "https://images.pokemontcg.io/base6/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Rhyhorn-LC90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 17.0
+      }
     }
   },
   {
@@ -5561,6 +6281,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/91.png",
       "large": "https://images.pokemontcg.io/base6/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Sandshrew-LC91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 18.0
+      }
     }
   },
   {
@@ -5612,6 +6340,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/92.png",
       "large": "https://images.pokemontcg.io/base6/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Seel-LC92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 15.0
+      }
     }
   },
   {
@@ -5674,6 +6410,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/93.png",
       "large": "https://images.pokemontcg.io/base6/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Slowpoke-LC93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 30.0
+      }
     }
   },
   {
@@ -5738,6 +6482,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/94.png",
       "large": "https://images.pokemontcg.io/base6/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Spearow-LC94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 22.99
+      }
     }
   },
   {
@@ -5799,6 +6551,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/95.png",
       "large": "https://images.pokemontcg.io/base6/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Squirtle-LC95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 97.99
+      }
     }
   },
   {
@@ -5853,6 +6613,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/96.png",
       "large": "https://images.pokemontcg.io/base6/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Tentacool-LC96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 26.0
+      }
     }
   },
   {
@@ -5904,6 +6672,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/97.png",
       "large": "https://images.pokemontcg.io/base6/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Voltorb-LC97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 20.0
+      }
     }
   },
   {
@@ -5956,6 +6732,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/98.png",
       "large": "https://images.pokemontcg.io/base6/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Vulpix-LC98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 29.9
+      }
     }
   },
   {
@@ -6008,6 +6792,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/99.png",
       "large": "https://images.pokemontcg.io/base6/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Weedle-LC99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 15.0
+      }
     }
   },
   {
@@ -6029,6 +6821,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/100.png",
       "large": "https://images.pokemontcg.io/base6/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Full-Heal-Energy-LC100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 15.0
+      }
     }
   },
   {
@@ -6050,6 +6850,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/101.png",
       "large": "https://images.pokemontcg.io/base6/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Potion-Energy-LC101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 9.9
+      }
     }
   },
   {
@@ -6068,6 +6876,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/102.png",
       "large": "https://images.pokemontcg.io/base6/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Pokemon-Breeder-LC102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.3,
+        "reverseHoloLow": 14.95
+      }
     }
   },
   {
@@ -6086,6 +6902,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/103.png",
       "large": "https://images.pokemontcg.io/base6/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Pokemon-Trader-LC103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 15.0
+      }
     }
   },
   {
@@ -6104,6 +6928,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/104.png",
       "large": "https://images.pokemontcg.io/base6/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Scoop-Up-LC104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": 13.95
+      }
     }
   },
   {
@@ -6122,6 +6954,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/105.png",
       "large": "https://images.pokemontcg.io/base6/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/The-Bosss-Way-LC105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 9.99
+      }
     }
   },
   {
@@ -6140,6 +6980,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/106.png",
       "large": "https://images.pokemontcg.io/base6/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Challenge-LC106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 19.99
+      }
     }
   },
   {
@@ -6160,6 +7008,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/107.png",
       "large": "https://images.pokemontcg.io/base6/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Energy-Retrieval-LC107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 19.9
+      }
     }
   },
   {
@@ -6178,6 +7034,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/108.png",
       "large": "https://images.pokemontcg.io/base6/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Bill-LC108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 12.9
+      }
     }
   },
   {
@@ -6197,6 +7061,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/109.png",
       "large": "https://images.pokemontcg.io/base6/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Mysterious-Fossil-LC109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 20.0
+      }
     }
   },
   {
@@ -6217,6 +7089,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/base6/110.png",
       "large": "https://images.pokemontcg.io/base6/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legendary-Collection/Potion-LC110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 20.99
+      }
     }
   }
 ]

@@ -15942,5 +15942,478 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "sv4pt5-promo-7",
+    "name": "Charmander  (PAF 007) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [
+      "Charmeleon"
+    ],
+    "attacks": [
+      {
+        "name": "Blazing Destruction",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard a Stadium in play."
+      },
+      {
+        "name": "Steady Firebreathing",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "7",
+    "artist": "GIDORA",
+    "rarity": "Promo",
+    "flavorText": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+    "nationalPokedexNumbers": [
+      4
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/7.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Charmander-V2-PAF007",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4pt5-promo-8",
+    "name": "Charmeleon  (PAF 008) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Charmander",
+    "evolvesTo": [
+      "Charizard"
+    ],
+    "abilities": [
+      {
+        "name": "Flare Veil",
+        "text": "Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "8",
+    "artist": "Tonji Matsuno",
+    "rarity": "Promo",
+    "flavorText": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
+    "nationalPokedexNumbers": [
+      5
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/8.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Charmeleon-V2-PAF008",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4pt5-promo-18",
+    "name": "Pikachu  (PAF 018) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "attacks": [
+      {
+        "name": "Growl",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance)."
+      },
+      {
+        "name": "Pika Bolt",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "18",
+    "artist": "OKACHEKE",
+    "rarity": "Promo",
+    "flavorText": "﻿When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/18.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Pikachu-V3-PAF018",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 12.95,
+        "reverseHoloLow": 12.95
+      }
+    }
+  },
+  {
+    "id": "sv4pt5-promo-38",
+    "name": "Fidough  (PAF 038) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Rear Kick",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "38",
+    "artist": "Mizue",
+    "rarity": "Promo",
+    "flavorText": "This Pokémon is smooth and moist to the touch. Yeast in Fidough's breath induces fermentation in the Pokémon's vicinity.",
+    "nationalPokedexNumbers": [
+      926
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/38.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Fidough-V2-PAF038",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
+  },
+  {
+    "id": "sv4pt5-promo-40",
+    "name": "Ceruledge  (PAF 040) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "140",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Charcadet",
+    "attacks": [
+      {
+        "name": "Life Sucker",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "50",
+        "text": "Heal 30 damage from this Pokémon."
+      },
+      {
+        "name": "Fighting Sword",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100+",
+        "text": "If your opponent's Active Pokémon is a Pokémon ex or Pokémon V, this attack does 100 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "40",
+    "artist": "Ryota Murayama",
+    "rarity": "Promo",
+    "flavorText": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
+    "nationalPokedexNumbers": [
+      937
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/40.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Ceruledge-V3-PAL098",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv4pt5-promo-42",
+    "name": "Greavard  (PAF 042) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Graveyard Gamboling",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10×",
+        "text": "This attack does 10 damage for each Psychic Pokémon in your discard pile."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "42",
+    "artist": "yuu",
+    "rarity": "Promo",
+    "flavorText": "This friendly Pokémon doesn't like being alone. Pay it even the slightest bit of attention, and it will follow you forever.",
+    "nationalPokedexNumbers": [
+      971
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/42.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Greavard-V2-PAF042",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.6,
+        "reverseHoloLow": 0.6
+      }
+    }
+  },
+  {
+    "id": "sv4pt5-promo-62",
+    "name": "Maschiff  (PAF 062) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Ambush",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10+",
+        "text": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "62",
+    "artist": "DOM",
+    "rarity": "Promo",
+    "flavorText": "It always scowls in an attempt to make opponents take it seriously, but even crying children will burst into laughter when they see Maschiff's face.",
+    "nationalPokedexNumbers": [
+      942
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "G",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv4pt5/62.png",
+      "large": "https://images.pokemontcg.io/sv4pt5/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Maschiff-V2-PAF062",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.05
+      }
+    }
   }
 ]

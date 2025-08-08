@@ -66,6 +66,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/1.png",
       "large": "https://images.pokemontcg.io/bw8/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Turtwig-PLS1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -128,6 +136,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/2.png",
       "large": "https://images.pokemontcg.io/bw8/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Grotle-PLS2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -201,6 +217,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/3.png",
       "large": "https://images.pokemontcg.io/bw8/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Torterra-PLS3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -252,6 +276,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/4.png",
       "large": "https://images.pokemontcg.io/bw8/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Combee-PLS4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -311,6 +343,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/5.png",
       "large": "https://images.pokemontcg.io/bw8/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Vespiquen-PLS5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.14,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -368,6 +408,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/6.png",
       "large": "https://images.pokemontcg.io/bw8/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Cherubi-PLS6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -431,6 +479,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/7.png",
       "large": "https://images.pokemontcg.io/bw8/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Cherrim-PLS7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -482,6 +538,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/8.png",
       "large": "https://images.pokemontcg.io/bw8/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Sewaddle-PLS8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -545,6 +609,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/9.png",
       "large": "https://images.pokemontcg.io/bw8/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Swadloon-PLS9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -607,6 +679,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/10.png",
       "large": "https://images.pokemontcg.io/bw8/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Leavanny-PLS10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.74
+      }
     }
   },
   {
@@ -671,6 +751,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/11.png",
       "large": "https://images.pokemontcg.io/bw8/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Maractus-PLS11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -728,6 +816,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/12.png",
       "large": "https://images.pokemontcg.io/bw8/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Foongus-PLS12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -795,6 +891,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/13.png",
       "large": "https://images.pokemontcg.io/bw8/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Amoonguss-PLS13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -866,6 +970,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/14.png",
       "large": "https://images.pokemontcg.io/bw8/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Moltres-EX-PLS14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.91,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -917,6 +1029,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/15.png",
       "large": "https://images.pokemontcg.io/bw8/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Chimchar-PLS15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -979,6 +1099,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/16.png",
       "large": "https://images.pokemontcg.io/bw8/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Monferno-PLS16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1035,6 +1163,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/17.png",
       "large": "https://images.pokemontcg.io/bw8/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Infernape-PLS17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.79
+      }
     }
   },
   {
@@ -1097,6 +1233,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/18.png",
       "large": "https://images.pokemontcg.io/bw8/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Victini-EX-PLS18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1160,6 +1304,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/19.png",
       "large": "https://images.pokemontcg.io/bw8/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Pansear-PLS19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -1221,6 +1373,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/20.png",
       "large": "https://images.pokemontcg.io/bw8/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Simisear-PLS20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1272,6 +1432,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/21.png",
       "large": "https://images.pokemontcg.io/bw8/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Litwick-PLS21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1332,6 +1500,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/22.png",
       "large": "https://images.pokemontcg.io/bw8/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Lampent-PLS22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -1392,6 +1568,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/23.png",
       "large": "https://images.pokemontcg.io/bw8/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Heatmor-PLS23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1443,6 +1627,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/24.png",
       "large": "https://images.pokemontcg.io/bw8/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Squirtle-PLS24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.45
+      }
     }
   },
   {
@@ -1515,6 +1707,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/25.png",
       "large": "https://images.pokemontcg.io/bw8/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Articuno-EX-PLS25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1568,6 +1768,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/26.png",
       "large": "https://images.pokemontcg.io/bw8/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Swinub-PLS26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -1635,6 +1843,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/27.png",
       "large": "https://images.pokemontcg.io/bw8/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Piloswine-PLS27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.28
+      }
     }
   },
   {
@@ -1701,6 +1917,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/28.png",
       "large": "https://images.pokemontcg.io/bw8/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Mamoswine-PLS28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1753,6 +1977,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/29.png",
       "large": "https://images.pokemontcg.io/bw8/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Lotad-PLS29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -1818,6 +2050,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/30.png",
       "large": "https://images.pokemontcg.io/bw8/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Lombre-PLS30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1878,6 +2118,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/31.png",
       "large": "https://images.pokemontcg.io/bw8/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Ludicolo-PLS31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1930,6 +2178,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/32.png",
       "large": "https://images.pokemontcg.io/bw8/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Carvanha-PLS32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -1984,6 +2240,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/33.png",
       "large": "https://images.pokemontcg.io/bw8/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Sharpedo-PLS33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -2039,6 +2303,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/34.png",
       "large": "https://images.pokemontcg.io/bw8/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Manaphy-PLS34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2090,6 +2362,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/35.png",
       "large": "https://images.pokemontcg.io/bw8/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Vanillite-PLS35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2143,6 +2423,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/36.png",
       "large": "https://images.pokemontcg.io/bw8/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Vanillish-PLS36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2203,6 +2491,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/37.png",
       "large": "https://images.pokemontcg.io/bw8/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Vanilluxe-PLS37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2256,6 +2552,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/38.png",
       "large": "https://images.pokemontcg.io/bw8/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Frillish-PLS38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2315,6 +2619,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/39.png",
       "large": "https://images.pokemontcg.io/bw8/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Jellicent-PLS39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -2378,6 +2690,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/40.png",
       "large": "https://images.pokemontcg.io/bw8/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Cubchoo-PLS40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -2443,6 +2763,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/41.png",
       "large": "https://images.pokemontcg.io/bw8/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Beartic-PLS41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2504,6 +2832,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/42.png",
       "large": "https://images.pokemontcg.io/bw8/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Magnemite-PLS42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -2555,6 +2891,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/43.png",
       "large": "https://images.pokemontcg.io/bw8/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Magnemite-PLS43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2618,6 +2962,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/44.png",
       "large": "https://images.pokemontcg.io/bw8/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Magneton-PLS44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2672,6 +3024,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/45.png",
       "large": "https://images.pokemontcg.io/bw8/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Magneton-PLS45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2733,6 +3093,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/46.png",
       "large": "https://images.pokemontcg.io/bw8/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Magnezone-PLS46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.98
+      }
     }
   },
   {
@@ -2794,6 +3162,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/47.png",
       "large": "https://images.pokemontcg.io/bw8/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Magnezone-PLS47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -2865,6 +3241,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/48.png",
       "large": "https://images.pokemontcg.io/bw8/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Zapdos-EX-PLS48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2924,6 +3308,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/49.png",
       "large": "https://images.pokemontcg.io/bw8/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Rotom-PLS49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -2975,6 +3367,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/50.png",
       "large": "https://images.pokemontcg.io/bw8/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Joltik-PLS50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3030,6 +3430,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/51.png",
       "large": "https://images.pokemontcg.io/bw8/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Galvantula-PLS51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3087,6 +3495,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/52.png",
       "large": "https://images.pokemontcg.io/bw8/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Zubat-PLS52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3152,6 +3568,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/53.png",
       "large": "https://images.pokemontcg.io/bw8/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Zubat-PLS53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3211,6 +3635,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/54.png",
       "large": "https://images.pokemontcg.io/bw8/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Golbat-PLS54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.47
+      }
     }
   },
   {
@@ -3272,6 +3704,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/55.png",
       "large": "https://images.pokemontcg.io/bw8/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Crobat-PLS55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -3334,6 +3774,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/56.png",
       "large": "https://images.pokemontcg.io/bw8/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Koffing-PLS56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3386,6 +3834,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/57.png",
       "large": "https://images.pokemontcg.io/bw8/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Koffing-PLS57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -3445,6 +3901,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/58.png",
       "large": "https://images.pokemontcg.io/bw8/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Weezing-PLS58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -3496,6 +3960,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/59.png",
       "large": "https://images.pokemontcg.io/bw8/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Ralts-PLS59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3549,6 +4021,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/60.png",
       "large": "https://images.pokemontcg.io/bw8/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Kirlia-PLS60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3611,6 +4091,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/61.png",
       "large": "https://images.pokemontcg.io/bw8/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Gallade-PLS61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -3676,6 +4164,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/62.png",
       "large": "https://images.pokemontcg.io/bw8/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Giratina-PLS62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3737,6 +4233,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/63.png",
       "large": "https://images.pokemontcg.io/bw8/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Trubbish-PLS63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -3799,6 +4303,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/64.png",
       "large": "https://images.pokemontcg.io/bw8/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Trubbish-PLS64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3852,6 +4364,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/65.png",
       "large": "https://images.pokemontcg.io/bw8/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Trubbish-PLS65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3915,6 +4435,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/66.png",
       "large": "https://images.pokemontcg.io/bw8/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Garbodor-PLS66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3980,6 +4508,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/67.png",
       "large": "https://images.pokemontcg.io/bw8/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Garbodor-PLS67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -4032,6 +4568,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/68.png",
       "large": "https://images.pokemontcg.io/bw8/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Elgyem-PLS68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -4093,6 +4637,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/69.png",
       "large": "https://images.pokemontcg.io/bw8/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Elgyem-PLS69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4154,6 +4706,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/70.png",
       "large": "https://images.pokemontcg.io/bw8/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Beheeyem-PLS70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -4223,6 +4783,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/71.png",
       "large": "https://images.pokemontcg.io/bw8/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Phanpy-PLS71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4293,6 +4861,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/72.png",
       "large": "https://images.pokemontcg.io/bw8/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Donphan-PLS72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.66
+      }
     }
   },
   {
@@ -4351,6 +4927,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/73.png",
       "large": "https://images.pokemontcg.io/bw8/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Lunatone-PLS73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4413,6 +4997,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/74.png",
       "large": "https://images.pokemontcg.io/bw8/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Solrock-PLS74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4474,6 +5066,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/75.png",
       "large": "https://images.pokemontcg.io/bw8/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Riolu-PLS75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -4537,6 +5137,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/76.png",
       "large": "https://images.pokemontcg.io/bw8/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Riolu-PLS76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -4598,6 +5206,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/77.png",
       "large": "https://images.pokemontcg.io/bw8/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Lucario-PLS77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 3.0
+      }
     }
   },
   {
@@ -4657,6 +5273,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/78.png",
       "large": "https://images.pokemontcg.io/bw8/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Lucario-PLS78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.4
+      }
     }
   },
   {
@@ -4721,6 +5345,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/79.png",
       "large": "https://images.pokemontcg.io/bw8/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Timburr-PLS79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.24
+      }
     }
   },
   {
@@ -4789,6 +5421,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/80.png",
       "large": "https://images.pokemontcg.io/bw8/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Gurdurr-PLS80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -4854,6 +5494,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/81.png",
       "large": "https://images.pokemontcg.io/bw8/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Conkeldurr-PLS81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -4921,6 +5569,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/82.png",
       "large": "https://images.pokemontcg.io/bw8/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Purrloin-PLS82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4988,6 +5644,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/83.png",
       "large": "https://images.pokemontcg.io/bw8/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Purrloin-PLS83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5054,6 +5718,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/84.png",
       "large": "https://images.pokemontcg.io/bw8/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Liepard-PLS84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -5122,6 +5794,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/85.png",
       "large": "https://images.pokemontcg.io/bw8/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Scraggy-PLS85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5190,6 +5870,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/86.png",
       "large": "https://images.pokemontcg.io/bw8/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Scrafty-PLS86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -5256,6 +5944,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/87.png",
       "large": "https://images.pokemontcg.io/bw8/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Skarmory-PLS87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.34,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -5324,6 +6020,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/88.png",
       "large": "https://images.pokemontcg.io/bw8/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Klink-PLS88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -5394,6 +6098,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/89.png",
       "large": "https://images.pokemontcg.io/bw8/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Klang-PLS89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -5461,6 +6173,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/90.png",
       "large": "https://images.pokemontcg.io/bw8/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Klinklang-PLS90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5528,6 +6248,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/91.png",
       "large": "https://images.pokemontcg.io/bw8/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Durant-PLS91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5593,6 +6321,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/92.png",
       "large": "https://images.pokemontcg.io/bw8/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Durant-PLS92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5662,6 +6398,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/93.png",
       "large": "https://images.pokemontcg.io/bw8/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Cobalion-EX-PLS93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.96,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5724,6 +6468,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/94.png",
       "large": "https://images.pokemontcg.io/bw8/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Druddigon-PLS94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -5791,6 +6543,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/95.png",
       "large": "https://images.pokemontcg.io/bw8/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Black-Kyurem-EX-PLS95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5858,6 +6618,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/96.png",
       "large": "https://images.pokemontcg.io/bw8/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/White-Kyurem-EX-PLS96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5919,6 +6687,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/97.png",
       "large": "https://images.pokemontcg.io/bw8/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Clefairy-PLS97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5977,6 +6753,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/98.png",
       "large": "https://images.pokemontcg.io/bw8/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Clefable-PLS98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.65
+      }
     }
   },
   {
@@ -6035,6 +6819,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/99.png",
       "large": "https://images.pokemontcg.io/bw8/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Doduo-PLS99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6101,6 +6893,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/100.png",
       "large": "https://images.pokemontcg.io/bw8/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Dodrio-PLS100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.24,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -6164,6 +6964,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/101.png",
       "large": "https://images.pokemontcg.io/bw8/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Snorlax-PLS101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -6215,6 +7023,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/102.png",
       "large": "https://images.pokemontcg.io/bw8/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Togepi-PLS102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -6273,6 +7089,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/103.png",
       "large": "https://images.pokemontcg.io/bw8/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Togetic-PLS103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6335,6 +7159,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/104.png",
       "large": "https://images.pokemontcg.io/bw8/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Togekiss-PLS104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -6398,6 +7230,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/105.png",
       "large": "https://images.pokemontcg.io/bw8/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Whismur-PLS105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6463,6 +7303,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/106.png",
       "large": "https://images.pokemontcg.io/bw8/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Loudred-PLS106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6529,6 +7377,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/107.png",
       "large": "https://images.pokemontcg.io/bw8/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Exploud-PLS107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6598,6 +7454,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/108.png",
       "large": "https://images.pokemontcg.io/bw8/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Lugia-EX-PLS108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6650,6 +7514,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/109.png",
       "large": "https://images.pokemontcg.io/bw8/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Skitty-PLS109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6701,6 +7573,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/110.png",
       "large": "https://images.pokemontcg.io/bw8/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Patrat-PLS110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6762,6 +7642,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/111.png",
       "large": "https://images.pokemontcg.io/bw8/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Patrat-PLS111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -6822,6 +7710,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/112.png",
       "large": "https://images.pokemontcg.io/bw8/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Watchog-PLS112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6884,6 +7780,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/113.png",
       "large": "https://images.pokemontcg.io/bw8/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Watchog-PLS113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.44
+      }
     }
   },
   {
@@ -6946,6 +7850,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/114.png",
       "large": "https://images.pokemontcg.io/bw8/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Bouffalant-PLS114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -7004,6 +7916,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/115.png",
       "large": "https://images.pokemontcg.io/bw8/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Rufflet-PLS115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -7069,6 +7989,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/116.png",
       "large": "https://images.pokemontcg.io/bw8/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Braviary-PLS116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -7092,6 +8020,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/117.png",
       "large": "https://images.pokemontcg.io/bw8/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Bicycle-PLS117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -7116,6 +8052,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/118.png",
       "large": "https://images.pokemontcg.io/bw8/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Colress-V1-PLS118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 3.35
+      }
     }
   },
   {
@@ -7140,6 +8084,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/119.png",
       "large": "https://images.pokemontcg.io/bw8/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Colress-Machine-PLS119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7163,6 +8115,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/120.png",
       "large": "https://images.pokemontcg.io/bw8/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Escape-Rope-V1-PLS120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -7186,6 +8146,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/121.png",
       "large": "https://images.pokemontcg.io/bw8/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Ether-PLS121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7210,6 +8178,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/122.png",
       "large": "https://images.pokemontcg.io/bw8/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Eviolite-PLS122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -7234,6 +8210,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/123.png",
       "large": "https://images.pokemontcg.io/bw8/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Hypnotoxic-Laser-V1-PLS123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -7258,6 +8242,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/124.png",
       "large": "https://images.pokemontcg.io/bw8/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Plasma-Frigate-PLS124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -7282,6 +8274,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/125.png",
       "large": "https://images.pokemontcg.io/bw8/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Team-Plasma-Grunt-PLS125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -7305,6 +8305,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/126.png",
       "large": "https://images.pokemontcg.io/bw8/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Virbank-City-Gym-PLS126",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 1.5
+      }
     }
   },
   {
@@ -7328,6 +8336,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/127.png",
       "large": "https://images.pokemontcg.io/bw8/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Plasma-Energy-PLS127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -7353,6 +8369,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/128.png",
       "large": "https://images.pokemontcg.io/bw8/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Dowsing-Machine-PLS128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.4,
+        "reverseHoloLow": 4.4
+      }
     }
   },
   {
@@ -7378,6 +8402,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/129.png",
       "large": "https://images.pokemontcg.io/bw8/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Scramble-Switch-PLS129",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": 4.0
+      }
     }
   },
   {
@@ -7404,6 +8436,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/130.png",
       "large": "https://images.pokemontcg.io/bw8/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Victory-Piece-PLS130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 1.75
+      }
     }
   },
   {
@@ -7466,6 +8506,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/131.png",
       "large": "https://images.pokemontcg.io/bw8/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Victini-EX-PLS131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7538,6 +8586,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/132.png",
       "large": "https://images.pokemontcg.io/bw8/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Articuno-EX-PLS132",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": 20.0
+      }
     }
   },
   {
@@ -7607,6 +8663,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/133.png",
       "large": "https://images.pokemontcg.io/bw8/133_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Cobalion-EX-PLS133",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7676,6 +8740,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/134.png",
       "large": "https://images.pokemontcg.io/bw8/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Lugia-EX-PLS134",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 21.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7700,6 +8772,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/135.png",
       "large": "https://images.pokemontcg.io/bw8/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Colress-V2-PLS135",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": 40.0
+      }
     }
   },
   {
@@ -7766,6 +8846,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/136.png",
       "large": "https://images.pokemontcg.io/bw8/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Charizard-PLS136",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 175.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7828,6 +8916,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/137.png",
       "large": "https://images.pokemontcg.io/bw8/137_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Blastoise-PLS137",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 35.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7851,6 +8947,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw8/138.png",
       "large": "https://images.pokemontcg.io/bw8/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Plasma-Storm/Random-Receiver-PLS138",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.5,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

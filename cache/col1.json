@@ -6289,5 +6289,221 @@
       "small": "https://images.pokemontcg.io/col1/SL11.png",
       "large": "https://images.pokemontcg.io/col1/SL11_hires.png"
     }
+  },
+  {
+    "id": "col1-promo-88",
+    "name": "Grass Energy (CL 88) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "88",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/col1/88.png",
+      "large": "https://images.pokemontcg.io/col1/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Grass-Energy-V2-CL88",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 60.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "col1-promo-89",
+    "name": "Fire Energy (CL 89) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "89",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/col1/89.png",
+      "large": "https://images.pokemontcg.io/col1/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Fire-Energy-V2-CL89",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 54.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "col1-promo-90",
+    "name": "Water Energy (CL 90) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "90",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/col1/90.png",
+      "large": "https://images.pokemontcg.io/col1/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Water-Energy-V2-CL90",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 42.04,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "col1-promo-91",
+    "name": "Lightning Energy (CL 91) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "91",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/col1/91.png",
+      "large": "https://images.pokemontcg.io/col1/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Lightning-Energy-V2-CL91",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 38.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "col1-promo-92",
+    "name": "Psychic Energy (CL 92) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "92",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/col1/92.png",
+      "large": "https://images.pokemontcg.io/col1/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Psychic-Energy-V2-CL92",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 89.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "col1-promo-93",
+    "name": "Fighting Energy (CL 93) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "93",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/col1/93.png",
+      "large": "https://images.pokemontcg.io/col1/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Fighting-Energy-V2-CL",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "col1-promo-94",
+    "name": "Darkness Energy (CL 94) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "94",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/col1/94.png",
+      "large": "https://images.pokemontcg.io/col1/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Darkness-Energy-V2-CL94",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 89.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "col1-promo-95",
+    "name": "Metal Energy (CL 95) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Basic"
+    ],
+    "number": "95",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/col1/95.png",
+      "large": "https://images.pokemontcg.io/col1/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Call-of-Legends/Metal-Energy-V2-CL95",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 29.99,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

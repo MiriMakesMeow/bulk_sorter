@@ -2,7 +2,7 @@
   {
     "id": "xy11-1",
     "name": "Tangela",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -21,7 +21,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30\u00d7",
+        "damage": "30×",
         "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
       },
       {
@@ -33,13 +33,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "40",
-        "text": "Heal 20 damage from this Pok\u00e9mon."
+        "text": "Heal 20 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -102,31 +102,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-1",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Tangela-STS1",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.39,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.24,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.14,
-        "reverseHoloAvg7": 0.39,
-        "reverseHoloAvg30": 0.38
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-2",
     "name": "Tangrowth",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -145,7 +132,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "Heal 40 damage from each of your Grass Pok\u00e9mon."
+        "text": "Heal 40 damage from each of your Grass Pokémon."
       },
       {
         "name": "Flog",
@@ -163,7 +150,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -227,31 +214,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-2",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Tangrowth-STS2",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.95,
-        "reverseHoloLow": 0.09,
-        "reverseHoloTrend": 0.64,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.14,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 0.75,
-        "reverseHoloAvg30": 0.57
+        "reverseHoloLow": 0.09
       }
     }
   },
   {
     "id": "xy11-3",
     "name": "Hoppip",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -276,7 +250,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -337,31 +311,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-3",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Hoppip-STS3",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.58,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.47,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.05,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.53,
-        "reverseHoloAvg30": 0.37
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-4",
     "name": "Skiploom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -387,7 +348,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -448,31 +409,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-4",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Skiploom-STS4",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.44,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.41,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.14,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.53,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-5",
     "name": "Jumpluff",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -489,7 +437,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Switch 1 of your opponent's Benched Pok\u00e9mon with his or her Active Pok\u00e9mon."
+        "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
       },
       {
         "name": "Solar Step",
@@ -497,14 +445,14 @@
           "Grass"
         ],
         "convertedEnergyCost": 1,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "This attack does 20 damage times the number of your remaining Prize cards."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -565,31 +513,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-5",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Jumpluff-STS5",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.47,
         "lowPrice": 0.02,
-        "trendPrice": 0.42,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.95,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.7,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.25,
-        "avg7": 0.41,
-        "avg30": 0.33,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.93,
-        "reverseHoloAvg30": 0.82
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-6",
     "name": "Yanma",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -625,7 +560,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -692,31 +627,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-6",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Yanma-STS6",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.22,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.21,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.15,
-        "reverseHoloAvg7": 0.23,
-        "reverseHoloAvg30": 0.28
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-7",
     "name": "Yanmega",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -728,7 +650,7 @@
     "abilities": [
       {
         "name": "Sonic Vision",
-        "text": "If you have exactly 4 cards in your hand, ignore all Energy in the attack cost of each of this Pok\u00e9mon's attacks.",
+        "text": "If you have exactly 4 cards in your hand, ignore all Energy in the attack cost of each of this Pokémon's attacks.",
         "type": "Ability"
       }
     ],
@@ -742,13 +664,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50+",
-        "text": "If your opponent's Active Pok\u00e9mon has a Pok\u00e9mon Tool card attached to it, this attack does 70 more damage."
+        "text": "If your opponent's Active Pokémon has a Pokémon Tool card attached to it, this attack does 70 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -778,7 +700,7 @@
     "number": "7",
     "artist": "Midori Harada",
     "rarity": "Rare",
-    "flavorText": "This six-legged Pok\u00e9mon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
+    "flavorText": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
     "nationalPokedexNumbers": [
       469
     ],
@@ -811,31 +733,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-7",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Yanmega-STS7",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.0,
-        "lowPrice": 0.45,
-        "trendPrice": 0.46,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 2.99,
-        "avg1": 0.46,
-        "avg7": 0.46,
-        "avg30": 0.46,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.18
       }
     }
   },
   {
     "id": "xy11-8",
     "name": "Yanmega BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -857,7 +766,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pok\u00e9mon."
+        "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon."
       }
     ],
     "set": {
@@ -906,31 +815,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-8",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Yanmega-BREAK-STS8",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.87,
         "lowPrice": 0.75,
-        "trendPrice": 3.29,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 8.0,
-        "reverseHoloLow": 4.47,
-        "reverseHoloTrend": 3.34,
-        "lowPriceExPlus": 1.49,
-        "avg1": 8.0,
-        "avg7": 3.36,
-        "avg30": 2.73,
-        "reverseHoloAvg1": 8.0,
-        "reverseHoloAvg7": 2.62,
-        "reverseHoloAvg30": 1.72
+        "reverseHoloLow": 4.47
       }
     }
   },
   {
     "id": "xy11-9",
     "name": "Seedot",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -949,13 +845,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, if this Pok\u00e9mon would be Knocked Out by damage from an attack during your opponent's next turn, it is not Knocked Out and its remaining HP becomes 10 instead."
+        "text": "Flip a coin. If heads, if this Pokémon would be Knocked Out by damage from an attack during your opponent's next turn, it is not Knocked Out and its remaining HP becomes 10 instead."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -983,7 +879,7 @@
     "number": "9",
     "artist": "sui",
     "rarity": "Common",
-    "flavorText": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pok\u00e9mon.",
+    "flavorText": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
     "nationalPokedexNumbers": [
       273
     ],
@@ -1016,31 +912,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-9",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Seedot-STS9",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.3,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.25,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.06,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.26,
-        "reverseHoloAvg30": 0.25
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "xy11-10",
     "name": "Nuzleaf",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1060,7 +943,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "During your opponent's next turn, if this Pok\u00e9mon would be damaged by an attack, prevent that attack's damage done to this Pok\u00e9mon if that damage is 60 or less."
+        "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 60 or less."
       },
       {
         "name": "Razor Leaf",
@@ -1076,7 +959,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1137,31 +1020,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-10",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Nuzleaf-STS10",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.27,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.28,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.15,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.27,
-        "reverseHoloAvg30": 0.35
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-11",
     "name": "Shiftry",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -1179,7 +1049,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "40",
-        "text": "Until the end of your opponent's next turn, each Stadium or Pok\u00e9mon Tool card in play has no effect. (This includes cards that come into play on that turn.)"
+        "text": "Until the end of your opponent's next turn, each Stadium or Pokémon Tool card in play has no effect. (This includes cards that come into play on that turn.)"
       },
       {
         "name": "Extrasensory",
@@ -1195,7 +1065,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1257,31 +1127,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-11",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Shiftry-STS11",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.86,
-        "lowPrice": 0.19,
-        "trendPrice": 0.98,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.76,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 0.47,
-        "lowPriceExPlus": 0.4,
-        "avg1": 0.5,
-        "avg7": 0.82,
-        "avg30": 1.02,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 0.74,
-        "reverseHoloAvg30": 0.95
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy11-12",
     "name": "Foongus",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1295,7 +1152,7 @@
     "abilities": [
       {
         "name": "Play Ball",
-        "text": "When you play this Pok\u00e9mon from your hand onto your Bench, you may put 3 Pok\u00e9 Ball cards from your discard pile into your hand.",
+        "text": "When you play this Pokémon from your hand onto your Bench, you may put 3 Poké Ball cards from your discard pile into your hand.",
         "type": "Ability"
       }
     ],
@@ -1313,7 +1170,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1341,7 +1198,7 @@
     "number": "12",
     "artist": "Yuka Morii",
     "rarity": "Common",
-    "flavorText": "It lures Pok\u00e9mon with its pattern that looks just like a Pok\u00e9 Ball then releases poison spores.",
+    "flavorText": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
     "nationalPokedexNumbers": [
       590
     ],
@@ -1374,31 +1231,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-12",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Foongus-STS12",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.28,
-        "reverseHoloLow": 0.04,
-        "reverseHoloTrend": 0.26,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.1,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.42,
-        "reverseHoloAvg7": 0.28,
-        "reverseHoloAvg30": 0.3
+        "reverseHoloLow": 0.04
       }
     }
   },
   {
     "id": "xy11-13",
     "name": "Amoonguss",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1415,7 +1259,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Your opponent's Active Pok\u00e9mon is now Confused and Poisoned."
+        "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
       },
       {
         "name": "Strange Reaction",
@@ -1425,13 +1269,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "If your opponent's Active Pok\u00e9mon is Confused, it is now Paralyzed."
+        "text": "If your opponent's Active Pokémon is Confused, it is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1460,7 +1304,7 @@
     "number": "13",
     "artist": "Ken Sugimori",
     "rarity": "Rare",
-    "flavorText": "It lures prey close by dancing and waving its arm caps, which resemble Pok\u00e9 Balls, in a swaying motion.",
+    "flavorText": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
     "nationalPokedexNumbers": [
       591
     ],
@@ -1493,31 +1337,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-13",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Amoonguss-STS13",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.35,
         "lowPrice": 0.03,
-        "trendPrice": 0.4,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.55,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.61,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.2,
-        "avg7": 0.38,
-        "avg30": 0.28,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.58,
-        "reverseHoloAvg30": 0.67
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-14",
     "name": "Larvesta",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1543,7 +1374,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1605,31 +1436,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-14",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Larvesta-STS14",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.26,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.35,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.3,
-        "avg7": 0.13,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.15,
-        "reverseHoloAvg7": 0.24,
-        "reverseHoloAvg30": 0.37
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "xy11-15",
     "name": "Volcarona",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1647,7 +1465,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Confused. If tails, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused. If tails, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Power Hurricane",
@@ -1658,13 +1476,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "Discard all Energy attached to this Pok\u00e9mon."
+        "text": "Discard all Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1725,31 +1543,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-15",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Volcarona-V1-STS15",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.99,
-        "lowPrice": 7.5,
-        "trendPrice": 8.41,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.96,
-        "lowPriceExPlus": 7.5,
-        "avg1": 4.99,
-        "avg7": 7.78,
-        "avg30": 7.95,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 1.96,
-        "reverseHoloAvg30": 1.96
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.24
       }
     }
   },
   {
     "id": "xy11-16",
     "name": "Ponyta",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1783,7 +1588,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1844,31 +1649,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-16",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Ponyta-STS16",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.34,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.38,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.12,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.34,
-        "reverseHoloAvg30": 0.38
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-17",
     "name": "Rapidash",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1895,13 +1687,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "70",
-        "text": "Discard a Fire Energy attached to this Pok\u00e9mon."
+        "text": "Discard a Fire Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1962,31 +1754,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-17",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Rapidash-STS17",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.75,
-        "reverseHoloLow": 0.09,
-        "reverseHoloTrend": 0.78,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.15,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.83,
-        "reverseHoloAvg30": 0.63
+        "reverseHoloLow": 0.19
       }
     }
   },
   {
     "id": "xy11-18",
     "name": "Chimchar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2015,13 +1794,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If tails, discard a Fire Energy attached to this Pok\u00e9mon."
+        "text": "Flip a coin. If tails, discard a Fire Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2082,31 +1861,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-18",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Chimchar-STS18",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.57,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.53,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.06,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.64,
-        "reverseHoloAvg30": 0.44
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-19",
     "name": "Monferno",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2142,7 +1908,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2203,31 +1969,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-19",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Monferno-STS19",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.63,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.57,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.6,
-        "reverseHoloAvg7": 0.68,
-        "reverseHoloAvg30": 0.59
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-20",
     "name": "Infernape",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -2245,7 +1998,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "120",
-        "text": "Discard all Fire Energy attached to this Pok\u00e9mon."
+        "text": "Discard all Fire Energy attached to this Pokémon."
       },
       {
         "name": "Flare Up",
@@ -2261,7 +2014,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2322,31 +2075,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-20",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Infernape-STS20",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.73,
-        "lowPrice": 0.1,
-        "trendPrice": 0.96,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.75,
-        "reverseHoloLow": 0.45,
-        "reverseHoloTrend": 1.66,
-        "lowPriceExPlus": 0.2,
-        "avg1": 1.46,
-        "avg7": 0.74,
-        "avg30": 0.81,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 1.93,
-        "reverseHoloAvg30": 1.61
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.39
       }
     }
   },
   {
     "id": "xy11-21",
     "name": "Talonflame BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -2367,7 +2107,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "150",
-        "text": "Discard all Fire Energy attached to this Pok\u00e9mon."
+        "text": "Discard all Fire Energy attached to this Pokémon."
       }
     ],
     "set": {
@@ -2416,31 +2156,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-21",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Talonflame-BREAK-STS21",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.71,
         "lowPrice": 0.99,
-        "trendPrice": 3.43,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.93,
-        "lowPriceExPlus": 1.99,
-        "avg1": 1.99,
-        "avg7": 3.76,
-        "avg30": 3.6,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 3.66,
-        "reverseHoloAvg30": 2.38
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-22",
     "name": "Litleo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2466,7 +2193,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2494,7 +2221,7 @@
     "number": "22",
     "artist": "Kyoko Umemoto",
     "rarity": "Common",
-    "flavorText": "They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pok\u00e9mon are quick to fight.",
+    "flavorText": "They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight.",
     "nationalPokedexNumbers": [
       667
     ],
@@ -2527,31 +2254,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-22",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Litleo-STS22",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.27,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.26,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.05,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.25,
-        "reverseHoloAvg7": 0.26,
-        "reverseHoloAvg30": 0.27
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-23",
     "name": "Pyroar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2569,7 +2283,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "60",
-        "text": "Search your deck for a Fire Energy card and attach it to this Pok\u00e9mon. Shuffle your deck afterward."
+        "text": "Search your deck for a Fire Energy card and attach it to this Pokémon. Shuffle your deck afterward."
       },
       {
         "name": "Incinerate",
@@ -2580,13 +2294,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90",
-        "text": "Before doing damage, discard all Pok\u00e9mon Tool cards attached to your opponent's Active Pok\u00e9mon."
+        "text": "Before doing damage, discard all Pokémon Tool cards attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2648,31 +2362,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-23",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Pyroar-STS23",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.28,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.92,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.85,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.22,
-        "avg30": 0.24,
-        "reverseHoloAvg1": 0.58,
-        "reverseHoloAvg7": 0.89,
-        "reverseHoloAvg30": 0.91
+        "reverseHoloLow": 0.14
       }
     }
   },
   {
     "id": "xy11-24",
     "name": "Pyroar BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -2694,7 +2395,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "180",
-        "text": "This Pok\u00e9mon does 50 damage to itself."
+        "text": "This Pokémon does 50 damage to itself."
       }
     ],
     "set": {
@@ -2743,31 +2444,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-24",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Pyroar-BREAK-STS24",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.46,
         "lowPrice": 0.5,
-        "trendPrice": 2.9,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 6.0,
-        "reverseHoloLow": 2.55,
-        "reverseHoloTrend": 4.33,
-        "lowPriceExPlus": 1.0,
-        "avg1": 1.99,
-        "avg7": 2.36,
-        "avg30": 2.66,
-        "reverseHoloAvg1": 6.0,
-        "reverseHoloAvg7": 4.07,
-        "reverseHoloAvg30": 2.71
+        "reverseHoloLow": 2.55
       }
     }
   },
   {
     "id": "xy11-25",
     "name": "Volcanion",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2783,7 +2471,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Choose 2 of your Benched Pok\u00e9mon. Attach a Fire Energy card from your discard pile to each of those Pok\u00e9mon."
+        "text": "Choose 2 of your Benched Pokémon. Attach a Fire Energy card from your discard pile to each of those Pokémon."
       },
       {
         "name": "Steam Artillery",
@@ -2800,7 +2488,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2862,31 +2550,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-25",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Volcanion-V1-STS25",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.62,
-        "lowPrice": 0.5,
-        "trendPrice": 0.95,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.68,
-        "lowPriceExPlus": 0.5,
-        "avg1": 0.5,
-        "avg7": 0.89,
-        "avg30": 0.87,
-        "reverseHoloAvg1": 0.8,
-        "reverseHoloAvg7": 0.9,
-        "reverseHoloAvg30": 0.72
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-26",
     "name": "Volcanion-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -2897,12 +2572,12 @@
       "Water"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Steam Up",
-        "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pok\u00e9mon's attacks do 30 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance).",
+        "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -2922,7 +2597,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2977,31 +2652,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-26",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Volcanion-EX-V1-STS26",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 14.9,
-        "lowPrice": 4.0,
-        "trendPrice": 14.71,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 60.0,
-        "avg1": 14.9,
-        "avg7": 9.63,
-        "avg30": 9.63,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-27",
     "name": "Mantine",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3017,7 +2679,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Discard as many cards as you like from your hand. Heal 10 damage from this Pok\u00e9mon for each card you discarded in this way."
+        "text": "Discard as many cards as you like from your hand. Heal 10 damage from this Pokémon for each card you discarded in this way."
       },
       {
         "name": "Dwindling Wave",
@@ -3028,13 +2690,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90-",
-        "text": "This attack does 90 damage minus 10 damage for each damage counter on this Pok\u00e9mon."
+        "text": "This attack does 90 damage minus 10 damage for each damage counter on this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3101,31 +2763,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-27",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Mantine-STS27",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.46,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.5,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.1,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.44,
-        "reverseHoloAvg30": 0.38
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-28",
     "name": "Shellos",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3150,7 +2799,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3212,31 +2861,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-28",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Shellos-STS28",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.27,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.36,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.06,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.23,
-        "reverseHoloAvg7": 0.38,
-        "reverseHoloAvg30": 0.32
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-29",
     "name": "Gastrodon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3253,7 +2889,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "During your opponent's next turn, the Defending Pok\u00e9mon's attacks cost Colorless more, and its Retreat Cost is Colorless more."
+        "text": "During your opponent's next turn, the Defending Pokémon's attacks cost Colorless more, and its Retreat Cost is Colorless more."
       },
       {
         "name": "Water Pulse",
@@ -3264,13 +2900,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "Your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3332,31 +2968,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-29",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Gastrodon-STS29",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.23,
         "lowPrice": 0.05,
-        "trendPrice": 0.26,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.8,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.67,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.55,
-        "avg7": 0.26,
-        "avg30": 0.33,
-        "reverseHoloAvg1": 1.1,
-        "reverseHoloAvg7": 0.65,
-        "reverseHoloAvg30": 0.68
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-30",
     "name": "Oshawott",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3382,7 +3005,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3443,31 +3066,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-30",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Oshawott-STS30",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.23,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.21,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.16,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.25,
-        "reverseHoloAvg30": 0.27
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-31",
     "name": "Dewott",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3494,7 +3104,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3556,31 +3166,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-31",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Dewott-STS31",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.25,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.48,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.26,
-        "avg7": 0.11,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.45,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-32",
     "name": "Samurott",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -3598,7 +3195,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "If the damage from this attack reduces your opponent's Active Pok\u00e9mon's HP to 60 or less, that Pok\u00e9mon is Knocked Out."
+        "text": "If the damage from this attack reduces your opponent's Active Pokémon's HP to 60 or less, that Pokémon is Knocked Out."
       },
       {
         "name": "Pike",
@@ -3609,13 +3206,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90",
-        "text": "This attack does 30 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3677,31 +3274,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-32",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Samurott-STS32",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.43,
         "lowPrice": 0.02,
-        "trendPrice": 0.33,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.95,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.93,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.44,
-        "avg30": 0.47,
-        "reverseHoloAvg1": 0.95,
-        "reverseHoloAvg7": 1.01,
-        "reverseHoloAvg30": 0.76
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-33",
     "name": "Clauncher",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3719,14 +3303,14 @@
           "Water"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3787,31 +3371,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-33",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Clauncher-STS33",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.19,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.23,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.09,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.18,
-        "reverseHoloAvg30": 0.25
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-34",
     "name": "Clawitzer",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3823,7 +3394,7 @@
     "abilities": [
       {
         "name": "Mega Boost",
-        "text": "Once during your turn (before your attack), you may attach a Special Energy card from your hand to 1 of your Mega Evolution Pok\u00e9mon.",
+        "text": "Once during your turn (before your attack), you may attach a Special Energy card from your hand to 1 of your Mega Evolution Pokémon.",
         "type": "Ability"
       }
     ],
@@ -3843,7 +3414,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3905,31 +3476,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-34",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Clawitzer-STS34",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.22,
         "lowPrice": 0.02,
-        "trendPrice": 0.27,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.41,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.22,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.22,
-        "avg30": 0.26,
-        "reverseHoloAvg1": 0.49,
-        "reverseHoloAvg7": 0.42,
-        "reverseHoloAvg30": 0.37
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-35",
     "name": "Clawitzer BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -3949,7 +3507,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn. During your next turn, any damage done to that Pok\u00e9mon by attacks is increased by 120 (after applying Weakness and Resistance)."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn. During your next turn, any damage done to that Pokémon by attacks is increased by 120 (after applying Weakness and Resistance)."
       }
     ],
     "set": {
@@ -3998,31 +3556,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-35",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Clawitzer-BREAK-STS35",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.39,
-        "lowPrice": 0.5,
-        "trendPrice": 2.56,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 3.8,
-        "reverseHoloTrend": 4.89,
-        "lowPriceExPlus": 0.99,
-        "avg1": 2.0,
-        "avg7": 2.9,
-        "avg30": 1.94,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 4.95,
-        "reverseHoloAvg30": 2.41
+        "lowPrice": 0.49,
+        "reverseHoloLow": 3.8
       }
     }
   },
   {
     "id": "xy11-36",
     "name": "Bergmite",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4041,7 +3586,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       },
       {
         "name": "Icy Snow",
@@ -4057,7 +3602,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4119,31 +3664,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-36",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Bergmite-STS36",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.29,
-        "reverseHoloLow": 0.07,
-        "reverseHoloTrend": 0.25,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.12,
-        "avg7": 0.09,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.15,
-        "reverseHoloAvg7": 0.27,
-        "reverseHoloAvg30": 0.26
+        "reverseHoloLow": 0.07
       }
     }
   },
   {
     "id": "xy11-37",
     "name": "Avalugg",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4161,7 +3693,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
       },
       {
         "name": "Melting Floe",
@@ -4178,7 +3710,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4242,31 +3774,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-37",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Avalugg-STS37",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.29,
-        "lowPrice": 0.05,
-        "trendPrice": 0.3,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.76,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.72,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.23,
-        "avg7": 0.26,
-        "avg30": 0.3,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.76,
-        "reverseHoloAvg30": 0.7
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy11-38",
     "name": "Mareep",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4285,7 +3804,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Tackle",
@@ -4301,7 +3820,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4368,31 +3887,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-38",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Mareep-STS38",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.24,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.31,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.07,
-        "avg7": 0.05,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.25,
-        "reverseHoloAvg30": 0.32
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-39",
     "name": "Flaaffy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4423,13 +3929,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4497,31 +4003,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-39",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Flaaffy-STS39",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.46,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.53,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.11,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.39,
-        "reverseHoloAvg7": 0.42,
-        "reverseHoloAvg30": 0.48
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-40",
     "name": "Ampharos",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -4533,7 +4026,7 @@
     "abilities": [
       {
         "name": "Shocking Light",
-        "text": "Once during your turn (before your attack), you may put 3 damage counters on 1 of your opponent's Pok\u00e9mon-EX.",
+        "text": "Once during your turn (before your attack), you may put 3 damage counters on 1 of your opponent's Pokémon-EX.",
         "type": "Ability"
       }
     ],
@@ -4547,13 +4040,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80+",
-        "text": "Flip a coin. If heads, this attack does 40 more damage. If tails, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, this attack does 40 more damage. If tails, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4621,31 +4114,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-40",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Ampharos-STS40",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.66,
         "lowPrice": 0.03,
-        "trendPrice": 0.65,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.76,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 1.06,
-        "lowPriceExPlus": 0.19,
-        "avg1": 0.1,
-        "avg7": 0.65,
-        "avg30": 0.66,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 1.03,
-        "reverseHoloAvg30": 0.99
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy11-41",
     "name": "Joltik",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4670,7 +4150,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4700,7 +4180,7 @@
     "number": "41",
     "artist": "Ayaka Yoshida",
     "rarity": "Common",
-    "flavorText": "They attach themselves to large-bodied Pok\u00e9mon and absorb static electricity, which they store in an electric pouch.",
+    "flavorText": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
     "nationalPokedexNumbers": [
       595
     ],
@@ -4733,31 +4213,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-41",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Joltik-STS41",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.25,
-        "reverseHoloLow": 0.04,
-        "reverseHoloTrend": 0.33,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.08,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.31,
-        "reverseHoloAvg30": 0.3
+        "reverseHoloLow": 0.04
       }
     }
   },
   {
     "id": "xy11-42",
     "name": "Galvantula",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4775,7 +4242,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 30 damage to 2 of your opponent's Pok\u00e9mon. Also apply Weakness and Resistance for Benched Pok\u00e9mon."
+        "text": "This attack does 30 damage to 2 of your opponent's Pokémon. Also apply Weakness and Resistance for Benched Pokémon."
       },
       {
         "name": "Electroweb",
@@ -4784,13 +4251,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4857,31 +4324,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-42",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Galvantula-STS42",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.37,
         "lowPrice": 0.02,
-        "trendPrice": 0.52,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.25,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 1.59,
-        "lowPriceExPlus": 0.09,
-        "avg1": 0.5,
-        "avg7": 0.36,
-        "avg30": 0.48,
-        "reverseHoloAvg1": 1.19,
-        "reverseHoloAvg7": 1.56,
-        "reverseHoloAvg30": 1.34
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "xy11-43",
-    "name": "Nidoran \u2642",
-    "supertype": "Pok\u00e9mon",
+    "name": "Nidoran ♂",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4900,7 +4354,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for Nidoran \u2640 and put it onto your Bench. Shuffle your deck afterward."
+        "text": "Search your deck for Nidoran ♀ and put it onto your Bench. Shuffle your deck afterward."
       },
       {
         "name": "Peck",
@@ -4916,7 +4370,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4977,31 +4431,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-43",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Nidoran-STS43",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.21,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.18,
-        "reverseHoloLow": 0.09,
-        "reverseHoloTrend": 0.27,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.21,
-        "avg7": 0.17,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.15,
-        "reverseHoloAvg7": 0.38,
-        "reverseHoloAvg30": 0.4
+        "reverseHoloLow": 0.09
       }
     }
   },
   {
     "id": "xy11-44",
     "name": "Nidorino",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5009,7 +4450,7 @@
     "types": [
       "Psychic"
     ],
-    "evolvesFrom": "Nidoran \u2642",
+    "evolvesFrom": "Nidoran ♂",
     "evolvesTo": [
       "Nidoking"
     ],
@@ -5039,7 +4480,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5068,7 +4509,7 @@
     "number": "44",
     "artist": "TOKIYA",
     "rarity": "Uncommon",
-    "flavorText": "An aggressive Pok\u00e9mon that is quick to attack. The horn on its head secretes a powerful venom.",
+    "flavorText": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
     "nationalPokedexNumbers": [
       33
     ],
@@ -5101,31 +4542,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-44",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Nidorino-STS44",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.2,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.45,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.43,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.18,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 0.34,
-        "reverseHoloAvg7": 0.39,
-        "reverseHoloAvg30": 0.39
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-45",
     "name": "Nidoking",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -5137,7 +4565,7 @@
     "abilities": [
       {
         "name": "King's Palace",
-        "text": "Your Nidoqueen's attacks do 20 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance).",
+        "text": "Your Nidoqueen's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -5151,13 +4579,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
-        "text": "This attack does 30 more damage for each Evolution Pok\u00e9mon on your Bench."
+        "text": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5221,31 +4649,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-45",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Nidoking-STS45",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.94,
         "lowPrice": 0.1,
-        "trendPrice": 0.77,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.2,
-        "reverseHoloLow": 0.3,
-        "reverseHoloTrend": 2.45,
-        "lowPriceExPlus": 0.4,
-        "avg1": 0.5,
-        "avg7": 0.72,
-        "avg30": 0.99,
-        "reverseHoloAvg1": 1.99,
-        "reverseHoloAvg7": 2.24,
-        "reverseHoloAvg30": 2.32
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "xy11-46",
     "name": "Drifloon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5264,13 +4679,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Move 1 damage counter from 1 of your Pok\u00e9mon to 1 of your opponent's Pok\u00e9mon."
+        "text": "Move 1 damage counter from 1 of your Pokémon to 1 of your opponent's Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5304,7 +4719,7 @@
     "number": "46",
     "artist": "kodama",
     "rarity": "Common",
-    "flavorText": "These Pok\u00e9mon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish.",
+    "flavorText": "These Pokémon are called the \"Signpost for Wandering Spirits.\" Children holding them sometimes vanish.",
     "nationalPokedexNumbers": [
       425
     ],
@@ -5337,31 +4752,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-46",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Drifloon-STS46",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.33,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.34,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.06,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.19,
-        "reverseHoloAvg7": 0.29,
-        "reverseHoloAvg30": 0.25
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-47",
     "name": "Drifblim",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5379,7 +4781,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Your opponent's Active Pok\u00e9mon is now Confused."
+        "text": "Your opponent's Active Pokémon is now Confused."
       },
       {
         "name": "Burst Curse",
@@ -5389,13 +4791,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Discard 2 Energy attached to this Pok\u00e9mon. Put 8 damage counters on your opponent's Pok\u00e9mon in any way you like."
+        "text": "Discard 2 Energy attached to this Pokémon. Put 8 damage counters on your opponent's Pokémon in any way you like."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5462,31 +4864,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-47",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Drifblim-STS47",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.46,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.18,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.18,
-        "reverseHoloAvg7": 0.46,
-        "reverseHoloAvg30": 0.44
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-48",
     "name": "Litwick",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5511,7 +4900,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5545,7 +4934,7 @@
     "number": "48",
     "artist": "Ken Sugimori",
     "rarity": "Common",
-    "flavorText": "Litwick shines a light that absorbs the life energy of people and Pok\u00e9mon, which becomes the fuel that it burns.",
+    "flavorText": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
     "nationalPokedexNumbers": [
       607
     ],
@@ -5578,31 +4967,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-48",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Litwick-STS48",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.34,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.3,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.31,
-        "reverseHoloAvg30": 0.25
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-49",
     "name": "Lampent",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5632,13 +5008,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5705,31 +5081,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-49",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Lampent-STS49",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.42,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.1,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.44,
-        "reverseHoloAvg30": 0.54
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy11-50",
     "name": "Chandelure",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -5760,7 +5123,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5828,31 +5191,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-50",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Chandelure-STS50",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.44,
         "lowPrice": 0.1,
-        "trendPrice": 0.5,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.15,
-        "reverseHoloLow": 0.17,
-        "reverseHoloTrend": 1.22,
-        "lowPriceExPlus": 0.15,
-        "avg1": 0.5,
-        "avg7": 0.59,
-        "avg30": 0.72,
-        "reverseHoloAvg1": 0.55,
-        "reverseHoloAvg7": 1.06,
-        "reverseHoloAvg30": 0.86
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy11-51",
     "name": "Hoopa",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5868,7 +5218,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 20 damage to 2 of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 20 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Portal Strike",
@@ -5879,13 +5229,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "This Pok\u00e9mon can't use Portal Strike during your next turn."
+        "text": "This Pokémon can't use Portal Strike during your next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5947,31 +5297,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-51",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Hoopa-STS51",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.61,
-        "lowPrice": 0.05,
-        "trendPrice": 0.6,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.3,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.66,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.47,
-        "avg7": 0.57,
-        "avg30": 0.53,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 0.97,
-        "reverseHoloAvg30": 0.96
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "xy11-52",
     "name": "Mankey",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5990,7 +5327,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "During your next turn, this Pok\u00e9mon's Flop attack's base damage is 50."
+        "text": "During your next turn, this Pokémon's Flop attack's base damage is 50."
       },
       {
         "name": "Flop",
@@ -6005,7 +5342,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6066,31 +5403,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-52",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Mankey-STS52",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.28,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.26,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.08,
-        "avg7": 0.04,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.28,
-        "reverseHoloAvg30": 0.25
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-53",
     "name": "Primeape",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6107,7 +5431,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
       },
       {
         "name": "Spirited Throw",
@@ -6117,13 +5441,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "If, before doing damage, your opponent's Active Pok\u00e9mon has more remaining HP than this Pok\u00e9mon, this attack does 60 more damage."
+        "text": "If, before doing damage, your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6184,31 +5508,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-53",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Primeape-STS53",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.59,
         "lowPrice": 0.02,
-        "trendPrice": 0.56,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.8,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.76,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.3,
-        "avg7": 0.58,
-        "avg30": 0.37,
-        "reverseHoloAvg1": 1.45,
-        "reverseHoloAvg7": 0.94,
-        "reverseHoloAvg30": 0.69
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-54",
     "name": "Nosepass",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6227,7 +5538,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Rolling Tackle",
@@ -6244,7 +5555,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6306,31 +5617,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-54",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Nosepass-STS54",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.53,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.38,
-        "reverseHoloAvg30": 0.42
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-55",
     "name": "Probopass",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6347,7 +5645,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "40",
-        "text": "Your opponent switches his or her Active Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon."
+        "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
       },
       {
         "name": "Rock Tomb",
@@ -6358,13 +5656,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6428,31 +5726,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-55",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Probopass-STS55",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.19,
         "lowPrice": 0.05,
-        "trendPrice": 0.23,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.7,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.76,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.15,
-        "avg7": 0.24,
-        "avg30": 0.21,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.69,
-        "reverseHoloAvg30": 0.62
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-56",
     "name": "Anorith",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Restored"
     ],
@@ -6470,7 +5755,7 @@
     "abilities": [
       {
         "name": "Restored Barrier",
-        "text": "Each of your Restored Pok\u00e9mon has no Weakness.",
+        "text": "Each of your Restored Pokémon has no Weakness.",
         "type": "Ability"
       }
     ],
@@ -6488,7 +5773,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6516,7 +5801,7 @@
     "number": "56",
     "artist": "Shigenori Negishi",
     "rarity": "Uncommon",
-    "flavorText": "A Pok\u00e9mon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
+    "flavorText": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
     "nationalPokedexNumbers": [
       347
     ],
@@ -6549,31 +5834,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-56",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Anorith-STS56",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.57,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.66,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.14,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.77,
-        "reverseHoloAvg30": 0.64
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-57",
     "name": "Armaldo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6590,7 +5862,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "40",
-        "text": "Move an Energy from your opponent's Active Pok\u00e9mon to 1 of his or her Benched Pok\u00e9mon."
+        "text": "Move an Energy from your opponent's Active Pokémon to 1 of his or her Benched Pokémon."
       },
       {
         "name": "Guard Claw",
@@ -6601,13 +5873,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 30 (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 30 (after applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6669,31 +5941,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-57",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Armaldo-STS57",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.43,
         "lowPrice": 0.02,
-        "trendPrice": 0.37,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.81,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.66,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.15,
-        "avg7": 0.42,
-        "avg30": 0.34,
-        "reverseHoloAvg1": 0.57,
-        "reverseHoloAvg7": 0.82,
-        "reverseHoloAvg30": 0.74
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy11-58",
     "name": "Croagunk",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6712,13 +5971,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "If the Defending Pok\u00e9mon is Poisoned, put 3 more damage counters on that Pok\u00e9mon between turns. This effect can be applied more than once."
+        "text": "If the Defending Pokémon is Poisoned, put 3 more damage counters on that Pokémon between turns. This effect can be applied more than once."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6779,31 +6038,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-58",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Croagunk-STS58",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.06,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.17,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.05,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.03,
-        "reverseHoloAvg7": 0.11,
-        "reverseHoloAvg30": 0.3
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-59",
     "name": "Toxicroak",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6815,7 +6061,7 @@
     "abilities": [
       {
         "name": "Poison Enzyme",
-        "text": "Prevent all damage done to this Pok\u00e9mon by attacks from your opponent's Poisoned Pok\u00e9mon.",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Poisoned Pokémon.",
         "type": "Ability"
       }
     ],
@@ -6828,13 +6074,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6896,31 +6142,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-59",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Toxicroak-STS59",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
-        "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.68,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.39,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.04,
-        "avg7": 0.14,
-        "avg30": 0.18,
-        "reverseHoloAvg1": 0.16,
-        "reverseHoloAvg7": 0.56,
-        "reverseHoloAvg30": 0.62
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy11-60",
     "name": "Sneasel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6939,13 +6172,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pok\u00e9mon during your opponent's next turn."
+        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7012,31 +6245,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-60",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Sneasel-STS60",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.03,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.33,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.37,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.05,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.32,
-        "reverseHoloAvg30": 0.3
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-61",
     "name": "Weavile",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7048,7 +6268,7 @@
     "abilities": [
       {
         "name": "Tear Away",
-        "text": "As often as you like during your turn (before your attack), you may put a Pok\u00e9mon Tool card attached to 1 of your Pok\u00e9mon into your hand.",
+        "text": "As often as you like during your turn (before your attack), you may put a Pokémon Tool card attached to 1 of your Pokémon into your hand.",
         "type": "Ability"
       }
     ],
@@ -7067,7 +6287,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7134,31 +6354,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-61",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Weavile-STS61",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.23,
         "lowPrice": 0.05,
-        "trendPrice": 0.22,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.6,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.54,
-        "lowPriceExPlus": 0.14,
-        "avg1": 0.42,
-        "avg7": 0.27,
-        "avg30": 0.32,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.62,
-        "reverseHoloAvg30": 0.71
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy11-62",
     "name": "Spiritomb",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7174,7 +6381,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Your opponent's Active Pokémon is now Asleep."
       },
       {
         "name": "Damage Play",
@@ -7184,7 +6391,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Move as many damage counters on your opponent's Benched Pok\u00e9mon as you like to any of your opponent's other Pok\u00e9mon in any way you like."
+        "text": "Move as many damage counters on your opponent's Benched Pokémon as you like to any of your opponent's other Pokémon in any way you like."
       }
     ],
     "retreatCost": [
@@ -7245,31 +6452,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-62",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Spiritomb-STS62",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.19,
         "lowPrice": 0.02,
-        "trendPrice": 0.2,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.67,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 0.39,
-        "lowPriceExPlus": 0.03,
-        "avg1": 0.2,
-        "avg7": 0.24,
-        "avg30": 0.34,
-        "reverseHoloAvg1": 0.38,
-        "reverseHoloAvg7": 0.52,
-        "reverseHoloAvg30": 0.75
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy11-63",
     "name": "Pawniard",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7287,14 +6481,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "This attack does 10 damage times the number of your Pawniard."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7361,31 +6555,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-63",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Pawniard-STS63",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.45,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.54,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.06,
-        "avg30": 0.04,
-        "reverseHoloAvg1": 0.65,
-        "reverseHoloAvg7": 0.47,
-        "reverseHoloAvg30": 0.49
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "xy11-64",
     "name": "Bisharp",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7403,7 +6584,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30+",
-        "text": "If any of your Pok\u00e9mon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 60 more damage."
+        "text": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 60 more damage."
       },
       {
         "name": "Mach Claw",
@@ -7419,7 +6600,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7487,31 +6668,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-64",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Bisharp-STS64",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.9,
         "lowPrice": 0.2,
-        "trendPrice": 1.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.43,
-        "reverseHoloLow": 0.58,
-        "reverseHoloTrend": 1.36,
-        "lowPriceExPlus": 0.5,
-        "avg1": 1.5,
-        "avg7": 0.82,
-        "avg30": 1.16,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 1.44,
-        "reverseHoloAvg30": 1.43
+        "reverseHoloLow": 0.58
       }
     }
   },
   {
     "id": "xy11-65",
     "name": "Yveltal",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7527,7 +6695,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Attach a Darkness Energy card from your discard pile to 1 of your Benched Pok\u00e9mon."
+        "text": "Attach a Darkness Energy card from your discard pile to 1 of your Benched Pokémon."
       },
       {
         "name": "Darkness Blade",
@@ -7538,13 +6706,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "Flip a coin. If tails, this Pok\u00e9mon can't attack during your next turn."
+        "text": "Flip a coin. If tails, this Pokémon can't attack during your next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7612,31 +6780,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-65",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Yveltal-V1-STS65",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.0,
-        "lowPrice": 4.95,
-        "trendPrice": 3.64,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.49,
-        "lowPriceExPlus": 4.95,
-        "avg1": 4.0,
-        "avg7": 2.84,
-        "avg30": 2.84,
-        "reverseHoloAvg1": 1.49,
-        "reverseHoloAvg7": 1.49,
-        "reverseHoloAvg30": 1.49
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy11-66",
     "name": "Yveltal BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -7658,7 +6813,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "This attack does 30 damage to each of your opponent's Benched Pok\u00e9mon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 30 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "set": {
@@ -7707,31 +6862,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-66",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Yveltal-BREAK-STS66",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.77,
         "lowPrice": 0.5,
-        "trendPrice": 4.88,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 3.9,
-        "reverseHoloTrend": 4.99,
-        "lowPriceExPlus": 4.0,
-        "avg1": 5.5,
-        "avg7": 5.49,
-        "avg30": 4.5,
-        "reverseHoloAvg1": 4.5,
-        "reverseHoloAvg7": 5.12,
-        "reverseHoloAvg30": 3.61
+        "reverseHoloLow": 3.9
       }
     }
   },
   {
     "id": "xy11-67",
     "name": "Steelix-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -7744,7 +6886,7 @@
       "M Steelix-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -7757,7 +6899,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "80+",
-        "text": "You may do 50 more damage. If you do, this Pok\u00e9mon does 20 damage to itself."
+        "text": "You may do 50 more damage. If you do, this Pokémon does 20 damage to itself."
       },
       {
         "name": "Iron Tail",
@@ -7769,14 +6911,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 5,
-        "damage": "100\u00d7",
+        "damage": "100×",
         "text": "Flip a coin until you get tails. This attack does 100 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7838,31 +6980,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-67",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Steelix-EX-STS67",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.5,
-        "lowPrice": 0.5,
-        "trendPrice": 2.9,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.43,
-        "lowPriceExPlus": 0.99,
-        "avg1": 0.89,
-        "avg7": 2.29,
-        "avg30": 2.37,
-        "reverseHoloAvg1": 1.99,
-        "reverseHoloAvg7": 2.18,
-        "reverseHoloAvg30": 2.69
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-68",
     "name": "M Steelix-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -7874,8 +7003,8 @@
     ],
     "evolvesFrom": "Steelix-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -7889,13 +7018,13 @@
         ],
         "convertedEnergyCost": 5,
         "damage": "160",
-        "text": "This attack does 10 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7957,31 +7086,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-68",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/MSteelix-EX-STS68",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.79,
         "lowPrice": 1.85,
-        "trendPrice": 5.72,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 4.39,
-        "lowPriceExPlus": 5.0,
-        "avg1": 8.0,
-        "avg7": 6.25,
-        "avg30": 6.27,
-        "reverseHoloAvg1": 0.7,
-        "reverseHoloAvg7": 4.9,
-        "reverseHoloAvg30": 4.2
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-69",
     "name": "Shieldon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Restored"
     ],
@@ -8005,7 +7121,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
       },
       {
         "name": "Hammer In",
@@ -8022,7 +7138,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8090,31 +7206,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-69",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Shieldon-STS69",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.09,
-        "reverseHoloTrend": 0.3,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.32,
-        "avg7": 0.16,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.35,
-        "reverseHoloAvg7": 0.41,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.09
       }
     }
   },
   {
     "id": "xy11-70",
     "name": "Bastiodon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8132,7 +7235,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "During your opponent's next turn, if this Pok\u00e9mon is damaged by an attack (even if this Pok\u00e9mon is Knocked Out), put damage counters on the Attacking Pok\u00e9mon equal to the damage done to this Pok\u00e9mon."
+        "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if this Pokémon is Knocked Out), put damage counters on the Attacking Pokémon equal to the damage done to this Pokémon."
       },
       {
         "name": "Fortress of Rage",
@@ -8144,13 +7247,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "100+",
-        "text": "This attack does 10 more damage for each of your Benched Pok\u00e9mon that has any damage counters on it."
+        "text": "This attack does 10 more damage for each of your Benched Pokémon that has any damage counters on it."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8187,7 +7290,7 @@
     "number": "70",
     "artist": "match",
     "rarity": "Rare",
-    "flavorText": "Any frontal attack is repulsed. It is a docile Pok\u00e9mon that feeds on grass and berries.",
+    "flavorText": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.",
     "nationalPokedexNumbers": [
       411
     ],
@@ -8220,31 +7323,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-70",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Bastiodon-STS70",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.34,
-        "lowPrice": 0.05,
-        "trendPrice": 0.32,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.52,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.78,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.2,
-        "avg7": 0.3,
-        "avg30": 0.35,
-        "reverseHoloAvg1": 0.98,
-        "reverseHoloAvg7": 0.52,
-        "reverseHoloAvg30": 0.87
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "xy11-71",
     "name": "Klink",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8262,14 +7352,14 @@
           "Metal"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8337,31 +7427,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-71",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Klink-STS71",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.34,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.31,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.09,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.25,
-        "reverseHoloAvg7": 0.31,
-        "reverseHoloAvg30": 0.27
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-72",
     "name": "Klang",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8392,14 +7469,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "30\u00d7",
+        "damage": "30×",
         "text": "Flip 4 coins. This attack does 30 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8467,31 +7544,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-72",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Klang-STS72",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.38,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.55,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.07,
-        "reverseHoloAvg7": 0.5,
-        "reverseHoloAvg30": 0.57
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-73",
     "name": "Klinklang",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -8503,7 +7567,7 @@
     "abilities": [
       {
         "name": "Heavy Bumper",
-        "text": "Any damage done to this Pok\u00e9mon by an opponent's attack is reduced by 10 for each Colorless in your opponent's Active Pok\u00e9mon's Retreat Cost (after applying Weakness and Resistance).",
+        "text": "Any damage done to this Pokémon by an opponent's attack is reduced by 10 for each Colorless in your opponent's Active Pokémon's Retreat Cost (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -8517,13 +7581,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "During your next turn, this Pok\u00e9mon's Gear Spinner attack does 70 more damage (before applying Weakness and Resistance)."
+        "text": "During your next turn, this Pokémon's Gear Spinner attack does 70 more damage (before applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8592,31 +7656,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-73",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Klinklang-STS73",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.23,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.75,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.61,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.19,
-        "avg7": 0.17,
-        "avg30": 0.28,
-        "reverseHoloAvg1": 0.8,
-        "reverseHoloAvg7": 0.64,
-        "reverseHoloAvg30": 0.58
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-74",
     "name": "Cobalion",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8632,7 +7683,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Prevent all damage done to this Pok\u00e9mon by attacks from Basic Pok\u00e9mon during your opponent's next turn. This Pok\u00e9mon can't use Quick Guard during your next turn."
+        "text": "Prevent all damage done to this Pokémon by attacks from Basic Pokémon during your opponent's next turn. This Pokémon can't use Quick Guard during your next turn."
       },
       {
         "name": "Revenge Blast",
@@ -8648,7 +7699,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8683,7 +7734,7 @@
     "number": "74",
     "artist": "kirisAki",
     "rarity": "Rare",
-    "flavorText": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pok\u00e9mon.",
+    "flavorText": "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
     "nationalPokedexNumbers": [
       638
     ],
@@ -8716,31 +7767,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-74",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Cobalion-STS74",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.8,
-        "lowPrice": 2.5,
-        "trendPrice": 0.8,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 2.5,
-        "avg1": 0.8,
-        "avg7": 0.65,
-        "avg30": 0.65,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy11-75",
     "name": "Magearna-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -8750,12 +7788,12 @@
       "Metal"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Mystic Heart",
-        "text": "Prevent all effects of your opponent's attacks, except damage, done to each of your Pok\u00e9mon that has any Metal Energy attached to it. (Existing effects are not removed.)",
+        "text": "Prevent all effects of your opponent's attacks, except damage, done to each of your Pokémon that has any Metal Energy attached to it. (Existing effects are not removed.)",
         "type": "Ability"
       }
     ],
@@ -8769,13 +7807,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "During your next turn, this Pok\u00e9mon's Soul Blaster attack's base damage is 60."
+        "text": "During your next turn, this Pokémon's Soul Blaster attack's base damage is 60."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8834,31 +7872,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-75",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Magearna-EX-V1-STS75",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.0,
-        "lowPrice": 1.8,
-        "trendPrice": 1.75,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 1.8,
-        "avg1": 1.5,
-        "avg7": 3.16,
-        "avg30": 3.16,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.29,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-76",
     "name": "Marill",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8877,13 +7902,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Heal 10 damage from this Pok\u00e9mon."
+        "text": "Heal 10 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8950,31 +7975,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-76",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Marill-STS76",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.63,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.51,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.09,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.59,
-        "reverseHoloAvg30": 0.48
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-77",
     "name": "Azumarill",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -9004,13 +8016,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9078,31 +8090,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-77",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Azumarill-STS77",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.35,
         "lowPrice": 0.02,
-        "trendPrice": 0.43,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 6.86,
-        "reverseHoloLow": 0.3,
-        "reverseHoloTrend": 6.82,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.35,
-        "avg7": 0.22,
-        "avg30": 0.37,
-        "reverseHoloAvg1": 12.89,
-        "reverseHoloAvg7": 7.84,
-        "reverseHoloAvg30": 5.09
+        "reverseHoloLow": 0.99
       }
     }
   },
   {
     "id": "xy11-78",
     "name": "Gardevoir-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -9115,7 +8114,7 @@
       "M Gardevoir-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -9126,7 +8125,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "If this Pok\u00e9mon and your opponent's Active Pok\u00e9mon have the same amount of Energy attached to them, this attack does 70 more damage."
+        "text": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached to them, this attack does 70 more damage."
       },
       {
         "name": "Luminous Blade",
@@ -9137,13 +8136,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "Discard an Energy attached to this Pok\u00e9mon."
+        "text": "Discard an Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9203,31 +8202,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-78",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Gardevoir-EX-STS78",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.76,
         "lowPrice": 0.99,
-        "trendPrice": 2.39,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.36,
-        "lowPriceExPlus": 2.0,
-        "avg1": 1.99,
-        "avg7": 2.88,
-        "avg30": 3.26,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 2.77,
-        "reverseHoloAvg30": 2.81
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-79",
     "name": "M Gardevoir-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -9239,8 +8225,8 @@
     ],
     "evolvesFrom": "Gardevoir-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -9251,13 +8237,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "110+",
-        "text": "Discard as many of your Benched Pok\u00e9mon as you like. This attack does 10 more damage for each Benched Pok\u00e9mon you discarded in this way."
+        "text": "Discard as many of your Benched Pokémon as you like. This attack does 10 more damage for each Benched Pokémon you discarded in this way."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9317,31 +8303,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-79",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/MGardevoir-EX-STS79",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 20.21,
-        "lowPrice": 1.75,
-        "trendPrice": 18.01,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 4.88,
-        "lowPriceExPlus": 9.97,
-        "avg1": 0.99,
-        "avg7": 20.04,
-        "avg30": 17.14,
-        "reverseHoloAvg1": 4.75,
-        "reverseHoloAvg7": 4.83,
-        "reverseHoloAvg30": 4.51
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-80",
     "name": "Klefki",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9352,7 +8325,7 @@
     "abilities": [
       {
         "name": "Wonder Lock",
-        "text": "Once during your turn (before your attack), if this Pok\u00e9mon is on your Bench, you may discard all cards attached to this Pok\u00e9mon and attach it to 1 of your Pok\u00e9mon as a Pok\u00e9mon Tool card. Prevent any damage done to the Pok\u00e9mon this card is attached to by attacks from your opponent's Mega Evolution Pok\u00e9mon. If this card is attached to a Pok\u00e9mon, discard this card at the end of your opponent's turn.",
+        "text": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may discard all cards attached to this Pokémon and attach it to 1 of your Pokémon as a Pokémon Tool card. Prevent any damage done to the Pokémon this card is attached to by attacks from your opponent's Mega Evolution Pokémon. If this card is attached to a Pokémon, discard this card at the end of your opponent's turn.",
         "type": "Ability"
       }
     ],
@@ -9371,7 +8344,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9438,31 +8411,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-80",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Klefki-STS80",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.65,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.75,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.14,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.6,
-        "reverseHoloAvg30": 0.61
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "xy11-81",
     "name": "Xerneas",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9478,7 +8438,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Choose 2 of your Benched Pok\u00e9mon. For each of those Pok\u00e9mon, search your deck for a Fairy Energy card and attach it to that Pok\u00e9mon. Shuffle your deck afterward."
+        "text": "Choose 2 of your Benched Pokémon. For each of those Pokémon, search your deck for a Fairy Energy card and attach it to that Pokémon. Shuffle your deck afterward."
       },
       {
         "name": "Rainbow Spear",
@@ -9489,13 +8449,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100",
-        "text": "Discard an Energy attached to this Pok\u00e9mon."
+        "text": "Discard an Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9563,31 +8523,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-81",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Xerneas-V2-STS81",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.66,
         "lowPrice": 0.1,
-        "trendPrice": 0.75,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.57,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 1.35,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.5,
-        "avg7": 0.68,
-        "avg30": 0.77,
-        "reverseHoloAvg1": 0.59,
-        "reverseHoloAvg7": 1.57,
-        "reverseHoloAvg30": 1.12
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy11-82",
     "name": "Xerneas BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -9607,8 +8554,8 @@
           "Fairy"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
-        "text": "This attack does 20 damage times the amount of Energy attached to all of your Pok\u00e9mon."
+        "damage": "20×",
+        "text": "This attack does 20 damage times the amount of Energy attached to all of your Pokémon."
       }
     ],
     "set": {
@@ -9657,31 +8604,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-82",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Xerneas-BREAK-STS82",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.91,
         "lowPrice": 0.99,
-        "trendPrice": 4.32,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 7.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.84,
-        "lowPriceExPlus": 1.65,
-        "avg1": 1.0,
-        "avg7": 4.97,
-        "avg30": 4.08,
-        "reverseHoloAvg1": 7.0,
-        "reverseHoloAvg7": 5.86,
-        "reverseHoloAvg30": 3.74
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-83",
     "name": "Druddigon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9698,7 +8632,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "If your opponent has any Pok\u00e9mon BREAK in play, this attack does 60 more damage."
+        "text": "If your opponent has any Pokémon BREAK in play, this attack does 60 more damage."
       },
       {
         "name": "Giga Claw",
@@ -9715,7 +8649,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9777,31 +8711,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-83",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Druddigon-STS83",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.33,
-        "lowPrice": 0.04,
-        "trendPrice": 0.33,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.92,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.63,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.2,
-        "avg7": 0.39,
-        "avg30": 0.28,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.74,
-        "reverseHoloAvg30": 0.6
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy11-84",
     "name": "Deino",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9820,7 +8741,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Your opponent switches his or her Active Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon."
+        "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
       },
       {
         "name": "Headbutt Bounce",
@@ -9836,7 +8757,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9898,31 +8819,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-84",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Deino-STS84",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.22,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.22,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.05,
-        "reverseHoloAvg7": 0.21,
-        "reverseHoloAvg30": 0.23
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-85",
     "name": "Zweilous",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -9941,7 +8849,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
       },
       {
@@ -9953,13 +8861,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "Discard an Energy attached to this Pok\u00e9mon."
+        "text": "Discard an Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10022,31 +8930,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-85",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Zweilous-STS85",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.7,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.66,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.05,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 0.61,
-        "reverseHoloAvg30": 0.55
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-86",
     "name": "Hydreigon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -10064,7 +8959,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pok\u00e9mon is reduced by 40 (before applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 40 (before applying Weakness and Resistance)."
       },
       {
         "name": "Dark Burn",
@@ -10074,14 +8969,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "50\u00d7",
-        "text": "Discard as many Darkness Energy attached to your Pok\u00e9mon as you like. This attack does 50 damage times the amount of Darkness Energy you discarded in this way."
+        "damage": "50×",
+        "text": "Discard as many Darkness Energy attached to your Pokémon as you like. This attack does 50 damage times the amount of Darkness Energy you discarded in this way."
       }
     ],
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10111,7 +9006,7 @@
     "number": "86",
     "artist": "Hideki Ishikawa",
     "rarity": "Rare Holo",
-    "flavorText": "It responds to movement by attacking. This scary, three-headed Pok\u00e9mon devours everything in its path!",
+    "flavorText": "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
     "nationalPokedexNumbers": [
       635
     ],
@@ -10144,31 +9039,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-86",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Hydreigon-STS86",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.8,
         "lowPrice": 0.09,
-        "trendPrice": 0.66,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.65,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.59,
-        "lowPriceExPlus": 0.09,
-        "avg1": 0.43,
-        "avg7": 0.71,
-        "avg30": 0.65,
-        "reverseHoloAvg1": 0.62,
-        "reverseHoloAvg7": 0.68,
-        "reverseHoloAvg30": 0.75
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy11-87",
     "name": "Hydreigon BREAK",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "BREAK"
     ],
@@ -10191,7 +9073,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "150",
-        "text": "Discard 3 Energy attached to this Pok\u00e9mon. This attack does 50 damage to 2 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "Discard 3 Energy attached to this Pokémon. This attack does 50 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "set": {
@@ -10240,31 +9122,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-87",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Hydreigon-BREAK-STS87",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.09,
         "lowPrice": 0.5,
-        "trendPrice": 4.31,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.99,
-        "reverseHoloLow": 3.0,
-        "reverseHoloTrend": 4.55,
-        "lowPriceExPlus": 1.0,
-        "avg1": 4.29,
-        "avg7": 4.45,
-        "avg30": 3.47,
-        "reverseHoloAvg1": 2.99,
-        "reverseHoloAvg7": 4.35,
-        "reverseHoloAvg30": 2.83
+        "reverseHoloLow": 3.0
       }
     }
   },
   {
     "id": "xy11-88",
     "name": "Meowth",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10283,7 +9152,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "You can use this attack only if you go second, and only on your first turn. Discard an Energy attached to 1 of your opponent's Pok\u00e9mon."
+        "text": "You can use this attack only if you go second, and only on your first turn. Discard an Energy attached to 1 of your opponent's Pokémon."
       },
       {
         "name": "Scratch",
@@ -10299,7 +9168,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10360,31 +9229,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-88",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Meowth-STS88",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.27,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.28,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.07,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.25,
-        "reverseHoloAvg7": 0.22,
-        "reverseHoloAvg30": 0.39
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "xy11-89",
     "name": "Persian",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -10401,7 +9257,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30+",
-        "text": "If this Pok\u00e9mon evolved from Meowth during this turn, this attack does 30 more damage."
+        "text": "If this Pokémon evolved from Meowth during this turn, this attack does 30 more damage."
       },
       {
         "name": "Fury Swipes",
@@ -10410,14 +9266,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30\u00d7",
+        "damage": "30×",
         "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10478,31 +9334,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-89",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Persian-STS89",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.56,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.48,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.09,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.56,
-        "reverseHoloAvg7": 0.46,
-        "reverseHoloAvg30": 0.47
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "xy11-90",
     "name": "Aipom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10537,7 +9380,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10598,31 +9441,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-90",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Aipom-STS90",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.33,
-        "reverseHoloLow": 0.07,
-        "reverseHoloTrend": 0.34,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.8,
-        "avg7": 0.16,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.28,
-        "reverseHoloAvg30": 0.4
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-91",
     "name": "Ambipom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -10649,14 +9479,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "50\u00d7",
+        "damage": "50×",
         "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10717,31 +9547,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-91",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Ambipom-STS91",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.39,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.4,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.08,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.13,
-        "reverseHoloAvg7": 0.36,
-        "reverseHoloAvg30": 0.37
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy11-92",
     "name": "Rufflet",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10760,13 +9577,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "This Pok\u00e9mon does 10 damage to itself."
+        "text": "This Pokémon does 10 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -10833,31 +9650,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-92",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Rufflet-STS92",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.39,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.23,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.06,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.39,
-        "reverseHoloAvg7": 0.22,
-        "reverseHoloAvg30": 0.28
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-93",
     "name": "Braviary",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -10886,13 +9690,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120-",
-        "text": "This attack does 120 damage minus 20 damage for each Colorless in your opponent's Active Pok\u00e9mon's Retreat Cost."
+        "text": "This attack does 120 damage minus 20 damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -10960,31 +9764,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-93",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Braviary-STS93",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.38,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.5,
-        "avg7": 0.12,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.4,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy11-94",
     "name": "Fletchling",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -11009,7 +9800,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11076,31 +9867,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-94",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Fletchling-STS94",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.54,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.53,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.07,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 0.58,
-        "reverseHoloAvg30": 0.34
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-95",
     "name": "Fletchinder",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -11126,7 +9904,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11193,31 +9971,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-95",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Fletchinder-STS95",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.17,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.4,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.07,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.07,
-        "reverseHoloAvg7": 0.36,
-        "reverseHoloAvg30": 0.53
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-96",
     "name": "Talonflame",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -11229,7 +9994,7 @@
     "abilities": [
       {
         "name": "Gale Wings",
-        "text": "If this Pok\u00e9mon is in your hand when you are setting up to play, you may put it face down as your Active Pok\u00e9mon.",
+        "text": "If this Pokémon is in your hand when you are setting up to play, you may put it face down as your Active Pokémon.",
         "type": "Ability"
       }
     ],
@@ -11247,7 +10012,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11310,31 +10075,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-96",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Talonflame-STS96",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.61,
         "lowPrice": 0.08,
-        "trendPrice": 0.32,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.04,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 0.86,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.25,
-        "avg7": 0.36,
-        "avg30": 0.43,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 1.2,
-        "reverseHoloAvg30": 1.01
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy11-97",
     "name": "Hawlucha",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -11345,7 +10097,7 @@
     "abilities": [
       {
         "name": "Sudden Cyclone",
-        "text": "When you play this Pok\u00e9mon from your hand onto your Bench, you may have your opponent switch his or her Active Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon.",
+        "text": "When you play this Pokémon from your hand onto your Bench, you may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon.",
         "type": "Ability"
       }
     ],
@@ -11364,7 +10116,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11431,24 +10183,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-97",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Hawlucha-STS97",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.48,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.24,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.33,
-        "avg7": 0.13,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.75,
-        "reverseHoloAvg7": 0.35,
-        "reverseHoloAvg30": 0.54
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -11513,36 +10252,23 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-98",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Armor-Fossil-Shieldon-STS98",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.56,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.58,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.11,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 0.53,
-        "reverseHoloAvg30": 0.66
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy11-99",
-    "name": "Captivating Pok\u00e9 Puff",
+    "name": "Captivating Poké Puff",
     "supertype": "Trainer",
     "subtypes": [
       "Item"
     ],
     "rules": [
-      "Your opponent reveals his or her hand. Put any number of Basic Pok\u00e9mon you find there onto your opponent's Bench.",
+      "Your opponent reveals his or her hand. Put any number of Basic Pokémon you find there onto your opponent's Bench.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -11595,24 +10321,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-99",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Captivating-Poke-Puff-STS99",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.53,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.15,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.41,
-        "reverseHoloAvg30": 0.5
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -11677,24 +10390,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-100",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Claw-Fossil-Anorith-STS100",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.72,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.42,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.12,
-        "avg7": 0.08,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.56,
-        "reverseHoloAvg30": 0.52
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -11703,11 +10403,11 @@
     "name": "Gardevoir Spirit Link",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "Your turn does not end if the Pok\u00e9mon this card is attached to becomes M Gardevoir-EX.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Gardevoir-EX.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -11760,24 +10460,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-101",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Gardevoir-Spirit-Link-STS101",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.63,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.76,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.25,
-        "avg7": 0.15,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.25,
-        "reverseHoloAvg7": 0.65,
-        "reverseHoloAvg30": 0.93
+        "reverseHoloLow": 0.08
       }
     }
   },
@@ -11843,24 +10530,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-102",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Greedy-Dice-STS102",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.25,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.09,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.22,
-        "reverseHoloAvg30": 0.35
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -11872,7 +10546,7 @@
       "Supporter"
     ],
     "rules": [
-      "Choose 1 of your Basic Pok\u00e9mon in play. Search your deck for a Basic Pok\u00e9mon and switch it with that Pok\u00e9mon. (Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pok\u00e9mon.) Shuffle the first Pok\u00e9mon into your deck.",
+      "Choose 1 of your Basic Pokémon in play. Search your deck for a Basic Pokémon and switch it with that Pokémon. (Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.) Shuffle the first Pokémon into your deck.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -11925,36 +10599,23 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-103",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Ninja-Boy-V1-STS103",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.32,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.39,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.07,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.25,
-        "reverseHoloAvg7": 0.41,
-        "reverseHoloAvg30": 0.41
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-104",
-    "name": "Pok\u00e9mon Ranger",
+    "name": "Pokémon Ranger",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
     ],
     "rules": [
-      "Remove all effects of attacks on each player and his or her Pok\u00e9mon.",
+      "Remove all effects of attacks on each player and his or her Pokémon.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -12007,24 +10668,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-104",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Pokemon-Ranger-V1-STS104",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.0,
-        "lowPrice": 0.0,
-        "trendPrice": 0.0,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.0,
-        "avg1": 0.0,
-        "avg7": 0.0,
-        "avg30": 0.0,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -12089,24 +10737,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-105",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Special-Charge-STS105",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.05,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.0,
-        "avg1": 0.05,
-        "avg7": 0.19,
-        "avg30": 0.19,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": 0.5
       }
     }
   },
@@ -12115,11 +10750,11 @@
     "name": "Steelix Spirit Link",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "Your turn does not end if the Pok\u00e9mon this card is attached to becomes M Steelix-EX.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Your turn does not end if the Pokémon this card is attached to becomes M Steelix-EX.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -12172,31 +10807,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-106",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Steelix-Spirit-Link-STS106",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.7,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.61,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.07,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.62,
-        "reverseHoloAvg30": 0.53
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy11-107",
     "name": "Volcanion-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -12207,12 +10829,12 @@
       "Water"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Steam Up",
-        "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pok\u00e9mon's attacks do 30 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance).",
+        "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -12226,13 +10848,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "This Pok\u00e9mon can't attack during your next turn."
+        "text": "This Pokémon can't attack during your next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12287,31 +10909,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-107",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Volcanion-EX-V2-STS107",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 6.6,
         "lowPrice": 0.99,
-        "trendPrice": 4.65,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.46,
-        "lowPriceExPlus": 3.5,
-        "avg1": 7.5,
-        "avg7": 6.72,
-        "avg30": 6.04,
-        "reverseHoloAvg1": 7.5,
-        "reverseHoloAvg7": 5.43,
-        "reverseHoloAvg30": 5.15
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-108",
     "name": "Steelix-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -12324,7 +10933,7 @@
       "M Steelix-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12337,7 +10946,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "80+",
-        "text": "You may do 50 more damage. If you do, this Pok\u00e9mon does 20 damage to itself."
+        "text": "You may do 50 more damage. If you do, this Pokémon does 20 damage to itself."
       },
       {
         "name": "Iron Tail",
@@ -12349,14 +10958,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 5,
-        "damage": "100\u00d7",
+        "damage": "100×",
         "text": "Flip a coin until you get tails. This attack does 100 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -12418,31 +11027,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-108",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Steelix-EX-STS108",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 11.06,
         "lowPrice": 3.95,
-        "trendPrice": 4.98,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 6.22,
-        "lowPriceExPlus": 7.9,
-        "avg1": 15.0,
-        "avg7": 11.05,
-        "avg30": 16.34,
-        "reverseHoloAvg1": 9.0,
-        "reverseHoloAvg7": 5.57,
-        "reverseHoloAvg30": 5.93
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-109",
     "name": "M Steelix-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -12454,8 +11050,8 @@
     ],
     "evolvesFrom": "Steelix-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12469,13 +11065,13 @@
         ],
         "convertedEnergyCost": 5,
         "damage": "160",
-        "text": "This attack does 10 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -12537,31 +11133,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-109",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/MSteelix-EX-STS109",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 16.68,
         "lowPrice": 3.0,
-        "trendPrice": 16.36,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 9.49,
-        "lowPriceExPlus": 13.5,
-        "avg1": 25.0,
-        "avg7": 16.64,
-        "avg30": 15.42,
-        "reverseHoloAvg1": 10.0,
-        "reverseHoloAvg7": 8.93,
-        "reverseHoloAvg30": 6.88
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-110",
     "name": "Magearna-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -12571,12 +11154,12 @@
       "Metal"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Mystic Heart",
-        "text": "Prevent all effects of your opponent's attacks, except damage, done to each of your Pok\u00e9mon that has any Metal Energy attached to it. (Existing effects are not removed.)",
+        "text": "Prevent all effects of your opponent's attacks, except damage, done to each of your Pokémon that has any Metal Energy attached to it. (Existing effects are not removed.)",
         "type": "Ability"
       }
     ],
@@ -12590,13 +11173,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "During your next turn, this Pok\u00e9mon's Soul Blaster attack's base damage is 60."
+        "text": "During your next turn, this Pokémon's Soul Blaster attack's base damage is 60."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -12655,31 +11238,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-110",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Magearna-EX-V2-STS110",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 6.07,
         "lowPrice": 1.5,
-        "trendPrice": 5.8,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 4.48,
-        "lowPriceExPlus": 3.0,
-        "avg1": 2.49,
-        "avg7": 6.34,
-        "avg30": 4.72,
-        "reverseHoloAvg1": 2.95,
-        "reverseHoloAvg7": 5.05,
-        "reverseHoloAvg30": 4.45
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-111",
     "name": "Gardevoir-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -12692,7 +11262,7 @@
       "M Gardevoir-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12703,7 +11273,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "If this Pok\u00e9mon and your opponent's Active Pok\u00e9mon have the same amount of Energy attached to them, this attack does 70 more damage."
+        "text": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached to them, this attack does 70 more damage."
       },
       {
         "name": "Luminous Blade",
@@ -12714,13 +11284,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "Discard an Energy attached to this Pok\u00e9mon."
+        "text": "Discard an Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -12780,31 +11350,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-111",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Gardevoir-EX-STS111",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 12.29,
         "lowPrice": 4.0,
-        "trendPrice": 12.66,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 6.2,
-        "lowPriceExPlus": 10.0,
-        "avg1": 13.35,
-        "avg7": 10.92,
-        "avg30": 11.6,
-        "reverseHoloAvg1": 7.31,
-        "reverseHoloAvg7": 6.46,
-        "reverseHoloAvg30": 5.76
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-112",
     "name": "M Gardevoir-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -12816,8 +11373,8 @@
     ],
     "evolvesFrom": "Gardevoir-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12828,13 +11385,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "110+",
-        "text": "Discard as many of your Benched Pok\u00e9mon as you like. This attack does 10 more damage for each Benched Pok\u00e9mon you discarded in this way."
+        "text": "Discard as many of your Benched Pokémon as you like. This attack does 10 more damage for each Benched Pokémon you discarded in this way."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -12894,36 +11451,23 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-112",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/MGardevoir-EX-STS112",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 44.29,
         "lowPrice": 9.0,
-        "trendPrice": 50.42,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 10.47,
-        "lowPriceExPlus": 39.9,
-        "avg1": 44.95,
-        "avg7": 40.24,
-        "avg30": 40.83,
-        "reverseHoloAvg1": 3.98,
-        "reverseHoloAvg7": 9.43,
-        "reverseHoloAvg30": 8.51
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-113",
-    "name": "Pok\u00e9mon Ranger",
+    "name": "Pokémon Ranger",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
     ],
     "rules": [
-      "Remove all effects of attacks on each player and his or her Pok\u00e9mon.",
+      "Remove all effects of attacks on each player and his or her Pokémon.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -12969,24 +11513,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-113",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Pokemon-Ranger-V2-STS113",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.77,
-        "lowPrice": 2.0,
-        "trendPrice": 6.0,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 6.76,
-        "lowPriceExPlus": 3.99,
-        "avg1": 2.9,
-        "avg7": 4.93,
-        "avg30": 5.8,
-        "reverseHoloAvg1": 9.99,
-        "reverseHoloAvg7": 6.61,
-        "reverseHoloAvg30": 4.27
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
       }
     }
   },
@@ -13044,31 +11575,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-114",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Professor-Sycamore-STS114",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.0,
-        "lowPrice": 3.0,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 6.99,
-        "avg1": 0.05,
-        "avg7": 0.05,
-        "avg30": 0.05,
-        "reverseHoloAvg1": 0.05,
-        "reverseHoloAvg7": 0.05,
-        "reverseHoloAvg30": 0.05
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-115",
     "name": "Volcanion-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -13079,12 +11597,12 @@
       "Water"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Steam Up",
-        "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pok\u00e9mon's attacks do 30 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance).",
+        "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -13098,13 +11616,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "This Pok\u00e9mon can't attack during your next turn."
+        "text": "This Pokémon can't attack during your next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13159,31 +11677,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-115",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Volcanion-EX-V3-STS115",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 21.22,
-        "lowPrice": 7.5,
-        "trendPrice": 19.2,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 11.61,
-        "lowPriceExPlus": 23.0,
-        "avg1": 9.98,
-        "avg7": 18.53,
-        "avg30": 19.96,
-        "reverseHoloAvg1": 14.9,
-        "reverseHoloAvg7": 11.23,
-        "reverseHoloAvg30": 8.04
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy11-116",
     "name": "Gardevoir-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -13196,7 +11701,7 @@
       "M Gardevoir-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -13207,7 +11712,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "If this Pok\u00e9mon and your opponent's Active Pok\u00e9mon have the same amount of Energy attached to them, this attack does 70 more damage."
+        "text": "If this Pokémon and your opponent's Active Pokémon have the same amount of Energy attached to them, this attack does 70 more damage."
       },
       {
         "name": "Luminous Blade",
@@ -13218,13 +11723,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "Discard an Energy attached to this Pok\u00e9mon."
+        "text": "Discard an Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -13284,24 +11789,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy11-116",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Steam-Siege/Gardevoir-EX-STS116",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 111.05,
         "lowPrice": 20.0,
-        "trendPrice": 111.73,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 21.61,
-        "lowPriceExPlus": 40.0,
-        "avg1": 67.49,
-        "avg7": 68.32,
-        "avg30": 75.38,
-        "reverseHoloAvg1": 15.0,
-        "reverseHoloAvg7": 19.48,
-        "reverseHoloAvg30": 17.67
+        "reverseHoloLow": null
       }
     }
   }

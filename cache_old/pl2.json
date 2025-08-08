@@ -65,6 +65,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/1.png",
       "large": "https://images.pokemontcg.io/pl2/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Arcanine-Lv53-RR1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": 0.95
+      }
     }
   },
   {
@@ -135,6 +143,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/2.png",
       "large": "https://images.pokemontcg.io/pl2/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Bastiodon-GL-Lv41-RR2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -199,6 +215,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/3.png",
       "large": "https://images.pokemontcg.io/pl2/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Darkrai-G-Lv58-RR3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.94,
+        "reverseHoloLow": 1.94
+      }
     }
   },
   {
@@ -217,9 +241,7 @@
     "attacks": [
       {
         "name": "Incite",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your discard pile for up to 2 Supporter cards, show them to your opponent, and put them into your hand."
@@ -257,6 +279,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/4.png",
       "large": "https://images.pokemontcg.io/pl2/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Floatzel-GL-Lv37-RR4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -326,6 +356,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/5.png",
       "large": "https://images.pokemontcg.io/pl2/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Flygon-Lv65-RR5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -384,6 +422,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/6.png",
       "large": "https://images.pokemontcg.io/pl2/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Froslass-GL-Lv44-RR6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -408,9 +454,7 @@
     "attacks": [
       {
         "name": "Detour",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "If you have a Supporter card in play, use the effect of that card as the effect of this attack."
@@ -449,6 +493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/7.png",
       "large": "https://images.pokemontcg.io/pl2/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Jirachi-Lv39-RR7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -506,6 +558,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/8.png",
       "large": "https://images.pokemontcg.io/pl2/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Lucario-GL-Lv32-RR8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -572,6 +632,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/9.png",
       "large": "https://images.pokemontcg.io/pl2/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Luxray-GL-Lv48-RR9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": 0.98
+      }
     }
   },
   {
@@ -636,6 +704,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/10.png",
       "large": "https://images.pokemontcg.io/pl2/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Mismagius-GL-Lv26-RR10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -696,6 +772,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/11.png",
       "large": "https://images.pokemontcg.io/pl2/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Rampardos-GL-Lv63-RR11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -754,6 +838,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/12.png",
       "large": "https://images.pokemontcg.io/pl2/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Roserade-GL-Lv22-RR12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -827,6 +919,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/13.png",
       "large": "https://images.pokemontcg.io/pl2/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Shiftry-Lv55-RR13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.38,
+        "reverseHoloLow": 0.38
+      }
     }
   },
   {
@@ -907,6 +1007,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/14.png",
       "large": "https://images.pokemontcg.io/pl2/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Aggron-Lv53-RR14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -965,6 +1073,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/15.png",
       "large": "https://images.pokemontcg.io/pl2/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Beedrill-Lv47-RR15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -983,9 +1099,7 @@
     "attacks": [
       {
         "name": "Hand Refresh",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Each player shuffles his or her hand into his or her deck and draws up to 4 cards. (You draw your cards first.)"
@@ -1031,6 +1145,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/16.png",
       "large": "https://images.pokemontcg.io/pl2/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Bronzong-4-Lv54-RR16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1100,6 +1222,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/17.png",
       "large": "https://images.pokemontcg.io/pl2/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Drapion-4-Lv53-RR17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1158,6 +1288,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/18.png",
       "large": "https://images.pokemontcg.io/pl2/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Espeon-4-Lv55-RR18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.89,
+        "reverseHoloLow": 3.99
+      }
     }
   },
   {
@@ -1223,6 +1361,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/19.png",
       "large": "https://images.pokemontcg.io/pl2/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Flareon-Lv38-RR19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": 2.75
+      }
     }
   },
   {
@@ -1283,6 +1429,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/20.png",
       "large": "https://images.pokemontcg.io/pl2/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Gallade-4-Lv59-RR20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -1354,6 +1508,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/21.png",
       "large": "https://images.pokemontcg.io/pl2/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Gastrodon-East-Sea-Lv40-RR21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1435,6 +1597,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/22.png",
       "large": "https://images.pokemontcg.io/pl2/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Gastrodon-West-Sea-Lv50-RR22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -1506,6 +1676,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/23.png",
       "large": "https://images.pokemontcg.io/pl2/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Golem-4-Lv52-RR23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -1524,9 +1702,7 @@
     "attacks": [
       {
         "name": "Focus Energy",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "During your next turn, Heracross E4's Megahorn attack's base damage is 100."
@@ -1565,6 +1741,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/24.png",
       "large": "https://images.pokemontcg.io/pl2/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Heracross-4-Lv51-RR24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.59
+      }
     }
   },
   {
@@ -1641,6 +1825,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/25.png",
       "large": "https://images.pokemontcg.io/pl2/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Hippowdon-Lv48-RR25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1708,6 +1900,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/26.png",
       "large": "https://images.pokemontcg.io/pl2/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Jolteon-Lv43-RR26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.55,
+        "reverseHoloLow": 2.9
+      }
     }
   },
   {
@@ -1775,6 +1975,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/27.png",
       "large": "https://images.pokemontcg.io/pl2/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Mamoswine-GL-Lv61-RR27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -1793,9 +2001,7 @@
     "attacks": [
       {
         "name": "Magic Heal",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip 3 coins. Remove a number of damage counters equal to the number of heads from your Pokémon in any way you like."
@@ -1833,6 +2039,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/28.png",
       "large": "https://images.pokemontcg.io/pl2/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Mr-Mime-4-Lv53-RR28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1909,6 +2123,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/29.png",
       "large": "https://images.pokemontcg.io/pl2/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Nidoking-Lv59-RR29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -1983,6 +2205,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/30.png",
       "large": "https://images.pokemontcg.io/pl2/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Nidoqueen-Lv54-RR30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.9
+      }
     }
   },
   {
@@ -2043,6 +2273,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/31.png",
       "large": "https://images.pokemontcg.io/pl2/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Raichu-GL-Lv-46-RR31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.14,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -2112,6 +2350,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/32.png",
       "large": "https://images.pokemontcg.io/pl2/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Rhyperior-4-Lv-55-RR32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2129,9 +2375,7 @@
     "attacks": [
       {
         "name": "Pick and Collect",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your discard pile for up to 4 basic Energy cards, show them to your opponent, and put them into your hand."
@@ -2175,6 +2419,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/33.png",
       "large": "https://images.pokemontcg.io/pl2/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Snorlax-Lv37-V1-RR33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -2241,6 +2493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/34.png",
       "large": "https://images.pokemontcg.io/pl2/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Vaporeon-Lv48-RR34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": 2.6
+      }
     }
   },
   {
@@ -2304,6 +2564,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/35.png",
       "large": "https://images.pokemontcg.io/pl2/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Vespiquen-4-Lv50-RR35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.38
+      }
     }
   },
   {
@@ -2366,6 +2634,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/36.png",
       "large": "https://images.pokemontcg.io/pl2/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Walrein-Lv59-RR36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -2431,6 +2707,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/37.png",
       "large": "https://images.pokemontcg.io/pl2/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Yanmega-4-Lv49-RR37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.24,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -2490,6 +2774,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/38.png",
       "large": "https://images.pokemontcg.io/pl2/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Alakazam-4-Lv56-RR38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2554,6 +2846,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/39.png",
       "large": "https://images.pokemontcg.io/pl2/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Electrode-G-Lv-38-RR39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2619,6 +2919,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/40.png",
       "large": "https://images.pokemontcg.io/pl2/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Gengar-GL-Lv65-RR40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -2686,6 +2994,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/41.png",
       "large": "https://images.pokemontcg.io/pl2/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Glaceon-Lv42-RR41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -2750,6 +3066,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/42.png",
       "large": "https://images.pokemontcg.io/pl2/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Hippowdon-4-Lv52-RR42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2810,6 +3134,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/43.png",
       "large": "https://images.pokemontcg.io/pl2/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Infernape-4-Lv55-RR43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.38
+      }
     }
   },
   {
@@ -2881,6 +3213,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/44.png",
       "large": "https://images.pokemontcg.io/pl2/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Lairon-Lv37-RR44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -2955,6 +3295,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/45.png",
       "large": "https://images.pokemontcg.io/pl2/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Leafeon-Lv49-RR45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -3019,6 +3367,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/46.png",
       "large": "https://images.pokemontcg.io/pl2/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Machamp-GL-Lv64-RR46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3037,9 +3393,7 @@
     "attacks": [
       {
         "name": "Pickup Power",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip 3 coins. For each heads, search your discard pile for a basic Energy card, show it to your opponent, and put it into your hand."
@@ -3072,6 +3426,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/47.png",
       "large": "https://images.pokemontcg.io/pl2/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Rapidash-4-Lv53-RR47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -3131,6 +3493,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/48.png",
       "large": "https://images.pokemontcg.io/pl2/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Scizor-4-Lv49-RR48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -3200,6 +3570,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/49.png",
       "large": "https://images.pokemontcg.io/pl2/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Sharpedo-Lv43-RR49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3260,6 +3638,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/50.png",
       "large": "https://images.pokemontcg.io/pl2/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Starmie-Lv44-RR50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3330,6 +3716,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/51.png",
       "large": "https://images.pokemontcg.io/pl2/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Steelix-GL-Lv38-RR51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -3406,6 +3800,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/52.png",
       "large": "https://images.pokemontcg.io/pl2/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Tropius-Lv35-RR52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3474,6 +3876,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/53.png",
       "large": "https://images.pokemontcg.io/pl2/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Vibrava-Lv36-RR53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3539,6 +3949,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/54.png",
       "large": "https://images.pokemontcg.io/pl2/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Whiscash-4-Lv50-RR54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3599,6 +4017,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/55.png",
       "large": "https://images.pokemontcg.io/pl2/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Aerodactyl-GL-Lv-62-RR55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3657,6 +4083,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/56.png",
       "large": "https://images.pokemontcg.io/pl2/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Ambipom-G-Lv40-RR56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3724,6 +4158,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/57.png",
       "large": "https://images.pokemontcg.io/pl2/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Aron-Lv21-RR57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3790,6 +4232,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/58.png",
       "large": "https://images.pokemontcg.io/pl2/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Carvanha-Lv13-RR58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3817,9 +4267,7 @@
     "attacks": [
       {
         "name": "Signs of Evolution",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 cards that evolve from Eevee, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
@@ -3857,6 +4305,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/59.png",
       "large": "https://images.pokemontcg.io/pl2/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Eevee-Lv10-RR59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -3915,6 +4371,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/60.png",
       "large": "https://images.pokemontcg.io/pl2/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Flareon-4-Lv55-RR60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -3981,6 +4445,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/61.png",
       "large": "https://images.pokemontcg.io/pl2/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Forretress-G-Lv35-RR61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -4045,6 +4517,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/62.png",
       "large": "https://images.pokemontcg.io/pl2/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Gliscor-4-Lv53-RR62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4108,6 +4588,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/63.png",
       "large": "https://images.pokemontcg.io/pl2/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Growlithe-Lv26-RR63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -4177,6 +4665,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/64.png",
       "large": "https://images.pokemontcg.io/pl2/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Hippopotas-Lv31-RR64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4243,6 +4739,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/65.png",
       "large": "https://images.pokemontcg.io/pl2/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Houndoom-4-Lv52-RR65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -4303,6 +4807,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/66.png",
       "large": "https://images.pokemontcg.io/pl2/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Kakuna-Lv8-RR66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4360,6 +4872,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/67.png",
       "large": "https://images.pokemontcg.io/pl2/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Kecleon-Lv34-RR67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.23
+      }
     }
   },
   {
@@ -4421,6 +4941,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/68.png",
       "large": "https://images.pokemontcg.io/pl2/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Koffing-Lv22-RR68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -4481,6 +5009,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/69.png",
       "large": "https://images.pokemontcg.io/pl2/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Munchlax-Lv13-RR69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -4541,6 +5077,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/70.png",
       "large": "https://images.pokemontcg.io/pl2/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Munchlax-Lv15-RR70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.99
+      }
     }
   },
   {
@@ -4602,6 +5146,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/71.png",
       "large": "https://images.pokemontcg.io/pl2/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Nidoran-F-Lv14-RR71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4663,6 +5215,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/72.png",
       "large": "https://images.pokemontcg.io/pl2/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Nidoran-M-Lv9-RR72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4727,6 +5287,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/73.png",
       "large": "https://images.pokemontcg.io/pl2/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Nidorina-Lv29-RR73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4791,6 +5359,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/74.png",
       "large": "https://images.pokemontcg.io/pl2/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Nidorino-Lv30-RR74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4859,6 +5435,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/75.png",
       "large": "https://images.pokemontcg.io/pl2/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Nuzleaf-Lv25-RR75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4923,6 +5507,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/76.png",
       "large": "https://images.pokemontcg.io/pl2/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Quagsire-GL-Lv34-RR76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4944,9 +5536,7 @@
     "attacks": [
       {
         "name": "Find Ice",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 Water Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
@@ -4986,6 +5576,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/77.png",
       "large": "https://images.pokemontcg.io/pl2/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Sealeo-Lv31-RR77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -5052,6 +5650,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/78.png",
       "large": "https://images.pokemontcg.io/pl2/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Seedot-Lv8-RR78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -5112,6 +5718,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/79.png",
       "large": "https://images.pokemontcg.io/pl2/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Shellos-East-Sea-Lv21-RR79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -5132,9 +5746,7 @@
     "attacks": [
       {
         "name": "Healing Sea",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip 2 coins. Choose 1 of your Pokémon. For each heads, remove 1 damage counter from that Pokémon."
@@ -5174,6 +5786,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/80.png",
       "large": "https://images.pokemontcg.io/pl2/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Shellos-West-Sea-Lv27-RR80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5244,6 +5864,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/81.png",
       "large": "https://images.pokemontcg.io/pl2/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Snorlax-Lv40-RR81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -5306,6 +5934,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/82.png",
       "large": "https://images.pokemontcg.io/pl2/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Spheal-Lv18-RR82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5366,6 +6002,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/83.png",
       "large": "https://images.pokemontcg.io/pl2/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Staryu-Lv18-RR83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5430,6 +6074,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/84.png",
       "large": "https://images.pokemontcg.io/pl2/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Trapinch-Lv14-RR84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5495,6 +6147,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/85.png",
       "large": "https://images.pokemontcg.io/pl2/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Turtwig-GL-Lv20-RR85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5515,9 +6175,7 @@
     "attacks": [
       {
         "name": "Rescue String",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your discard pile for up to 5 Pokémon, show them to your opponent, and shuffle them into your deck."
@@ -5555,6 +6213,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/86.png",
       "large": "https://images.pokemontcg.io/pl2/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Weedle-Lv6-RR86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5620,6 +6286,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/87.png",
       "large": "https://images.pokemontcg.io/pl2/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Weezing-Lv47-RR87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5642,6 +6316,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/88.png",
       "large": "https://images.pokemontcg.io/pl2/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Aarons-Collection-RR88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5664,6 +6346,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/89.png",
       "large": "https://images.pokemontcg.io/pl2/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Bebes-Search-V1-RR89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -5686,6 +6376,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/90.png",
       "large": "https://images.pokemontcg.io/pl2/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Berthas-Warmth-RR90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -5708,6 +6406,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/91.png",
       "large": "https://images.pokemontcg.io/pl2/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Flints-Willpower-RR91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -5730,6 +6436,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/92.png",
       "large": "https://images.pokemontcg.io/pl2/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Lucians-Assignment-V1-RR92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -5752,6 +6466,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/93.png",
       "large": "https://images.pokemontcg.io/pl2/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Pokemon-Contest-Hall-RR93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -5774,6 +6496,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/94.png",
       "large": "https://images.pokemontcg.io/pl2/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Sunyshore-City-Gym-RR94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -5808,6 +6538,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/95.png",
       "large": "https://images.pokemontcg.io/pl2/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Team-Galactics-Invention-G-107-Technical-Machine-G-RR95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -5829,6 +6567,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/96.png",
       "large": "https://images.pokemontcg.io/pl2/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Team-Galactics-Invention-G-109-SP-Radar-V1-RR96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5851,6 +6597,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/97.png",
       "large": "https://images.pokemontcg.io/pl2/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Underground-Expedition-V1-RR97",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -5873,6 +6627,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/98.png",
       "large": "https://images.pokemontcg.io/pl2/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Volkners-Philosophy-V1-RR98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5894,6 +6656,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/99.png",
       "large": "https://images.pokemontcg.io/pl2/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Darkness-Energy-RR99",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5915,6 +6685,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/100.png",
       "large": "https://images.pokemontcg.io/pl2/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Metal-Energy-RR100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5936,6 +6714,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/101.png",
       "large": "https://images.pokemontcg.io/pl2/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/SP-Energy-RR101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5957,6 +6743,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/102.png",
       "large": "https://images.pokemontcg.io/pl2/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Upper-Energy-V1-RR102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6019,6 +6813,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/103.png",
       "large": "https://images.pokemontcg.io/pl2/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Alakazam-4-LVX-RR103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6075,6 +6877,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/104.png",
       "large": "https://images.pokemontcg.io/pl2/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Floatzel-GL-LVX-RR104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 25.0
+      }
     }
   },
   {
@@ -6137,6 +6947,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/105.png",
       "large": "https://images.pokemontcg.io/pl2/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Flygon-LVX-RR105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.98,
+        "reverseHoloLow": 32.99
+      }
     }
   },
   {
@@ -6198,6 +7016,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/106.png",
       "large": "https://images.pokemontcg.io/pl2/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Gallade-4-LVX-RR106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6268,6 +7094,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/107.png",
       "large": "https://images.pokemontcg.io/pl2/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Hippowdon-LVX-RR107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6325,6 +7159,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/108.png",
       "large": "https://images.pokemontcg.io/pl2/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Infernape-4-LVX-RR108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": 40.0
+      }
     }
   },
   {
@@ -6387,6 +7229,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/109.png",
       "large": "https://images.pokemontcg.io/pl2/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Luxray-GL-LVX-RR109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6454,6 +7304,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/110.png",
       "large": "https://images.pokemontcg.io/pl2/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Mismagius-GL-LVX-RR110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6518,6 +7376,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/111.png",
       "large": "https://images.pokemontcg.io/pl2/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Snorlax-LVX-RR111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6579,6 +7445,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/112.png",
       "large": "https://images.pokemontcg.io/pl2/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Pikachu-Lv12-RR112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": 15.0
+      }
     }
   },
   {
@@ -6641,6 +7515,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/113.png",
       "large": "https://images.pokemontcg.io/pl2/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Flying-Pikachu-Lv12-RR113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.99,
+        "reverseHoloLow": 12.0
+      }
     }
   },
   {
@@ -6694,6 +7576,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl2/114.png",
       "large": "https://images.pokemontcg.io/pl2/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Rising-Rivals/Surfing-Pikachu-Lv13-RR114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.99,
+        "reverseHoloLow": 19.99
+      }
     }
   },
   {

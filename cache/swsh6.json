@@ -22434,5 +22434,613 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "swsh6-promo-10",
+    "name": "Abomasnow  (CRE 010) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1",
+      "Single Strike"
+    ],
+    "hp": "140",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Snover",
+    "abilities": [
+      {
+        "name": "Toughness Boost",
+        "text": "Your Single Strike Pokémon in play, except any Abomasnow, get +50 HP. You can't apply more than 1 Toughness Boost Ability at a time.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Mega Punch",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "10",
+    "artist": "Akira Komayama",
+    "rarity": "Promo",
+    "flavorText": "This Pokémon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.",
+    "nationalPokedexNumbers": [
+      460
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/10.png",
+      "large": "https://images.pokemontcg.io/swsh6/10_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-10",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.02,
+          "mid": 0.24,
+          "high": 4.99,
+          "market": 0.18,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.03,
+          "mid": 0.15,
+          "high": 4.95,
+          "market": 0.09,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chilling-Reign/Abomasnow-V2-CRE010",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh6-promo-32",
+    "name": "Delibird  (CRE 032) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Icy Snow",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Package Delivery",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Put this Pokémon and all attached cards into your deck. If you do, search your deck for a card and put it into your hand. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "32",
+    "artist": "Narumi Sato",
+    "rarity": "Promo",
+    "flavorText": "It has a generous habit of sharing its food with people and Pokémon, so it's always scrounging around for more food.",
+    "nationalPokedexNumbers": [
+      225
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/32.png",
+      "large": "https://images.pokemontcg.io/swsh6/32_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-32",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.06,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.18,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.01,
+          "mid": 0.11,
+          "high": 5.07,
+          "market": 0.07,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chilling-Reign/Delibird-V2-CRE032",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh6-promo-45",
+    "name": "Ice Rider Calyrex V  (CRE 045) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "210",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Pierce",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40",
+        "text": ""
+      },
+      {
+        "name": "Glacial Lance",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "200",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "45",
+    "artist": "D.A.G Inc.",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      898
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/45.png",
+      "large": "https://images.pokemontcg.io/swsh6/45_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-45",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.25,
+          "mid": 0.99,
+          "high": 89.0,
+          "market": 0.77,
+          "directLow": 0.65
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chilling-Reign/Ice-Rider-Calyrex-V-V4-CRE045",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh6-promo-46",
+    "name": "Ice Rider Calyrex VMAX  (CRE 046) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "VMAX"
+    ],
+    "hp": "320",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Ice Rider Calyrex V",
+    "rules": [
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "Ride of the High King",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "This attack does 30 more damage for each of your opponent's Benched Pokémon."
+      },
+      {
+        "name": "Max Lance",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "You may discard up to 2 Energy from this Pokémon. If you do, this attack does 120 more damage for each card you discarded in this way."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "46",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      898
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/46.png",
+      "large": "https://images.pokemontcg.io/swsh6/46_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-46",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.6,
+          "mid": 2.0,
+          "high": 89.0,
+          "market": 1.4,
+          "directLow": 1.36
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chilling-Reign/Ice-Rider-Calyrex-VMAX-V4-CRE046",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh6-promo-98",
+    "name": "Galarian Slowking  (CRE 098) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "120",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Galarian Slowpoke",
+    "abilities": [
+      {
+        "name": "Mysterious Potion",
+        "text": "Once during your turn, you may choose 1 of your Pokémon and flip a coin. If heads, heal 90 damage from that Pokémon. If tails, put 3 damage counters on that Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Spray Fluid",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "98",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "flavorText": "While chanting strange spells, this Pokémon combines its internal toxins with what it's eaten, creating strange potions.",
+    "nationalPokedexNumbers": [
+      199
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/98.png",
+      "large": "https://images.pokemontcg.io/swsh6/98_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-98",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.05,
+          "mid": 0.28,
+          "high": 9.99,
+          "market": 0.28,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.3,
+          "high": 4.95,
+          "market": 0.31,
+          "directLow": 0.23
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chilling-Reign/Galarian-Slowking-V2-CRE098",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh6-promo-145",
+    "name": "Klara (CRE 145) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Choose 1 or both:\n• Put up to 2 Pokémon from your discard pile into your hand.\n• Put up to 2 basic Energy cards from your discard pile into your hand.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "series": "Sword & Shield",
+      "printedTotal": 198,
+      "total": 233,
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CRE",
+      "releaseDate": "2021/06/18",
+      "updatedAt": "2021/06/18 12:12:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh6/logo.png"
+      }
+    },
+    "number": "145",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh6/145.png",
+      "large": "https://images.pokemontcg.io/swsh6/145_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-145",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 20.0,
+          "market": 0.22,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.03,
+          "mid": 0.17,
+          "high": 89.0,
+          "market": 0.11,
+          "directLow": 0.05
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chilling-Reign/Klara-V4-CRE145",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

@@ -14117,5 +14117,551 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "sv5-promo-51",
+    "name": "Pikachu  (TEF 051) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "attacks": [
+      {
+        "name": "Random Spark",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "51",
+    "artist": "kodama",
+    "rarity": "Promo",
+    "flavorText": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/51.png",
+      "large": "https://images.pokemontcg.io/sv5/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Temporal-Forces/Pikachu-V2-TEF051",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv5-promo-62",
+    "name": "Iron Thorns  (TEF 062) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Future"
+    ],
+    "hp": "140",
+    "types": [
+      "Lightning"
+    ],
+    "attacks": [
+      {
+        "name": "Destructo-Press",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70×",
+        "text": "Reveal the top 5 cards of your deck. This attack does 70 damage for each Future card you find there. Then, discard those Future cards and shuffle the other cards back into your deck."
+      },
+      {
+        "name": "Megaton Lariat",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "140",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "62",
+    "artist": "Takeshi Nakamura",
+    "rarity": "Promo",
+    "flavorText": "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.",
+    "nationalPokedexNumbers": [
+      995
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/62.png",
+      "large": "https://images.pokemontcg.io/sv5/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Temporal-Forces/Iron-Thorns-V3-TEF062",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv5-promo-77",
+    "name": "Scream Tail  (TEF 077) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Ancient"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Supportive Singing",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Heal 100 damage from 1 of your Benched Ancient Pokémon."
+      },
+      {
+        "name": "Hyper Voice",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "77",
+    "artist": "kawayoo",
+    "rarity": "Promo",
+    "flavorText": "There has been only one reported sighting of this Pokémon. It resembles a mysterious creature depicted in an old expedition journal.",
+    "nationalPokedexNumbers": [
+      985
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/77.png",
+      "large": "https://images.pokemontcg.io/sv5/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Temporal-Forces/Scream-Tail-V2-TEF077",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv5-promo-79",
+    "name": "Iron Valiant  (TEF 079) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Future"
+    ],
+    "hp": "130",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Gemini Laser",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Zen Blade",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "During your next turn, this Pokémon can't use Zen Blade."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "79",
+    "artist": "takuyoa",
+    "rarity": "Promo",
+    "flavorText": "It's possible that this is the object listed as Iron Valiant in a certain expedition journal.",
+    "nationalPokedexNumbers": [
+      1006
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/79.png",
+      "large": "https://images.pokemontcg.io/sv5/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Temporal-Forces/Iron-Valiant-V2-TEF079",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv5-promo-119",
+    "name": "Koraidon  (TEF 119) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Ancient"
+    ],
+    "hp": "140",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Primordial Beatdown",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30×",
+        "text": "This attack does 30 damage for each of your Ancient Pokémon in play."
+      },
+      {
+        "name": "Shred",
+        "cost": [
+          "Fire",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "119",
+    "artist": "Teeziro",
+    "rarity": "Promo",
+    "flavorText": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
+    "nationalPokedexNumbers": [
+      1007
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/119.png",
+      "large": "https://images.pokemontcg.io/sv5/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Temporal-Forces/Koraidon-V3-TEF119",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.5,
+        "reverseHoloLow": 7.5
+      }
+    }
+  },
+  {
+    "id": "sv5-promo-121",
+    "name": "Miraidon  (TEF 121) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Future"
+    ],
+    "hp": "110",
+    "types": [
+      "Dragon"
+    ],
+    "attacks": [
+      {
+        "name": "Peak Acceleration",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40",
+        "text": "Search your deck for up to 2 Basic Energy cards and attach them to your Future Pokémon in any way you like. Then, shuffle your deck."
+      },
+      {
+        "name": "Sparking Strike",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "160",
+        "text": ""
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "121",
+    "artist": "GOSSAN",
+    "rarity": "Promo",
+    "flavorText": "This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.",
+    "nationalPokedexNumbers": [
+      1008
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/121.png",
+      "large": "https://images.pokemontcg.io/sv5/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Temporal-Forces/Miraidon-V3-TEF121",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv5-promo-126",
+    "name": "Hoothoot  (TEF 126) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Noctowl"
+    ],
+    "attacks": [
+      {
+        "name": "Silent Wing",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Your opponent reveals their hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "126",
+    "artist": "ryoma uratsuka",
+    "rarity": "Promo",
+    "flavorText": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+    "nationalPokedexNumbers": [
+      163
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/126.png",
+      "large": "https://images.pokemontcg.io/sv5/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Temporal-Forces/Hoothoot-V2-TEF126",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sv5-promo-127",
+    "name": "Noctowl  (TEF 127) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Hoothoot",
+    "attacks": [
+      {
+        "name": "Talon Hunt",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "70",
+        "text": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "127",
+    "artist": "toi8",
+    "rarity": "Promo",
+    "flavorText": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+    "nationalPokedexNumbers": [
+      164
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "H",
+    "images": {
+      "small": "https://images.pokemontcg.io/sv5/127.png",
+      "large": "https://images.pokemontcg.io/sv5/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Temporal-Forces/Noctowl-V2-TEF127",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

@@ -7283,5 +7283,547 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "bw5-promo-4",
+    "name": "Scyther  (DEX 4) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "80",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [
+      "Scizor"
+    ],
+    "attacks": [
+      {
+        "name": "Air Slash",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "Discard an Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "4",
+    "artist": "Naoki Saito",
+    "rarity": "Promo",
+    "flavorText": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+    "nationalPokedexNumbers": [
+      123
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw5/4.png",
+      "large": "https://images.pokemontcg.io/bw5/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Scyther-V2-DEX4",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 30.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw5-promo-12",
+    "name": "Flareon  (DEX 12) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Eevee",
+    "attacks": [
+      {
+        "name": "Sand-Attack",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      {
+        "name": "Fire Slash",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60+",
+        "text": "You may discard a Fire Energy attached to this Pokémon. If you do, this attack does 30 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "12",
+    "artist": "Suwama Chiaki",
+    "rarity": "Promo",
+    "flavorText": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.",
+    "nationalPokedexNumbers": [
+      136
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw5/12.png",
+      "large": "https://images.pokemontcg.io/bw5/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Flareon-DEX12",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 42.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw5-promo-25",
+    "name": "Vaporeon  (DEX 25) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "110",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Eevee",
+    "attacks": [
+      {
+        "name": "Muddy Water",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Spiral Drain",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "25",
+    "artist": "Akira Komayama",
+    "rarity": "Promo",
+    "flavorText": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+    "nationalPokedexNumbers": [
+      134
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw5/25.png",
+      "large": "https://images.pokemontcg.io/bw5/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Vaporeon-V2-DEX25",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 57.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw5-promo-37",
+    "name": "Jolteon  (DEX 37) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Eevee",
+    "attacks": [
+      {
+        "name": "Electrigun",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20+",
+        "text": "You may discard a Lightning Energy attached to this Pokémon. If you do, this attack does 40 more damage."
+      },
+      {
+        "name": "Pin Missile",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40×",
+        "text": "Flip 4 coins. This attack does 40 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "number": "37",
+    "artist": "Sumiyoshi Kizuki",
+    "rarity": "Promo",
+    "flavorText": "If agitated, it uses electricity to straighten out its fur and launch it in small bunches.",
+    "nationalPokedexNumbers": [
+      135
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw5/37.png",
+      "large": "https://images.pokemontcg.io/bw5/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Jolteon-V2-DEX37",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 69.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw5-promo-48",
+    "name": "Espeon  (DEX 48) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Eevee",
+    "abilities": [
+      {
+        "name": "Solar Revelation",
+        "text": "Prevent all effects of your opponent's attacks, except damage, done to each of your Pokémon that has any Energy attached to it.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Psy Report",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "Your opponent reveals his or her hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "48",
+    "artist": "Mizue",
+    "rarity": "Promo",
+    "flavorText": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
+    "nationalPokedexNumbers": [
+      196
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw5/48.png",
+      "large": "https://images.pokemontcg.io/bw5/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Espeon-V2-DEX48",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 30.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw5-promo-60",
+    "name": "Umbreon  (DEX 60) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "100",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Eevee",
+    "attacks": [
+      {
+        "name": "Shadow Drain",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Heal from this Pokémon the same amount of damage you did to the Defending Pokémon."
+      },
+      {
+        "name": "Slashing Strike",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "This Pokémon can't use Slashing Strike during your next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "60",
+    "artist": "TOKIYA",
+    "rarity": "Promo",
+    "flavorText": "When exposed to the moon's aura, the rings on its body glow faintly and it gains a mysterious power.",
+    "nationalPokedexNumbers": [
+      197
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw5/60.png",
+      "large": "https://images.pokemontcg.io/bw5/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Umbreon-V2-DEX60",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 110.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw5-promo-84",
+    "name": "Eevee  (DEX 84) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Vaporeon",
+      "Jolteon",
+      "Flareon",
+      "Sylveon",
+      "Espeon",
+      "Umbreon",
+      "Leafeon",
+      "Glaceon"
+    ],
+    "attacks": [
+      {
+        "name": "Smash Kick",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Tail Whap",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "84",
+    "artist": "Sumiyoshi Kizuki",
+    "rarity": "Promo",
+    "flavorText": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
+    "nationalPokedexNumbers": [
+      133
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw5/84.png",
+      "large": "https://images.pokemontcg.io/bw5/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Eevee-V2-DEX84",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw5-promo-94",
+    "name": "Enhanced Hammer (DEX 94) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard a Special Energy attached to 1 of your opponent's Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "94",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw5/94.png",
+      "large": "https://images.pokemontcg.io/bw5/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Enhanced-Hammer-V2-DEX94",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw5-promo-98",
+    "name": "Professor Juniper (DEX 98) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and draw 7 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "98",
+    "artist": "Kanako Eo",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw5/98.png",
+      "large": "https://images.pokemontcg.io/bw5/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Dark-Explorers/Professor-Juniper-V2-DEX98",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

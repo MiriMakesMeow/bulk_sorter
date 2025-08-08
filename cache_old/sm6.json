@@ -48,6 +48,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/1.png",
       "large": "https://images.pokemontcg.io/sm6/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Exeggcute-FLI001",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -99,6 +107,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/2.png",
       "large": "https://images.pokemontcg.io/sm6/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Alolan-Exeggutor-V1-FLI002",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -204,6 +220,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/3.png",
       "large": "https://images.pokemontcg.io/sm6/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Snover-FLI003",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -265,6 +289,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/4.png",
       "large": "https://images.pokemontcg.io/sm6/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Abomasnow-FLI4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -324,6 +356,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/5.png",
       "large": "https://images.pokemontcg.io/sm6/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Scatterbug-FLI5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -375,6 +415,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/6.png",
       "large": "https://images.pokemontcg.io/sm6/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Scatterbug-FLI006",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -428,6 +476,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/7.png",
       "large": "https://images.pokemontcg.io/sm6/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Spewpa-FLI007",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -483,6 +539,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/8.png",
       "large": "https://images.pokemontcg.io/sm6/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Vivillon-FLI008",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -546,6 +610,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/9.png",
       "large": "https://images.pokemontcg.io/sm6/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Skiddo-FLI009",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -607,6 +679,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/10.png",
       "large": "https://images.pokemontcg.io/sm6/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Gogoat-FLI010",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -663,6 +743,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/11.png",
       "large": "https://images.pokemontcg.io/sm6/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Pheromosa-FLI11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 2.0
+      }
     }
   },
   {
@@ -680,9 +768,7 @@
     "attacks": [
       {
         "name": "Limbo Limbo",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 basic Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck."
@@ -723,6 +809,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/12.png",
       "large": "https://images.pokemontcg.io/sm6/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Alolan-Marowak-FLI012",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -785,6 +879,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/13.png",
       "large": "https://images.pokemontcg.io/sm6/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Heatran-FLI13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -836,6 +938,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/14.png",
       "large": "https://images.pokemontcg.io/sm6/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Fennekin-FLI014",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -897,6 +1007,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/15.png",
       "large": "https://images.pokemontcg.io/sm6/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Fennekin-FLI015",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -961,6 +1079,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/16.png",
       "large": "https://images.pokemontcg.io/sm6/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Braixen-FLI016",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1021,6 +1147,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/17.png",
       "large": "https://images.pokemontcg.io/sm6/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Delphox-FLI17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.75
+      }
     }
   },
   {
@@ -1074,6 +1208,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/18.png",
       "large": "https://images.pokemontcg.io/sm6/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Litleo-FLI018",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1133,6 +1275,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/19.png",
       "large": "https://images.pokemontcg.io/sm6/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Pyroar-FLI19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1210,6 +1360,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/20.png",
       "large": "https://images.pokemontcg.io/sm6/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Palkia-GX-V1-FLI20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.89,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1269,6 +1427,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/21.png",
       "large": "https://images.pokemontcg.io/sm6/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Froakie-FLI21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -1330,6 +1496,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/22.png",
       "large": "https://images.pokemontcg.io/sm6/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Froakie-FLI022",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1389,6 +1563,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/23.png",
       "large": "https://images.pokemontcg.io/sm6/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Frogadier-FLI23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1462,6 +1644,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/24.png",
       "large": "https://images.pokemontcg.io/sm6/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Greninja-GX-V1-FLI24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1513,6 +1703,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/25.png",
       "large": "https://images.pokemontcg.io/sm6/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Clauncher-FLI025",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1572,6 +1770,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/26.png",
       "large": "https://images.pokemontcg.io/sm6/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Clawitzer-FLI026",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -1638,6 +1844,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/27.png",
       "large": "https://images.pokemontcg.io/sm6/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Amaura-FLI027",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -1704,6 +1918,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/28.png",
       "large": "https://images.pokemontcg.io/sm6/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Aurorus-FLI028",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": 23.0
+      }
     }
   },
   {
@@ -1756,6 +1978,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/29.png",
       "large": "https://images.pokemontcg.io/sm6/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Bergmite-FLI029",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -1822,6 +2052,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/30.png",
       "large": "https://images.pokemontcg.io/sm6/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Avalugg-FLI030",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -1885,6 +2123,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/31.png",
       "large": "https://images.pokemontcg.io/sm6/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Volcanion-FLI31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": 3.5
+      }
     }
   },
   {
@@ -1945,6 +2191,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/32.png",
       "large": "https://images.pokemontcg.io/sm6/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Dewpider-FLI032",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -2004,6 +2258,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/33.png",
       "large": "https://images.pokemontcg.io/sm6/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Araquanid-FLI033",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2070,6 +2332,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/34.png",
       "large": "https://images.pokemontcg.io/sm6/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Magnemite-FLI34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2140,6 +2410,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/35.png",
       "large": "https://images.pokemontcg.io/sm6/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Magneton-FLI35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2206,6 +2484,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/36.png",
       "large": "https://images.pokemontcg.io/sm6/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Magnezone-FLI36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2273,6 +2559,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/37.png",
       "large": "https://images.pokemontcg.io/sm6/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Helioptile-FLI037",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2339,6 +2633,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/38.png",
       "large": "https://images.pokemontcg.io/sm6/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Heliolisk-FLI038",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2405,6 +2707,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/39.png",
       "large": "https://images.pokemontcg.io/sm6/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Xurkitree-FLI039",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -2468,6 +2778,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/40.png",
       "large": "https://images.pokemontcg.io/sm6/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Rotom-FLI40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.07,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -2516,6 +2834,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/41.png",
       "large": "https://images.pokemontcg.io/sm6/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Uxie-FLI041",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2572,6 +2898,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/42.png",
       "large": "https://images.pokemontcg.io/sm6/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Mesprit-FLI42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2629,6 +2963,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/43.png",
       "large": "https://images.pokemontcg.io/sm6/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Azelf-FLI043",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -2680,6 +3022,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/44.png",
       "large": "https://images.pokemontcg.io/sm6/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Espurr-FLI044",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -2739,6 +3089,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/45.png",
       "large": "https://images.pokemontcg.io/sm6/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Meowstic-FLI045",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -2806,6 +3164,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/46.png",
       "large": "https://images.pokemontcg.io/sm6/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Honedge-FLI46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -2864,6 +3230,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/47.png",
       "large": "https://images.pokemontcg.io/sm6/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Honedge-FLI047",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2923,6 +3297,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/48.png",
       "large": "https://images.pokemontcg.io/sm6/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Doublade-FLI048",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2990,6 +3372,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/49.png",
       "large": "https://images.pokemontcg.io/sm6/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Aegislash-FLI049",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -3041,6 +3431,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/50.png",
       "large": "https://images.pokemontcg.io/sm6/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Inkay-FLI050",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3100,6 +3498,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/51.png",
       "large": "https://images.pokemontcg.io/sm6/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Malamar-V1-FLI51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -3151,6 +3557,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/52.png",
       "large": "https://images.pokemontcg.io/sm6/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Skrelp-FLI052",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -3208,6 +3622,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/53.png",
       "large": "https://images.pokemontcg.io/sm6/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Dragalge-FLI53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3265,6 +3687,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/54.png",
       "large": "https://images.pokemontcg.io/sm6/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Hoopa-FLI054",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3327,6 +3757,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/55.png",
       "large": "https://images.pokemontcg.io/sm6/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Poipole-V1-FLI55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -3402,6 +3840,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/56.png",
       "large": "https://images.pokemontcg.io/sm6/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Naganadel-GX-V1-FLI56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3455,6 +3901,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/57.png",
       "large": "https://images.pokemontcg.io/sm6/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Cubone-FLI057",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3521,6 +3975,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/58.png",
       "large": "https://images.pokemontcg.io/sm6/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Torterra-FLI58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3578,6 +4040,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/59.png",
       "large": "https://images.pokemontcg.io/sm6/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Infernape-FLI59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -3629,6 +4099,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/60.png",
       "large": "https://images.pokemontcg.io/sm6/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Gible-FLI60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3691,6 +4169,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/61.png",
       "large": "https://images.pokemontcg.io/sm6/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Gabite-FLI61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3748,6 +4234,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/62.png",
       "large": "https://images.pokemontcg.io/sm6/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Garchomp-FLI62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -3799,6 +4293,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/63.png",
       "large": "https://images.pokemontcg.io/sm6/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Croagunk-FLI63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -3859,6 +4361,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/64.png",
       "large": "https://images.pokemontcg.io/sm6/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Toxicroak-FLI64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3911,6 +4421,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/65.png",
       "large": "https://images.pokemontcg.io/sm6/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Pancham-FLI065",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -3964,6 +4482,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/66.png",
       "large": "https://images.pokemontcg.io/sm6/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Binacle-FLI066",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4027,6 +4553,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/67.png",
       "large": "https://images.pokemontcg.io/sm6/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Barbaracle-FLI067",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -4090,6 +4624,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/68.png",
       "large": "https://images.pokemontcg.io/sm6/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Tyrunt-FLI068",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.48
+      }
     }
   },
   {
@@ -4150,6 +4692,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/69.png",
       "large": "https://images.pokemontcg.io/sm6/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Tyrantrum-FLI69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": 11.0
+      }
     }
   },
   {
@@ -4215,6 +4765,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/70.png",
       "large": "https://images.pokemontcg.io/sm6/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Hawlucha-FLI070",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -4270,6 +4828,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/71.png",
       "large": "https://images.pokemontcg.io/sm6/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Zygarde-FLI71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4331,6 +4897,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/72.png",
       "large": "https://images.pokemontcg.io/sm6/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Zygarde-FLI072",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4409,6 +4983,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/73.png",
       "large": "https://images.pokemontcg.io/sm6/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Zygarde-GX-V1-FLI73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4471,6 +5053,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/74.png",
       "large": "https://images.pokemontcg.io/sm6/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Diancie-FLI74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.33,
+        "reverseHoloLow": 2.29
+      }
     }
   },
   {
@@ -4523,6 +5113,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/75.png",
       "large": "https://images.pokemontcg.io/sm6/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Rockruff-V1-FLI075",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -4585,6 +5183,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/76.png",
       "large": "https://images.pokemontcg.io/sm6/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Lycanroc-FLI076",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4646,6 +5252,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/77.png",
       "large": "https://images.pokemontcg.io/sm6/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Buzzwole-V1-FLI77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.8
+      }
     }
   },
   {
@@ -4715,6 +5329,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/78.png",
       "large": "https://images.pokemontcg.io/sm6/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Pangoro-FLI078",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -4793,6 +5415,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/79.png",
       "large": "https://images.pokemontcg.io/sm6/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Yveltal-GX-V1-FLI79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4854,6 +5484,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/80.png",
       "large": "https://images.pokemontcg.io/sm6/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Guzzlord-V1-FLI80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": 0.49
+      }
     }
   },
   {
@@ -4922,6 +5560,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/81.png",
       "large": "https://images.pokemontcg.io/sm6/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Empoleon-FLI81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5005,6 +5651,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/82.png",
       "large": "https://images.pokemontcg.io/sm6/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Dialga-GX-V1-FLI82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.51,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5069,6 +5723,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/83.png",
       "large": "https://images.pokemontcg.io/sm6/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Flabebe-FLI83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5126,6 +5788,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/84.png",
       "large": "https://images.pokemontcg.io/sm6/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Flabebe-FLI084",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -5184,6 +5854,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/85.png",
       "large": "https://images.pokemontcg.io/sm6/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Floette-FLI085",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -5249,6 +5927,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/86.png",
       "large": "https://images.pokemontcg.io/sm6/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Florges-FLI86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -5314,6 +6000,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/87.png",
       "large": "https://images.pokemontcg.io/sm6/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Sylveon-FLI087",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 2.9
+      }
     }
   },
   {
@@ -5378,6 +6072,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/88.png",
       "large": "https://images.pokemontcg.io/sm6/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Dedenne-FLI088",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -5441,6 +6143,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/89.png",
       "large": "https://images.pokemontcg.io/sm6/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Klefki-FLI089",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5521,6 +6231,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/90.png",
       "large": "https://images.pokemontcg.io/sm6/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Xerneas-GX-V1-FLI90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5579,6 +6297,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/91.png",
       "large": "https://images.pokemontcg.io/sm6/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Goomy-FLI91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5641,6 +6367,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/92.png",
       "large": "https://images.pokemontcg.io/sm6/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Goomy-FLI092",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -5706,6 +6440,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/93.png",
       "large": "https://images.pokemontcg.io/sm6/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Sliggoo-FLI093",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -5766,6 +6508,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/94.png",
       "large": "https://images.pokemontcg.io/sm6/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Goodra-FLI94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -5830,6 +6580,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/95.png",
       "large": "https://images.pokemontcg.io/sm6/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Ultra-Necrozma-GX-V1-FLI95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5889,6 +6647,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/96.png",
       "large": "https://images.pokemontcg.io/sm6/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Arceus-FLI96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": 4.99
+      }
     }
   },
   {
@@ -5951,6 +6717,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/97.png",
       "large": "https://images.pokemontcg.io/sm6/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Bunnelby-FLI097",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -6016,6 +6790,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/98.png",
       "large": "https://images.pokemontcg.io/sm6/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Diggersby-FLI098",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -6064,6 +6846,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/99.png",
       "large": "https://images.pokemontcg.io/sm6/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Furfrou-FLI099",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6131,6 +6921,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/100.png",
       "large": "https://images.pokemontcg.io/sm6/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Noibat-FLI100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -6197,6 +6995,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/101.png",
       "large": "https://images.pokemontcg.io/sm6/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Noivern-FLI101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.13
+      }
     }
   },
   {
@@ -6221,6 +7027,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/102.png",
       "large": "https://images.pokemontcg.io/sm6/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Beast-Ring-V1-FLI102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.06,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -6269,6 +7083,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/103.png",
       "large": "https://images.pokemontcg.io/sm6/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Bonnie-V1-FLI103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6292,6 +7114,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/104.png",
       "large": "https://images.pokemontcg.io/sm6/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Crasher-Wake-V1-FLI104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6316,6 +7146,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/105.png",
       "large": "https://images.pokemontcg.io/sm6/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Diantha-V1-FLI105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -6339,6 +7177,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/106.png",
       "large": "https://images.pokemontcg.io/sm6/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Eneporter-V1-FLI106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -6362,6 +7208,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/107.png",
       "large": "https://images.pokemontcg.io/sm6/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Fossil-Excavation-Map-FLI107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -6386,6 +7240,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/108.png",
       "large": "https://images.pokemontcg.io/sm6/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Judge-V1-FLI108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -6410,6 +7272,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/109.png",
       "large": "https://images.pokemontcg.io/sm6/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Lady-FLI109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -6435,6 +7305,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/110.png",
       "large": "https://images.pokemontcg.io/sm6/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Lysandre-Prism-FLI110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 1.75
+      }
     }
   },
   {
@@ -6458,6 +7336,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/111.png",
       "large": "https://images.pokemontcg.io/sm6/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Lysandre-Labs-V1-FLI111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6482,6 +7368,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/112.png",
       "large": "https://images.pokemontcg.io/sm6/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Metal-Frying-Pan-V1-FLI112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6529,6 +7423,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/113.png",
       "large": "https://images.pokemontcg.io/sm6/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Mysterious-Treasure-V1-FLI113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6575,6 +7477,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/114.png",
       "large": "https://images.pokemontcg.io/sm6/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Ultra-Recon-Squad-V1-FLI114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -6598,6 +7508,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/115.png",
       "large": "https://images.pokemontcg.io/sm6/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Ultra-Space-V1-FLI115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -6624,6 +7542,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/116.png",
       "large": "https://images.pokemontcg.io/sm6/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Unidentified-Fossil-FLI116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -6648,6 +7574,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/117.png",
       "large": "https://images.pokemontcg.io/sm6/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Beast-Energy-V1-FLI117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -6670,6 +7604,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/118.png",
       "large": "https://images.pokemontcg.io/sm6/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Unit-Energy-V1-FLI118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -6747,6 +7689,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/119.png",
       "large": "https://images.pokemontcg.io/sm6/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Palkia-GX-V2-FLI119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.8,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6820,6 +7770,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/120.png",
       "large": "https://images.pokemontcg.io/sm6/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Greninja-GX-V2-FLI120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6895,6 +7853,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/121.png",
       "large": "https://images.pokemontcg.io/sm6/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Naganadel-GX-V2-FLI121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6969,6 +7935,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/122.png",
       "large": "https://images.pokemontcg.io/sm6/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Lucario-GX-V1-FLI122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7047,6 +8021,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/123.png",
       "large": "https://images.pokemontcg.io/sm6/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Zygarde-GX-V2-FLI123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7125,6 +8107,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/124.png",
       "large": "https://images.pokemontcg.io/sm6/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Yveltal-GX-V2-FLI124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7208,6 +8198,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/125.png",
       "large": "https://images.pokemontcg.io/sm6/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Dialga-GX-V2-FLI125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7288,6 +8286,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/126.png",
       "large": "https://images.pokemontcg.io/sm6/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Xerneas-GX-V2-FLI126",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7352,6 +8358,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/127.png",
       "large": "https://images.pokemontcg.io/sm6/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Ultra-Necrozma-GX-V2-FLI127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7376,6 +8390,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/128.png",
       "large": "https://images.pokemontcg.io/sm6/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Bonnie-V2-FLI128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7399,6 +8421,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/129.png",
       "large": "https://images.pokemontcg.io/sm6/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Crasher-Wake-V2-FLI129",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7423,6 +8453,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/130.png",
       "large": "https://images.pokemontcg.io/sm6/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Diantha-V2-FLI130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7446,6 +8484,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/131.png",
       "large": "https://images.pokemontcg.io/sm6/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Ultra-Recon-Squad-V2-FLI131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.8,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7523,6 +8569,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/132.png",
       "large": "https://images.pokemontcg.io/sm6/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Palkia-GX-V3-FLI132",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 16.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7596,6 +8650,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/133.png",
       "large": "https://images.pokemontcg.io/sm6/133_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Greninja-GX-V3-FLI133",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 11.97,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7671,6 +8733,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/134.png",
       "large": "https://images.pokemontcg.io/sm6/134_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Naganadel-GX-V3-FLI134",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7745,6 +8815,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/135.png",
       "large": "https://images.pokemontcg.io/sm6/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Lucario-GX-V2-FLI135",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7823,6 +8901,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/136.png",
       "large": "https://images.pokemontcg.io/sm6/136_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Zygarde-GX-V3-FLI136",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7901,6 +8987,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/137.png",
       "large": "https://images.pokemontcg.io/sm6/137_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Yveltal-GX-V3-FLI137",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -7984,6 +9078,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/138.png",
       "large": "https://images.pokemontcg.io/sm6/138_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Dialga-GX-V3-FLI138",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 17.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8064,6 +9166,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/139.png",
       "large": "https://images.pokemontcg.io/sm6/139_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Xerneas-GX-V3-FLI139",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 13.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8128,6 +9238,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/140.png",
       "large": "https://images.pokemontcg.io/sm6/140_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Ultra-Necrozma-GX-V3-FLI140",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8152,6 +9270,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/141.png",
       "large": "https://images.pokemontcg.io/sm6/141_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Beast-Ring-V2-FLI141",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8175,6 +9301,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/142.png",
       "large": "https://images.pokemontcg.io/sm6/142_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Eneporter-V2-FLI142",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8198,6 +9332,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/143.png",
       "large": "https://images.pokemontcg.io/sm6/143_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Energy-Recycler-FLI143",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8222,6 +9364,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/144.png",
       "large": "https://images.pokemontcg.io/sm6/144_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Metal-Frying-Pan-V2-FLI144",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8245,6 +9395,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/145.png",
       "large": "https://images.pokemontcg.io/sm6/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Mysterious-Treasure-V2-FLI145",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -8267,6 +9425,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sm6/146.png",
       "large": "https://images.pokemontcg.io/sm6/146_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Unit-Energy-V2-FLI146",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.64,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

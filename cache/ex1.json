@@ -6589,5 +6589,93 @@
         "reverseHoloLow": 0.5
       }
     }
+  },
+  {
+    "id": "ex1-promo-85",
+    "name": "Oran Berry (RS 85) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach Oran Berry to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.",
+      "At any time between turns, if the Pokémon this card is attached to has at least 2 damage counters on it, remove 2 damage counters from it. Then discard Oran Berry."
+    ],
+    "number": "85",
+    "artist": "Kazuo Yazawa",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex1/85.png",
+      "large": "https://images.pokemontcg.io/ex1/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Oran-Berry-V2-RS85",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 19.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "ex1-promo-93",
+    "name": "Darkness Energy  (RS 93) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). Ignore this effect unless the Attacking Pokémon is Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesn't count as a basic Energy card.)"
+    ],
+    "number": "93",
+    "artist": "Milky Isobe",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex1/93.png",
+      "large": "https://images.pokemontcg.io/ex1/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Darkness-Energy-V2-RS93",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "ex1-promo-94",
+    "name": "Metal Energy  (RS 94) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "Damage done by attacks to the Pokémon that Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). Ignore this effect if the Pokémon that Metal Energy is attached to isn't Metal. Metal Energy provides Metal Energy. (Doesn't count as a basic Energy card.)"
+    ],
+    "number": "94",
+    "artist": "Milky Isobe",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex1/94.png",
+      "large": "https://images.pokemontcg.io/ex1/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Ruby-Sapphire/Metal-Energy-V2-RS94",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

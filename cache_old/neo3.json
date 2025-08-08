@@ -2,7 +2,7 @@
   {
     "id": "neo3-1",
     "name": "Ampharos",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -20,7 +20,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Flip 3 coins. For each heads, you may search your deck for a Lightning Energy card and attach it to 1 of your Lightning Pok\u00e9mon. Shuffle your deck afterward."
+        "text": "Flip 3 coins. For each heads, you may search your deck for a Lightning Energy card and attach it to 1 of your Lightning Pokémon. Shuffle your deck afterward."
       },
       {
         "name": "Gigavolt",
@@ -32,13 +32,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "40+",
-        "text": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage. If tails, this attack does 40 damage and the Defending Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage. If tails, this attack does 40 damage and the Defending Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -99,31 +99,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-1",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Ampharos-NR1",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 20.42,
         "lowPrice": 3.9,
-        "trendPrice": 24.75,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 16.0,
-        "lowPriceExPlus": 23.0,
-        "avg1": 18.98,
-        "avg7": 20.27,
-        "avg30": 23.97,
-        "reverseHoloAvg1": 24.19,
-        "reverseHoloAvg7": 18.31,
-        "reverseHoloAvg30": 14.84
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-2",
     "name": "Blissey",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -137,7 +124,7 @@
       {
         "name": "Softboiled",
         "text": "When you play Blissey from your hand, you may flip a coin. If heads, remove 8 damage counters from Blissey. If tails, remove 4 damage counters from Blissey. Either way, if Blissey has fewer damage counters than that, remove all of them.",
-        "type": "Pok\u00e9mon Power"
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -151,13 +138,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "30",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -223,31 +210,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-2",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Blissey-NR2",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 34.59,
         "lowPrice": 4.0,
-        "trendPrice": 26.57,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 11.84,
-        "lowPriceExPlus": 31.0,
-        "avg1": 27.0,
-        "avg7": 37.23,
-        "avg30": 31.27,
-        "reverseHoloAvg1": 6.45,
-        "reverseHoloAvg7": 13.8,
-        "reverseHoloAvg30": 16.97
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-3",
     "name": "Celebi",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -260,7 +234,7 @@
       {
         "name": "Time Travel",
         "text": "If an opponent's attack would Knock Out Celebi, flip a coin. If heads, Celebi isn't Knocked Out and you shuffle it and all cards attached to it into your deck. This power doesn't work if Celebi is already Asleep, Confused, or Paralyzed.",
-        "type": "Pok\u00e9mon Power"
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -271,13 +245,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip 3 coins. For each heads, put 1 damage counter on the Defending Pok\u00e9mon."
+        "text": "Flip 3 coins. For each heads, put 1 damage counter on the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -304,7 +278,7 @@
     "number": "3",
     "artist": "Hironobu Yoshida",
     "rarity": "Rare Holo",
-    "flavorText": "This Pok\u00e9mon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
+    "flavorText": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
     "nationalPokedexNumbers": [
       251
     ],
@@ -336,31 +310,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-3",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Celebi-NR3",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 46.66,
-        "lowPrice": 14.95,
-        "trendPrice": 37.7,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 47.59,
-        "lowPriceExPlus": 46.0,
-        "avg1": 29.9,
-        "avg7": 43.2,
-        "avg30": 57.62,
-        "reverseHoloAvg1": 34.99,
-        "reverseHoloAvg7": 71.32,
-        "reverseHoloAvg30": 46.49
+        "lowPrice": 17.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-4",
     "name": "Crobat",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -378,7 +339,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "If your opponent attaches an Energy card to the Defending Pok\u00e9mon during his or her next turn, that Pok\u00e9mon becomes Poisoned."
+        "text": "If your opponent attaches an Energy card to the Defending Pokémon during his or her next turn, that Pokémon becomes Poisoned."
       },
       {
         "name": "Cross Attack",
@@ -388,14 +349,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "20\u00d7",
-        "text": "Flip 4 coins. This attack does 20 damage times the number of heads. If you get 2 or more heads, the Defending Pok\u00e9mon is now Confused."
+        "damage": "20×",
+        "text": "Flip 4 coins. This attack does 20 damage times the number of heads. If you get 2 or more heads, the Defending Pokémon is now Confused."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -456,31 +417,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-4",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Crobat-NR4",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 33.59,
-        "lowPrice": 9.0,
-        "trendPrice": 31.93,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 17.06,
-        "lowPriceExPlus": 27.0,
-        "avg1": 25.0,
-        "avg7": 38.42,
-        "avg30": 32.76,
-        "reverseHoloAvg1": 19.09,
-        "reverseHoloAvg7": 18.54,
-        "reverseHoloAvg30": 15.68
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-5",
     "name": "Delibird",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -498,13 +446,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Flip 3 coins. If exactly 1 is heads, this attack does 40 damage. If exactly 2 are heads, remove 3 damage counters from the Defending Pok\u00e9mon. If the Defending Pok\u00e9mon has fewer damage counters than that, remove all of them. If all 3 are heads, this attack does 60 damage. If all 3 are tails, remove all damage counters from the Defending Pok\u00e9mon."
+        "text": "Flip 3 coins. If exactly 1 is heads, this attack does 40 damage. If exactly 2 are heads, remove 3 damage counters from the Defending Pokémon. If the Defending Pokémon has fewer damage counters than that, remove all of them. If all 3 are heads, this attack does 60 damage. If all 3 are tails, remove all damage counters from the Defending Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -569,31 +517,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-5",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Delibird-NR5",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 32.07,
-        "lowPrice": 14.0,
-        "trendPrice": 31.69,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 13.71,
-        "lowPriceExPlus": 23.99,
-        "avg1": 38.0,
-        "avg7": 30.68,
-        "avg30": 31.53,
-        "reverseHoloAvg1": 14.99,
-        "reverseHoloAvg7": 16.04,
-        "reverseHoloAvg30": 13.45
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-6",
     "name": "Entei",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -605,8 +540,8 @@
     "abilities": [
       {
         "name": "Howl",
-        "text": "When you play Entei from your hand, you may discard the top 5 cards of your deck. (If you have fewer cards in your deck than that, discard all of them.) If any of those are Fire Energy cards, attach them to any of your Fire Pok\u00e9mon of your choice. Using this power ends your turn.",
-        "type": "Pok\u00e9mon Power"
+        "text": "When you play Entei from your hand, you may discard the top 5 cards of your deck. (If you have fewer cards in your deck than that, discard all of them.) If any of those are Fire Energy cards, attach them to any of your Fire Pokémon of your choice. Using this power ends your turn.",
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -625,7 +560,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -684,31 +619,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-6",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Entei-NR6",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 64.57,
-        "lowPrice": 19.5,
-        "trendPrice": 69.7,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 71.29,
-        "lowPriceExPlus": 70.25,
-        "avg1": 182.5,
-        "avg7": 75.54,
-        "avg30": 79.19,
-        "reverseHoloAvg1": 99.99,
-        "reverseHoloAvg7": 80.43,
-        "reverseHoloAvg30": 48.47
+        "lowPrice": 19.99,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-7",
     "name": "Ho-oh",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -736,7 +658,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "Flip a coin. If heads, choose 1 of your opponent's Pok\u00e9mon. This attack does 40 damage to that Pok\u00e9mon. Don't apply Weakness and Resistance."
+        "text": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. Don't apply Weakness and Resistance."
       },
       {
         "name": "Dive Bomb",
@@ -755,7 +677,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -789,7 +711,7 @@
     "number": "7",
     "artist": "Kimiya Masago",
     "rarity": "Rare Holo",
-    "flavorText": "Legends claim this Pok\u00e9mon flies the world's skies continuously on its magnificent seven colored wings.",
+    "flavorText": "Legends claim this Pokémon flies the world's skies continuously on its magnificent seven colored wings.",
     "nationalPokedexNumbers": [
       250
     ],
@@ -821,31 +743,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-7",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Ho-Oh-NR7",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 107.05,
         "lowPrice": 20.0,
-        "trendPrice": 76.78,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 105.04,
-        "lowPriceExPlus": 90.0,
-        "avg1": 75.0,
-        "avg7": 104.27,
-        "avg30": 117.98,
-        "reverseHoloAvg1": 139.99,
-        "reverseHoloAvg7": 97.74,
-        "reverseHoloAvg30": 65.36
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-8",
     "name": "Houndoom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -907,7 +816,7 @@
     "number": "8",
     "artist": "Mitsuhiro Arita",
     "rarity": "Rare Holo",
-    "flavorText": "Upon hearing its eerie howls, other Pok\u00e9mon get the shivers and head straight back to their nests.",
+    "flavorText": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
     "nationalPokedexNumbers": [
       229
     ],
@@ -939,31 +848,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-8",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Houndoom-NR8",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 70.98,
-        "lowPrice": 12.0,
-        "trendPrice": 74.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 36.23,
-        "lowPriceExPlus": 55.0,
-        "avg1": 134.95,
-        "avg7": 90.95,
-        "avg30": 74.39,
-        "reverseHoloAvg1": 37.66,
-        "reverseHoloAvg7": 39.5,
-        "reverseHoloAvg30": 44.17
+        "lowPrice": 18.9,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-9",
     "name": "Jumpluff",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -981,7 +877,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Choose any number of your Hoppips and Skiplooms. Then, for each Pok\u00e9mon you chose in this way, you may search your deck for a card that evolves from that Pok\u00e9mon and attach it to that Pok\u00e9mon. (This counts as evolving those Pok\u00e9mon.) Shuffle your deck afterward."
+        "text": "Choose any number of your Hoppips and Skiplooms. Then, for each Pokémon you chose in this way, you may search your deck for a card that evolves from that Pokémon and attach it to that Pokémon. (This counts as evolving those Pokémon.) Shuffle your deck afterward."
       },
       {
         "name": "Solarbeam",
@@ -996,7 +892,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1057,31 +953,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-9",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Jumpluff-NR9",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 15.13,
         "lowPrice": 2.75,
-        "trendPrice": 12.32,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 9.88,
-        "lowPriceExPlus": 17.99,
-        "avg1": 11.0,
-        "avg7": 11.7,
-        "avg30": 15.32,
-        "reverseHoloAvg1": 7.0,
-        "reverseHoloAvg7": 10.39,
-        "reverseHoloAvg30": 9.4
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-10",
     "name": "Magneton",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1098,7 +981,7 @@
       {
         "name": "Electromagnetic Power",
         "text": "As often as you like during your turn (before your attack), you may take 1 Energy card attached to 1 of your Magnemites, Magnetons, or Dark Magnetons and attach it to a different 1 of your Magnemites, Magnetons, and Dark Magnetons. This power can't be used if Magneton is Asleep, Confused, or Paralyzed.",
-        "type": "Pok\u00e9mon Power"
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -1117,7 +1000,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1183,31 +1066,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-10",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Magneton-NR10",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 18.01,
         "lowPrice": 3.99,
-        "trendPrice": 21.39,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 9.26,
-        "lowPriceExPlus": 15.0,
-        "avg1": 18.98,
-        "avg7": 22.84,
-        "avg30": 22.34,
-        "reverseHoloAvg1": 15.31,
-        "reverseHoloAvg7": 11.99,
-        "reverseHoloAvg30": 12.33
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-11",
     "name": "Misdreavus",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1227,7 +1097,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "The Defending Pok\u00e9mon is now Asleep."
+        "text": "The Defending Pokémon is now Asleep."
       },
       {
         "name": "Perish Song",
@@ -1238,7 +1108,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "If the Defending Pok\u00e9mon is Asleep and was attacked with Night Eyes during your last turn, it is Knocked Out."
+        "text": "If the Defending Pokémon is Asleep and was attacked with Night Eyes during your last turn, it is Knocked Out."
       }
     ],
     "resistances": [
@@ -1303,31 +1173,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-11",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Misdreavus-NR11",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 35.22,
         "lowPrice": 8.0,
-        "trendPrice": 26.92,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 19.08,
-        "lowPriceExPlus": 24.0,
-        "avg1": 15.0,
-        "avg7": 30.54,
-        "avg30": 35.62,
-        "reverseHoloAvg1": 19.32,
-        "reverseHoloAvg7": 17.72,
-        "reverseHoloAvg30": 17.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-12",
     "name": "Porygon2",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1343,8 +1200,8 @@
     "abilities": [
       {
         "name": "Energy Converter",
-        "text": "Once during your turn (before your attack), you may choose 1 basic Energy card attached to 1 of your Pok\u00e9mon and choose an Energy type. Treat that Energy card as that type until the end of your turn. This power can't be used if Porygon2 is Asleep, Confused, or Paralyzed. If Porygon2 becomes Asleep, Confused, or Paralyzed, the Energy card goes back to its original type.",
-        "type": "Pok\u00e9mon Power"
+        "text": "Once during your turn (before your attack), you may choose 1 basic Energy card attached to 1 of your Pokémon and choose an Energy type. Treat that Energy card as that type until the end of your turn. This power can't be used if Porygon2 is Asleep, Confused, or Paralyzed. If Porygon2 becomes Asleep, Confused, or Paralyzed, the Energy card goes back to its original type.",
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -1357,13 +1214,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "20",
-        "text": "Flip a coin. If heads, choose whether the Defending Pok\u00e9mon becomes Asleep, Confused, or Paralyzed."
+        "text": "Flip a coin. If heads, choose whether the Defending Pokémon becomes Asleep, Confused, or Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1428,31 +1285,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-12",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Porygon2-NR12",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 25.52,
         "lowPrice": 6.99,
-        "trendPrice": 23.69,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 18.08,
-        "lowPriceExPlus": 14.0,
-        "avg1": 12.9,
-        "avg7": 18.59,
-        "avg30": 24.49,
-        "reverseHoloAvg1": 19.24,
-        "reverseHoloAvg7": 15.28,
-        "reverseHoloAvg30": 12.55
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-13",
     "name": "Raikou",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1464,8 +1308,8 @@
     "abilities": [
       {
         "name": "Lightning Burst",
-        "text": "Whenever you attach a Lightning Energy card from your hand to Raikou, if your opponent has any Benched Pok\u00e9mon, he or she chooses 1 of them and switches it with the Defending Pok\u00e9mon. This power stops working while Raikou is Asleep, Confused, or Paralyzed.",
-        "type": "Pok\u00e9mon Power"
+        "text": "Whenever you attach a Lightning Energy card from your hand to Raikou, if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. This power stops working while Raikou is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -1484,7 +1328,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1543,31 +1387,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-13",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Raikou-NR13",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 100.78,
         "lowPrice": 12.5,
-        "trendPrice": 96.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 70.09,
-        "lowPriceExPlus": 95.0,
-        "avg1": 34.0,
-        "avg7": 80.85,
-        "avg30": 84.28,
-        "reverseHoloAvg1": 33.32,
-        "reverseHoloAvg7": 54.62,
-        "reverseHoloAvg30": 42.4
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-14",
     "name": "Suicune",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1580,7 +1411,7 @@
       {
         "name": "Crystal Body",
         "text": "Prevent all effects of your opponent's attacks, other than damage, done to Suicune. This power stops working while Suicune is Asleep, Confused, or Paralyzed.",
-        "type": "Pok\u00e9mon Power"
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -1593,13 +1424,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
-        "text": "Flip 2 coins. If both are heads, the Defending Pok\u00e9mon is now Paralyzed. If only 1 is heads, the Defending Pok\u00e9mon is now Asleep."
+        "text": "Flip 2 coins. If both are heads, the Defending Pokémon is now Paralyzed. If only 1 is heads, the Defending Pokémon is now Asleep."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1658,31 +1489,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-14",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Suicune-NR14",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 72.7,
         "lowPrice": 19.0,
-        "trendPrice": 84.8,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 70.86,
-        "lowPriceExPlus": 80.0,
-        "avg1": 33.0,
-        "avg7": 50.76,
-        "avg30": 67.9,
-        "reverseHoloAvg1": 59.5,
-        "reverseHoloAvg7": 59.99,
-        "reverseHoloAvg30": 49.24
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-15",
     "name": "Aerodactyl",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1695,8 +1513,8 @@
     "abilities": [
       {
         "name": "Prehistoric Memory",
-        "text": "Whenever an Evolved Pok\u00e9mon attacks (even if it's your opponent's), it can use any attack from its Basic Pok\u00e9mon card or any Evolution card attached to it. It still has to pay for that attack's Energy cost. This power stops working while Aerodactyl is Asleep, Confused, or Paralyzed.",
-        "type": "Pok\u00e9mon Power"
+        "text": "Whenever an Evolved Pokémon attacks (even if it's your opponent's), it can use any attack from its Basic Pokémon card or any Evolution card attached to it. It still has to pay for that attack's Energy cost. This power stops working while Aerodactyl is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -1715,7 +1533,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1749,7 +1567,7 @@
     "number": "15",
     "artist": "Shin-ichi Yoshida",
     "rarity": "Rare",
-    "flavorText": "A vicious Pok\u00e9mon from the distant past, it appears to have flown by spreading its wings and gliding.",
+    "flavorText": "A vicious Pokémon from the distant past, it appears to have flown by spreading its wings and gliding.",
     "nationalPokedexNumbers": [
       142
     ],
@@ -1781,31 +1599,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-15",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Aerodactyl-NR15",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 6.21,
         "lowPrice": 0.95,
-        "trendPrice": 4.31,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 15.42,
-        "lowPriceExPlus": 3.5,
-        "avg1": 1.5,
-        "avg7": 5.61,
-        "avg30": 6.55,
-        "reverseHoloAvg1": 12.0,
-        "reverseHoloAvg7": 19.76,
-        "reverseHoloAvg30": 9.55
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-16",
     "name": "Celebi",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1823,13 +1628,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "10+",
-        "text": "Flip a coin for each Energy attached to the Defending Pok\u00e9mon. This attack does 10 damage plus 10 more damage for each heads. Remove a number of damage counters from Celebi equal to the damage done to the Defending Pok\u00e9mon (after applying Weakness and Resistance). If Celebi has fewer damage counters than that, remove all of them."
+        "text": "Flip a coin for each Energy attached to the Defending Pokémon. This attack does 10 damage plus 10 more damage for each heads. Remove a number of damage counters from Celebi equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Celebi has fewer damage counters than that, remove all of them."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1888,31 +1693,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-16",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Celebi-NR16",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 9.27,
         "lowPrice": 2.0,
-        "trendPrice": 12.27,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 29.77,
-        "lowPriceExPlus": 5.5,
-        "avg1": 7.64,
-        "avg7": 9.55,
-        "avg30": 8.77,
-        "reverseHoloAvg1": 34.0,
-        "reverseHoloAvg7": 26.75,
-        "reverseHoloAvg30": 17.81
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-17",
     "name": "Entei",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1924,8 +1716,8 @@
     "abilities": [
       {
         "name": "Legendary Body",
-        "text": "As long as Entei is your Active Pok\u00e9mon, Entei and Energy cards attached to it aren't affected by effects from Trainer cards other than Stadium cards. As long as this Power is active, discard any Trainer cards attached to Entei. (This power works even if Entei is Asleep, Confused, or Paralyzed.)",
-        "type": "Pok\u00e9mon Power"
+        "text": "As long as Entei is your Active Pokémon, Entei and Energy cards attached to it aren't affected by effects from Trainer cards other than Stadium cards. As long as this Power is active, discard any Trainer cards attached to Entei. (This power works even if Entei is Asleep, Confused, or Paralyzed.)",
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -1944,7 +1736,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -1967,7 +1759,7 @@
     "number": "17",
     "artist": "Naoyo Kimura",
     "rarity": "Rare",
-    "flavorText": "A Pok\u00e9mon that races across the land. It is said that one is born every time a new volcano appears.",
+    "flavorText": "A Pokémon that races across the land. It is said that one is born every time a new volcano appears.",
     "nationalPokedexNumbers": [
       244
     ],
@@ -1999,31 +1791,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-17",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Entei-NR17",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 12.64,
-        "lowPrice": 0.95,
-        "trendPrice": 10.68,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 11.26,
-        "lowPriceExPlus": 5.99,
-        "avg1": 15.0,
-        "avg7": 9.62,
-        "avg30": 10.96,
-        "reverseHoloAvg1": 28.99,
-        "reverseHoloAvg7": 8.78,
-        "reverseHoloAvg30": 6.83
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-18",
     "name": "Ho-oh",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2049,7 +1828,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2115,31 +1894,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-18",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Ho-Oh-NR18",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 13.04,
         "lowPrice": 2.0,
-        "trendPrice": 13.98,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 13.84,
-        "lowPriceExPlus": 5.0,
-        "avg1": 5.5,
-        "avg7": 16.38,
-        "avg30": 11.43,
-        "reverseHoloAvg1": 16.69,
-        "reverseHoloAvg7": 14.58,
-        "reverseHoloAvg30": 10.82
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-19",
     "name": "Kingdra",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -2157,7 +1923,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Use any attack from Kingdra's Basic Pok\u00e9mon card or Evolution card. (Kingdra doesn't have to pay for that attack's Energy cost.)"
+        "text": "Use any attack from Kingdra's Basic Pokémon card or Evolution card. (Kingdra doesn't have to pay for that attack's Energy cost.)"
       },
       {
         "name": "Twister",
@@ -2169,7 +1935,7 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "50",
-        "text": "Flip 2 coins. For each heads, choose 1 Energy card attached to the Defending Pok\u00e9mon, if any, and discard it. If both are tails, this attack does nothing (not even damage)."
+        "text": "Flip 2 coins. For each heads, choose 1 Energy card attached to the Defending Pokémon, if any, and discard it. If both are tails, this attack does nothing (not even damage)."
       }
     ],
     "retreatCost": [
@@ -2229,31 +1995,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-19",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Kingdra-NR19",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.69,
         "lowPrice": 0.7,
-        "trendPrice": 5.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 10.96,
-        "lowPriceExPlus": 3.0,
-        "avg1": 2.4,
-        "avg7": 3.7,
-        "avg30": 4.96,
-        "reverseHoloAvg1": 3.9,
-        "reverseHoloAvg7": 8.92,
-        "reverseHoloAvg30": 6.9
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-20",
     "name": "Lugia",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2279,7 +2032,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2345,31 +2098,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-20",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Lugia-NR20",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 15.68,
         "lowPrice": 2.99,
-        "trendPrice": 20.39,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.66,
-        "lowPriceExPlus": 11.99,
-        "avg1": 21.99,
-        "avg7": 15.07,
-        "avg30": 16.84,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 4.59,
-        "reverseHoloAvg30": 4.59
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-21",
     "name": "Raichu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2388,7 +2128,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       },
       {
         "name": "Lightning Strike",
@@ -2405,7 +2145,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2464,31 +2204,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-21",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Raichu-NR21",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 6.06,
         "lowPrice": 0.94,
-        "trendPrice": 5.81,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 2.41,
-        "lowPriceExPlus": 3.5,
-        "avg1": 2.69,
-        "avg7": 5.19,
-        "avg30": 5.42,
-        "reverseHoloAvg1": 2.25,
-        "reverseHoloAvg7": 3.58,
-        "reverseHoloAvg30": 3.58
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-22",
     "name": "Raikou",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2500,8 +2227,8 @@
     "abilities": [
       {
         "name": "Legendary Body",
-        "text": "As long as Raikou is your Active Pok\u00e9mon, Raikou and Energy cards attached to it aren't affected by effects from Trainer cards other than Stadium cards. As long as this Power is active, discard any Trainer cards attached to Raikou. (This power works even if Raikou is Asleep, Confused, or Paralyzed.)",
-        "type": "Pok\u00e9mon Power"
+        "text": "As long as Raikou is your Active Pokémon, Raikou and Energy cards attached to it aren't affected by effects from Trainer cards other than Stadium cards. As long as this Power is active, discard any Trainer cards attached to Raikou. (This power works even if Raikou is Asleep, Confused, or Paralyzed.)",
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -2514,13 +2241,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
-        "text": "If your opponent has any Benched Pok\u00e9mon, flip a coin. If heads, choose 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "If your opponent has any Benched Pokémon, flip a coin. If heads, choose 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -2543,7 +2270,7 @@
     "number": "22",
     "artist": "Naoyo Kimura",
     "rarity": "Rare",
-    "flavorText": "A Pok\u00e9mon that races across the land while barking a cry that sounds like crashing thunder.",
+    "flavorText": "A Pokémon that races across the land while barking a cry that sounds like crashing thunder.",
     "nationalPokedexNumbers": [
       243
     ],
@@ -2575,31 +2302,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-22",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Raikou-NR22",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 8.79,
         "lowPrice": 1.0,
-        "trendPrice": 7.51,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.81,
-        "lowPriceExPlus": 6.0,
-        "avg1": 7.74,
-        "avg7": 6.74,
-        "avg30": 8.69,
-        "reverseHoloAvg1": 3.5,
-        "reverseHoloAvg7": 4.34,
-        "reverseHoloAvg30": 4.34
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-23",
     "name": "Skarmory",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2615,7 +2329,7 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
       },
       {
@@ -2633,7 +2347,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -2699,31 +2413,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-23",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Skarmory-NR23",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 5.3,
         "lowPrice": 0.5,
-        "trendPrice": 5.4,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.16,
-        "lowPriceExPlus": 3.95,
-        "avg1": 3.73,
-        "avg7": 3.74,
-        "avg30": 5.0,
-        "reverseHoloAvg1": 3.0,
-        "reverseHoloAvg7": 2.39,
-        "reverseHoloAvg30": 2.39
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-24",
     "name": "Sneasel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2743,7 +2444,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, discard all Trainer cards attached to your opponent's Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard all Trainer cards attached to your opponent's Pokémon."
       },
       {
         "name": "Quick Attack",
@@ -2814,31 +2515,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-24",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Sneasel-NR24",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.83,
-        "lowPrice": 0.55,
-        "trendPrice": 4.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 2.0,
-        "avg1": 5.5,
-        "avg7": 3.92,
-        "avg30": 4.37,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-25",
     "name": "Starmie",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2856,7 +2544,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Confused."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
       },
       {
         "name": "Core Stream",
@@ -2867,13 +2555,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "Choose an Energy type other than Colorless. This attack does 20 damage to each of your opponent's Pok\u00e9mon with any Energy cards of that type attached to it. Don't apply Weakness and Resistance."
+        "text": "Choose an Energy type other than Colorless. This attack does 20 damage to each of your opponent's Pokémon with any Energy cards of that type attached to it. Don't apply Weakness and Resistance."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2932,31 +2620,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-25",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Starmie-NR25",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.45,
-        "lowPrice": 0.5,
-        "trendPrice": 2.55,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 12.47,
-        "lowPriceExPlus": 1.5,
-        "avg1": 2.3,
-        "avg7": 2.93,
-        "avg30": 3.55,
-        "reverseHoloAvg1": 13.0,
-        "reverseHoloAvg7": 10.56,
-        "reverseHoloAvg30": 5.52
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-26",
     "name": "Sudowoodo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2968,8 +2643,8 @@
     "abilities": [
       {
         "name": "Mimic",
-        "text": "As long as Sudowoodo is your Active Pok\u00e9mon, it copies all of the Defending Pok\u00e9mon's attacks, including their costs. This power can't be used if Sudowoodo is Asleep, Confused, or Paralyzed.",
-        "type": "Pok\u00e9mon Power"
+        "text": "As long as Sudowoodo is your Active Pokémon, it copies all of the Defending Pokémon's attacks, including their costs. This power can't be used if Sudowoodo is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -2980,14 +2655,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3048,31 +2723,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-26",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Sudowoodo-NR26",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 6.12,
-        "lowPrice": 1.0,
-        "trendPrice": 6.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.5,
-        "lowPriceExPlus": 1.5,
-        "avg1": 4.77,
-        "avg7": 4.53,
-        "avg30": 5.35,
-        "reverseHoloAvg1": 1.5,
-        "reverseHoloAvg7": 1.5,
-        "reverseHoloAvg30": 1.5
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-27",
     "name": "Suicune",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3084,8 +2746,8 @@
     "abilities": [
       {
         "name": "Legendary Body",
-        "text": "As long as Suicune is your Active Pok\u00e9mon, Suicune and Energy cards attached to it aren't affected by effects from Trainer cards other than Stadium cards. As long as this Power is active, discard any Trainer cards attached to Suicune. (This power works even if Suicune is Asleep, Confused, or Paralyzed.)",
-        "type": "Pok\u00e9mon Power"
+        "text": "As long as Suicune is your Active Pokémon, Suicune and Energy cards attached to it aren't affected by effects from Trainer cards other than Stadium cards. As long as this Power is active, discard any Trainer cards attached to Suicune. (This power works even if Suicune is Asleep, Confused, or Paralyzed.)",
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -3098,13 +2760,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30+",
-        "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage. If tails, this attack does 30 damage and, if your opponent has any Benched Pok\u00e9mon, he or she chooses 1 of them and switches it with the Defending Pok\u00e9mon. (Do the damage before switching the Pok\u00e9mon.)"
+        "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage. If tails, this attack does 30 damage and, if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -3127,7 +2789,7 @@
     "number": "27",
     "artist": "Naoyo Kimura",
     "rarity": "Rare",
-    "flavorText": "This Pok\u00e9mon races across the land. It is said that north winds will somehow blow whenever it appears.",
+    "flavorText": "This Pokémon races across the land. It is said that north winds will somehow blow whenever it appears.",
     "nationalPokedexNumbers": [
       245
     ],
@@ -3159,31 +2821,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-27",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Suicune-NR27",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 10.11,
-        "lowPrice": 2.0,
-        "trendPrice": 7.38,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 9.9,
-        "lowPriceExPlus": 9.5,
-        "avg1": 7.0,
-        "avg7": 8.69,
-        "avg30": 11.32,
-        "reverseHoloAvg1": 15.99,
-        "reverseHoloAvg7": 4.77,
-        "reverseHoloAvg30": 4.77
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-28",
     "name": "Flaaffy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3215,13 +2864,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
-        "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3280,31 +2929,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-28",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Flaaffy-NR28",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.19,
         "lowPrice": 0.02,
-        "trendPrice": 0.99,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.2,
-        "avg1": 1.0,
-        "avg7": 1.11,
-        "avg30": 1.23,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-29",
     "name": "Golbat",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3325,7 +2961,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Until the end of your next turn, if an attack damages the Defending Pok\u00e9mon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pok\u00e9mon."
+        "text": "Until the end of your next turn, if an attack damages the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pokémon."
       },
       {
         "name": "Poison Bite",
@@ -3335,13 +2971,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "10",
-        "text": "If this attack damages the Defending Pok\u00e9mon, the Defending Pok\u00e9mon is now Poisoned and you remove a number of damage counters from Golbat equal to half that damage (rounded up to the nearest 10). If Golbat has fewer damage counters than that, remove all of them. Either way, the Defending Pok\u00e9mon is now Poisoned."
+        "text": "If this attack damages the Defending Pokémon, the Defending Pokémon is now Poisoned and you remove a number of damage counters from Golbat equal to half that damage (rounded up to the nearest 10). If Golbat has fewer damage counters than that, remove all of them. Either way, the Defending Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3402,31 +3038,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-29",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Golbat-NR29",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.73,
-        "lowPrice": 0.02,
-        "trendPrice": 0.49,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.25,
-        "avg1": 0.65,
-        "avg7": 0.59,
-        "avg30": 1.06,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.07,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-30",
     "name": "Graveler",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3448,7 +3071,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "Does 10 damage to each of your own Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "Does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Rock Tumble",
@@ -3465,7 +3088,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3525,31 +3148,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-30",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Graveler-NR30",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.03,
         "lowPrice": 0.02,
-        "trendPrice": 1.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.4,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.3,
-        "avg7": 1.35,
-        "avg30": 0.95,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.4,
-        "reverseHoloAvg30": 0.4
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-31",
     "name": "Jynx",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3566,7 +3176,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "The Defending Pok\u00e9mon is now Asleep."
+        "text": "The Defending Pokémon is now Asleep."
       },
       {
         "name": "Strange Dance",
@@ -3577,13 +3187,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "20+",
-        "text": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage and the Defending Pok\u00e9mon is now Confused. If tails, this attack does 20 damage."
+        "text": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage and the Defending Pokémon is now Confused. If tails, this attack does 20 damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3642,31 +3252,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-31",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Jynx-NR31",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.71,
         "lowPrice": 0.04,
-        "trendPrice": 1.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.19,
-        "avg1": 0.8,
-        "avg7": 2.06,
-        "avg30": 1.56,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-32",
     "name": "Lanturn",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3680,7 +3277,7 @@
       {
         "name": "Submerge",
         "text": "Once during your turn (before your attack), you may change Lanturn's type to Water until the end of your turn. This power can't be used if Lanturn is Asleep, Confused, or Paralyzed. If Lanturn becomes Asleep, Confused, or Paralyzed after you have used this power, its type changes back to Lightning.",
-        "type": "Pok\u00e9mon Power"
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -3693,13 +3290,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Confused."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3759,31 +3356,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-32",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Lanturn-NR32",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.84,
         "lowPrice": 0.02,
-        "trendPrice": 0.86,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.93,
-        "avg7": 0.92,
-        "avg30": 0.82,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-33",
     "name": "Magcargo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3796,8 +3380,8 @@
     "abilities": [
       {
         "name": "Magma Pool",
-        "text": "If Magcargo is your Active Pok\u00e9mon and moves to the Bench, remove 1 Fire Energy card attached to Magcargo, if any, and attach it to the new Active Pok\u00e9mon. (You can't choose an Energy card that you used to pay the Retreat Cost.)",
-        "type": "Pok\u00e9mon Power"
+        "text": "If Magcargo is your Active Pokémon and moves to the Bench, remove 1 Fire Energy card attached to Magcargo, if any, and attach it to the new Active Pokémon. (You can't choose an Energy card that you used to pay the Retreat Cost.)",
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -3816,7 +3400,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3877,31 +3461,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-33",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Magcargo-NR33",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.8,
         "lowPrice": 0.04,
-        "trendPrice": 1.2,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.3,
-        "avg7": 0.84,
-        "avg30": 0.79,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-34",
     "name": "Octillery",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3919,7 +3490,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       },
       {
         "name": "Octazooka",
@@ -3930,13 +3501,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "40",
-        "text": "Flip a coin. If heads, whenever the Defending Pok\u00e9mon attacks, your opponent flips a coin. If tails, that attack does nothing. (Benching or evolving that Pok\u00e9mon ends this effect.)"
+        "text": "Flip a coin. If heads, whenever the Defending Pokémon attacks, your opponent flips a coin. If tails, that attack does nothing. (Benching or evolving that Pokémon ends this effect.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3996,31 +3567,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-34",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Octillery-NR34",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.8,
         "lowPrice": 0.02,
-        "trendPrice": 1.5,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.4,
-        "avg1": 1.25,
-        "avg7": 1.47,
-        "avg30": 1.56,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-35",
     "name": "Parasect",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4033,8 +3591,8 @@
     "abilities": [
       {
         "name": "Allergic Pollen",
-        "text": "As long as Parasect is in play, cards in any player's discard piles are not affected by attacks or Pok\u00e9mon Powers. This power stops working if Parasect becomes Asleep, Confused, or Paralyzed.",
-        "type": "Pok\u00e9mon Power"
+        "text": "As long as Parasect is in play, cards in any player's discard piles are not affected by attacks or Pokémon Powers. This power stops working if Parasect becomes Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -4046,13 +3604,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Asleep."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4112,31 +3670,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-35",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Parasect-NR35",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.74,
         "lowPrice": 0.05,
-        "trendPrice": 0.95,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.19,
-        "avg1": 2.15,
-        "avg7": 1.1,
-        "avg30": 0.92,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-36",
     "name": "Piloswine",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4176,7 +3721,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4243,31 +3788,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-36",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Piloswine-NR36",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.95,
         "lowPrice": 0.04,
-        "trendPrice": 0.93,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.82,
-        "avg7": 0.77,
-        "avg30": 0.89,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-37",
     "name": "Seaking",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4301,7 +3833,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4360,31 +3892,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-37",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Seaking-NR37",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.65,
         "lowPrice": 0.02,
-        "trendPrice": 0.6,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.5,
-        "avg7": 0.55,
-        "avg30": 0.69,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-38",
     "name": "Stantler",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4401,7 +3920,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "If the Defending Pok\u00e9mon is a Basic Pok\u00e9mon, choose 1 of its attacks. That Pok\u00e9mon can't use that attack during your opponent's next turn."
+        "text": "If the Defending Pokémon is a Basic Pokémon, choose 1 of its attacks. That Pokémon can't use that attack during your opponent's next turn."
       },
       {
         "name": "Overhead Toss",
@@ -4412,13 +3931,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "30",
-        "text": "If you have any Benched Pok\u00e9mon, flip a coin. If tails, this attack does 10 damage to 1 of them. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "If you have any Benched Pokémon, flip a coin. If tails, this attack does 10 damage to 1 of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4483,31 +4002,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-38",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Stantler-NR38",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.77,
         "lowPrice": 0.05,
-        "trendPrice": 0.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.5,
-        "avg7": 0.77,
-        "avg30": 0.73,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-39",
     "name": "Unown [B]",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4517,13 +4023,13 @@
       "Psychic"
     ],
     "rules": [
-      "You may have up to 4 Basic Pok\u00e9mon cards in your deck with Unown in their names."
+      "You may have up to 4 Basic Pokémon cards in your deck with Unown in their names."
     ],
     "abilities": [
       {
         "name": "[Bear]",
-        "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your Pok\u00e9mon with Unown in its name to Unown [B]. This power can't be used if Unown [B] has 10 HP left. This power can be used even if Unown [B] is Asleep, Confused, or Paralyzed.",
-        "type": "Pok\u00e9mon Power"
+        "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon with Unown in its name to Unown [B]. This power can't be used if Unown [B] has 10 HP left. This power can be used even if Unown [B] is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -4540,7 +4046,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4599,31 +4105,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-39",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Unown-B-NR39",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.99,
-        "lowPrice": 0.1,
-        "trendPrice": 1.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 1.0,
-        "avg7": 0.91,
-        "avg30": 0.95,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "lowPrice": 0.09,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-40",
     "name": "Unown [Y]",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4633,13 +4126,13 @@
       "Psychic"
     ],
     "rules": [
-      "You may have up to 4 Basic Pok\u00e9mon cards in your deck with Unown in their names."
+      "You may have up to 4 Basic Pokémon cards in your deck with Unown in their names."
     ],
     "abilities": [
       {
         "name": "[Yield]",
-        "text": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a Psychic Energy card and attach it to 1 of your Pok\u00e9mon with Unown in its name. Shuffle your deck afterward. This power can be used even if Unown [Y] is Asleep, Confused, or Paralyzed.",
-        "type": "Pok\u00e9mon Power"
+        "text": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a Psychic Energy card and attach it to 1 of your Pokémon with Unown in its name. Shuffle your deck afterward. This power can be used even if Unown [Y] is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -4656,7 +4149,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4715,31 +4208,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-40",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Unown-Y-NR40",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.19,
         "lowPrice": 0.05,
-        "trendPrice": 1.68,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 1.15,
-        "avg7": 1.33,
-        "avg30": 1.08,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-41",
     "name": "Aipom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4759,7 +4239,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Choose a Trainer card attached to 1 of your opponent's Pok\u00e9mon. Your opponent shuffles that card into his or her deck."
+        "text": "Choose a Trainer card attached to 1 of your opponent's Pokémon. Your opponent shuffles that card into his or her deck."
       },
       {
         "name": "Tail Punch",
@@ -4775,7 +4255,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4836,31 +4316,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-41",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Aipom-NR41",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.42,
         "lowPrice": 0.02,
-        "trendPrice": 0.57,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.15,
-        "avg7": 0.64,
-        "avg30": 0.47,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-42",
     "name": "Chinchou",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4889,13 +4356,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "If the Defending Pok\u00e9mon attacks Chinchou during your opponent's next turn, any damage done to Chinchou is reduced by 10 (before applying Weakness and Resistance). (Benching or evolving either Pok\u00e9mon ends this effect.)"
+        "text": "If the Defending Pokémon attacks Chinchou during your opponent's next turn, any damage done to Chinchou is reduced by 10 (before applying Weakness and Resistance). (Benching or evolving either Pokémon ends this effect.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4954,31 +4421,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-42",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Chinchou-NR42",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.41,
         "lowPrice": 0.02,
-        "trendPrice": 0.62,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.28,
-        "avg7": 0.51,
-        "avg30": 0.41,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-43",
     "name": "Farfetch'd",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5015,7 +4469,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5080,31 +4534,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-43",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Farfetchd-NR43",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.34,
         "lowPrice": 0.02,
-        "trendPrice": 2.24,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.15,
-        "avg7": 2.06,
-        "avg30": 0.64,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-44",
     "name": "Geodude",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5130,7 +4571,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5189,31 +4630,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-44",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Geodude-NR44",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.32,
         "lowPrice": 0.02,
-        "trendPrice": 0.39,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.09,
-        "avg1": 0.23,
-        "avg7": 0.35,
-        "avg30": 0.36,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-45",
     "name": "Goldeen",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5232,14 +4660,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -5294,31 +4722,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-45",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Goldeen-NR45",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.44,
         "lowPrice": 0.02,
-        "trendPrice": 0.49,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.15,
-        "avg7": 0.37,
-        "avg30": 0.42,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-46",
     "name": "Murkrow",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5338,7 +4753,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a Basic Pok\u00e9mon card named Murkrow and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        "text": "Search your deck for a Basic Pokémon card named Murkrow and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
       },
       {
         "name": "Flock Attack",
@@ -5409,31 +4824,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-46",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Murkrow-NR46",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.72,
         "lowPrice": 0.02,
-        "trendPrice": 0.43,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.25,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.21,
-        "avg7": 0.46,
-        "avg30": 0.67,
-        "reverseHoloAvg1": 0.25,
-        "reverseHoloAvg7": 0.25,
-        "reverseHoloAvg30": 0.25
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-47",
     "name": "Paras",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5453,7 +4855,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Asleep."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
       },
       {
         "name": "Scratch",
@@ -5469,7 +4871,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5528,31 +4930,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-47",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Paras-NR47",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.44,
         "lowPrice": 0.02,
-        "trendPrice": 0.55,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 1.5,
-        "avg7": 0.4,
-        "avg30": 0.45,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-48",
     "name": "Quagsire",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5583,13 +4972,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "40",
-        "text": "If the Defending Pok\u00e9mon has any Energy cards attached to it, choose 1 of them and discard it."
+        "text": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5655,31 +5044,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-48",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Quagsire-NR48",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.57,
         "lowPrice": 0.03,
-        "trendPrice": 0.71,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.1,
-        "avg7": 0.66,
-        "avg30": 0.57,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-49",
     "name": "Qwilfish",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5696,7 +5072,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
       },
       {
         "name": "Needle Storm",
@@ -5705,14 +5081,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads you get."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5771,31 +5147,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-49",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Qwilfish-NR49",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.4,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.2,
-        "avg7": 0.43,
-        "avg30": 0.49,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-50",
     "name": "Remoraid",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5815,13 +5178,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, choose 1 of your opponent's Pok\u00e9mon. This attack does 20 damage to that Pok\u00e9mon. Don't apply Weakness and Resistance."
+        "text": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. Don't apply Weakness and Resistance."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -5876,31 +5239,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-50",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Remoraid-NR50",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.43,
         "lowPrice": 0.02,
-        "trendPrice": 0.43,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.18,
-        "avg7": 0.49,
-        "avg30": 0.44,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-51",
     "name": "Shuckle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5913,7 +5263,7 @@
       {
         "name": "Hard Shell",
         "text": "Whenever an attack (including your own) does 40 or less damage to Shuckle (after applying Weakness and Resistance), reduce that damage to 10. (Any other effects of attacks still happen.) This power stops working while Shuckle is Asleep, Confused, or Paralyzed.",
-        "type": "Pok\u00e9mon Power"
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -5925,13 +5275,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned)."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned)."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5990,31 +5340,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-51",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Shuckle-NR51",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.47,
         "lowPrice": 0.02,
-        "trendPrice": 0.34,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.14,
-        "avg1": 0.23,
-        "avg7": 0.62,
-        "avg30": 0.53,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-52",
     "name": "Skiploom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6044,13 +5381,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Confused."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6111,31 +5448,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-52",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Skiploom-NR52",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.46,
         "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.22,
-        "avg7": 0.29,
-        "avg30": 0.45,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-53",
     "name": "Slugma",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6165,13 +5489,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6231,31 +5555,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-53",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Slugma-NR53",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.38,
         "lowPrice": 0.02,
-        "trendPrice": 0.37,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.3,
-        "avg7": 0.27,
-        "avg30": 0.41,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-54",
     "name": "Smoochum",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Baby"
     ],
@@ -6268,7 +5579,7 @@
       "Jynx"
     ],
     "rules": [
-      "If this Baby Pok\u00e9mon is your Active Pok\u00e9mon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends."
+      "If this Baby Pokémon is your Active Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends."
     ],
     "attacks": [
       {
@@ -6278,7 +5589,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, choose a Special Energy card attached to 1 of your opponent's Pok\u00e9mon. Your opponent shuffles that card into his or her deck."
+        "text": "Flip a coin. If heads, choose a Special Energy card attached to 1 of your opponent's Pokémon. Your opponent shuffles that card into his or her deck."
       }
     ],
     "set": {
@@ -6333,31 +5644,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-54",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Smoochum-NR54",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.76,
         "lowPrice": 0.02,
-        "trendPrice": 0.68,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.14,
-        "avg7": 0.5,
-        "avg30": 0.71,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-55",
     "name": "Snubbull",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6393,7 +5691,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6458,31 +5756,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-55",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Snubbull-NR55",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.54,
         "lowPrice": 0.02,
-        "trendPrice": 0.45,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.2,
-        "avg7": 0.53,
-        "avg30": 0.52,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-56",
     "name": "Staryu",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6511,13 +5796,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, the Defending Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6576,31 +5861,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-56",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Staryu-NR56",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.4,
         "lowPrice": 0.02,
-        "trendPrice": 0.55,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.5,
-        "avg7": 0.44,
-        "avg30": 0.41,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-57",
     "name": "Swinub",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6636,7 +5908,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6701,31 +5973,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-57",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Swinub-NR57",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.33,
         "lowPrice": 0.02,
-        "trendPrice": 0.38,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.65,
-        "avg7": 0.41,
-        "avg30": 0.4,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-58",
     "name": "Unown [K]",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6735,13 +5994,13 @@
       "Psychic"
     ],
     "rules": [
-      "You may have up to 4 Basic Pok\u00e9mon cards in your deck with Unown in their names."
+      "You may have up to 4 Basic Pokémon cards in your deck with Unown in their names."
     ],
     "abilities": [
       {
         "name": "[Keep]",
-        "text": "Your opponent's attacks, Pok\u00e9mon Powers, and Trainer cards can't discard Energy cards from your Pok\u00e9mon with Unown in their names. (Any other effects still happen.)",
-        "type": "Pok\u00e9mon Power"
+        "text": "Your opponent's attacks, Pokémon Powers, and Trainer cards can't discard Energy cards from your Pokémon with Unown in their names. (Any other effects still happen.)",
+        "type": "Pokémon Power"
       }
     ],
     "attacks": [
@@ -6758,7 +6017,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6817,31 +6076,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-58",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Unown-K-NR58",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.56,
         "lowPrice": 0.02,
-        "trendPrice": 0.82,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.09,
-        "avg1": 0.4,
-        "avg7": 0.56,
-        "avg30": 0.53,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-59",
     "name": "Zubat",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6870,13 +6116,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "The Defending Pok\u00e9mon is now Poisoned."
+        "text": "The Defending Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6937,24 +6183,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-59",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Zubat-NR59",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.33,
         "lowPrice": 0.02,
-        "trendPrice": 0.31,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.1,
-        "avg7": 0.27,
-        "avg30": 0.31,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
@@ -6963,11 +6196,11 @@
     "name": "Balloon Berry",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach Balloon Berry to 1 of your Pok\u00e9mon that doesn't have a Pok\u00e9mon Tool attached to it.",
-      "When the Pok\u00e9mon Balloon Berry is attached to retreats, discard Balloon Berry instead of discarding Energy cards."
+      "Attach Balloon Berry to 1 of your Pokémon that doesn't have a Pokémon Tool attached to it.",
+      "When the Pokémon Balloon Berry is attached to retreats, discard Balloon Berry instead of discarding Energy cards."
     ],
     "set": {
       "id": "neo3",
@@ -7017,24 +6250,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-60",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Balloon-Berry-NR60",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.59,
         "lowPrice": 0.02,
-        "trendPrice": 0.67,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.09,
-        "avg1": 0.2,
-        "avg7": 0.66,
-        "avg30": 0.61,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
@@ -7047,7 +6267,7 @@
     ],
     "rules": [
       "This card stays in play when you play it. Discard this card if another Stadium card comes into play.",
-      "Once during each player's turn, he or she may flip a coin. If heads, that player removes 2 damage counters from his or her Active Pok\u00e9mon (1 if it only has 1)."
+      "Once during each player's turn, he or she may flip a coin. If heads, that player removes 2 damage counters from his or her Active Pokémon (1 if it only has 1)."
     ],
     "set": {
       "id": "neo3",
@@ -7097,33 +6317,20 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-61",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Healing-Field-N361",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.53,
         "lowPrice": 0.05,
-        "trendPrice": 0.64,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.92,
-        "avg7": 0.46,
-        "avg30": 0.72,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-62",
-    "name": "Pok\u00e9mon Breeder Fields",
+    "name": "Pokémon Breeder Fields",
     "supertype": "Trainer",
     "rules": [
-      "Flip a coin for 1 or 2 of your non-Baby Pok\u00e9mon that can evolve. For each heads, search your deck for a later-Stage card that matches that Pok\u00e9mon. Then put that card into your hand. Shuffle your deck afterward."
+      "Flip a coin for 1 or 2 of your non-Baby Pokémon that can evolve. For each heads, search your deck for a later-Stage card that matches that Pokémon. Then put that card into your hand. Shuffle your deck afterward."
     ],
     "set": {
       "id": "neo3",
@@ -7173,24 +6380,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-62",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Pokemon-Breeder-Fields-N362",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.79,
         "lowPrice": 0.06,
-        "trendPrice": 0.3,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.15,
-        "avg1": 0.4,
-        "avg7": 0.65,
-        "avg30": 0.93,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
@@ -7203,7 +6397,7 @@
     ],
     "rules": [
       "This card stays in play when you play it. Discard this card if another Stadium card comes into play.",
-      "Each Pok\u00e9mon in play with Dark in its name (even your opponent's) gets +20 HP."
+      "Each Pokémon in play with Dark in its name (even your opponent's) gets +20 HP."
     ],
     "set": {
       "id": "neo3",
@@ -7253,24 +6447,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-63",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Rockets-Hideout-N363",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.74,
         "lowPrice": 0.02,
-        "trendPrice": 0.91,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.45,
-        "avg7": 0.94,
-        "avg30": 0.71,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
@@ -7279,7 +6460,7 @@
     "name": "Old Rod",
     "supertype": "Trainer",
     "rules": [
-      "Flip 2 coins. If both are heads, put a Baby Pok\u00e9mon, Basic Pok\u00e9mon, or Evolution card from your discard pile into your hand. If both are tails, put a Trainer card from your discard pile into your hand."
+      "Flip 2 coins. If both are heads, put a Baby Pokémon, Basic Pokémon, or Evolution card from your discard pile into your hand. If both are tails, put a Trainer card from your discard pile into your hand."
     ],
     "set": {
       "id": "neo3",
@@ -7329,31 +6510,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-64",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Old-Rod-N364",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.25,
         "lowPrice": 0.02,
-        "trendPrice": 0.31,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.0,
-        "lowPriceExPlus": 0.04,
-        "avg1": 0.05,
-        "avg7": 0.24,
-        "avg30": 0.27,
-        "reverseHoloAvg1": 0.0,
-        "reverseHoloAvg7": 0.0,
-        "reverseHoloAvg30": 0.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-65",
     "name": "Shining Gyarados",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7387,13 +6555,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "50",
-        "text": "Discard 2 Fire Energy cards attached to Shining Gyarados or this attack does nothing. This attack does 10 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.) Then, flip a coin. If heads, choose 1 Energy card attached to each of your opponent's Pok\u00e9mon that has any Energy cards attached to it and discard those Energy cards."
+        "text": "Discard 2 Fire Energy cards attached to Shining Gyarados or this attack does nothing. This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Then, flip a coin. If heads, choose 1 Energy card attached to each of your opponent's Pokémon that has any Energy cards attached to it and discard those Energy cards."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7460,31 +6628,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-65",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Shining-Gyarados-NR65",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 281.38,
         "lowPrice": 70.0,
-        "trendPrice": 248.23,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 73.71,
-        "lowPriceExPlus": 300.0,
-        "avg1": 130.0,
-        "avg7": 241.12,
-        "avg30": 327.34,
-        "reverseHoloAvg1": 85.0,
-        "reverseHoloAvg7": 100.95,
-        "reverseHoloAvg30": 110.06
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "neo3-66",
     "name": "Shining Magikarp",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7522,7 +6677,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7549,7 +6704,7 @@
     "number": "66",
     "artist": "Ken Sugimori",
     "rarity": "Rare Shining",
-    "flavorText": "An underpowered, pathetic Pok\u00e9mon. It may jump high on rare occasions, but never more than seven feet.",
+    "flavorText": "An underpowered, pathetic Pokémon. It may jump high on rare occasions, but never more than seven feet.",
     "nationalPokedexNumbers": [
       129
     ],
@@ -7574,24 +6729,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/neo3-66",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Neo-Revelation/Shining-Magikarp-NR66",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 229.7,
-        "lowPrice": 68.0,
-        "trendPrice": 220.75,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 85.59,
-        "lowPriceExPlus": 159.0,
-        "avg1": 224.99,
-        "avg7": 182.78,
-        "avg30": 204.1,
-        "reverseHoloAvg1": 55.0,
-        "reverseHoloAvg7": 120.9,
-        "reverseHoloAvg30": 126.4
+        "lowPrice": 30.0,
+        "reverseHoloLow": null
       }
     }
   }

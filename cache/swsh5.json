@@ -11457,5 +11457,140 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "swsh5-promo-23",
+    "name": "Tepig  (BST 23) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Single Strike"
+    ],
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [
+      "Pignite"
+    ],
+    "attacks": [
+      {
+        "name": "Ram",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "23",
+    "artist": "You Iribi",
+    "rarity": "Promo",
+    "flavorText": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
+    "nationalPokedexNumbers": [
+      498
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/23.png",
+      "large": "https://images.pokemontcg.io/swsh5/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Styles/Tepig-V2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh5-promo-46",
+    "name": "Shinx  (BST 46) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Rapid Strike"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Luxio"
+    ],
+    "attacks": [
+      {
+        "name": "Rear Kick",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "46",
+    "artist": "sowsow",
+    "rarity": "Promo",
+    "flavorText": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+    "nationalPokedexNumbers": [
+      403
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "E",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh5/46.png",
+      "large": "https://images.pokemontcg.io/swsh5/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Battle-Styles/Shinx-V2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.12,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

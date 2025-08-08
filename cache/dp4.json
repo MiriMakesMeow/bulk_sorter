@@ -7088,5 +7088,101 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "dp4-promo-15",
+    "name": "Claydol Lv.45  (GE 15) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "45",
+    "hp": "80",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Baltoy",
+    "abilities": [
+      {
+        "name": "Cosmic Power",
+        "text": "Once during your turn (before your attack), you may choose up to 2 cards from your hand and put them on the bottom of your deck in any order. If you do, draw cards until you have 6 cards in your hand. This power can't be used if Claydol is affected by a Special Condition.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Spinning Attack",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "15",
+    "artist": "Midori Harada",
+    "rarity": "Promo",
+    "flavorText": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+    "nationalPokedexNumbers": [
+      344
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dp4/15.png",
+      "large": "https://images.pokemontcg.io/dp4/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Claydol-Lv45-V2-GE15",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dp4-promo-98",
+    "name": "Felicity's Drawing (GE 98) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+      "Discard up to 2 cards from your hand. If you discard 1 card, draw 3 cards. If you discard 2 cards, draw 4 cards."
+    ],
+    "number": "98",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dp4/98.png",
+      "large": "https://images.pokemontcg.io/dp4/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Great-Encounters/Felicitys-Drawing-V2-GE98",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

@@ -7279,5 +7279,104 @@
       "small": "https://images.pokemontcg.io/pl4/AR9.png",
       "large": "https://images.pokemontcg.io/pl4/AR9_hires.png"
     }
+  },
+  {
+    "id": "pl4-promo-32",
+    "name": "Spiritomb Lv.39  (AR 32) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "39",
+    "hp": "60",
+    "types": [
+      "Darkness"
+    ],
+    "abilities": [
+      {
+        "name": "Keystone Seal",
+        "text": "As long as Spiritomb is your Active Pokémon, each player can't play any Trainer cards from his or her hand.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Darkness Grace",
+        "cost": [],
+        "convertedEnergyCost": 0,
+        "damage": "",
+        "text": "Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) If you do, put 1 damage counter on Spiritomb. Shuffle your deck afterward."
+      },
+      {
+        "name": "Will-o'-the-wisp",
+        "cost": [
+          "Darkness"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Colorless",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "32",
+    "artist": "Aya Kusube",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      442
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl4/32.png",
+      "large": "https://images.pokemontcg.io/pl4/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Spiritomb-Lv39-V2-AR32",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.6,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "pl4-promo-87",
+    "name": "Expert Belt (AR 87) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "Attach Expert Belt to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.",
+      "The Pokémon this card is attached to gets +20 HP and that Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance). When the Pokémon this card is attached to is Knocked Out, your opponent takes 1 more Prize card."
+    ],
+    "number": "87",
+    "artist": "Wataru Kawahara",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/pl4/87.png",
+      "large": "https://images.pokemontcg.io/pl4/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Arceus/Expert-Belt-V2-AR87",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

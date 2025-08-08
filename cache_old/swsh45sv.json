@@ -2,7 +2,7 @@
   {
     "id": "swsh45sv-SV001",
     "name": "Rowlet",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -16,7 +16,7 @@
     "abilities": [
       {
         "name": "Sky Circus",
-        "text": "If you played Bird Keeper from your hand during this turn, ignore all Energy in this Pok\u00e9mon's attack costs.",
+        "text": "If you played Bird Keeper from your hand during this turn, ignore all Energy in this Pokémon's attack costs.",
         "type": "Ability"
       }
     ],
@@ -30,13 +30,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "This attack does 60 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -115,7 +115,7 @@
   {
     "id": "swsh45sv-SV002",
     "name": "Dartrix",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -141,7 +141,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -220,7 +220,7 @@
   {
     "id": "swsh45sv-SV003",
     "name": "Decidueye",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -232,7 +232,7 @@
     "abilities": [
       {
         "name": "Deep Forest Camo",
-        "text": "Prevent all damage done to this Pok\u00e9mon by attacks from your opponent's Pok\u00e9mon V and Pok\u00e9mon-GX.",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon V and Pokémon-GX.",
         "type": "Ability"
       }
     ],
@@ -245,13 +245,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "90",
-        "text": "This attack also does 20 damage to 2 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack also does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -331,7 +331,7 @@
   {
     "id": "swsh45sv-SV004",
     "name": "Grookey",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -349,14 +349,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 1,
-        "damage": "10\u00d7",
+        "damage": "10×",
         "text": "Flip 3 coins. This attack does 10 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -435,7 +435,7 @@
   {
     "id": "swsh45sv-SV005",
     "name": "Thwackey",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -450,13 +450,13 @@
     "abilities": [
       {
         "name": "Lay of the Land",
-        "text": "If you have a Stadium in play, this Pok\u00e9mon has no Retreat Cost.",
+        "text": "If you have a Stadium in play, this Pokémon has no Retreat Cost.",
         "type": "Ability"
       }
     ],
     "attacks": [
       {
-        "name": "Branch Pok\u00e9",
+        "name": "Branch Poké",
         "cost": [
           "Grass"
         ],
@@ -468,7 +468,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -548,7 +548,7 @@
   {
     "id": "swsh45sv-SV006",
     "name": "Rillaboom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -560,7 +560,7 @@
     "abilities": [
       {
         "name": "Voltage Beat",
-        "text": "Once during your turn, you may search your deck for up to 2 Grass Energy cards and attach them to 1 of your Pok\u00e9mon. Then, shuffle your deck.",
+        "text": "Once during your turn, you may search your deck for up to 2 Grass Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck.",
         "type": "Ability"
       }
     ],
@@ -581,7 +581,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -662,7 +662,7 @@
   {
     "id": "swsh45sv-SV007",
     "name": "Blipbug",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -687,7 +687,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -715,7 +715,7 @@
     "number": "SV007",
     "artist": "Kyoko Umemoto",
     "rarity": "Rare Shiny",
-    "flavorText": "Often found in gardens, this Pok\u00e9mon has hairs on its body that it uses to assess its surroundings.",
+    "flavorText": "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings.",
     "nationalPokedexNumbers": [
       824
     ],
@@ -766,7 +766,7 @@
   {
     "id": "swsh45sv-SV008",
     "name": "Dottler",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -786,7 +786,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "During your opponent's next turn, this Pok\u00e9mon takes 40 less damage from attacks (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, this Pokémon takes 40 less damage from attacks (after applying Weakness and Resistance)."
       },
       {
         "name": "Ram",
@@ -802,7 +802,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -882,7 +882,7 @@
   {
     "id": "swsh45sv-SV009",
     "name": "Orbeetle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -907,13 +907,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "90+",
-        "text": "This attack does 30 more damage for each Psychic Energy attached to this Pok\u00e9mon."
+        "text": "This attack does 30 more damage for each Psychic Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -941,7 +941,7 @@
     "number": "SV009",
     "artist": "SATOSHI NAKAI",
     "rarity": "Rare Shiny",
-    "flavorText": "It emits psychic energy to observe and study what's around it\u2014and what's around it can include things over six miles away.",
+    "flavorText": "It emits psychic energy to observe and study what's around it—and what's around it can include things over six miles away.",
     "nationalPokedexNumbers": [
       826
     ],
@@ -992,7 +992,7 @@
   {
     "id": "swsh45sv-SV010",
     "name": "Gossifleur",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1011,7 +1011,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for up to 3 Basic Pok\u00e9mon and put them onto your Bench. Then, shuffle your deck."
+        "text": "Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
       },
       {
         "name": "Razor Leaf",
@@ -1026,7 +1026,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1054,7 +1054,7 @@
     "number": "SV010",
     "artist": "Kyoko Umemoto",
     "rarity": "Rare Shiny",
-    "flavorText": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pok\u00e9mon.",
+    "flavorText": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
     "nationalPokedexNumbers": [
       829
     ],
@@ -1105,7 +1105,7 @@
   {
     "id": "swsh45sv-SV011",
     "name": "Eldegoss",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1122,7 +1122,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for up to 3 Grass Energy cards and attach them to your Benched Pok\u00e9mon in any way you like. Then, shuffle your deck."
+        "text": "Search your deck for up to 3 Grass Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
       },
       {
         "name": "Leafage",
@@ -1137,7 +1137,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1165,7 +1165,7 @@
     "number": "SV011",
     "artist": "Mizue",
     "rarity": "Rare Shiny",
-    "flavorText": "The cotton on the head of this Pok\u00e9mon can be spun into a glossy, gorgeous yarn\u2014a Galar regional specialty.",
+    "flavorText": "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty.",
     "nationalPokedexNumbers": [
       830
     ],
@@ -1216,7 +1216,7 @@
   {
     "id": "swsh45sv-SV012",
     "name": "Applin",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1235,13 +1235,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pok\u00e9mon by attacks."
+        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1269,7 +1269,7 @@
     "number": "SV012",
     "artist": "otumami",
     "rarity": "Rare Shiny",
-    "flavorText": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pok\u00e9mon, by pretending it's just an apple and nothing more.",
+    "flavorText": "It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it's just an apple and nothing more.",
     "nationalPokedexNumbers": [
       840
     ],
@@ -1320,7 +1320,7 @@
   {
     "id": "swsh45sv-SV013",
     "name": "Flapple",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1332,7 +1332,7 @@
     "abilities": [
       {
         "name": "Apple Drop",
-        "text": "Once during your turn, you may put 2 damage counters on 1 of your opponent's Pok\u00e9mon. If you placed any damage counters in this way, shuffle this Pok\u00e9mon and all attached cards into your deck.",
+        "text": "Once during your turn, you may put 2 damage counters on 1 of your opponent's Pokémon. If you placed any damage counters in this way, shuffle this Pokémon and all attached cards into your deck.",
         "type": "Ability"
       }
     ],
@@ -1345,13 +1345,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "60",
-        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1430,7 +1430,7 @@
   {
     "id": "swsh45sv-SV014",
     "name": "Appletun",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1442,7 +1442,7 @@
     "abilities": [
       {
         "name": "Delicious Aroma",
-        "text": "Once during your turn, you may flip a coin. If heads, switch 1 of your opponent's Benched Basic Pok\u00e9mon with their Active Pok\u00e9mon.",
+        "text": "Once during your turn, you may flip a coin. If heads, switch 1 of your opponent's Benched Basic Pokémon with their Active Pokémon.",
         "type": "Ability"
       }
     ],
@@ -1461,7 +1461,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1491,7 +1491,7 @@
     "number": "SV014",
     "artist": "Kouki Saitou",
     "rarity": "Rare Shiny",
-    "flavorText": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pok\u00e9mon it preys on.",
+    "flavorText": "Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on.",
     "nationalPokedexNumbers": [
       842
     ],
@@ -1542,7 +1542,7 @@
   {
     "id": "swsh45sv-SV015",
     "name": "Scorbunny",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1561,13 +1561,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Discard an Energy from this Pok\u00e9mon."
+        "text": "Discard an Energy from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1646,7 +1646,7 @@
   {
     "id": "swsh45sv-SV016",
     "name": "Raboot",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1666,7 +1666,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Search your deck for a Fire Energy card and attach it to this Pok\u00e9mon. Then, shuffle your deck."
+        "text": "Search your deck for a Fire Energy card and attach it to this Pokémon. Then, shuffle your deck."
       },
       {
         "name": "Magnum Kick",
@@ -1683,7 +1683,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1762,7 +1762,7 @@
   {
     "id": "swsh45sv-SV017",
     "name": "Cinderace",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -1774,7 +1774,7 @@
     "abilities": [
       {
         "name": "Libero",
-        "text": "Once during your turn, when this Pok\u00e9mon moves from your Bench to the Active Spot, you may attach up to 2 Fire Energy cards from your discard pile to it.",
+        "text": "Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may attach up to 2 Fire Energy cards from your discard pile to it.",
         "type": "Ability"
       }
     ],
@@ -1788,13 +1788,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "190",
-        "text": "Discard 2 Energy from this Pok\u00e9mon."
+        "text": "Discard 2 Energy from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1873,7 +1873,7 @@
   {
     "id": "swsh45sv-SV018",
     "name": "Sizzlipede",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1909,7 +1909,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1988,7 +1988,7 @@
   {
     "id": "swsh45sv-SV019",
     "name": "Centiskorch",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2005,7 +2005,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "For each Fire Energy attached to this Pok\u00e9mon, discard the top card of your opponent's deck."
+        "text": "For each Fire Energy attached to this Pokémon, discard the top card of your opponent's deck."
       },
       {
         "name": "Searing Flame",
@@ -2017,13 +2017,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "110",
-        "text": "Your opponent's Active Pok\u00e9mon is now Burned."
+        "text": "Your opponent's Active Pokémon is now Burned."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2104,7 +2104,7 @@
   {
     "id": "swsh45sv-SV020",
     "name": "Galarian Mr. Mime",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2123,7 +2123,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "During your opponent's next turn, this Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
       },
       {
         "name": "Icy Snow",
@@ -2139,7 +2139,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2167,7 +2167,7 @@
     "number": "SV020",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare Shiny",
-    "flavorText": "Its talent is tap-dancing. It can also manipulate temperatures to create a floor of ice, which this Pok\u00e9mon can kick up to use as a barrier.",
+    "flavorText": "Its talent is tap-dancing. It can also manipulate temperatures to create a floor of ice, which this Pokémon can kick up to use as a barrier.",
     "nationalPokedexNumbers": [
       122
     ],
@@ -2218,7 +2218,7 @@
   {
     "id": "swsh45sv-SV021",
     "name": "Galarian Mr. Rime",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2243,14 +2243,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "20\u00d7",
-        "text": "This attack does 20 damage for each Pok\u00e9mon in your discard pile that has the Mad Party attack."
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2330,7 +2330,7 @@
   {
     "id": "swsh45sv-SV022",
     "name": "Suicune",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2357,13 +2357,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "Put 2 Water Energy attached to this Pok\u00e9mon into your hand."
+        "text": "Put 2 Water Energy attached to this Pokémon into your hand."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2442,7 +2442,7 @@
   {
     "id": "swsh45sv-SV023",
     "name": "Galarian Darumaka",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2462,13 +2462,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2548,7 +2548,7 @@
   {
     "id": "swsh45sv-SV024",
     "name": "Galarian Darmanitan",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2567,7 +2567,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "This attack also does 10 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Crushing Headbutt",
@@ -2579,13 +2579,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "170",
-        "text": "During your next turn, this Pok\u00e9mon can't use Crushing Headbutt."
+        "text": "During your next turn, this Pokémon can't use Crushing Headbutt."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2666,7 +2666,7 @@
   {
     "id": "swsh45sv-SV025",
     "name": "Sobble",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2691,7 +2691,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2719,7 +2719,7 @@
     "number": "SV025",
     "artist": "Saya Tsuruta",
     "rarity": "Rare Shiny",
-    "flavorText": "When scared, this Pok\u00e9mon cries. Its tears pack the chemical punch of 100 onions, and attackers won't be able to resist weeping.",
+    "flavorText": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won't be able to resist weeping.",
     "nationalPokedexNumbers": [
       816
     ],
@@ -2770,7 +2770,7 @@
   {
     "id": "swsh45sv-SV026",
     "name": "Drizzile",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2785,7 +2785,7 @@
     "abilities": [
       {
         "name": "Shady Dealings",
-        "text": "When you play this Pok\u00e9mon from your hand to evolve 1 of your Pok\u00e9mon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
         "type": "Ability"
       }
     ],
@@ -2804,7 +2804,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2832,7 +2832,7 @@
     "number": "SV026",
     "artist": "Ryuta Fuse",
     "rarity": "Rare Shiny",
-    "flavorText": "A clever combatant, this Pok\u00e9mon battles using water balloons created with moisture secreted from its palms.",
+    "flavorText": "A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.",
     "nationalPokedexNumbers": [
       817
     ],
@@ -2883,7 +2883,7 @@
   {
     "id": "swsh45sv-SV027",
     "name": "Inteleon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -2895,7 +2895,7 @@
     "abilities": [
       {
         "name": "Shady Dealings",
-        "text": "When you play this Pok\u00e9mon from your hand to evolve 1 of your Pok\u00e9mon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
         "type": "Ability"
       }
     ],
@@ -2908,13 +2908,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "120",
-        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2993,7 +2993,7 @@
   {
     "id": "swsh45sv-SV028",
     "name": "Chewtle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3030,7 +3030,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3059,7 +3059,7 @@
     "number": "SV028",
     "artist": "otumami",
     "rarity": "Rare Shiny",
-    "flavorText": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pok\u00e9mon bites down and never lets go.",
+    "flavorText": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go.",
     "nationalPokedexNumbers": [
       833
     ],
@@ -3110,7 +3110,7 @@
   {
     "id": "swsh45sv-SV029",
     "name": "Drednaw",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3129,7 +3129,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
-        "text": "This attack does 30 more damage for each Colorless in your opponent's Active Pok\u00e9mon's Retreat Cost."
+        "text": "This attack does 30 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
       },
       {
         "name": "Jaw Lock",
@@ -3141,13 +3141,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "130",
-        "text": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3177,7 +3177,7 @@
     "number": "SV029",
     "artist": "Shin Nagasawa",
     "rarity": "Rare Shiny",
-    "flavorText": "This Pok\u00e9mon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
+    "flavorText": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
     "nationalPokedexNumbers": [
       834
     ],
@@ -3228,7 +3228,7 @@
   {
     "id": "swsh45sv-SV030",
     "name": "Cramorant",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3244,7 +3244,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to this Pok\u00e9mon."
+        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon."
       },
       {
         "name": "Hydro Pump",
@@ -3255,13 +3255,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "50+",
-        "text": "This attack does 20 more damage for each Water Energy attached to this Pok\u00e9mon."
+        "text": "This attack does 20 more damage for each Water Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3346,7 +3346,7 @@
   {
     "id": "swsh45sv-SV031",
     "name": "Arrokuda",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3371,7 +3371,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3399,7 +3399,7 @@
     "number": "SV031",
     "artist": "Shigenori Negishi",
     "rarity": "Rare Shiny",
-    "flavorText": "If it sees any movement around it, this Pok\u00e9mon charges for it straightaway, leading with its sharply pointed jaw. It's very proud of that jaw.",
+    "flavorText": "If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It's very proud of that jaw.",
     "nationalPokedexNumbers": [
       846
     ],
@@ -3450,7 +3450,7 @@
   {
     "id": "swsh45sv-SV032",
     "name": "Barraskewda",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3482,7 +3482,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3510,7 +3510,7 @@
     "number": "SV032",
     "artist": "Misa Tsutsui",
     "rarity": "Rare Shiny",
-    "flavorText": "This Pok\u00e9mon has a jaw that's as sharp as a spear and as strong as steel. Apparently Barraskewda's flesh is surprisingly tasty, too.",
+    "flavorText": "This Pokémon has a jaw that's as sharp as a spear and as strong as steel. Apparently Barraskewda's flesh is surprisingly tasty, too.",
     "nationalPokedexNumbers": [
       847
     ],
@@ -3561,7 +3561,7 @@
   {
     "id": "swsh45sv-SV033",
     "name": "Snom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3580,13 +3580,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a Basic Pok\u00e9mon and put it onto your Bench. Then, shuffle your deck."
+        "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3666,7 +3666,7 @@
   {
     "id": "swsh45sv-SV034",
     "name": "Frosmoth",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3678,7 +3678,7 @@
     "abilities": [
       {
         "name": "Ice Dance",
-        "text": "As often as you like during your turn, you may attach a Water Energy card from your hand to 1 of your Benched Water Pok\u00e9mon.",
+        "text": "As often as you like during your turn, you may attach a Water Energy card from your hand to 1 of your Benched Water Pokémon.",
         "type": "Ability"
       }
     ],
@@ -3697,7 +3697,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3777,7 +3777,7 @@
   {
     "id": "swsh45sv-SV035",
     "name": "Eiscue",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3788,7 +3788,7 @@
     "abilities": [
       {
         "name": "Ice Face",
-        "text": "If this Pok\u00e9mon has full HP, it takes 60 less damage from your opponent's attacks (after applying Weakness and Resistance).",
+        "text": "If this Pokémon has full HP, it takes 60 less damage from your opponent's attacks (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -3802,13 +3802,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "This attack also does 10 damage to each of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3888,7 +3888,7 @@
   {
     "id": "swsh45sv-SV036",
     "name": "Dracovish",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3900,7 +3900,7 @@
     "abilities": [
       {
         "name": "Primal Law",
-        "text": "As long as this Pok\u00e9mon is in the Active Spot, your opponent can't play any Pok\u00e9mon from their hand to evolve their Pok\u00e9mon.",
+        "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Pokémon from their hand to evolve their Pokémon.",
         "type": "Ability"
       }
     ],
@@ -3920,7 +3920,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4001,7 +4001,7 @@
   {
     "id": "swsh45sv-SV037",
     "name": "Arctovish",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4020,7 +4020,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90",
-        "text": "During your opponent's next turn, this Pok\u00e9mon takes 60 less damage from attacks (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, this Pokémon takes 60 less damage from attacks (after applying Weakness and Resistance)."
       },
       {
         "name": "Cold Breath",
@@ -4032,13 +4032,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "130",
-        "text": "Your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Your opponent's Active Pokémon is now Asleep."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4118,7 +4118,7 @@
   {
     "id": "swsh45sv-SV038",
     "name": "Rotom",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4129,7 +4129,7 @@
     "abilities": [
       {
         "name": "Roto Choice",
-        "text": "When you play this Pok\u00e9mon from your hand onto your Bench during your turn, you may search your deck for up to 2 Item cards that have the word \"Rotom\" in their name, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for up to 2 Item cards that have the word \"Rotom\" in their name, reveal them, and put them into your hand. Then, shuffle your deck.",
         "type": "Ability"
       }
     ],
@@ -4142,13 +4142,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4227,7 +4227,7 @@
   {
     "id": "swsh45sv-SV039",
     "name": "Yamper",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4246,7 +4246,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Your opponent switches their Active Pok\u00e9mon with 1 of their Benched Pok\u00e9mon."
+        "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon."
       },
       {
         "name": "Static Shock",
@@ -4261,7 +4261,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4289,7 +4289,7 @@
     "number": "SV039",
     "artist": "sowsow",
     "rarity": "Rare Shiny",
-    "flavorText": "This Pok\u00e9mon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
+    "flavorText": "This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
     "nationalPokedexNumbers": [
       835
     ],
@@ -4340,7 +4340,7 @@
   {
     "id": "swsh45sv-SV040",
     "name": "Boltund",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4358,7 +4358,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
-        "text": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       },
       {
         "name": "Fighting Fangs",
@@ -4369,13 +4369,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90+",
-        "text": "If your opponent's Active Pok\u00e9mon is a Pok\u00e9mon V or Pok\u00e9mon-GX, this attack does 90 more damage."
+        "text": "If your opponent's Active Pokémon is a Pokémon V or Pokémon-GX, this attack does 90 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4403,7 +4403,7 @@
     "number": "SV040",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare Shiny",
-    "flavorText": "This Pok\u00e9mon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
+    "flavorText": "This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
     "nationalPokedexNumbers": [
       836
     ],
@@ -4454,7 +4454,7 @@
   {
     "id": "swsh45sv-SV041",
     "name": "Toxel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4489,7 +4489,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4518,7 +4518,7 @@
     "number": "SV041",
     "artist": "Kouki Saitou",
     "rarity": "Rare Shiny",
-    "flavorText": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pok\u00e9mon, a tingling sensation follows.",
+    "flavorText": "It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows.",
     "nationalPokedexNumbers": [
       848
     ],
@@ -4569,7 +4569,7 @@
   {
     "id": "swsh45sv-SV042",
     "name": "Toxtricity",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4598,13 +4598,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "160",
-        "text": "This Pok\u00e9mon also does 30 damage to itself."
+        "text": "This Pokémon also does 30 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4633,7 +4633,7 @@
     "number": "SV042",
     "artist": "Hideki Ishikawa",
     "rarity": "Rare Shiny",
-    "flavorText": "When this Pok\u00e9mon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.",
+    "flavorText": "When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.",
     "nationalPokedexNumbers": [
       849
     ],
@@ -4684,7 +4684,7 @@
   {
     "id": "swsh45sv-SV043",
     "name": "Pincurchin",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4700,14 +4700,14 @@
           "Lightning"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30\u00d7",
-        "text": "Flip 4 coins. This attack does 30 damage for each heads. If at least 2 of them are heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "damage": "30×",
+        "text": "Flip 4 coins. This attack does 30 damage for each heads. If at least 2 of them are heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4787,7 +4787,7 @@
   {
     "id": "swsh45sv-SV044",
     "name": "Morpeko",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4803,7 +4803,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks. During your opponent's next turn, that Pok\u00e9mon can't use that attack."
+        "text": "Choose 1 of your opponent's Active Pokémon's attacks. During your opponent's next turn, that Pokémon can't use that attack."
       },
       {
         "name": "Spark",
@@ -4813,13 +4813,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
-        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4847,7 +4847,7 @@
     "number": "SV044",
     "artist": "Akira Komayama",
     "rarity": "Rare Shiny",
-    "flavorText": "As it eats the seeds stored up in its pocket-like pouches, this Pok\u00e9mon is not just satisfying its constant hunger. It's also generating electricity.",
+    "flavorText": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.",
     "nationalPokedexNumbers": [
       877
     ],
@@ -4898,7 +4898,7 @@
   {
     "id": "swsh45sv-SV045",
     "name": "Dracozolt",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4915,7 +4915,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "During your next turn, this Pok\u00e9mon's Amping Up attack does 90 more damage (before applying Weakness and Resistance)."
+        "text": "During your next turn, this Pokémon's Amping Up attack does 90 more damage (before applying Weakness and Resistance)."
       },
       {
         "name": "Giga Impact",
@@ -4927,13 +4927,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "200",
-        "text": "During your next turn, this Pok\u00e9mon can't attack."
+        "text": "During your next turn, this Pokémon can't attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5015,7 +5015,7 @@
   {
     "id": "swsh45sv-SV046",
     "name": "Arctozolt",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5027,7 +5027,7 @@
     "abilities": [
       {
         "name": "Biting Whirlpool",
-        "text": "Whenever your opponent attaches an Energy card from their hand to 1 of their Pok\u00e9mon, put 2 damage counters on that Pok\u00e9mon.",
+        "text": "Whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.",
         "type": "Ability"
       }
     ],
@@ -5046,7 +5046,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5126,7 +5126,7 @@
   {
     "id": "swsh45sv-SV047",
     "name": "Galarian Ponyta",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5145,13 +5145,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5185,7 +5185,7 @@
     "number": "SV047",
     "artist": "Sanosuke Sakuma",
     "rarity": "Rare Shiny",
-    "flavorText": "This Pok\u00e9mon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.",
+    "flavorText": "This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.",
     "nationalPokedexNumbers": [
       77
     ],
@@ -5236,7 +5236,7 @@
   {
     "id": "swsh45sv-SV048",
     "name": "Galarian Rapidash",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5248,7 +5248,7 @@
     "abilities": [
       {
         "name": "Pastel Veil",
-        "text": "Your Pok\u00e9mon recover from all Special Conditions and can't be affected by any Special Conditions.",
+        "text": "Your Pokémon recover from all Special Conditions and can't be affected by any Special Conditions.",
         "type": "Ability"
       }
     ],
@@ -5261,13 +5261,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30+",
-        "text": "This attack does 30 more damage for each Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5301,7 +5301,7 @@
     "number": "SV048",
     "artist": "Kagemaru Himeno",
     "rarity": "Rare Shiny",
-    "flavorText": "Brave and prideful, this Pok\u00e9mon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.",
+    "flavorText": "Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.",
     "nationalPokedexNumbers": [
       78
     ],
@@ -5352,7 +5352,7 @@
   {
     "id": "swsh45sv-SV049",
     "name": "Galarian Corsola",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5371,13 +5371,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Put 3 damage counters on your opponent's Pok\u00e9mon in any way you like."
+        "text": "Put 3 damage counters on your opponent's Pokémon in any way you like."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5412,7 +5412,7 @@
     "number": "SV049",
     "artist": "Mizue",
     "rarity": "Rare Shiny",
-    "flavorText": "Watch your step when wandering areas oceans once covered. What looks like a stone could be this Pok\u00e9mon, and it will curse you if you kick it.",
+    "flavorText": "Watch your step when wandering areas oceans once covered. What looks like a stone could be this Pokémon, and it will curse you if you kick it.",
     "nationalPokedexNumbers": [
       222
     ],
@@ -5463,7 +5463,7 @@
   {
     "id": "swsh45sv-SV050",
     "name": "Galarian Cursola",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5475,7 +5475,7 @@
     "abilities": [
       {
         "name": "Perish Body",
-        "text": "If this Pok\u00e9mon is in the Active Spot and is Knocked Out by damage from an opponent's attack, flip a coin. If heads, the Attacking Pok\u00e9mon is Knocked Out.",
+        "text": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an opponent's attack, flip a coin. If heads, the Attacking Pokémon is Knocked Out.",
         "type": "Ability"
       }
     ],
@@ -5488,13 +5488,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "60",
-        "text": "During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+        "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5529,7 +5529,7 @@
     "number": "SV050",
     "artist": "Shin Nagasawa",
     "rarity": "Rare Shiny",
-    "flavorText": "Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pok\u00e9mon's core spirit.",
+    "flavorText": "Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon's core spirit.",
     "nationalPokedexNumbers": [
       864
     ],
@@ -5580,7 +5580,7 @@
   {
     "id": "swsh45sv-SV051",
     "name": "Dedenne",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5597,14 +5597,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "20\u00d7",
-        "text": "This attack does 20 damage for each Pok\u00e9mon in your discard pile that has the Mad Party attack."
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5683,7 +5683,7 @@
   {
     "id": "swsh45sv-SV052",
     "name": "Sinistea",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5702,13 +5702,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Put 2 damage counters on your opponent's Active Pok\u00e9mon."
+        "text": "Put 2 damage counters on your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5742,7 +5742,7 @@
     "number": "SV052",
     "artist": "MAHOU",
     "rarity": "Rare Shiny",
-    "flavorText": "This Pok\u00e9mon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.",
+    "flavorText": "This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.",
     "nationalPokedexNumbers": [
       854
     ],
@@ -5793,7 +5793,7 @@
   {
     "id": "swsh45sv-SV053",
     "name": "Polteageist",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5805,7 +5805,7 @@
     "abilities": [
       {
         "name": "Tea Break",
-        "text": "You must discard a Pok\u00e9mon that has the Mad Party attack from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.",
+        "text": "You must discard a Pokémon that has the Mad Party attack from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.",
         "type": "Ability"
       }
     ],
@@ -5817,14 +5817,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
-        "text": "This attack does 20 damage for each Pok\u00e9mon in your discard pile that has the Mad Party attack."
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5909,7 +5909,7 @@
   {
     "id": "swsh45sv-SV054",
     "name": "Hatenna",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5928,7 +5928,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a Pok\u00e9mon, reveal it, and put it into your hand. Then, shuffle your deck."
+        "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
       },
       {
         "name": "Psyshot",
@@ -5944,7 +5944,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6029,7 +6029,7 @@
   {
     "id": "swsh45sv-SV055",
     "name": "Hattrem",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6049,7 +6049,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       },
       {
         "name": "Brutal Swing",
@@ -6065,7 +6065,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6099,7 +6099,7 @@
     "number": "SV055",
     "artist": "Lee HyunJung",
     "rarity": "Rare Shiny",
-    "flavorText": "No matter who you are, if you bring strong emotions near this Pok\u00e9mon, it will silence you violently.",
+    "flavorText": "No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.",
     "nationalPokedexNumbers": [
       857
     ],
@@ -6150,7 +6150,7 @@
   {
     "id": "swsh45sv-SV056",
     "name": "Hatterene",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -6174,13 +6174,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Put 1 damage counter on your opponent's Active Pok\u00e9mon for each Pok\u00e9mon in your discard pile."
+        "text": "Put 1 damage counter on your opponent's Active Pokémon for each Pokémon in your discard pile."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6266,7 +6266,7 @@
   {
     "id": "swsh45sv-SV057",
     "name": "Milcery",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6285,7 +6285,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 10 damage from each of your Pok\u00e9mon."
+        "text": "Heal 10 damage from each of your Pokémon."
       },
       {
         "name": "Tackle",
@@ -6301,7 +6301,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6329,7 +6329,7 @@
     "number": "SV057",
     "artist": "Motofumi Fujiwara",
     "rarity": "Rare Shiny",
-    "flavorText": "This Pok\u00e9mon was born from sweet-smelling particles in the air. Its body is made of cream.",
+    "flavorText": "This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.",
     "nationalPokedexNumbers": [
       868
     ],
@@ -6380,7 +6380,7 @@
   {
     "id": "swsh45sv-SV058",
     "name": "Alcremie",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6397,7 +6397,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Attach any number of basic Energy cards from your hand to your Pok\u00e9mon in any way you like."
+        "text": "Attach any number of basic Energy cards from your hand to your Pokémon in any way you like."
       },
       {
         "name": "Draining Kiss",
@@ -6407,13 +6407,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -6492,7 +6492,7 @@
   {
     "id": "swsh45sv-SV059",
     "name": "Indeedee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6508,7 +6508,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 30 damage from each of your Pok\u00e9mon."
+        "text": "Heal 30 damage from each of your Pokémon."
       },
       {
         "name": "Psybeam",
@@ -6518,13 +6518,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Your opponent's Active Pok\u00e9mon is now Confused."
+        "text": "Your opponent's Active Pokémon is now Confused."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6558,7 +6558,7 @@
     "number": "SV059",
     "artist": "Saya Tsuruta",
     "rarity": "Rare Shiny",
-    "flavorText": "These intelligent Pok\u00e9mon touch horns with each other to share information between them.",
+    "flavorText": "These intelligent Pokémon touch horns with each other to share information between them.",
     "nationalPokedexNumbers": [
       876
     ],
@@ -6609,7 +6609,7 @@
   {
     "id": "swsh45sv-SV060",
     "name": "Dreepy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6634,7 +6634,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6668,7 +6668,7 @@
     "number": "SV060",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare Shiny",
-    "flavorText": "After being reborn as a ghost Pok\u00e9mon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
+    "flavorText": "After being reborn as a ghost Pokémon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",
     "nationalPokedexNumbers": [
       885
     ],
@@ -6719,7 +6719,7 @@
   {
     "id": "swsh45sv-SV061",
     "name": "Drakloak",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6755,7 +6755,7 @@
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6840,7 +6840,7 @@
   {
     "id": "swsh45sv-SV062",
     "name": "Dragapult",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -6852,7 +6852,7 @@
     "abilities": [
       {
         "name": "Infiltrator",
-        "text": "If any damage is done to this Pok\u00e9mon by attacks, flip a coin. If heads, prevent that damage.",
+        "text": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.",
         "type": "Ability"
       }
     ],
@@ -6865,13 +6865,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "120",
-        "text": "Put 3 damage counters on your opponent's Benched Pok\u00e9mon in any way you like."
+        "text": "Put 3 damage counters on your opponent's Benched Pokémon in any way you like."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6952,7 +6952,7 @@
   {
     "id": "swsh45sv-SV063",
     "name": "Galarian Farfetch'd",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6987,7 +6987,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7066,7 +7066,7 @@
   {
     "id": "swsh45sv-SV064",
     "name": "Galarian Sirfetch'd",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7094,13 +7094,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "180",
-        "text": "This Pok\u00e9mon can't use Meteor Assault again until it leaves the Active Spot."
+        "text": "This Pokémon can't use Meteor Assault again until it leaves the Active Spot."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7129,7 +7129,7 @@
     "number": "SV064",
     "artist": "Kouki Saitou",
     "rarity": "Rare Shiny",
-    "flavorText": "Only Farfetch'd that have survived many battles can attain this evolution. When this Pok\u00e9mon's leek withers, it will retire from combat.",
+    "flavorText": "Only Farfetch'd that have survived many battles can attain this evolution. When this Pokémon's leek withers, it will retire from combat.",
     "nationalPokedexNumbers": [
       865
     ],
@@ -7180,7 +7180,7 @@
   {
     "id": "swsh45sv-SV065",
     "name": "Galarian Yamask",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7200,13 +7200,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "50",
-        "text": "This Pok\u00e9mon also does 30 damage to itself."
+        "text": "This Pokémon also does 30 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7286,7 +7286,7 @@
   {
     "id": "swsh45sv-SV066",
     "name": "Galarian Runerigus",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7304,7 +7304,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "For each damage counter on this Galarian Runerigus, put 2 damage counters on your opponent's Pok\u00e9mon in any way you like."
+        "text": "For each damage counter on this Galarian Runerigus, put 2 damage counters on your opponent's Pokémon in any way you like."
       },
       {
         "name": "Mad Hammer",
@@ -7315,13 +7315,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "This Pok\u00e9mon also does 30 damage to itself."
+        "text": "This Pokémon also does 30 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7401,7 +7401,7 @@
   {
     "id": "swsh45sv-SV067",
     "name": "Rolycoly",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7426,7 +7426,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7455,7 +7455,7 @@
     "number": "SV067",
     "artist": "Shigenori Negishi",
     "rarity": "Rare Shiny",
-    "flavorText": "Most of its body has the same composition as coal. Fittingly, this Pok\u00e9mon was first discovered in coal mines about 400 years ago.",
+    "flavorText": "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
     "nationalPokedexNumbers": [
       837
     ],
@@ -7506,7 +7506,7 @@
   {
     "id": "swsh45sv-SV068",
     "name": "Carkol",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7544,7 +7544,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7574,7 +7574,7 @@
     "number": "SV068",
     "artist": "tetsuya koizumi",
     "rarity": "Rare Shiny",
-    "flavorText": "It forms coal inside its body. Coal dropped by this Pok\u00e9mon once helped fuel the lives of people in the Galar region.",
+    "flavorText": "It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region.",
     "nationalPokedexNumbers": [
       838
     ],
@@ -7625,7 +7625,7 @@
   {
     "id": "swsh45sv-SV069",
     "name": "Coalossal",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -7637,7 +7637,7 @@
     "abilities": [
       {
         "name": "Tar Generator",
-        "text": "Once during your turn, you may attach a Fire Energy card, a Fighting Energy card, or 1 of each from your discard pile to your Pok\u00e9mon in any way you like.",
+        "text": "Once during your turn, you may attach a Fire Energy card, a Fighting Energy card, or 1 of each from your discard pile to your Pokémon in any way you like.",
         "type": "Ability"
       }
     ],
@@ -7658,7 +7658,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7740,7 +7740,7 @@
   {
     "id": "swsh45sv-SV070",
     "name": "Silicobra",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7759,13 +7759,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "During your opponent's next turn, if the Defending Pok\u00e9mon tries to attack, your opponent flips a coin. If tails, that attack doesn't happen."
+        "text": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, that attack doesn't happen."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7845,7 +7845,7 @@
   {
     "id": "swsh45sv-SV071",
     "name": "Sandaconda",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7862,7 +7862,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "During your next turn, this Pok\u00e9mon's attacks do 120 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance)."
+        "text": "During your next turn, this Pokémon's attacks do 120 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
       },
       {
         "name": "Skull Bash",
@@ -7879,7 +7879,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -7959,7 +7959,7 @@
   {
     "id": "swsh45sv-SV072",
     "name": "Clobbopus",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7978,13 +7978,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8064,7 +8064,7 @@
   {
     "id": "swsh45sv-SV073",
     "name": "Grapploct",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8082,7 +8082,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Until this Grapploct leaves the Active Spot, the Defending Pok\u00e9mon's attacks cost ColorlessColorless more, and the Defending Pok\u00e9mon can't retreat. This effect can't be applied more than once."
+        "text": "Until this Grapploct leaves the Active Spot, the Defending Pokémon's attacks cost ColorlessColorless more, and the Defending Pokémon can't retreat. This effect can't be applied more than once."
       },
       {
         "name": "Tough Swing",
@@ -8099,7 +8099,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8128,7 +8128,7 @@
     "number": "SV073",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare Shiny",
-    "flavorText": "A body made up of nothing but muscle makes the grappling moves this Pok\u00e9mon performs with its tentacles tremendously powerful.",
+    "flavorText": "A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.",
     "nationalPokedexNumbers": [
       853
     ],
@@ -8179,7 +8179,7 @@
   {
     "id": "swsh45sv-SV074",
     "name": "Falinks",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8195,7 +8195,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for up to 2 Basic Pok\u00e9mon and put them onto your Bench. Then, shuffle your deck."
+        "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
       },
       {
         "name": "Team Attack",
@@ -8204,14 +8204,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30\u00d7",
-        "text": "This attack does 30 damage for each of your Benched Pok\u00e9mon that has \"Falinks\" in its name."
+        "damage": "30×",
+        "text": "This attack does 30 damage for each of your Benched Pokémon that has \"Falinks\" in its name."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8290,7 +8290,7 @@
   {
     "id": "swsh45sv-SV075",
     "name": "Stonjourner",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8320,13 +8320,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "120+",
-        "text": "If this Pok\u00e9mon has at least 1 extra Energy attached (in addition to this attack's cost), this attack does 60 more damage."
+        "text": "If this Pokémon has at least 1 extra Energy attached (in addition to this attack's cost), this attack does 60 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8357,7 +8357,7 @@
     "number": "SV075",
     "artist": "Hitoshi Ariga",
     "rarity": "Rare Shiny",
-    "flavorText": "It stands in grasslands, watching the sun's descent from zenith to horizon. This Pok\u00e9mon has a talent for delivering dynamic kicks.",
+    "flavorText": "It stands in grasslands, watching the sun's descent from zenith to horizon. This Pokémon has a talent for delivering dynamic kicks.",
     "nationalPokedexNumbers": [
       874
     ],
@@ -8408,7 +8408,7 @@
   {
     "id": "swsh45sv-SV076",
     "name": "Koffing",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8427,13 +8427,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a card that evolves from this Pok\u00e9mon and put it onto this Pok\u00e9mon to evolve it. Then, shuffle your deck."
+        "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8512,7 +8512,7 @@
   {
     "id": "swsh45sv-SV077",
     "name": "Galarian Weezing",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8524,7 +8524,7 @@
     "abilities": [
       {
         "name": "Neutralizing Gas",
-        "text": "As long as this Pok\u00e9mon is in the Active Spot, your opponent's Pok\u00e9mon in play have no Abilities, except for Neutralizing Gas.",
+        "text": "As long as this Pokémon is in the Active Spot, your opponent's Pokémon in play have no Abilities, except for Neutralizing Gas.",
         "type": "Ability"
       }
     ],
@@ -8536,13 +8536,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned. Put 4 damage counters instead of 1 on that Pok\u00e9mon during Pok\u00e9mon Checkup."
+        "text": "Your opponent's Active Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon during Pokémon Checkup."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8572,7 +8572,7 @@
     "number": "SV077",
     "artist": "Kouki Saitou",
     "rarity": "Rare Shiny",
-    "flavorText": "This Pok\u00e9mon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
+    "flavorText": "This Pokémon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
     "nationalPokedexNumbers": [
       110
     ],
@@ -8623,7 +8623,7 @@
   {
     "id": "swsh45sv-SV078",
     "name": "Galarian Zigzagoon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8637,7 +8637,7 @@
     "abilities": [
       {
         "name": "Headbutt Tantrum",
-        "text": "When you play this Pok\u00e9mon from your hand onto your Bench during your turn, you may put 1 damage counter on 1 of your opponent's Pok\u00e9mon.",
+        "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may put 1 damage counter on 1 of your opponent's Pokémon.",
         "type": "Ability"
       }
     ],
@@ -8656,7 +8656,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8735,7 +8735,7 @@
   {
     "id": "swsh45sv-SV079",
     "name": "Galarian Linoone",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8755,7 +8755,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon."
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon."
       },
       {
         "name": "Hammer In",
@@ -8772,7 +8772,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8801,7 +8801,7 @@
     "number": "SV079",
     "artist": "Shin Nagasawa",
     "rarity": "Rare Shiny",
-    "flavorText": "This very aggressive Pok\u00e9mon will recklessly challenge opponents stronger than itself.",
+    "flavorText": "This very aggressive Pokémon will recklessly challenge opponents stronger than itself.",
     "nationalPokedexNumbers": [
       264
     ],
@@ -8852,7 +8852,7 @@
   {
     "id": "swsh45sv-SV080",
     "name": "Galarian Obstagoon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -8864,7 +8864,7 @@
     "abilities": [
       {
         "name": "Untamed Shout",
-        "text": "When you play this Pok\u00e9mon from your hand to evolve 1 of your Pok\u00e9mon during your turn, you may put 3 damage counters on 1 of your opponent's Pok\u00e9mon.",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on 1 of your opponent's Pokémon.",
         "type": "Ability"
       }
     ],
@@ -8877,13 +8877,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "90",
-        "text": "During your opponent's next turn, prevent all damage done to this Pok\u00e9mon by attacks from Basic Pok\u00e9mon."
+        "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8963,7 +8963,7 @@
   {
     "id": "swsh45sv-SV081",
     "name": "Nickit",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8988,7 +8988,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9016,7 +9016,7 @@
     "number": "SV081",
     "artist": "Saya Tsuruta",
     "rarity": "Rare Shiny",
-    "flavorText": "Aided by the soft pads on its feet, it silently raids the food stores of other Pok\u00e9mon. It survives off its ill-gotten gains.",
+    "flavorText": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
     "nationalPokedexNumbers": [
       827
     ],
@@ -9067,7 +9067,7 @@
   {
     "id": "swsh45sv-SV082",
     "name": "Thievul",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -9101,7 +9101,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9180,7 +9180,7 @@
   {
     "id": "swsh45sv-SV083",
     "name": "Impidimp",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9215,7 +9215,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9243,7 +9243,7 @@
     "number": "SV083",
     "artist": "Misa Tsutsui",
     "rarity": "Rare Shiny",
-    "flavorText": "Through its nose, it sucks in the emanations produced by people and Pok\u00e9mon when they feel annoyed. It thrives off this negative energy.",
+    "flavorText": "Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.",
     "nationalPokedexNumbers": [
       859
     ],
@@ -9294,7 +9294,7 @@
   {
     "id": "swsh45sv-SV084",
     "name": "Morgrem",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -9325,13 +9325,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pok\u00e9mon."
+        "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9411,7 +9411,7 @@
   {
     "id": "swsh45sv-SV085",
     "name": "Grimmsnarl",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -9423,7 +9423,7 @@
     "abilities": [
       {
         "name": "Dark Oath",
-        "text": "As long as this Pok\u00e9mon is in the Active Spot, your opponent's Active Pok\u00e9mon's attacks cost Colorless more.",
+        "text": "As long as this Pokémon is in the Active Spot, your opponent's Active Pokémon's attacks cost Colorless more.",
         "type": "Ability"
       }
     ],
@@ -9437,13 +9437,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "100+",
-        "text": "This attack does 30 more damage for each Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9473,7 +9473,7 @@
     "number": "SV085",
     "artist": "Kouki Saitou",
     "rarity": "Rare Shiny",
-    "flavorText": "With the hair wrapped around its body helping to enhance its muscles, this Pok\u00e9mon can overwhelm even Machamp.",
+    "flavorText": "With the hair wrapped around its body helping to enhance its muscles, this Pokémon can overwhelm even Machamp.",
     "nationalPokedexNumbers": [
       861
     ],
@@ -9524,7 +9524,7 @@
   {
     "id": "swsh45sv-SV086",
     "name": "Galarian Meowth",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9557,7 +9557,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9592,7 +9592,7 @@
     "number": "SV086",
     "artist": "Shigenori Negishi",
     "rarity": "Rare Shiny",
-    "flavorText": "Living with a savage, seafaring people has toughened this Pok\u00e9mon's body so much that parts of it have turned to iron.",
+    "flavorText": "Living with a savage, seafaring people has toughened this Pokémon's body so much that parts of it have turned to iron.",
     "nationalPokedexNumbers": [
       52
     ],
@@ -9643,7 +9643,7 @@
   {
     "id": "swsh45sv-SV087",
     "name": "Galarian Perrserker",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -9655,7 +9655,7 @@
     "abilities": [
       {
         "name": "Steely Spirit",
-        "text": "Your Metal Pok\u00e9mon's attacks do 20 more damage to your opponent's Active Pok\u00e9mon (before applying Weakness and Resistance).",
+        "text": "Your Metal Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -9675,7 +9675,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9710,7 +9710,7 @@
     "number": "SV087",
     "artist": "Ryuta Fuse",
     "rarity": "Rare Shiny",
-    "flavorText": "What appears to be an iron helmet is actually hardened hair. This Pok\u00e9mon lives for the thrill of battle.",
+    "flavorText": "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",
     "nationalPokedexNumbers": [
       863
     ],
@@ -9761,7 +9761,7 @@
   {
     "id": "swsh45sv-SV088",
     "name": "Galarian Stunfisk",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9772,7 +9772,7 @@
     "abilities": [
       {
         "name": "Snap Trap",
-        "text": "If this Pok\u00e9mon is in the Active Spot and is damaged by an opponent's attack (even if it is Knocked Out), discard an Energy from the Attacking Pok\u00e9mon.",
+        "text": "If this Pokémon is in the Active Spot and is damaged by an opponent's attack (even if it is Knocked Out), discard an Energy from the Attacking Pokémon.",
         "type": "Ability"
       }
     ],
@@ -9791,7 +9791,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9877,7 +9877,7 @@
   {
     "id": "swsh45sv-SV089",
     "name": "Corviknight",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -9905,13 +9905,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "130",
-        "text": "You may discard 2 Energy from this Pok\u00e9mon. If you do, during your opponent's next turn, this Pok\u00e9mon takes 100 less damage from attacks (after applying Weakness and Resistance)."
+        "text": "You may discard 2 Energy from this Pokémon. If you do, during your opponent's next turn, this Pokémon takes 100 less damage from attacks (after applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9946,7 +9946,7 @@
     "number": "SV089",
     "artist": "kirisAki",
     "rarity": "Rare Shiny",
-    "flavorText": "This Pok\u00e9mon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
+    "flavorText": "This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
     "nationalPokedexNumbers": [
       823
     ],
@@ -9997,7 +9997,7 @@
   {
     "id": "swsh45sv-SV090",
     "name": "Cufant",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10024,7 +10024,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -10111,7 +10111,7 @@
   {
     "id": "swsh45sv-SV091",
     "name": "Copperajah",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -10123,7 +10123,7 @@
     "abilities": [
       {
         "name": "Antibacterial Skin",
-        "text": "This Pok\u00e9mon can't be affected by any Special Conditions.",
+        "text": "This Pokémon can't be affected by any Special Conditions.",
         "type": "Ability"
       }
     ],
@@ -10138,13 +10138,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "120+",
-        "text": "If your Benched Pok\u00e9mon have any damage counters on them, this attack does 120 more damage."
+        "text": "If your Benched Pokémon have any damage counters on them, this attack does 120 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -10232,7 +10232,7 @@
   {
     "id": "swsh45sv-SV092",
     "name": "Duraludon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10248,7 +10248,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "Attach a Metal Energy card from your discard pile to 1 of your Pok\u00e9mon."
+        "text": "Attach a Metal Energy card from your discard pile to 1 of your Pokémon."
       },
       {
         "name": "Power Beam",
@@ -10265,7 +10265,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -10351,7 +10351,7 @@
   {
     "id": "swsh45sv-SV093",
     "name": "Minccino",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10379,14 +10379,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip 2 coins. This attack does 20 damage for each heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10465,7 +10465,7 @@
   {
     "id": "swsh45sv-SV094",
     "name": "Cinccino",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -10489,13 +10489,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "40",
-        "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pok\u00e9mon."
+        "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10523,7 +10523,7 @@
     "number": "SV094",
     "artist": "kirisAki",
     "rarity": "Rare Shiny",
-    "flavorText": "Its body secretes oil that this Pok\u00e9mon spreads over its nest as a coating to protect it from dust. Cinccino won't tolerate even a speck of the stuff.",
+    "flavorText": "Its body secretes oil that this Pokémon spreads over its nest as a coating to protect it from dust. Cinccino won't tolerate even a speck of the stuff.",
     "nationalPokedexNumbers": [
       573
     ],
@@ -10574,7 +10574,7 @@
   {
     "id": "swsh45sv-SV095",
     "name": "Ducklett",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10599,7 +10599,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -10684,7 +10684,7 @@
   {
     "id": "swsh45sv-SV096",
     "name": "Swanna",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -10696,7 +10696,7 @@
     "abilities": [
       {
         "name": "Sky Circus",
-        "text": "If you played Bird Keeper from your hand during this turn, ignore all Energy in this Pok\u00e9mon's attack costs.",
+        "text": "If you played Bird Keeper from your hand during this turn, ignore all Energy in this Pokémon's attack costs.",
         "type": "Ability"
       }
     ],
@@ -10716,7 +10716,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -10797,7 +10797,7 @@
   {
     "id": "swsh45sv-SV097",
     "name": "Bunnelby",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10816,14 +10816,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
-        "text": "This attack does 20 damage for each Pok\u00e9mon in your discard pile that has the Mad Party attack."
+        "damage": "20×",
+        "text": "This attack does 20 damage for each Pokémon in your discard pile that has the Mad Party attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10902,7 +10902,7 @@
   {
     "id": "swsh45sv-SV098",
     "name": "Oranguru",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10933,7 +10933,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10962,7 +10962,7 @@
     "number": "SV098",
     "artist": "nagimiso",
     "rarity": "Rare Shiny",
-    "flavorText": "It knows the forest inside and out. If it comes across a wounded Pok\u00e9mon, Oranguru will gather medicinal herbs to treat it.",
+    "flavorText": "It knows the forest inside and out. If it comes across a wounded Pokémon, Oranguru will gather medicinal herbs to treat it.",
     "nationalPokedexNumbers": [
       765
     ],
@@ -11013,7 +11013,7 @@
   {
     "id": "swsh45sv-SV099",
     "name": "Skwovet",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -11048,7 +11048,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11076,7 +11076,7 @@
     "number": "SV099",
     "artist": "Naoki Saito",
     "rarity": "Rare Shiny",
-    "flavorText": "Found throughout the Galar region, this Pok\u00e9mon becomes uneasy if its cheeks are ever completely empty of berries.",
+    "flavorText": "Found throughout the Galar region, this Pokémon becomes uneasy if its cheeks are ever completely empty of berries.",
     "nationalPokedexNumbers": [
       819
     ],
@@ -11127,7 +11127,7 @@
   {
     "id": "swsh45sv-SV100",
     "name": "Greedent",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -11139,7 +11139,7 @@
     "abilities": [
       {
         "name": "Greedy Tail",
-        "text": "Once during your turn, you may search your deck for a Pok\u00e9mon Tool card, reveal it, and put it into your hand. Then, shuffle your deck.",
+        "text": "Once during your turn, you may search your deck for a Pokémon Tool card, reveal it, and put it into your hand. Then, shuffle your deck.",
         "type": "Ability"
       }
     ],
@@ -11159,7 +11159,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11187,7 +11187,7 @@
     "number": "SV100",
     "artist": "Hideki Ishikawa",
     "rarity": "Rare Shiny",
-    "flavorText": "It stashes berries in its tail\u2014so many berries that they fall out constantly. But this Pok\u00e9mon is a bit slow-witted, so it doesn't notice the loss.",
+    "flavorText": "It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn't notice the loss.",
     "nationalPokedexNumbers": [
       820
     ],
@@ -11238,7 +11238,7 @@
   {
     "id": "swsh45sv-SV101",
     "name": "Rookidee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -11273,7 +11273,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11307,7 +11307,7 @@
     "number": "SV101",
     "artist": "Lee HyunJung",
     "rarity": "Rare Shiny",
-    "flavorText": "It will bravely challenge any opponent, no matter how powerful. This Pok\u00e9mon benefits from every battle\u2014even a defeat increases its strength a bit.",
+    "flavorText": "It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle—even a defeat increases its strength a bit.",
     "nationalPokedexNumbers": [
       821
     ],
@@ -11358,7 +11358,7 @@
   {
     "id": "swsh45sv-SV102",
     "name": "Corvisquire",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -11378,7 +11378,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Before doing damage, discard all Pok\u00e9mon Tools from your opponent's Active Pok\u00e9mon."
+        "text": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
       },
       {
         "name": "Drill Peck",
@@ -11394,7 +11394,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11428,7 +11428,7 @@
     "number": "SV102",
     "artist": "Masakazu Fukuda",
     "rarity": "Rare Shiny",
-    "flavorText": "Smart enough to use tools in battle, these Pok\u00e9mon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
+    "flavorText": "Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",
     "nationalPokedexNumbers": [
       822
     ],
@@ -11479,7 +11479,7 @@
   {
     "id": "swsh45sv-SV103",
     "name": "Wooloo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -11499,13 +11499,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "During your opponent's next turn, this Pok\u00e9mon takes 10 less damage from attacks (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, this Pokémon takes 10 less damage from attacks (after applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11533,7 +11533,7 @@
     "number": "SV103",
     "artist": "Kyoko Umemoto",
     "rarity": "Rare Shiny",
-    "flavorText": "If its fleece grows too long, Wooloo won't be able to move. Cloth made with the wool of this Pok\u00e9mon is surprisingly strong.",
+    "flavorText": "If its fleece grows too long, Wooloo won't be able to move. Cloth made with the wool of this Pokémon is surprisingly strong.",
     "nationalPokedexNumbers": [
       831
     ],
@@ -11584,7 +11584,7 @@
   {
     "id": "swsh45sv-SV104",
     "name": "Dubwool",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -11601,7 +11601,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "During your opponent's next turn, this Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
       },
       {
         "name": "Double-Edge",
@@ -11612,13 +11612,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "This Pok\u00e9mon also does 30 damage to itself."
+        "text": "This Pokémon also does 30 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11698,7 +11698,7 @@
   {
     "id": "swsh45sv-SV105",
     "name": "Rillaboom V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -11708,7 +11708,7 @@
       "Grass"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -11718,7 +11718,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for up to 2 Basic Grass Pok\u00e9mon and put them onto your Bench. Then, shuffle your deck."
+        "text": "Search your deck for up to 2 Basic Grass Pokémon and put them onto your Bench. Then, shuffle your deck."
       },
       {
         "name": "Wood Hammer",
@@ -11730,13 +11730,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "220",
-        "text": "This Pok\u00e9mon also does 30 damage to itself."
+        "text": "This Pokémon also does 30 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11816,7 +11816,7 @@
   {
     "id": "swsh45sv-SV106",
     "name": "Rillaboom VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -11826,7 +11826,7 @@
     ],
     "evolvesFrom": "Rillaboom V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -11848,13 +11848,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "130+",
-        "text": "You may discard up to 3 Grass Energy from this Pok\u00e9mon. If you do, this attack does 50 more damage for each card you discarded in this way."
+        "text": "You may discard up to 3 Grass Energy from this Pokémon. If you do, this attack does 50 more damage for each card you discarded in this way."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11934,7 +11934,7 @@
   {
     "id": "swsh45sv-SV107",
     "name": "Charizard VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -11944,7 +11944,7 @@
     ],
     "evolvesFrom": "Charizard V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -11969,13 +11969,13 @@
         ],
         "convertedEnergyCost": 5,
         "damage": "300",
-        "text": "Discard 2 Energy from this Pok\u00e9mon."
+        "text": "Discard 2 Energy from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12055,7 +12055,7 @@
   {
     "id": "swsh45sv-SV108",
     "name": "Centiskorch V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -12065,7 +12065,7 @@
       "Fire"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12075,7 +12075,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "You may discard an Energy from this Pok\u00e9mon. If you do, discard an Energy from your opponent's Active Pok\u00e9mon."
+        "text": "You may discard an Energy from this Pokémon. If you do, discard an Energy from your opponent's Active Pokémon."
       },
       {
         "name": "Burning Train",
@@ -12093,7 +12093,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12173,7 +12173,7 @@
   {
     "id": "swsh45sv-SV109",
     "name": "Centiskorch VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -12183,7 +12183,7 @@
     ],
     "evolvesFrom": "Centiskorch V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -12194,13 +12194,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40+",
-        "text": "This attack does 40 more damage for each Fire Energy attached to this Pok\u00e9mon. If you did any damage with this attack, you may attach a Fire Energy card from your discard pile to this Pok\u00e9mon."
+        "text": "This attack does 40 more damage for each Fire Energy attached to this Pokémon. If you did any damage with this attack, you may attach a Fire Energy card from your discard pile to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12280,7 +12280,7 @@
   {
     "id": "swsh45sv-SV110",
     "name": "Lapras V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -12290,7 +12290,7 @@
       "Water"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12300,7 +12300,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Attach a Water Energy card from your hand to this Pok\u00e9mon. If you do, switch it with 1 of your Benched Pok\u00e9mon."
+        "text": "Attach a Water Energy card from your hand to this Pokémon. If you do, switch it with 1 of your Benched Pokémon."
       },
       {
         "name": "Ocean Loop",
@@ -12312,13 +12312,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "210",
-        "text": "Put 2 Water Energy attached to this Pok\u00e9mon into your hand."
+        "text": "Put 2 Water Energy attached to this Pokémon into your hand."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12397,7 +12397,7 @@
   {
     "id": "swsh45sv-SV111",
     "name": "Lapras VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -12407,7 +12407,7 @@
     ],
     "evolvesFrom": "Lapras V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -12419,13 +12419,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90+",
-        "text": "This attack does 30 more damage for each Water Energy attached to this Pok\u00e9mon."
+        "text": "This attack does 30 more damage for each Water Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12505,7 +12505,7 @@
   {
     "id": "swsh45sv-SV112",
     "name": "Toxtricity V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -12515,7 +12515,7 @@
       "Lightning"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12525,7 +12525,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Your opponent's Active Pokémon is now Poisoned."
       },
       {
         "name": "Electric Riot",
@@ -12536,13 +12536,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "90+",
-        "text": "If your opponent's Active Pok\u00e9mon is Poisoned, this attack does 90 more damage."
+        "text": "If your opponent's Active Pokémon is Poisoned, this attack does 90 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12621,7 +12621,7 @@
   {
     "id": "swsh45sv-SV113",
     "name": "Toxtricity VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -12631,7 +12631,7 @@
     ],
     "evolvesFrom": "Toxtricity V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -12643,13 +12643,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "160+",
-        "text": "If your opponent's Active Pok\u00e9mon is Poisoned, this attack does 80 more damage."
+        "text": "If your opponent's Active Pokémon is Poisoned, this attack does 80 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12728,7 +12728,7 @@
   {
     "id": "swsh45sv-SV114",
     "name": "Indeedee V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -12738,12 +12738,12 @@
       "Psychic"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Watch Over",
-        "text": "Once during your turn, you may heal 20 damage from your Active Pok\u00e9mon.",
+        "text": "Once during your turn, you may heal 20 damage from your Active Pokémon.",
         "type": "Ability"
       }
     ],
@@ -12757,13 +12757,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "10+",
-        "text": "This attack does 60 more damage for each Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "This attack does 60 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -12848,7 +12848,7 @@
   {
     "id": "swsh45sv-SV115",
     "name": "Falinks V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -12858,12 +12858,12 @@
       "Fighting"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Iron Defense Formation",
-        "text": "All of your Pok\u00e9mon that have \"Falinks\" in their name take 20 less damage from your opponent's attacks (after applying Weakness and Resistance).",
+        "text": "All of your Pokémon that have \"Falinks\" in their name take 20 less damage from your opponent's attacks (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -12877,13 +12877,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "210",
-        "text": "During your next turn, this Pok\u00e9mon can't attack."
+        "text": "During your next turn, this Pokémon can't attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12962,7 +12962,7 @@
   {
     "id": "swsh45sv-SV116",
     "name": "Grimmsnarl V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -12972,7 +12972,7 @@
       "Darkness"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12993,13 +12993,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "200",
-        "text": "Put 2 Darkness Energy attached to this Pok\u00e9mon into your hand."
+        "text": "Put 2 Darkness Energy attached to this Pokémon into your hand."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13078,7 +13078,7 @@
   {
     "id": "swsh45sv-SV117",
     "name": "Grimmsnarl VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -13088,7 +13088,7 @@
     ],
     "evolvesFrom": "Grimmsnarl V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -13100,13 +13100,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "170+",
-        "text": "This attack does 50 more damage for each extra Darkness Energy attached to this Pok\u00e9mon (in addition to this attack's cost). You can't add more than 100 damage in this way."
+        "text": "This attack does 50 more damage for each extra Darkness Energy attached to this Pokémon (in addition to this attack's cost). You can't add more than 100 damage in this way."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13186,7 +13186,7 @@
   {
     "id": "swsh45sv-SV118",
     "name": "Ditto V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -13196,12 +13196,12 @@
       "Colorless"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "V Transformation",
-        "text": "Once during your turn, you may choose a Basic Pok\u00e9mon V from your discard pile and switch it with this Pok\u00e9mon. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pok\u00e9mon.",
+        "text": "Once during your turn, you may choose a Basic Pokémon V from your discard pile and switch it with this Pokémon. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.",
         "type": "Ability"
       }
     ],
@@ -13213,13 +13213,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Attach a basic Energy card from your discard pile to this Pok\u00e9mon."
+        "text": "Attach a basic Energy card from your discard pile to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13298,7 +13298,7 @@
   {
     "id": "swsh45sv-SV119",
     "name": "Ditto VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -13308,7 +13308,7 @@
     ],
     "evolvesFrom": "Ditto V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "attacks": [
       {
@@ -13320,13 +13320,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "Choose 1 of your opponent's Active Pok\u00e9mon's attacks and use it as this attack."
+        "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13406,7 +13406,7 @@
   {
     "id": "swsh45sv-SV120",
     "name": "Dubwool V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -13416,12 +13416,12 @@
       "Colorless"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "abilities": [
       {
         "name": "Soft Wool",
-        "text": "This Pok\u00e9mon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+        "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
         "type": "Ability"
       }
     ],
@@ -13441,7 +13441,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13520,7 +13520,7 @@
   {
     "id": "swsh45sv-SV121",
     "name": "Eternatus V",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "V"
@@ -13530,7 +13530,7 @@
       "Darkness"
     ],
     "rules": [
-      "V rule: When your Pok\u00e9mon V is Knocked Out, your opponent takes 2 Prize cards."
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -13540,7 +13540,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "30",
-        "text": "You may attach a Darkness Energy card from your hand to 1 of your Benched Pok\u00e9mon."
+        "text": "You may attach a Darkness Energy card from your hand to 1 of your Benched Pokémon."
       },
       {
         "name": "Dynamax Cannon",
@@ -13552,13 +13552,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "120+",
-        "text": "If your opponent's Active Pok\u00e9mon is a Pok\u00e9mon VMAX, this attack does 120 more damage."
+        "text": "If your opponent's Active Pokémon is a Pokémon VMAX, this attack does 120 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13637,7 +13637,7 @@
   {
     "id": "swsh45sv-SV122",
     "name": "Eternatus VMAX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "VMAX"
     ],
@@ -13647,12 +13647,12 @@
     ],
     "evolvesFrom": "Eternatus V",
     "rules": [
-      "VMAX rule: When your Pok\u00e9mon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
     ],
     "abilities": [
       {
         "name": "Eternal Zone",
-        "text": "If all of your Pok\u00e9mon in play are Darkness type, you can have up to 8 Pok\u00e9mon on your Bench, and you can't put non-Darkness Pok\u00e9mon into play. (If this Ability stops working, discard Pok\u00e9mon from your Bench until you have 5.)",
+        "text": "If all of your Pokémon in play are Darkness type, you can have up to 8 Pokémon on your Bench, and you can't put non-Darkness Pokémon into play. (If this Ability stops working, discard Pokémon from your Bench until you have 5.)",
         "type": "Ability"
       }
     ],
@@ -13664,14 +13664,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30\u00d7",
-        "text": "This attack does 30 damage for each of your Darkness Pok\u00e9mon in play."
+        "damage": "30×",
+        "text": "This attack does 30 damage for each of your Darkness Pokémon in play."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -13745,6 +13745,20 @@
         "reverseHoloAvg1": 27.98,
         "reverseHoloAvg7": 29.64,
         "reverseHoloAvg30": 35.57
+      }
+    }
+  },
+  {
+    "id": "swsh45sv-promo-60",
+    "name": "Professor's Research - Professor Juniper (SHF 60) (Promo)",
+    "rarity": "Promo",
+    "number": "60",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Professors-Research-Professor-Juniper-V2-SHF60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
       }
     }
   }

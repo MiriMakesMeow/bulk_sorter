@@ -9434,5 +9434,305 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "sm6-promo-51",
+    "name": "Malamar  (FLI 51) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Inkay",
+    "abilities": [
+      {
+        "name": "Psychic Recharge",
+        "text": "Once during your turn (before your attack), you may attach a Psychic Energy card from your discard pile to 1 of your Benched Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Psychic Sphere",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "51",
+    "artist": "You Iribi",
+    "rarity": "Promo",
+    "flavorText": "It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.",
+    "nationalPokedexNumbers": [
+      687
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/51.png",
+      "large": "https://images.pokemontcg.io/sm6/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Malamar-V5-FLI51",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.3,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm6-promo-77",
+    "name": "Buzzwole  (FLI 77) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Ultra Beast"
+    ],
+    "hp": "130",
+    "types": [
+      "Fighting"
+    ],
+    "attacks": [
+      {
+        "name": "Sledgehammer",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30+",
+        "text": "If your opponent has exactly 4 Prize cards remaining, this attack does 90 more damage."
+      },
+      {
+        "name": "Swing Around",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80+",
+        "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "77",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "flavorText": "A mysterious life-form called an Ultra Beast. Witnesses saw it pulverize a dump truck with a single punch.",
+    "nationalPokedexNumbers": [
+      794
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/77.png",
+      "large": "https://images.pokemontcg.io/sm6/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Buzzwole-V2-FLI77",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.24,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm6-promo-80",
+    "name": "Guzzlord  (FLI 80) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Ultra Beast"
+    ],
+    "hp": "160",
+    "types": [
+      "Darkness"
+    ],
+    "attacks": [
+      {
+        "name": "Lord's Valley",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Darkness"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "160",
+        "text": "If you have exactly 2, 4, or 6 Prize cards remaining, discard the top 10 cards of your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "80",
+    "artist": "Anesaki Dynamic",
+    "rarity": "Promo",
+    "flavorText": "A dangerous Ultra Beast, it appears to be eating constantly, but for some reason its droppings have never been found.",
+    "nationalPokedexNumbers": [
+      799
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/80.png",
+      "large": "https://images.pokemontcg.io/sm6/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Guzzlord-V2-FLI80",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm6-promo-102",
+    "name": "Beast Ring (FLI 102) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can play this card only if your opponent has exactly 3 or 4 Prize cards remaining.",
+      "Search your deck for up to 2 basic Energy cards and attach them to 1 of your Ultra Beasts. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "102",
+    "artist": "Toyste Beach",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/102.png",
+      "large": "https://images.pokemontcg.io/sm6/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Beast-Ring-V3-FLI102",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm6-promo-105",
+    "name": "Diantha (FLI 105) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "You can play this card only if 1 of your Fairy Pokémon was Knocked Out during your opponent's last turn.",
+      "Put 2 cards from your discard pile into your hand.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "105",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/105.png",
+      "large": "https://images.pokemontcg.io/sm6/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Diantha-V3-FLI104",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm6-promo-113",
+    "name": "Mysterious Treasure (FLI 113) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard a card from your hand. If you do, search your deck for a Psychic or Dragon Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "113",
+    "artist": "Eske Yoshinob",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm6/113.png",
+      "large": "https://images.pokemontcg.io/sm6/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Mysterious-Treasure-V3-FLI113",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.8,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

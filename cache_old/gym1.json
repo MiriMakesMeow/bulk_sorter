@@ -50,6 +50,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/1.png",
       "large": "https://images.pokemontcg.io/gym1/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Moltres-GH1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 12.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -119,6 +127,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/2.png",
       "large": "https://images.pokemontcg.io/gym1/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Rhydon-GH2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -185,6 +201,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/3.png",
       "large": "https://images.pokemontcg.io/gym1/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Clefable-GH3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 7.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -251,6 +275,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/4.png",
       "large": "https://images.pokemontcg.io/gym1/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Dragonair-GH4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 17.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -309,6 +341,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/5.png",
       "large": "https://images.pokemontcg.io/gym1/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Vileplume-GH5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -369,6 +409,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/6.png",
       "large": "https://images.pokemontcg.io/gym1/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Electabuzz-GH6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -431,6 +479,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/7.png",
       "large": "https://images.pokemontcg.io/gym1/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Fearow-GH7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 11.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -493,6 +549,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/8.png",
       "large": "https://images.pokemontcg.io/gym1/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Magneton-GH8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.94,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -555,6 +619,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/9.png",
       "large": "https://images.pokemontcg.io/gym1/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Seadra-GH9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -609,6 +681,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/10.png",
       "large": "https://images.pokemontcg.io/gym1/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Tentacruel-GH10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -667,6 +747,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/11.png",
       "large": "https://images.pokemontcg.io/gym1/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Rockets-Hitmonchan-G111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -724,6 +812,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/12.png",
       "large": "https://images.pokemontcg.io/gym1/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Rockets-Moltres-GH12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -791,6 +887,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/13.png",
       "large": "https://images.pokemontcg.io/gym1/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Rockets-Scyther-GH13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 16.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -850,6 +954,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/14.png",
       "large": "https://images.pokemontcg.io/gym1/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-Gengar-GH14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 60.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -868,6 +980,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/15.png",
       "large": "https://images.pokemontcg.io/gym1/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brock-GH15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -886,6 +1006,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/16.png",
       "large": "https://images.pokemontcg.io/gym1/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erika-GH16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -904,6 +1032,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/17.png",
       "large": "https://images.pokemontcg.io/gym1/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surge-GH17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -922,6 +1058,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/18.png",
       "large": "https://images.pokemontcg.io/gym1/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Misty-GH18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 11.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -940,6 +1084,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/19.png",
       "large": "https://images.pokemontcg.io/gym1/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/The-Rockets-Trap-G119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1005,6 +1157,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/20.png",
       "large": "https://images.pokemontcg.io/gym1/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Golem-GH20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1068,6 +1228,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/21.png",
       "large": "https://images.pokemontcg.io/gym1/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Onix-GH21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1137,6 +1305,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/22.png",
       "large": "https://images.pokemontcg.io/gym1/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Rhyhorn-GH22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1202,6 +1378,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/23.png",
       "large": "https://images.pokemontcg.io/gym1/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Sandslash-GH23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1264,6 +1448,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/24.png",
       "large": "https://images.pokemontcg.io/gym1/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Zubat-GH24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1330,6 +1522,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/25.png",
       "large": "https://images.pokemontcg.io/gym1/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Clefairy-GH25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1388,6 +1588,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/26.png",
       "large": "https://images.pokemontcg.io/gym1/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Victreebel-GH26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1449,6 +1657,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/27.png",
       "large": "https://images.pokemontcg.io/gym1/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Electabuzz-GH27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.6,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1511,6 +1727,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/28.png",
       "large": "https://images.pokemontcg.io/gym1/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Raichu-GH28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1569,6 +1793,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/29.png",
       "large": "https://images.pokemontcg.io/gym1/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Cloyster-GH29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1615,6 +1847,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/30.png",
       "large": "https://images.pokemontcg.io/gym1/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Goldeen-GH30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.89,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1668,6 +1908,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/31.png",
       "large": "https://images.pokemontcg.io/gym1/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Poliwrath-GH31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1724,6 +1972,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/32.png",
       "large": "https://images.pokemontcg.io/gym1/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Tentacool-GH32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1789,6 +2045,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/33.png",
       "large": "https://images.pokemontcg.io/gym1/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Rockets-Snorlax-GH33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1848,6 +2112,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/34.png",
       "large": "https://images.pokemontcg.io/gym1/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-Venomoth-GH34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1908,6 +2180,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/35.png",
       "large": "https://images.pokemontcg.io/gym1/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Growlithe-GH35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1974,6 +2254,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/36.png",
       "large": "https://images.pokemontcg.io/gym1/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Kangaskhan-GH36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2036,6 +2324,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/37.png",
       "large": "https://images.pokemontcg.io/gym1/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Magmar-GH37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2096,6 +2392,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/38.png",
       "large": "https://images.pokemontcg.io/gym1/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Geodude-GH38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2164,6 +2468,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/39.png",
       "large": "https://images.pokemontcg.io/gym1/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Golbat-GH39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2218,6 +2530,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/40.png",
       "large": "https://images.pokemontcg.io/gym1/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Graveler-GH40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2288,6 +2608,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/41.png",
       "large": "https://images.pokemontcg.io/gym1/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Lickitung-GH41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2346,6 +2674,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/42.png",
       "large": "https://images.pokemontcg.io/gym1/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Dratini-GH42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.32,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2406,6 +2742,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/43.png",
       "large": "https://images.pokemontcg.io/gym1/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Exeggcute-GH43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2466,6 +2810,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/44.png",
       "large": "https://images.pokemontcg.io/gym1/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Exeggutor-GH44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2529,6 +2881,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/45.png",
       "large": "https://images.pokemontcg.io/gym1/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Gloom-GH45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2593,6 +2953,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/46.png",
       "large": "https://images.pokemontcg.io/gym1/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Gloom-GH46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2651,6 +3019,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/47.png",
       "large": "https://images.pokemontcg.io/gym1/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Oddish-GH47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2712,6 +3088,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/48.png",
       "large": "https://images.pokemontcg.io/gym1/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Weepinbell-GH48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2776,6 +3160,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/49.png",
       "large": "https://images.pokemontcg.io/gym1/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Weepinbell-GH49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.12,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2832,6 +3224,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/50.png",
       "large": "https://images.pokemontcg.io/gym1/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Magnemite-GH50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2886,6 +3286,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/51.png",
       "large": "https://images.pokemontcg.io/gym1/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Raticate-GH51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2938,6 +3346,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/52.png",
       "large": "https://images.pokemontcg.io/gym1/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Spearow-GH52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3003,6 +3419,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/53.png",
       "large": "https://images.pokemontcg.io/gym1/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Poliwhirl-GH53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3062,6 +3486,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/54.png",
       "large": "https://images.pokemontcg.io/gym1/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Psyduck-GH54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3120,6 +3552,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/55.png",
       "large": "https://images.pokemontcg.io/gym1/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Seaking-GH55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3180,6 +3620,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/56.png",
       "large": "https://images.pokemontcg.io/gym1/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Starmie-GH56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3231,6 +3679,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/57.png",
       "large": "https://images.pokemontcg.io/gym1/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Tentacool-GH57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.39,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3279,6 +3735,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/58.png",
       "large": "https://images.pokemontcg.io/gym1/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-Haunter-GH58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3336,6 +3800,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/59.png",
       "large": "https://images.pokemontcg.io/gym1/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-Jynx-GH59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3396,6 +3868,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/60.png",
       "large": "https://images.pokemontcg.io/gym1/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-Slowbro-GH60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3456,6 +3936,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/61.png",
       "large": "https://images.pokemontcg.io/gym1/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Charmander-GH61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3507,6 +3995,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/62.png",
       "large": "https://images.pokemontcg.io/gym1/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Growlithe-GH62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3554,6 +4050,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/63.png",
       "large": "https://images.pokemontcg.io/gym1/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Ponyta-GH63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3619,6 +4123,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/64.png",
       "large": "https://images.pokemontcg.io/gym1/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Tauros-GH64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3678,6 +4190,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/65.png",
       "large": "https://images.pokemontcg.io/gym1/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Vulpix-GH65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3738,6 +4258,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/66.png",
       "large": "https://images.pokemontcg.io/gym1/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Geodude-GH66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3793,6 +4321,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/67.png",
       "large": "https://images.pokemontcg.io/gym1/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Mankey-GH67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3849,6 +4385,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/68.png",
       "large": "https://images.pokemontcg.io/gym1/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Mankey-GH68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.14,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3912,6 +4456,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/69.png",
       "large": "https://images.pokemontcg.io/gym1/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Onix-GH69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3971,6 +4523,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/70.png",
       "large": "https://images.pokemontcg.io/gym1/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Rhyhorn-GH70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4037,6 +4597,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/71.png",
       "large": "https://images.pokemontcg.io/gym1/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Sandshrew-GH71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4094,6 +4662,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/72.png",
       "large": "https://images.pokemontcg.io/gym1/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Sandshrew-GH72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4154,6 +4730,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/73.png",
       "large": "https://images.pokemontcg.io/gym1/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Vulpix-GH73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4216,6 +4800,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/74.png",
       "large": "https://images.pokemontcg.io/gym1/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Zubat-GH74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4276,6 +4868,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/75.png",
       "large": "https://images.pokemontcg.io/gym1/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Bellsprout-GH75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4326,6 +4926,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/76.png",
       "large": "https://images.pokemontcg.io/gym1/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Bellsprout-GH76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4386,6 +4994,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/77.png",
       "large": "https://images.pokemontcg.io/gym1/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Exeggcute-GH77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4446,6 +5062,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/78.png",
       "large": "https://images.pokemontcg.io/gym1/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Oddish-GH78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4508,6 +5132,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/79.png",
       "large": "https://images.pokemontcg.io/gym1/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Tangela-GH79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4568,6 +5200,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/80.png",
       "large": "https://images.pokemontcg.io/gym1/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Magnemite-GH80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4628,6 +5268,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/81.png",
       "large": "https://images.pokemontcg.io/gym1/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Pikachu-GH81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4694,6 +5342,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/82.png",
       "large": "https://images.pokemontcg.io/gym1/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Rattata-GH82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4756,6 +5412,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/83.png",
       "large": "https://images.pokemontcg.io/gym1/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Spearow-GH83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4816,6 +5480,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/84.png",
       "large": "https://images.pokemontcg.io/gym1/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Voltorb-GH84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4875,6 +5547,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/85.png",
       "large": "https://images.pokemontcg.io/gym1/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Goldeen-GH85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4931,6 +5611,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/86.png",
       "large": "https://images.pokemontcg.io/gym1/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Horsea-GH86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4991,6 +5679,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/87.png",
       "large": "https://images.pokemontcg.io/gym1/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Poliwag-GH87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5042,6 +5738,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/88.png",
       "large": "https://images.pokemontcg.io/gym1/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Seel-GH88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5102,6 +5806,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/89.png",
       "large": "https://images.pokemontcg.io/gym1/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Shellder-GH89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5153,6 +5865,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/90.png",
       "large": "https://images.pokemontcg.io/gym1/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Staryu-GH90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5199,6 +5919,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/91.png",
       "large": "https://images.pokemontcg.io/gym1/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-Abra-GH91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5259,6 +5987,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/92.png",
       "large": "https://images.pokemontcg.io/gym1/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-Drowzee-GH92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5310,6 +6046,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/93.png",
       "large": "https://images.pokemontcg.io/gym1/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-Gastly-GH93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5367,6 +6111,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/94.png",
       "large": "https://images.pokemontcg.io/gym1/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-Mr-Mime-GH94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.09,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5419,6 +6171,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/95.png",
       "large": "https://images.pokemontcg.io/gym1/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-Slowpoke-GH95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5479,6 +6239,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/96.png",
       "large": "https://images.pokemontcg.io/gym1/96_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-Venonat-GH96",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5497,6 +6265,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/97.png",
       "large": "https://images.pokemontcg.io/gym1/97_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Quiz-1-G197",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5515,6 +6291,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/98.png",
       "large": "https://images.pokemontcg.io/gym1/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brock-GH98",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5533,6 +6317,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/99.png",
       "large": "https://images.pokemontcg.io/gym1/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Charity-G199",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5551,6 +6343,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/100.png",
       "large": "https://images.pokemontcg.io/gym1/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erika-G1100",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.69,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5569,6 +6369,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/101.png",
       "large": "https://images.pokemontcg.io/gym1/101_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surge-GH101",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5587,6 +6395,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/102.png",
       "large": "https://images.pokemontcg.io/gym1/102_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Misty-GH102",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5609,6 +6425,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/103.png",
       "large": "https://images.pokemontcg.io/gym1/103_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/No-Removal-Gym-G1103",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5631,6 +6455,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/104.png",
       "large": "https://images.pokemontcg.io/gym1/104_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/The-Rockets-Training-Gym-G1104",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5649,6 +6481,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/105.png",
       "large": "https://images.pokemontcg.io/gym1/105_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Last-Resort-G1105",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5667,6 +6507,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/106.png",
       "large": "https://images.pokemontcg.io/gym1/106_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Brocks-Training-Method-G1106",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5689,6 +6537,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/107.png",
       "large": "https://images.pokemontcg.io/gym1/107_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Celadon-City-Gym-G1107",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5711,6 +6567,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/108.png",
       "large": "https://images.pokemontcg.io/gym1/108_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Cerulean-City-Gym-G1108",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5729,6 +6593,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/109.png",
       "large": "https://images.pokemontcg.io/gym1/109_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Maids-G1109",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5747,6 +6619,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/110.png",
       "large": "https://images.pokemontcg.io/gym1/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Erikas-Perfume-G1110",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5765,6 +6645,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/111.png",
       "large": "https://images.pokemontcg.io/gym1/111_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Good-Manners-G1111",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5783,6 +6671,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/112.png",
       "large": "https://images.pokemontcg.io/gym1/112_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lt-Surges-Treaty-G1112",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5801,6 +6697,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/113.png",
       "large": "https://images.pokemontcg.io/gym1/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Minion-of-Team-Rocket-G1113",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5819,6 +6723,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/114.png",
       "large": "https://images.pokemontcg.io/gym1/114_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Wrath-G1114",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5841,6 +6753,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/115.png",
       "large": "https://images.pokemontcg.io/gym1/115_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Pewter-City-Gym-G1115",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5859,6 +6779,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/116.png",
       "large": "https://images.pokemontcg.io/gym1/116_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Recall-G1116",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5877,6 +6805,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/117.png",
       "large": "https://images.pokemontcg.io/gym1/117_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-ESP-G1117",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5895,6 +6831,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/118.png",
       "large": "https://images.pokemontcg.io/gym1/118_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Secret-Mission-G1118",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5916,6 +6860,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/119.png",
       "large": "https://images.pokemontcg.io/gym1/119_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Tickling-Machine-G1119",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.98,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5938,6 +6890,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/120.png",
       "large": "https://images.pokemontcg.io/gym1/120_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Vermilion-City-Gym-G1120",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5956,6 +6916,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/121.png",
       "large": "https://images.pokemontcg.io/gym1/121_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Blaines-Gamble-G1121",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5974,6 +6942,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/122.png",
       "large": "https://images.pokemontcg.io/gym1/122_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Energy-Flow-G1122",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5992,6 +6968,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/123.png",
       "large": "https://images.pokemontcg.io/gym1/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Mistys-Duel-G1123",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.35,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6014,6 +6998,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/124.png",
       "large": "https://images.pokemontcg.io/gym1/124_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Narrow-Gym-G1124",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6032,6 +7024,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/125.png",
       "large": "https://images.pokemontcg.io/gym1/125_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Sabrinas-Gaze-G1125",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6050,6 +7050,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/126.png",
       "large": "https://images.pokemontcg.io/gym1/126_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Trash-Exchange-G1126",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6069,6 +7077,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/127.png",
       "large": "https://images.pokemontcg.io/gym1/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Fighting-Energy-GH127",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6088,6 +7104,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/128.png",
       "large": "https://images.pokemontcg.io/gym1/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Fire-Energy-GH128",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6107,6 +7131,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/129.png",
       "large": "https://images.pokemontcg.io/gym1/129_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Grass-Energy-GH129",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6126,6 +7158,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/130.png",
       "large": "https://images.pokemontcg.io/gym1/130_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Lightning-Energy-GH130",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6145,6 +7185,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/131.png",
       "large": "https://images.pokemontcg.io/gym1/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Psychic-Energy-GH131",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -6164,6 +7212,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/gym1/132.png",
       "large": "https://images.pokemontcg.io/gym1/132_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Gym-Heroes/Water-Energy-GH132",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

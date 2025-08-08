@@ -11348,5 +11348,310 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "sm7-promo-24",
+    "name": "Magcargo  (CES 24) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Slugma",
+    "abilities": [
+      {
+        "name": "Smooth Over",
+        "text": "Once during your turn (before your attack), you may search your deck for a card, shuffle your deck, then put that card on top of it.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Combustion",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "24",
+    "artist": "Midori Harada",
+    "rarity": "Promo",
+    "flavorText": "Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.",
+    "nationalPokedexNumbers": [
+      219
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm7/24.png",
+      "large": "https://images.pokemontcg.io/sm7/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celestial-Storm/Magcargo-V2-CES24",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm7-promo-95",
+    "name": "Metagross  (CES 95) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "170",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Metang",
+    "abilities": [
+      {
+        "name": "Extend",
+        "text": "As long as this Pokémon is your Active Pokémon, your turn does not end when you play Steven's Resolve.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Meteor Mash",
+        "cost": [
+          "Metal"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "60",
+        "text": "During your next turn, this Pokémon's Meteor Mash attack does 60 more damage (before applying Weakness and Resistance)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "95",
+    "artist": "TOKIYA",
+    "rarity": "Promo",
+    "flavorText": "A linkage of two Metang, this Pokémon can perform any calculation in a flash by utilizing parallel processing in its four brains.",
+    "nationalPokedexNumbers": [
+      376
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm7/95.png",
+      "large": "https://images.pokemontcg.io/sm7/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celestial-Storm/Metagross-V2-CES95",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm7-promo-100",
+    "name": "Celesteela  (CES 100) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "Ultra Beast"
+    ],
+    "hp": "140",
+    "types": [
+      "Metal"
+    ],
+    "attacks": [
+      {
+        "name": "Moon Raker",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 5,
+        "damage": "160",
+        "text": "If the total of both players' remaining Prize cards is exactly 6, this attack can be used for Metal."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 4,
+    "number": "100",
+    "artist": "kawayoo",
+    "rarity": "Promo",
+    "flavorText": "One kind of Ultra Beast. Witnesses have seen it burn down a forest by expelling gas from its two arms.",
+    "nationalPokedexNumbers": [
+      797
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm7/100.png",
+      "large": "https://images.pokemontcg.io/sm7/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celestial-Storm/Celesteela-V2-CES100",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm7-promo-127",
+    "name": "Copycat (CES 127) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Shuffle your hand into your deck. Then, draw a card for each card in your opponent's hand.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "127",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm7/127.png",
+      "large": "https://images.pokemontcg.io/sm7/127_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celestial-Storm/Copycat-V3-CES127",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm7-promo-142",
+    "name": "Rare Candy (CES 142) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "142",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm7/142.png",
+      "large": "https://images.pokemontcg.io/sm7/142_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celestial-Storm/Rare-Candy-V2-CES142",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm7-promo-145",
+    "name": "Steven's Resolve (CES 145) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck. Your turn ends.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "145",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm7/145.png",
+      "large": "https://images.pokemontcg.io/sm7/145_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celestial-Storm/Stevens-Resolve-V3-CES145",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

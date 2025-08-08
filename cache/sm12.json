@@ -25316,5 +25316,427 @@
         "reverseHoloAvg30": 0.0
       }
     }
+  },
+  {
+    "id": "sm12-promo-99",
+    "name": "Cosmog  (CEC 99) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesTo": [
+      "Cosmoem"
+    ],
+    "attacks": [
+      {
+        "name": "Ascension",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "sm12",
+      "name": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "printedTotal": 236,
+      "total": 272,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CEC",
+      "releaseDate": "2019/11/01",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm12/logo.png"
+      }
+    },
+    "number": "99",
+    "artist": "Mizue",
+    "rarity": "Promo",
+    "flavorText": "Even though its helpless, gaseous body can be blown away by the slightest breeze, it doesn't seem to care.",
+    "nationalPokedexNumbers": [
+      789
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm12/99.png",
+      "large": "https://images.pokemontcg.io/sm12/99_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm12-99",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.04,
+          "mid": 0.17,
+          "high": 4.95,
+          "market": 0.12,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.27,
+          "high": 4.95,
+          "market": 0.25,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Cosmog-V2-CEC99",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm12-promo-101",
+    "name": "Cosmoem  (CEC 101) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Cosmog",
+    "evolvesTo": [
+      "Solgaleo",
+      "Lunala"
+    ],
+    "attacks": [
+      {
+        "name": "Stiffen",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "During your opponent's next turn, this Pokémon takes 40 less damage from attacks (after applying Weakness and Resistance)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "sm12",
+      "name": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "printedTotal": 236,
+      "total": 272,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CEC",
+      "releaseDate": "2019/11/01",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm12/logo.png"
+      }
+    },
+    "number": "101",
+    "artist": "Aya Kusube",
+    "rarity": "Promo",
+    "flavorText": "The king who ruled Alola in times of antiquity called it the \"cocoon of the stars\" and built an altar to worship it.",
+    "nationalPokedexNumbers": [
+      790
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm12/101.png",
+      "large": "https://images.pokemontcg.io/sm12/101_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm12-101",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.16,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.26,
+          "mid": 0.48,
+          "high": 4.95,
+          "market": 0.48,
+          "directLow": 0.4
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Cosmoem-V2-CEC101",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.12,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm12-promo-102",
+    "name": "Lunala  (CEC 102) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Psychic"
+    ],
+    "evolvesFrom": "Cosmoem",
+    "abilities": [
+      {
+        "name": "Blessing of the Moone",
+        "text": "Once during your turn (before your attack), if you have Solgaleo in play, you may search your deck for up to 2 Energy cards and attach them to your Solgaleo or Lunala in any way you like. Then, shuffle your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Lunar Blast",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Darkness",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "sm12",
+      "name": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "printedTotal": 236,
+      "total": 272,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CEC",
+      "releaseDate": "2019/11/01",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm12/logo.png"
+      }
+    },
+    "number": "102",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "flavorText": "Records of it exist in writings from long, long ago, where it was known by the name \"the beast that calls the moon.\"",
+    "nationalPokedexNumbers": [
+      792
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm12/102.png",
+      "large": "https://images.pokemontcg.io/sm12/102_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm12-102",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.51,
+          "mid": 0.89,
+          "high": 4.95,
+          "market": 0.84,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.73,
+          "mid": 1.0,
+          "high": 2.26,
+          "market": 1.0,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Lunala-V2-CEC102",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 11.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "sm12-promo-142",
+    "name": "Solgaleo  (CEC 142) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "170",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Cosmoem",
+    "abilities": [
+      {
+        "name": "Armor of the Sunne",
+        "text": "If you have Lunala in play, your Solgaleo and Lunala take 50 less damage from your opponent's attacks (after applying Weakness and Resistance). You can't apply more than 1 Armor of the Sunne Ability at a time.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Sol Fangs",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "180",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "sm12",
+      "name": "Cosmic Eclipse",
+      "series": "Sun & Moon",
+      "printedTotal": 236,
+      "total": 272,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "CEC",
+      "releaseDate": "2019/11/01",
+      "updatedAt": "2021/09/01 05:37:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/sm12/symbol.png",
+        "logo": "https://images.pokemontcg.io/sm12/logo.png"
+      }
+    },
+    "number": "142",
+    "artist": "Misa Tsutsui",
+    "rarity": "Promo",
+    "flavorText": "Sometimes the result of its opening an Ultra Wormhole is that energy and life-forms from other worlds are called here to this world.",
+    "nationalPokedexNumbers": [
+      791
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm12/142.png",
+      "large": "https://images.pokemontcg.io/sm12/142_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/sm12-142",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.51,
+          "mid": 0.91,
+          "high": 4.95,
+          "market": 0.91,
+          "directLow": 0.88
+        },
+        "holofoil": {
+          "low": 0.41,
+          "mid": 0.92,
+          "high": 89.0,
+          "market": 0.92,
+          "directLow": 1.25
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Cosmic-Eclipse/Solgaleo-V2-CEC142",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": "xy2-1",
     "name": "Caterpie",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -16,7 +16,7 @@
     "abilities": [
       {
         "name": "Adaptive Evolution",
-        "text": "This Pok\u00e9mon can evolve during your first turn or the turn you play it.",
+        "text": "This Pokémon can evolve during your first turn or the turn you play it.",
         "type": "Ability"
       }
     ],
@@ -34,7 +34,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -95,31 +95,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-1",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Caterpie-FLF1",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.23,
         "lowPrice": 0.02,
-        "trendPrice": 0.19,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.24,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.43,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.15,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.39,
-        "reverseHoloAvg30": 0.45
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-2",
     "name": "Metapod",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -134,7 +121,7 @@
     "abilities": [
       {
         "name": "Adaptive Evolution",
-        "text": "This Pok\u00e9mon can evolve during your first turn or the turn you play it.",
+        "text": "This Pokémon can evolve during your first turn or the turn you play it.",
         "type": "Ability"
       }
     ],
@@ -147,13 +134,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "During your opponent's next turn, if this Pok\u00e9mon would be damaged by an attack, prevent that attack's damage done to this Pok\u00e9mon if that damage is 60 or less."
+        "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 60 or less."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -215,31 +202,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-2",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Metapod-FLF2",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.28,
         "lowPrice": 0.02,
-        "trendPrice": 0.25,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.25,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.21,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.24,
-        "avg30": 0.23,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.79,
-        "reverseHoloAvg30": 0.98
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy2-3",
     "name": "Butterfree",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -256,7 +230,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a basic Energy card and attach it to this Pok\u00e9mon. Shuffle your deck afterward. If you attached Energy in this way, heal 40 damage from this Pok\u00e9mon."
+        "text": "Search your deck for a basic Energy card and attach it to this Pokémon. Shuffle your deck afterward. If you attached Energy in this way, heal 40 damage from this Pokémon."
       },
       {
         "name": "Gust",
@@ -273,7 +247,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -340,31 +314,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-3",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Butterfree-FLF3",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.04,
         "lowPrice": 0.1,
-        "trendPrice": 0.85,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.99,
-        "reverseHoloLow": 0.45,
-        "reverseHoloTrend": 1.88,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.29,
-        "avg7": 1.19,
-        "avg30": 0.96,
-        "reverseHoloAvg1": 1.99,
-        "reverseHoloAvg7": 1.81,
-        "reverseHoloAvg30": 1.48
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "xy2-4",
     "name": "Pineco",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -390,7 +351,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -452,31 +413,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-4",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Pineco-FLF4",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.19,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.25,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.23,
-        "reverseHoloAvg30": 0.33
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy2-5",
     "name": "Seedot",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -495,13 +443,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for a Basic Pok\u00e9mon and put it onto your Bench. Shuffle your deck afterward."
+        "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -562,31 +510,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-5",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Seedot-FLF5",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.04,
-        "reverseHoloTrend": 0.39,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.1,
-        "avg30": 0.37,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.37,
-        "reverseHoloAvg30": 0.36
+        "reverseHoloLow": 0.04
       }
     }
   },
   {
     "id": "xy2-6",
     "name": "Nuzleaf",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -623,7 +558,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -684,31 +619,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-6",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Nuzleaf-FLF6",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.44,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.66,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.38,
-        "reverseHoloAvg30": 0.75
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy2-7",
     "name": "Shiftry",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -733,14 +655,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "20\u00d7",
-        "text": "This attack does 20 damage times the number of Benched Pok\u00e9mon (both yours and your opponent's)."
+        "damage": "20×",
+        "text": "This attack does 20 damage times the number of Benched Pokémon (both yours and your opponent's)."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -769,7 +691,7 @@
     "number": "7",
     "artist": "Kouki Saitou",
     "rarity": "Rare Holo",
-    "flavorText": "A Pok\u00e9mon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
+    "flavorText": "A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.",
     "nationalPokedexNumbers": [
       275
     ],
@@ -802,31 +724,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-7",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Shiftry-FLF7",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.68,
-        "lowPrice": 0.1,
-        "trendPrice": 0.78,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.75,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.79,
-        "lowPriceExPlus": 0.1,
-        "avg1": 1.0,
-        "avg7": 0.71,
-        "avg30": 0.84,
-        "reverseHoloAvg1": 0.75,
-        "reverseHoloAvg7": 0.82,
-        "reverseHoloAvg30": 0.96
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.29
       }
     }
   },
   {
     "id": "xy2-8",
     "name": "Roselia",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -845,7 +754,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep."
       },
       {
         "name": "Cut",
@@ -861,7 +770,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -922,31 +831,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-8",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Roselia-FLF8",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.65,
-        "reverseHoloLow": 0.07,
-        "reverseHoloTrend": 0.56,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.12,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.68,
-        "reverseHoloAvg30": 0.62
+        "reverseHoloLow": 0.07
       }
     }
   },
   {
     "id": "xy2-9",
     "name": "Roserade",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -963,7 +859,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin until you get tails. For each heads, discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Flip a coin until you get tails. For each heads, discard an Energy attached to your opponent's Active Pokémon."
       },
       {
         "name": "Mega Drain",
@@ -974,13 +870,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "Heal 20 damage from this Pok\u00e9mon."
+        "text": "Heal 20 damage from this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1041,31 +937,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-9",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Roserade-FLF9",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.22,
         "lowPrice": 0.02,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.1,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.45,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.23,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.51,
-        "reverseHoloAvg30": 0.5
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy2-10",
     "name": "Maractus",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1081,7 +964,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "During your next turn, flip 6 coins instead of 2 for this Pok\u00e9mon's Prickly Needles attack."
+        "text": "During your next turn, flip 6 coins instead of 2 for this Pokémon's Prickly Needles attack."
       },
       {
         "name": "Prickly Needles",
@@ -1090,14 +973,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1125,7 +1008,7 @@
     "number": "10",
     "artist": "match",
     "rarity": "Uncommon",
-    "flavorText": "It uses an up-tempo song and dance to drive away the bird Pok\u00e9mon that prey on its flower seeds.",
+    "flavorText": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
     "nationalPokedexNumbers": [
       556
     ],
@@ -1158,31 +1041,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-10",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Maractus-FLF10",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.3,
-        "reverseHoloLow": 0.09,
-        "reverseHoloTrend": 0.88,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.12,
-        "avg30": 0.15,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.64,
-        "reverseHoloAvg30": 0.68
+        "reverseHoloLow": 0.09
       }
     }
   },
   {
     "id": "xy2-11",
     "name": "Charizard-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -1195,7 +1065,7 @@
       "M Charizard-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1205,7 +1075,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, search your deck for up to 3 basic Energy cards and attach them to this Pok\u00e9mon. Shuffle your deck afterward."
+        "text": "Flip a coin. If heads, search your deck for up to 3 basic Energy cards and attach them to this Pokémon. Shuffle your deck afterward."
       },
       {
         "name": "Fire Blast",
@@ -1217,13 +1087,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "120",
-        "text": "Discard an Energy attached to this Pok\u00e9mon."
+        "text": "Discard an Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1277,31 +1147,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-11",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Charizard-EX-V1-FLF11",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 4.0,
-        "lowPrice": 1.99,
-        "trendPrice": 6.49,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 8.05,
-        "lowPriceExPlus": 5.0,
-        "avg1": 6.0,
-        "avg7": 6.78,
-        "avg30": 6.04,
-        "reverseHoloAvg1": 9.99,
-        "reverseHoloAvg7": 9.03,
-        "reverseHoloAvg30": 5.72
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy2-12",
     "name": "Charizard-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -1314,7 +1171,7 @@
       "M Charizard-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1338,13 +1195,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "150",
-        "text": "This Pok\u00e9mon can't use Combustion Blast during your next turn."
+        "text": "This Pokémon can't use Combustion Blast during your next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1398,31 +1255,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-12",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Charizard-EX-FLF12",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 12.03,
         "lowPrice": 3.2,
-        "trendPrice": 15.32,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 19.11,
-        "lowPriceExPlus": 7.0,
-        "avg1": 13.0,
-        "avg7": 11.51,
-        "avg30": 12.58,
-        "reverseHoloAvg1": 44.0,
-        "reverseHoloAvg7": 17.92,
-        "reverseHoloAvg30": 14.9
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy2-13",
     "name": "M Charizard-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -1433,8 +1277,8 @@
     ],
     "evolvesFrom": "Charizard-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -1448,13 +1292,13 @@
         ],
         "convertedEnergyCost": 5,
         "damage": "300",
-        "text": "This Pok\u00e9mon does 50 damage to itself."
+        "text": "This Pokémon does 50 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1507,31 +1351,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-13",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/MCharizard-EX-V1-FLF13",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 39.4,
         "lowPrice": 10.0,
-        "trendPrice": 35.84,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 22.86,
-        "lowPriceExPlus": 29.5,
-        "avg1": 40.0,
-        "avg7": 33.99,
-        "avg30": 30.21,
-        "reverseHoloAvg1": 17.99,
-        "reverseHoloAvg7": 24.25,
-        "reverseHoloAvg30": 21.0
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy2-14",
     "name": "Ponyta",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1550,7 +1381,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pok\u00e9mon during your opponent's next turn."
+        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
       },
       {
         "name": "Flame Tail",
@@ -1566,7 +1397,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1627,31 +1458,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-14",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Ponyta-FLF14",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.15,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.63,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.12,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.33,
-        "reverseHoloAvg7": 0.42,
-        "reverseHoloAvg30": 0.79
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy2-15",
     "name": "Rapidash",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1668,7 +1486,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "20",
-        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pok\u00e9mon during your opponent's next turn."
+        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
       },
       {
         "name": "Overrun",
@@ -1678,13 +1496,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "This attack does 20 damage to 1 of your opponent's Benched Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "set": {
@@ -1708,7 +1526,7 @@
     "number": "15",
     "artist": "Akira Komayama",
     "rarity": "Uncommon",
-    "flavorText": "Very competitive, this Pok\u00e9mon will chase anything that moves fast in the hopes of racing it.",
+    "flavorText": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
     "nationalPokedexNumbers": [
       78
     ],
@@ -1741,31 +1559,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-15",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Rapidash-FLF15",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.55,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 1.26,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.09,
-        "avg7": 0.17,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.55,
-        "reverseHoloAvg7": 1.28,
-        "reverseHoloAvg30": 1.17
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy2-16",
     "name": "Torkoal",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -1792,13 +1597,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "Flip a coin. If tails, discard an Energy attached to this Pok\u00e9mon."
+        "text": "Flip a coin. If tails, discard an Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -1860,31 +1665,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-16",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Torkoal-FLF16",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.05,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.85,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.58,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.06,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.64,
-        "reverseHoloAvg30": 0.59
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy2-17",
     "name": "Fletchinder",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -1910,7 +1702,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -1977,31 +1769,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-17",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Fletchinder-FLF17",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.51,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.06,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.46,
-        "reverseHoloAvg30": 0.54
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy2-18",
     "name": "Litleo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2028,7 +1807,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2090,31 +1869,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-18",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Litleo-FLF18",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.38,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.06,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.42,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-19",
     "name": "Litleo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2140,7 +1906,7 @@
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2202,31 +1968,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-19",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Litleo-FLF19",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.16,
-        "reverseHoloLow": 0.07,
-        "reverseHoloTrend": 0.21,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.06,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.12,
-        "reverseHoloAvg7": 0.27,
-        "reverseHoloAvg30": 0.31
+        "reverseHoloLow": 0.07
       }
     }
   },
   {
     "id": "xy2-20",
     "name": "Pyroar",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2238,7 +1991,7 @@
     "abilities": [
       {
         "name": "Intimidating Mane",
-        "text": "Prevent all damage done to this Pok\u00e9mon by attacks from your opponent's Basic Pok\u00e9mon.",
+        "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Basic Pokémon.",
         "type": "Ability"
       }
     ],
@@ -2252,13 +2005,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
-        "text": "You may discard a Fire Energy attached to this Pok\u00e9mon. If you do, this attack does 30 more damage."
+        "text": "You may discard a Fire Energy attached to this Pokémon. If you do, this attack does 30 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2320,31 +2073,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-20",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Pyroar-FLF20",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.0,
-        "lowPrice": 0.1,
-        "trendPrice": 1.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.23,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 1.68,
-        "lowPriceExPlus": 0.35,
-        "avg1": 2.0,
-        "avg7": 1.27,
-        "avg30": 0.82,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 1.76,
-        "reverseHoloAvg30": 1.21
+        "lowPrice": 0.15,
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy2-21",
     "name": "Qwilfish",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2355,7 +2095,7 @@
     "abilities": [
       {
         "name": "Counterattack Quills",
-        "text": "If this Pok\u00e9mon is your Active Pok\u00e9mon and is damaged by an opponent's attack (even if this Pok\u00e9mon is Knocked Out), put 2 damage counters on the Attacking Pok\u00e9mon.",
+        "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), put 2 damage counters on the Attacking Pokémon.",
         "type": "Ability"
       }
     ],
@@ -2368,13 +2108,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2435,31 +2175,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-21",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Qwilfish-FLF21",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.39,
         "lowPrice": 0.02,
-        "trendPrice": 0.46,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.95,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.74,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.2,
-        "avg7": 0.37,
-        "avg30": 0.36,
-        "reverseHoloAvg1": 0.95,
-        "reverseHoloAvg7": 0.86,
-        "reverseHoloAvg30": 0.88
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy2-22",
     "name": "Feebas",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2484,7 +2211,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2545,31 +2272,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-22",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Feebas-FLF22",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.39,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.44,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.07,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.44,
-        "reverseHoloAvg30": 0.46
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-23",
     "name": "Milotic",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2581,7 +2295,7 @@
     "abilities": [
       {
         "name": "Energy Grace",
-        "text": "Once during your turn (before your attack) you may Knock Out this Pok\u00e9mon. If you do, attach 3 basic Energy from your discard pile to 1 of your Pok\u00e9mon (excluding Pok\u00e9mon-EX).",
+        "text": "Once during your turn (before your attack) you may Knock Out this Pokémon. If you do, attach 3 basic Energy from your discard pile to 1 of your Pokémon (excluding Pokémon-EX).",
         "type": "Ability"
       }
     ],
@@ -2601,7 +2315,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2663,31 +2377,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-23",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Milotic-FLF23",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.44,
         "lowPrice": 0.08,
-        "trendPrice": 1.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.9,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 1.66,
-        "lowPriceExPlus": 0.1,
-        "avg1": 2.05,
-        "avg7": 1.11,
-        "avg30": 0.92,
-        "reverseHoloAvg1": 0.9,
-        "reverseHoloAvg7": 1.97,
-        "reverseHoloAvg30": 1.59
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "xy2-24",
     "name": "Spheal",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -2713,7 +2414,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2775,31 +2476,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-24",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Spheal-FLF24",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.35,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.48,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.09,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 0.69,
-        "reverseHoloAvg7": 0.39,
-        "reverseHoloAvg30": 0.69
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy2-25",
     "name": "Sealeo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -2820,7 +2508,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Heal 60 damage from this Pok\u00e9mon. This Pok\u00e9mon is now Asleep."
+        "text": "Heal 60 damage from this Pokémon. This Pokémon is now Asleep."
       },
       {
         "name": "Ice Ball",
@@ -2837,7 +2525,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -2900,31 +2588,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-25",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Sealeo-FLF25",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.13,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.33,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.64,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.11,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.26,
-        "reverseHoloAvg30": 0.78
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-26",
     "name": "Walrein",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -2943,7 +2618,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "Your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Your opponent's Active Pokémon is now Asleep."
       },
       {
         "name": "Big Tusk",
@@ -2955,13 +2630,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "120-",
-        "text": "This attack does 120 damage minus 10 damage for each damage counter on this Pok\u00e9mon."
+        "text": "This attack does 120 damage minus 10 damage for each damage counter on this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3025,31 +2700,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-26",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Walrein-FLF26",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.49,
         "lowPrice": 0.02,
-        "trendPrice": 0.44,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.6,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 1.2,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.49,
-        "avg7": 0.55,
-        "avg30": 0.41,
-        "reverseHoloAvg1": 1.95,
-        "reverseHoloAvg7": 1.08,
-        "reverseHoloAvg30": 1.1
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "xy2-27",
     "name": "Luvdisc",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3081,7 +2743,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3109,7 +2771,7 @@
     "number": "27",
     "artist": "Atsuko Nishida",
     "rarity": "Uncommon",
-    "flavorText": "It lives in warm seas. It is said that a couple finding this Pok\u00e9mon will be blessed with eternal love.",
+    "flavorText": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
     "nationalPokedexNumbers": [
       370
     ],
@@ -3142,31 +2804,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-27",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Luvdisc-FLF27",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.3,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 0.55,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.12,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.49,
-        "reverseHoloAvg30": 0.66
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy2-28",
     "name": "Buizel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3201,7 +2850,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3262,31 +2911,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-28",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Buizel-FLF28",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.07,
-        "reverseHoloTrend": 0.46,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.41,
-        "reverseHoloAvg30": 0.42
+        "reverseHoloLow": 0.07
       }
     }
   },
   {
     "id": "xy2-29",
     "name": "Floatzel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3303,7 +2939,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Shuffle 3 Pok\u00e9mon from your discard pile into your deck."
+        "text": "Shuffle 3 Pokémon from your discard pile into your deck."
       },
       {
         "name": "Screw Tail",
@@ -3313,13 +2949,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3380,31 +3016,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-29",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Floatzel-FLF29",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.15,
         "lowPrice": 0.1,
-        "trendPrice": 0.22,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.46,
-        "reverseHoloLow": 0.35,
-        "reverseHoloTrend": 0.88,
-        "lowPriceExPlus": 0.1,
-        "avg1": 0.1,
-        "avg7": 0.37,
-        "avg30": 0.46,
-        "reverseHoloAvg1": 0.49,
-        "reverseHoloAvg7": 0.53,
-        "reverseHoloAvg30": 0.93
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy2-30",
     "name": "Bergmite",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3440,7 +3063,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3502,31 +3125,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-30",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Bergmite-FLF30",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.39,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.27,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.09,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.39,
-        "reverseHoloAvg7": 0.22,
-        "reverseHoloAvg30": 0.44
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy2-31",
     "name": "Avalugg",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3545,7 +3155,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "40",
-        "text": "During your opponent's next turn, any damage done to this Pok\u00e9mon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
       },
       {
         "name": "Shatter",
@@ -3563,7 +3173,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -3627,31 +3237,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-31",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Avalugg-V1-FLF31",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.45,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.09,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.36,
-        "reverseHoloAvg30": 0.42
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy2-32",
     "name": "Shinx",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -3670,7 +3267,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Static Shock",
@@ -3686,7 +3283,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3753,31 +3350,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-32",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Shinx-FLF32",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.57,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.44,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.1,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.45,
-        "reverseHoloAvg30": 0.56
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy2-33",
     "name": "Luxio",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -3807,14 +3391,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "40\u00d7",
+        "damage": "40×",
         "text": "This attack does 40 damage times the number of Prize cards your opponent has taken."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3881,31 +3465,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-33",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Luxio-FLF33",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 1.03,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.1,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.95,
-        "reverseHoloAvg7": 0.57,
-        "reverseHoloAvg30": 0.9
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy2-34",
     "name": "Luxray",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -3934,13 +3505,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "120",
-        "text": "This Pok\u00e9mon does 30 damage to itself."
+        "text": "This Pokémon does 30 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -3974,7 +3545,7 @@
     "number": "34",
     "artist": "Hitoshi Ariga",
     "rarity": "Rare",
-    "flavorText": "When its eyes gleam gold, it can spot hiding prey\u2013even those taking shelter behind a wall.",
+    "flavorText": "When its eyes gleam gold, it can spot hiding prey–even those taking shelter behind a wall.",
     "nationalPokedexNumbers": [
       405
     ],
@@ -4007,31 +3578,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-34",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Luxray-FLF34",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.86,
         "lowPrice": 0.15,
-        "trendPrice": 0.51,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.48,
-        "reverseHoloLow": 0.5,
-        "reverseHoloTrend": 1.72,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.27,
-        "avg7": 0.63,
-        "avg30": 0.71,
-        "reverseHoloAvg1": 1.99,
-        "reverseHoloAvg7": 1.74,
-        "reverseHoloAvg30": 1.44
+        "reverseHoloLow": 0.5
       }
     }
   },
   {
     "id": "xy2-35",
     "name": "Magnezone-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -4041,7 +3599,7 @@
       "Lightning"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -4063,13 +3621,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "This attack does 50 damage to 2 of your opponent's Pok\u00e9mon. (Don't apply Weakness or Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4130,31 +3688,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-35",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Magnezone-EX-FLF35",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 3.31,
-        "lowPrice": 1.0,
-        "trendPrice": 4.01,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.15,
-        "lowPriceExPlus": 1.0,
-        "avg1": 5.99,
-        "avg7": 3.31,
-        "avg30": 3.36,
-        "reverseHoloAvg1": 2.8,
-        "reverseHoloAvg7": 3.2,
-        "reverseHoloAvg30": 2.93
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy2-36",
     "name": "Helioptile",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4183,13 +3728,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4256,31 +3801,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-36",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Helioptile-FLF36",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.22,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.33,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.05,
-        "avg30": 0.06,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.36,
-        "reverseHoloAvg30": 0.33
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy2-37",
     "name": "Heliolisk",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4314,7 +3846,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4381,31 +3913,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-37",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Heliolisk-FLF37",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.35,
         "lowPrice": 0.02,
-        "trendPrice": 0.38,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.55,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.7,
-        "lowPriceExPlus": 0.08,
-        "avg1": 0.86,
-        "avg7": 0.37,
-        "avg30": 0.34,
-        "reverseHoloAvg1": 0.89,
-        "reverseHoloAvg7": 0.61,
-        "reverseHoloAvg30": 0.71
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-38",
     "name": "Duskull",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4424,7 +3943,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Put a Basic Pok\u00e9mon from your opponent's discard pile onto his or her Bench."
+        "text": "Put a Basic Pokémon from your opponent's discard pile onto his or her Bench."
       },
       {
         "name": "Sneaky Placement",
@@ -4433,13 +3952,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Put 1 damage counter on your opponent's Active Pok\u00e9mon."
+        "text": "Put 1 damage counter on your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4506,31 +4025,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-38",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Duskull-FLF38",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.31,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.26,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.16,
-        "avg7": 0.17,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.15,
-        "reverseHoloAvg7": 0.29,
-        "reverseHoloAvg30": 0.39
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "xy2-39",
     "name": "Dusclops",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -4550,7 +4056,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Your opponent's Active Pok\u00e9mon is now Confused."
+        "text": "Your opponent's Active Pokémon is now Confused."
       },
       {
         "name": "Cursed Drop",
@@ -4561,13 +4067,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "Put 4 damage counters on your opponent's Pok\u00e9mon in any way you like."
+        "text": "Put 4 damage counters on your opponent's Pokémon in any way you like."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4635,31 +4141,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-39",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Dusclops-FLF39",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.19,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.57,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.1,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 0.19,
-        "reverseHoloAvg7": 0.39,
-        "reverseHoloAvg30": 0.61
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy2-40",
     "name": "Dusknoir",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -4671,7 +4164,7 @@
     "abilities": [
       {
         "name": "Shadow Void",
-        "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pok\u00e9mon to this Pok\u00e9mon.",
+        "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to this Pokémon.",
         "type": "Ability"
       }
     ],
@@ -4685,13 +4178,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "Put damage counters on 1 of your opponent's Pok\u00e9mon equal to the number of damage counters on this Pok\u00e9mon."
+        "text": "Put damage counters on 1 of your opponent's Pokémon equal to the number of damage counters on this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Darkness",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -4760,31 +4253,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-40",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Dusknoir-FLF40",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.12,
         "lowPrice": 0.15,
-        "trendPrice": 0.88,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.65,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 1.23,
-        "lowPriceExPlus": 0.15,
-        "avg1": 0.25,
-        "avg7": 1.06,
-        "avg30": 0.86,
-        "reverseHoloAvg1": 0.65,
-        "reverseHoloAvg7": 1.03,
-        "reverseHoloAvg30": 1.26
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy2-41",
     "name": "Toxicroak-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -4794,7 +4274,7 @@
       "Psychic"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -4805,7 +4285,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned. Put 3 damage counters instead of 1 on that Pok\u00e9mon between turns."
+        "text": "Your opponent's Active Pokémon is now Poisoned. Put 3 damage counters instead of 1 on that Pokémon between turns."
       },
       {
         "name": "Smash Uppercut",
@@ -4822,7 +4302,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4875,31 +4355,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-41",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Toxicroak-EX-FLF41",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.8,
         "lowPrice": 1.0,
-        "trendPrice": 3.41,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 3.75,
-        "lowPriceExPlus": 2.45,
-        "avg1": 1.99,
-        "avg7": 3.47,
-        "avg30": 3.84,
-        "reverseHoloAvg1": 3.17,
-        "reverseHoloAvg7": 4.16,
-        "reverseHoloAvg30": 3.59
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy2-42",
     "name": "Espurr",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -4928,13 +4395,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "10",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -4995,31 +4462,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-42",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Espurr-FLF42",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.16,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.14,
-        "avg7": 0.12,
-        "avg30": 0.18,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.29,
-        "reverseHoloAvg30": 0.33
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy2-43",
     "name": "Meowstic",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5036,7 +4490,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Move as many damage counters on your opponent's Pok\u00e9mon as you like to any of your opponent's other Pok\u00e9mon in any way you like."
+        "text": "Move as many damage counters on your opponent's Pokémon as you like to any of your opponent's other Pokémon in any way you like."
       },
       {
         "name": "Psychic",
@@ -5047,13 +4501,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
-        "text": "Does 10 more damage for each Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Does 10 more damage for each Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5114,31 +4568,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-43",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Meowstic-FLF43",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.46,
         "lowPrice": 0.02,
-        "trendPrice": 0.45,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.06,
-        "reverseHoloTrend": 0.62,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.28,
-        "avg30": 0.32,
-        "reverseHoloAvg1": 0.8,
-        "reverseHoloAvg7": 0.79,
-        "reverseHoloAvg30": 0.8
+        "reverseHoloLow": 0.06
       }
     }
   },
   {
     "id": "xy2-44",
     "name": "Skrelp",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5157,13 +4598,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5224,31 +4665,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-44",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Skrelp-FLF44",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.1,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.27,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.38,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.06,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.26,
-        "reverseHoloAvg30": 0.42
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-45",
     "name": "Geodude",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5276,14 +4704,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "10\u00d7",
-        "text": "This attack does 10 damage times the number of damage counters on this Pok\u00e9mon."
+        "damage": "10×",
+        "text": "This attack does 10 damage times the number of damage counters on this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5345,31 +4773,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-45",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Geodude-FLF45",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.32,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.34,
-        "reverseHoloAvg30": 0.29
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy2-46",
     "name": "Graveler",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5391,7 +4806,7 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "This Pok\u00e9mon does 20 damage to itself."
+        "text": "This Pokémon does 20 damage to itself."
       },
       {
         "name": "Rollout",
@@ -5409,7 +4824,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5472,31 +4887,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-46",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Graveler-FLF46",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.91,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.07,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.81,
-        "reverseHoloAvg30": 0.63
+        "reverseHoloLow": 0.02
       }
     }
   },
   {
     "id": "xy2-47",
     "name": "Golem",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -5527,13 +4929,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "150",
-        "text": "This Pok\u00e9mon does 100 damage to itself."
+        "text": "This Pokémon does 100 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5596,31 +4998,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-47",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Golem-FLF47",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.47,
         "lowPrice": 0.1,
-        "trendPrice": 0.35,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.84,
-        "reverseHoloLow": 0.6,
-        "reverseHoloTrend": 0.91,
-        "lowPriceExPlus": 0.25,
-        "avg1": 0.05,
-        "avg7": 0.46,
-        "avg30": 0.54,
-        "reverseHoloAvg1": 0.96,
-        "reverseHoloAvg7": 1.06,
-        "reverseHoloAvg30": 1.19
+        "reverseHoloLow": 0.6
       }
     }
   },
   {
     "id": "xy2-48",
     "name": "Binacle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5639,14 +5028,14 @@
           "Fighting"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30\u00d7",
+        "damage": "30×",
         "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5709,31 +5098,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-48",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Binacle-FLF48",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.27,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.37,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.06,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.39,
-        "reverseHoloAvg30": 0.41
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-49",
     "name": "Barbaracle",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -5750,7 +5126,7 @@
           "Fighting"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30\u00d7",
+        "damage": "30×",
         "text": "Discard as many Fighting Energy cards as you like from your hand. This attack does 30 damage times the number of Energy cards you discarded."
       },
       {
@@ -5768,7 +5144,7 @@
     "weaknesses": [
       {
         "type": "Grass",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -5830,31 +5206,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-49",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Barbaracle-FLF49",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.45,
         "lowPrice": 0.05,
-        "trendPrice": 0.41,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.96,
-        "reverseHoloLow": 0.4,
-        "reverseHoloTrend": 1.15,
-        "lowPriceExPlus": 0.19,
-        "avg1": 0.95,
-        "avg7": 0.51,
-        "avg30": 0.53,
-        "reverseHoloAvg1": 0.96,
-        "reverseHoloAvg7": 1.34,
-        "reverseHoloAvg30": 0.94
+        "reverseHoloLow": 0.19
       }
     }
   },
   {
     "id": "xy2-50",
     "name": "Sneasel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5889,7 +5252,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -5956,31 +5319,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-50",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Sneasel-FLF50",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.14,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.35,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.23,
-        "avg7": 0.13,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.36,
-        "reverseHoloAvg30": 0.38
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-51",
     "name": "Sneasel",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -5999,7 +5349,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Your opponent's Active Pok\u00e9mon is now Asleep."
+        "text": "Your opponent's Active Pokémon is now Asleep."
       },
       {
         "name": "Scratch",
@@ -6015,7 +5365,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6082,31 +5432,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-51",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Sneasel-FLF51",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.07,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.13,
-        "reverseHoloTrend": 0.15,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.07,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 0.18,
-        "reverseHoloAvg30": 0.4
+        "reverseHoloLow": 0.13
       }
     }
   },
   {
     "id": "xy2-52",
     "name": "Weavile",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6123,7 +5460,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Search your deck for up to 2 Basic Pok\u00e9mon and put them onto your Bench. Shuffle your deck afterward."
+        "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
       },
       {
         "name": "Claw Rend",
@@ -6134,13 +5471,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60+",
-        "text": "If your opponent's Active Pok\u00e9mon already has any damage counters on it, this attack does 30 more damage."
+        "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 30 more damage."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6207,31 +5544,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-52",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Weavile-FLF52",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.47,
         "lowPrice": 0.05,
-        "trendPrice": 0.31,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.98,
-        "reverseHoloLow": 0.39,
-        "reverseHoloTrend": 1.1,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.25,
-        "avg7": 0.41,
-        "avg30": 0.46,
-        "reverseHoloAvg1": 1.0,
-        "reverseHoloAvg7": 1.05,
-        "reverseHoloAvg30": 0.98
+        "reverseHoloLow": 0.4
       }
     }
   },
   {
     "id": "xy2-53",
     "name": "Stunky",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6250,7 +5574,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
       },
       {
         "name": "Slash",
@@ -6266,7 +5590,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6300,7 +5624,7 @@
     "number": "53",
     "artist": "Kyoko Umemoto",
     "rarity": "Common",
-    "flavorText": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pok\u00e9mon away.",
+    "flavorText": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
     "nationalPokedexNumbers": [
       434
     ],
@@ -6333,31 +5657,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-53",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Stunky-FLF53",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.18,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.42,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.12,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.39,
-        "reverseHoloAvg7": 0.43,
-        "reverseHoloAvg30": 0.34
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy2-54",
     "name": "Stunky",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6393,7 +5704,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6427,7 +5738,7 @@
     "number": "54",
     "artist": "Masakazu Fukuda",
     "rarity": "Common",
-    "flavorText": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pok\u00e9mon away.",
+    "flavorText": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
     "nationalPokedexNumbers": [
       434
     ],
@@ -6460,31 +5771,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-54",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Stunky-FLF54",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.45,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.41,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.12,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.45,
-        "reverseHoloAvg7": 0.37,
-        "reverseHoloAvg30": 0.37
+        "reverseHoloLow": 0.15
       }
     }
   },
   {
     "id": "xy2-55",
     "name": "Skuntank",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6502,7 +5800,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "Your opponent switches his or her Active Pok\u00e9mon with 1 of his or her Benched Pok\u00e9mon."
+        "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
       },
       {
         "name": "Acid Spray",
@@ -6513,13 +5811,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "70",
-        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pok\u00e9mon."
+        "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6587,31 +5885,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-55",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Skuntank-FLF55",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.22,
         "lowPrice": 0.05,
-        "trendPrice": 0.21,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.7,
-        "reverseHoloLow": 0.15,
-        "reverseHoloTrend": 0.86,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.1,
-        "avg7": 0.22,
-        "avg30": 0.36,
-        "reverseHoloAvg1": 1.7,
-        "reverseHoloAvg7": 0.98,
-        "reverseHoloAvg30": 0.88
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy2-56",
     "name": "Sandile",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6637,7 +5922,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6705,31 +5990,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-56",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Sandile-FLF56",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.04,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.36,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.29,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.06,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.26,
-        "reverseHoloAvg30": 0.31
+        "reverseHoloLow": 0.08
       }
     }
   },
   {
     "id": "xy2-57",
     "name": "Krokorok",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6749,7 +6021,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       },
       {
         "name": "Double Swing",
@@ -6759,14 +6031,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 3,
-        "damage": "60\u00d7",
+        "damage": "60×",
         "text": "Flip 2 coins. This attack does 60 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6834,31 +6106,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-57",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Krokorok-FLF57",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.7,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.44,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.12,
-        "avg7": 0.12,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.46,
-        "reverseHoloAvg30": 0.51
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy2-58",
     "name": "Scraggy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -6877,14 +6136,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "20\u00d7",
+        "damage": "20×",
         "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -6952,31 +6211,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-58",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Scraggy-FLF58",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.2,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.57,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.12,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.36,
-        "reverseHoloAvg30": 0.57
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-59",
     "name": "Scrafty",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -6994,7 +6240,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "30",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       },
       {
         "name": "Jet Headbutt",
@@ -7011,7 +6257,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7079,31 +6325,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-59",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Scrafty-FLF59",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.28,
         "lowPrice": 0.05,
-        "trendPrice": 0.34,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.66,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 1.04,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.3,
-        "avg7": 0.28,
-        "avg30": 0.33,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.74,
-        "reverseHoloAvg30": 0.99
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-60",
     "name": "Forretress",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7115,7 +6348,7 @@
     "abilities": [
       {
         "name": "Thorn Tempest",
-        "text": "When you play this Pok\u00e9mon from your hand to evolve 1 of your Pok\u00e9mon, you may put 1 damage counter on each of your opponent's Pok\u00e9mon.",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 1 damage counter on each of your opponent's Pokémon.",
         "type": "Ability"
       }
     ],
@@ -7128,13 +6361,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "This attack does 20 more damage for each Colorless in your opponent's Active Pok\u00e9mon's Retreat Cost."
+        "text": "This attack does 20 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
       }
     ],
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7203,31 +6436,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-60",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Forretress-FLF60",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.02,
         "lowPrice": 0.05,
-        "trendPrice": 1.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 2.64,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 2.95,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.59,
-        "avg7": 1.08,
-        "avg30": 0.9,
-        "reverseHoloAvg1": 4.0,
-        "reverseHoloAvg7": 2.7,
-        "reverseHoloAvg30": 1.74
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy2-61",
     "name": "Durant",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7259,7 +6479,7 @@
     "weaknesses": [
       {
         "type": "Fire",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7326,31 +6546,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-61",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Durant-FLF61",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.55,
         "lowPrice": 0.05,
-        "trendPrice": 0.43,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.29,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.59,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.22,
-        "avg7": 0.6,
-        "avg30": 0.54,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.44,
-        "reverseHoloAvg30": 0.81
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy2-62",
-    "name": "Flab\u00e9b\u00e9",
-    "supertype": "Pok\u00e9mon",
+    "name": "Flabébé",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7369,13 +6576,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 10 damage from each of your Pok\u00e9mon."
+        "text": "Heal 10 damage from each of your Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7409,7 +6616,7 @@
     "number": "62",
     "artist": "5ban Graphics",
     "rarity": "Common",
-    "flavorText": "It draws out and controls the hidden power of flowers. The flower Flab\u00e9b\u00e9 holds is most likely part of its body.",
+    "flavorText": "It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body.",
     "nationalPokedexNumbers": [
       669
     ],
@@ -7442,31 +6649,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-62",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Flabebe-FLF62",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.08,
-        "reverseHoloTrend": 0.7,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.29,
-        "avg7": 0.12,
-        "avg30": 0.11,
-        "reverseHoloAvg1": 0.75,
-        "reverseHoloAvg7": 0.63,
-        "reverseHoloAvg30": 0.63
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy2-63",
-    "name": "Flab\u00e9b\u00e9",
-    "supertype": "Pok\u00e9mon",
+    "name": "Flabébé",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7491,7 +6685,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7525,7 +6719,7 @@
     "number": "63",
     "artist": "5ban Graphics",
     "rarity": "Common",
-    "flavorText": "It draws out and controls the hidden power of flowers. The flower Flab\u00e9b\u00e9 holds is most likely part of its body.",
+    "flavorText": "It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body.",
     "nationalPokedexNumbers": [
       669
     ],
@@ -7558,31 +6752,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-63",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Flabebe-FLF63",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.11,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.51,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.13,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.52,
-        "reverseHoloAvg30": 0.42
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy2-64",
     "name": "Floette",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7590,14 +6771,14 @@
     "types": [
       "Fairy"
     ],
-    "evolvesFrom": "Flab\u00e9b\u00e9",
+    "evolvesFrom": "Flabébé",
     "evolvesTo": [
       "Florges"
     ],
     "abilities": [
       {
         "name": "Flower Veil",
-        "text": "Each of your Grass Pok\u00e9mon in play gets +20 HP.",
+        "text": "Each of your Grass Pokémon in play gets +20 HP.",
         "type": "Ability"
       }
     ],
@@ -7615,7 +6796,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7682,31 +6863,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-64",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Floette-FLF64",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.59,
         "lowPrice": 0.03,
-        "trendPrice": 0.64,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.45,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 0.8,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.6,
-        "avg7": 0.65,
-        "avg30": 0.59,
-        "reverseHoloAvg1": 0.89,
-        "reverseHoloAvg7": 0.65,
-        "reverseHoloAvg30": 0.71
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy2-65",
     "name": "Floette",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -7714,7 +6882,7 @@
     "types": [
       "Fairy"
     ],
-    "evolvesFrom": "Flab\u00e9b\u00e9",
+    "evolvesFrom": "Flabébé",
     "evolvesTo": [
       "Florges"
     ],
@@ -7726,7 +6894,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 10 damage to each of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       },
       {
         "name": "Razor Leaf",
@@ -7742,7 +6910,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7809,31 +6977,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-65",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Floette-FLF65",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.23,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.35,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 1.03,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.11,
-        "avg7": 0.25,
-        "avg30": 0.2,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 1.31,
-        "reverseHoloAvg30": 0.88
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-66",
     "name": "Florges",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -7859,13 +7014,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "This attack does 20 damage to each of your opponent's Pok\u00e9mon. (Don't apply Weakness and Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -7932,31 +7087,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-66",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Florges-FLF66",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.07,
         "lowPrice": 0.2,
-        "trendPrice": 1.2,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.97,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.05,
-        "lowPriceExPlus": 0.2,
-        "avg1": 0.35,
-        "avg7": 1.04,
-        "avg30": 0.99,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 1.06,
-        "reverseHoloAvg30": 1.13
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy2-67",
     "name": "Spritzee",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -7991,7 +7133,7 @@
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8058,31 +7200,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-67",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Spritzee-FLF67",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.1,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.23,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.24,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.1,
-        "avg7": 0.1,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.22,
-        "reverseHoloAvg30": 0.41
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-68",
     "name": "Carbink",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8098,7 +7227,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pok\u00e9mon during your opponent's next turn."
+        "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
       },
       {
         "name": "Wonder Blast",
@@ -8109,13 +7238,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "40+",
-        "text": "This attack does 20 more damage for each Fairy Energy attached to this Pok\u00e9mon."
+        "text": "This attack does 20 more damage for each Fairy Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Metal",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -8183,31 +7312,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-68",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Carbink-FLF68",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.03,
         "lowPrice": 0.1,
-        "trendPrice": 1.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.12,
-        "reverseHoloTrend": 1.13,
-        "lowPriceExPlus": 0.15,
-        "avg1": 0.19,
-        "avg7": 0.93,
-        "avg30": 0.79,
-        "reverseHoloAvg1": 0.8,
-        "reverseHoloAvg7": 1.13,
-        "reverseHoloAvg30": 1.07
+        "reverseHoloLow": 0.12
       }
     }
   },
   {
     "id": "xy2-69",
     "name": "M Charizard-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -8218,8 +7334,8 @@
     ],
     "evolvesFrom": "Charizard-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -8239,7 +7355,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8294,31 +7410,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-69",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/MCharizard-EX-V2-FLF69",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 111.9,
-        "lowPrice": 14.95,
-        "trendPrice": 109.45,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 44.08,
-        "lowPriceExPlus": 64.99,
-        "avg1": 69.0,
-        "avg7": 133.43,
-        "avg30": 107.74,
-        "reverseHoloAvg1": 12.5,
-        "reverseHoloAvg7": 37.93,
-        "reverseHoloAvg30": 47.45
+        "lowPrice": 24.0,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy2-70",
     "name": "Druddigon",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8335,7 +7438,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20+",
-        "text": "If any of your Pok\u00e9mon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 70 more damage."
+        "text": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 70 more damage."
       },
       {
         "name": "Dragon Claw",
@@ -8353,7 +7456,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8415,31 +7518,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-70",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Druddigon-FLF70",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.88,
         "lowPrice": 0.15,
-        "trendPrice": 0.88,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 1.11,
-        "lowPriceExPlus": 0.15,
-        "avg1": 0.3,
-        "avg7": 0.91,
-        "avg30": 0.93,
-        "reverseHoloAvg1": 0.38,
-        "reverseHoloAvg7": 1.52,
-        "reverseHoloAvg30": 1.18
+        "reverseHoloLow": 0.25
       }
     }
   },
   {
     "id": "xy2-71",
     "name": "Dragalge",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8451,7 +7541,7 @@
     "abilities": [
       {
         "name": "Poison Barrier",
-        "text": "Your opponent's Poisoned Pok\u00e9mon can't retreat.",
+        "text": "Your opponent's Poisoned Pokémon can't retreat.",
         "type": "Ability"
       }
     ],
@@ -8465,13 +7555,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Poisoned."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
       }
     ],
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8532,31 +7622,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-71",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Dragalge-FLF71",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.67,
-        "lowPrice": 0.09,
-        "trendPrice": 0.67,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.87,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.99,
-        "lowPriceExPlus": 0.15,
-        "avg1": 1.5,
-        "avg7": 0.79,
-        "avg30": 0.74,
-        "reverseHoloAvg1": 1.42,
-        "reverseHoloAvg7": 0.87,
-        "reverseHoloAvg30": 1.21
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-72",
     "name": "Goomy",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8575,7 +7652,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 10 damage from this Pok\u00e9mon."
+        "text": "Heal 10 damage from this Pokémon."
       },
       {
         "name": "Tackle",
@@ -8591,7 +7668,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8620,7 +7697,7 @@
     "number": "72",
     "artist": "5ban Graphics",
     "rarity": "Common",
-    "flavorText": "The weakest Dragon-type Pok\u00e9mon, it lives in damp, shady places, so its body doesn't dry out.",
+    "flavorText": "The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn't dry out.",
     "nationalPokedexNumbers": [
       704
     ],
@@ -8653,31 +7730,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-72",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Goomy-FLF72",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.08,
         "lowPrice": 0.02,
-        "trendPrice": 0.08,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.18,
-        "reverseHoloLow": 0.12,
-        "reverseHoloTrend": 0.29,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.05,
-        "avg7": 0.07,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.1,
-        "reverseHoloAvg7": 0.3,
-        "reverseHoloAvg30": 0.43
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-73",
     "name": "Sliggoo",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -8697,7 +7761,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Heal 30 damage from this Pok\u00e9mon."
+        "text": "Heal 30 damage from this Pokémon."
       },
       {
         "name": "Gentle Slap",
@@ -8714,7 +7778,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8777,31 +7841,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-73",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Sliggoo-FLF73",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.13,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.58,
-        "reverseHoloLow": 0.03,
-        "reverseHoloTrend": 0.42,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.2,
-        "avg7": 0.11,
-        "avg30": 0.13,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.48,
-        "reverseHoloAvg30": 0.58
+        "reverseHoloLow": 0.03
       }
     }
   },
   {
     "id": "xy2-74",
     "name": "Goodra",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -8813,7 +7864,7 @@
     "abilities": [
       {
         "name": "Gooey Regeneration",
-        "text": "As often as you like during your turn (before your attack), you may discard an Energy attached to this Pok\u00e9mon. If you do, heal 60 damage from this Pok\u00e9mon.",
+        "text": "As often as you like during your turn (before your attack), you may discard an Energy attached to this Pokémon. If you do, heal 60 damage from this Pokémon.",
         "type": "Ability"
       }
     ],
@@ -8833,7 +7884,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -8863,7 +7914,7 @@
     "number": "74",
     "artist": "5ban Graphics",
     "rarity": "Rare Holo",
-    "flavorText": "This very friendly Dragon-type Pok\u00e9mon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
+    "flavorText": "This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.",
     "nationalPokedexNumbers": [
       706
     ],
@@ -8896,31 +7947,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-74",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Goodra-FLF74",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.15,
-        "lowPrice": 0.18,
-        "trendPrice": 0.95,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.6,
-        "reverseHoloLow": 0.39,
-        "reverseHoloTrend": 0.79,
-        "lowPriceExPlus": 0.4,
-        "avg1": 0.25,
-        "avg7": 1.19,
-        "avg30": 1.08,
-        "reverseHoloAvg1": 0.39,
-        "reverseHoloAvg7": 0.75,
-        "reverseHoloAvg30": 1.18
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy2-75",
     "name": "Pidgey",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -8939,13 +7977,13 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10",
-        "text": "Before doing damage, discard all Pok\u00e9mon Tool cards attached to your opponent's Active Pok\u00e9mon."
+        "text": "Before doing damage, discard all Pokémon Tool cards attached to your opponent's Active Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9012,31 +8050,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-75",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Pidgey-FLF75",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.06,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.4,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.41,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.05,
-        "avg30": 0.08,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.41,
-        "reverseHoloAvg30": 0.39
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy2-76",
     "name": "Pidgeotto",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -9056,7 +8081,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "If the Defending Pok\u00e9mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
       },
       {
         "name": "Ambush",
@@ -9072,7 +8097,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9139,31 +8164,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-76",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Pidgeotto-FLF76",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.02,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.25,
-        "reverseHoloTrend": 0.95,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.09,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.89,
-        "reverseHoloAvg30": 0.96
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "xy2-77",
     "name": "Pidgeot",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 2"
     ],
@@ -9181,7 +8193,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "40",
-        "text": "The Defending Pok\u00e9mon can't retreat during your opponent's next turn."
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
       },
       {
         "name": "Strong Gust",
@@ -9192,13 +8204,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "60",
-        "text": "During your next turn, this Pok\u00e9mon's Strong Gust attack does 60 more damage (before applying Weakness and Resistance)."
+        "text": "During your next turn, this Pokémon's Strong Gust attack does 60 more damage (before applying Weakness and Resistance)."
       }
     ],
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -9265,31 +8277,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-77",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Pidgeot-FLF77",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.36,
         "lowPrice": 0.05,
-        "trendPrice": 0.76,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.63,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 1.67,
-        "lowPriceExPlus": 0.1,
-        "avg1": 1.5,
-        "avg7": 0.6,
-        "avg30": 0.7,
-        "reverseHoloAvg1": 0.26,
-        "reverseHoloAvg7": 1.59,
-        "reverseHoloAvg30": 1.48
+        "reverseHoloLow": 0.1
       }
     }
   },
   {
     "id": "xy2-78",
     "name": "Kangaskhan-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -9302,7 +8301,7 @@
       "M Kangaskhan-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -9329,7 +8328,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9384,31 +8383,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-78",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Kangaskhan-EX-V1-FLF78",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 2.88,
-        "lowPrice": 1.49,
-        "trendPrice": 3.97,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 1.57,
-        "lowPriceExPlus": 1.99,
-        "avg1": 2.25,
-        "avg7": 3.33,
-        "avg30": 2.85,
-        "reverseHoloAvg1": 1.6,
-        "reverseHoloAvg7": 1.98,
-        "reverseHoloAvg30": 1.98
+        "lowPrice": 0.39,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy2-79",
     "name": "M Kangaskhan-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -9419,8 +8405,8 @@
     ],
     "evolvesFrom": "Kangaskhan-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -9438,7 +8424,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9493,31 +8479,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-79",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/MKangaskhan-EX-FLF79",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 11.39,
         "lowPrice": 2.89,
-        "trendPrice": 10.33,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 5.97,
-        "lowPriceExPlus": 4.99,
-        "avg1": 4.99,
-        "avg7": 9.77,
-        "avg30": 8.69,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 5.42,
-        "reverseHoloAvg30": 5.78
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy2-80",
     "name": "Snorlax",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9528,7 +8501,7 @@
     "abilities": [
       {
         "name": "Stir and Snooze",
-        "text": "If this Pok\u00e9mon is Asleep, flip 2 coins instead of 1 between turns. If either of them is tails, this Pok\u00e9mon is still Asleep.",
+        "text": "If this Pokémon is Asleep, flip 2 coins instead of 1 between turns. If either of them is tails, this Pokémon is still Asleep.",
         "type": "Ability"
       }
     ],
@@ -9543,13 +8516,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "120",
-        "text": "Heal 20 damage from this Pok\u00e9mon. This Pok\u00e9mon is now Asleep."
+        "text": "Heal 20 damage from this Pokémon. This Pokémon is now Asleep."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9613,31 +8586,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-80",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Snorlax-FLF80",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.06,
         "lowPrice": 0.02,
-        "trendPrice": 2.22,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 1.99,
-        "reverseHoloLow": 0.7,
-        "reverseHoloTrend": 5.04,
-        "lowPriceExPlus": 0.1,
-        "avg1": 1.5,
-        "avg7": 1.17,
-        "avg30": 1.75,
-        "reverseHoloAvg1": 1.99,
-        "reverseHoloAvg7": 4.44,
-        "reverseHoloAvg30": 3.72
+        "reverseHoloLow": 0.6
       }
     }
   },
   {
     "id": "xy2-81",
     "name": "Sentret",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9672,7 +8632,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9733,31 +8693,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-81",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Sentret-FLF81",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.33,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.35,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.07,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.33,
-        "reverseHoloAvg7": 0.34,
-        "reverseHoloAvg30": 0.43
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy2-82",
     "name": "Furret",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -9783,14 +8730,14 @@
           "Colorless"
         ],
         "convertedEnergyCost": 2,
-        "damage": "30\u00d7",
+        "damage": "30×",
         "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9851,31 +8798,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-82",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Furret-FLF82",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.64,
         "lowPrice": 0.02,
-        "trendPrice": 0.54,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.83,
-        "reverseHoloLow": 0.4,
-        "reverseHoloTrend": 0.8,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.85,
-        "avg7": 0.71,
-        "avg30": 0.48,
-        "reverseHoloAvg1": 0.4,
-        "reverseHoloAvg7": 1.0,
-        "reverseHoloAvg30": 1.09
+        "reverseHoloLow": 0.4
       }
     }
   },
   {
     "id": "xy2-83",
     "name": "Miltank",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -9891,7 +8825,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "10+",
-        "text": "If you have any Stage 2 Pok\u00e9mon on your Bench, this attack does 70 more damage."
+        "text": "If you have any Stage 2 Pokémon on your Bench, this attack does 70 more damage."
       },
       {
         "name": "Hammer In",
@@ -9908,7 +8842,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -9970,31 +8904,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-83",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Miltank-FLF83",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.2,
         "lowPrice": 0.02,
-        "trendPrice": 0.17,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.52,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 0.96,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.19,
-        "avg30": 0.14,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.65,
-        "reverseHoloAvg30": 0.66
+        "reverseHoloLow": 0.2
       }
     }
   },
   {
     "id": "xy2-84",
     "name": "Buneary",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10014,13 +8935,13 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "10",
-        "text": "Switch this Pok\u00e9mon with 1 of your Benched Pok\u00e9mon."
+        "text": "Switch this Pokémon with 1 of your Benched Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10081,31 +9002,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-84",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Buneary-FLF84",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.06,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.3,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.42,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.06,
-        "avg30": 0.09,
-        "reverseHoloAvg1": 0.54,
-        "reverseHoloAvg7": 0.33,
-        "reverseHoloAvg30": 0.56
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy2-85",
     "name": "Lopunny",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Stage 1"
     ],
@@ -10117,7 +9025,7 @@
     "abilities": [
       {
         "name": "Big Jump",
-        "text": "Once during your turn (before your attack), you may return this Pok\u00e9mon and all cards attached to it to your hand.",
+        "text": "Once during your turn (before your attack), you may return this Pokémon and all cards attached to it to your hand.",
         "type": "Ability"
       }
     ],
@@ -10131,13 +9039,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "80",
-        "text": "Flip a coin. If tails, this Pok\u00e9mon can't attack during your next turn."
+        "text": "Flip a coin. If tails, this Pokémon can't attack during your next turn."
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10198,31 +9106,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-85",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Lopunny-FLF85",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.58,
         "lowPrice": 0.02,
-        "trendPrice": 0.52,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.35,
-        "reverseHoloTrend": 1.08,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.35,
-        "avg7": 0.46,
-        "avg30": 0.47,
-        "reverseHoloAvg1": 2.07,
-        "reverseHoloAvg7": 0.84,
-        "reverseHoloAvg30": 1.17
+        "reverseHoloLow": 0.35
       }
     }
   },
   {
     "id": "xy2-86",
     "name": "Fletchling",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10247,7 +9142,7 @@
     "weaknesses": [
       {
         "type": "Lightning",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -10281,7 +9176,7 @@
     "number": "86",
     "artist": "5ban Graphics",
     "rarity": "Common",
-    "flavorText": "These friendly Pok\u00e9mon send signals to one another with beautiful chirps and tail-feather movements.",
+    "flavorText": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
     "nationalPokedexNumbers": [
       661
     ],
@@ -10314,31 +9209,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-86",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Fletchling-FLF86",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.05,
         "lowPrice": 0.02,
-        "trendPrice": 0.04,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.33,
-        "reverseHoloLow": 0.05,
-        "reverseHoloTrend": 0.25,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.04,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.22,
-        "reverseHoloAvg30": 0.33
+        "reverseHoloLow": 0.05
       }
     }
   },
   {
     "id": "xy2-87",
     "name": "Furfrou",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic"
     ],
@@ -10355,7 +9237,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "20",
-        "text": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed."
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
       },
       {
         "name": "Sharp Fang",
@@ -10372,7 +9254,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -10433,24 +9315,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-87",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Furfrou-FLF87",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.12,
         "lowPrice": 0.02,
-        "trendPrice": 0.11,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.41,
-        "reverseHoloLow": 0.16,
-        "reverseHoloTrend": 0.71,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.1,
-        "avg30": 0.12,
-        "reverseHoloAvg1": 0.3,
-        "reverseHoloAvg7": 0.51,
-        "reverseHoloAvg30": 0.66
+        "reverseHoloLow": 0.16
       }
     }
   },
@@ -10462,7 +9331,7 @@
       "Supporter"
     ],
     "rules": [
-      "Attach 2 Fire Energy cards from your discard pile to 1 of your Fire Pok\u00e9mon.",
+      "Attach 2 Fire Energy cards from your discard pile to 1 of your Fire Pokémon.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -10515,24 +9384,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-88",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Blacksmith-V1-FLF88",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.93,
         "lowPrice": 0.02,
-        "trendPrice": 2.18,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.8,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.44,
-        "lowPriceExPlus": 0.1,
-        "avg1": 1.48,
-        "avg7": 2.21,
-        "avg30": 2.02,
-        "reverseHoloAvg1": 0.8,
-        "reverseHoloAvg7": 2.41,
-        "reverseHoloAvg30": 2.86
+        "reverseHoloLow": 0.2
       }
     }
   },
@@ -10597,24 +9453,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-89",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Fiery-Torch-V1-FLF89",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 1.19,
-        "lowPrice": 0.29,
-        "trendPrice": 1.07,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.8,
-        "lowPriceExPlus": 0.4,
-        "avg1": 0.29,
-        "avg7": 0.92,
-        "avg30": 0.9,
-        "reverseHoloAvg1": 0.74,
-        "reverseHoloAvg7": 0.91,
-        "reverseHoloAvg30": 0.91
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -10626,7 +9469,7 @@
       "Supporter"
     ],
     "rules": [
-      "Switch 1 of your opponent's Benched Pok\u00e9mon with his or her Active Pok\u00e9mon.",
+      "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -10679,24 +9522,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-90",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Lysandre-FLF90",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.46,
         "lowPrice": 0.02,
-        "trendPrice": 0.49,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.2,
-        "reverseHoloTrend": 1.05,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.8,
-        "avg7": 0.44,
-        "avg30": 0.43,
-        "reverseHoloAvg1": 1.9,
-        "reverseHoloAvg7": 1.16,
-        "reverseHoloAvg30": 0.94
+        "reverseHoloLow": 0.2
       }
     }
   },
@@ -10708,7 +9538,7 @@
       "Stadium"
     ],
     "rules": [
-      "Each Pok\u00e9mon in play has no Resistance.",
+      "Each Pokémon in play has no Resistance.",
       "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
     ],
     "set": {
@@ -10761,24 +9591,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-91",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Magnetic-Storm-V1-FLF91",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.82,
-        "lowPrice": 0.35,
-        "trendPrice": 0.84,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 0.83,
-        "lowPriceExPlus": 0.4,
-        "avg1": 0.35,
-        "avg7": 0.86,
-        "avg30": 0.88,
-        "reverseHoloAvg1": 0.99,
-        "reverseHoloAvg7": 0.84,
-        "reverseHoloAvg30": 0.79
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
       }
     }
   },
@@ -10844,36 +9661,23 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-92",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Pal-Pad-FLF92",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.75,
-        "lowPrice": 0.02,
-        "trendPrice": 0.52,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 2.15,
-        "reverseHoloTrend": 7.37,
-        "lowPriceExPlus": 0.02,
-        "avg1": 1.17,
-        "avg7": 0.63,
-        "avg30": 0.68,
-        "reverseHoloAvg1": 0.03,
-        "reverseHoloAvg7": 4.24,
-        "reverseHoloAvg30": 4.33
+        "lowPrice": 0.03,
+        "reverseHoloLow": 1.0
       }
     }
   },
   {
     "id": "xy2-93",
-    "name": "Pok\u00e9mon Center Lady",
+    "name": "Pokémon Center Lady",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
     ],
     "rules": [
-      "Heal 60 damage and remove all Special Conditions from 1 of your Pok\u00e9mon.",
+      "Heal 60 damage and remove all Special Conditions from 1 of your Pokémon.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -10926,36 +9730,23 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-93",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Pokemon-Center-Lady-FLF93",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.16,
         "lowPrice": 0.02,
-        "trendPrice": 0.14,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.34,
-        "reverseHoloLow": 0.3,
-        "reverseHoloTrend": 0.32,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.04,
-        "avg7": 0.1,
-        "avg30": 0.1,
-        "reverseHoloAvg1": 0.34,
-        "reverseHoloAvg7": 0.52,
-        "reverseHoloAvg30": 0.48
+        "reverseHoloLow": 0.3
       }
     }
   },
   {
     "id": "xy2-94",
-    "name": "Pok\u00e9mon Fan Club",
+    "name": "Pokémon Fan Club",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
     ],
     "rules": [
-      "Search your deck for up to 2 Basic Pok\u00e9mon, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Shuffle your deck afterward.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -11008,24 +9799,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-94",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Pokemon-Fan-Club-V1-FLF94",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.09,
         "lowPrice": 0.02,
-        "trendPrice": 0.09,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.74,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.08,
-        "avg30": 0.07,
-        "reverseHoloAvg1": 0.2,
-        "reverseHoloAvg7": 0.85,
-        "reverseHoloAvg30": 0.67
+        "reverseHoloLow": 0.2
       }
     }
   },
@@ -11034,11 +9812,11 @@
     "name": "Protection Cube",
     "supertype": "Trainer",
     "subtypes": [
-      "Pok\u00e9mon Tool"
+      "Pokémon Tool"
     ],
     "rules": [
-      "Attach a Pok\u00e9mon Tool to 1 of your Pok\u00e9mon that doesn't already have a Pok\u00e9mon Tool attached to it.",
-      "Prevent all damage done to the Pok\u00e9mon this card is attached to by attacks it uses.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+      "Prevent all damage done to the Pokémon this card is attached to by attacks it uses.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -11091,24 +9869,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-95",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Protection-Cube-FLF95",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.27,
         "lowPrice": 0.02,
-        "trendPrice": 0.16,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.49,
-        "reverseHoloLow": 0.02,
-        "reverseHoloTrend": 0.67,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.18,
-        "avg30": 0.21,
-        "reverseHoloAvg1": 0.49,
-        "reverseHoloAvg7": 0.45,
-        "reverseHoloAvg30": 0.78
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -11120,7 +9885,7 @@
       "Item"
     ],
     "rules": [
-      "Shuffle 5 Pok\u00e9mon from your discard pile into your deck.",
+      "Shuffle 5 Pokémon from your discard pile into your deck.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -11173,24 +9938,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-96",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Sacred-Ash-FLF96",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.21,
         "lowPrice": 0.02,
-        "trendPrice": 0.15,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 4.18,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 3.0,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.02,
-        "avg7": 0.13,
-        "avg30": 0.3,
-        "reverseHoloAvg1": 2.0,
-        "reverseHoloAvg7": 4.01,
-        "reverseHoloAvg30": 1.79
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -11202,7 +9954,7 @@
       "Item"
     ],
     "rules": [
-      "Discard all Pok\u00e9mon Tool cards attached to each of your opponent's Pok\u00e9mon.",
+      "Discard all Pokémon Tool cards attached to each of your opponent's Pokémon.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -11255,24 +10007,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-97",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Startling-Megaphone-FLF97",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.34,
         "lowPrice": 0.02,
-        "trendPrice": 0.24,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.5,
-        "reverseHoloLow": 0.18,
-        "reverseHoloTrend": 0.74,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.45,
-        "avg7": 0.28,
-        "avg30": 0.19,
-        "reverseHoloAvg1": 0.5,
-        "reverseHoloAvg7": 0.52,
-        "reverseHoloAvg30": 0.82
+        "reverseHoloLow": 0.18
       }
     }
   },
@@ -11337,24 +10076,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-98",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Trick-Shovel-FLF98",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.17,
         "lowPrice": 0.02,
-        "trendPrice": 0.12,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.48,
-        "reverseHoloLow": 0.1,
-        "reverseHoloTrend": 0.5,
-        "lowPriceExPlus": 0.02,
-        "avg1": 0.02,
-        "avg7": 0.12,
-        "avg30": 0.16,
-        "reverseHoloAvg1": 0.49,
-        "reverseHoloAvg7": 0.45,
-        "reverseHoloAvg30": 1.03
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -11366,7 +10092,7 @@
       "Item"
     ],
     "rules": [
-      "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a Pok\u00e9mon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+      "Discard 2 cards from your hand. (If you can't discard 2 cards, you can't play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
       "You may play as many Item cards as you like during your turn (before your attack)."
     ],
     "set": {
@@ -11420,31 +10146,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-99",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Ultra-Ball-FLF99",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 0.29,
         "lowPrice": 0.02,
-        "trendPrice": 0.25,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.18,
-        "reverseHoloTrend": 1.16,
-        "lowPriceExPlus": 0.05,
-        "avg1": 0.15,
-        "avg7": 0.28,
-        "avg30": 0.29,
-        "reverseHoloAvg1": 1.06,
-        "reverseHoloAvg7": 1.25,
-        "reverseHoloAvg30": 1.14
+        "reverseHoloLow": 0.18
       }
     }
   },
   {
     "id": "xy2-100",
     "name": "Charizard-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -11457,7 +10170,7 @@
       "M Charizard-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -11467,7 +10180,7 @@
         ],
         "convertedEnergyCost": 1,
         "damage": "",
-        "text": "Flip a coin. If heads, search your deck for up to 3 basic Energy cards and attach them to this Pok\u00e9mon. Shuffle your deck afterward."
+        "text": "Flip a coin. If heads, search your deck for up to 3 basic Energy cards and attach them to this Pokémon. Shuffle your deck afterward."
       },
       {
         "name": "Fire Blast",
@@ -11479,13 +10192,13 @@
         ],
         "convertedEnergyCost": 4,
         "damage": "120",
-        "text": "Discard an Energy attached to this Pok\u00e9mon."
+        "text": "Discard an Energy attached to this Pokémon."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11539,31 +10252,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-100",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Charizard-EX-V2-FLF100",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 129.97,
         "lowPrice": 19.99,
-        "trendPrice": 149.65,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 93.95,
-        "lowPriceExPlus": 100.0,
-        "avg1": 105.0,
-        "avg7": 132.1,
-        "avg30": 132.01,
-        "reverseHoloAvg1": 116.0,
-        "reverseHoloAvg7": 75.63,
-        "reverseHoloAvg30": 57.29
+        "reverseHoloLow": 99.99
       }
     }
   },
   {
     "id": "xy2-101",
     "name": "Magnezone-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -11573,7 +10273,7 @@
       "Lightning"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -11595,13 +10295,13 @@
         ],
         "convertedEnergyCost": 3,
         "damage": "",
-        "text": "This attack does 50 damage to 2 of your opponent's Pok\u00e9mon. (Don't apply Weakness or Resistance for Benched Pok\u00e9mon.)"
+        "text": "This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
       }
     ],
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "resistances": [
@@ -11662,31 +10362,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-101",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Magnezone-EX-FLF101",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 10.82,
         "lowPrice": 1.99,
-        "trendPrice": 10.72,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 9.0,
-        "reverseHoloTrend": 15.72,
-        "lowPriceExPlus": 5.0,
-        "avg1": 11.5,
-        "avg7": 9.29,
-        "avg30": 9.19,
-        "reverseHoloAvg1": 15.5,
-        "reverseHoloAvg7": 9.07,
-        "reverseHoloAvg30": 6.2
+        "reverseHoloLow": 9.0
       }
     }
   },
   {
     "id": "xy2-102",
     "name": "Toxicroak-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -11696,7 +10383,7 @@
       "Psychic"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -11707,7 +10394,7 @@
         ],
         "convertedEnergyCost": 2,
         "damage": "",
-        "text": "Your opponent's Active Pok\u00e9mon is now Poisoned. Put 3 damage counters instead of 1 on that Pok\u00e9mon between turns."
+        "text": "Your opponent's Active Pokémon is now Poisoned. Put 3 damage counters instead of 1 on that Pokémon between turns."
       },
       {
         "name": "Smash Uppercut",
@@ -11724,7 +10411,7 @@
     "weaknesses": [
       {
         "type": "Psychic",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11777,31 +10464,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-102",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Toxicroak-EX-FLF102",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 11.66,
         "lowPrice": 3.89,
-        "trendPrice": 10.99,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 6.8,
-        "reverseHoloTrend": 18.94,
-        "lowPriceExPlus": 5.97,
-        "avg1": 15.0,
-        "avg7": 9.87,
-        "avg30": 10.28,
-        "reverseHoloAvg1": 14.9,
-        "reverseHoloAvg7": 12.81,
-        "reverseHoloAvg30": 9.17
+        "reverseHoloLow": 6.8
       }
     }
   },
   {
     "id": "xy2-103",
     "name": "Kangaskhan-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "Basic",
       "EX"
@@ -11814,7 +10488,7 @@
       "M Kangaskhan-EX"
     ],
     "rules": [
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -11841,7 +10515,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -11896,24 +10570,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-103",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Kangaskhan-EX-V2-FLF103",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 16.36,
         "lowPrice": 2.5,
-        "trendPrice": 23.21,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 11.99,
-        "reverseHoloTrend": 8.71,
-        "lowPriceExPlus": 9.95,
-        "avg1": 11.99,
-        "avg7": 26.02,
-        "avg30": 16.22,
-        "reverseHoloAvg1": 8.5,
-        "reverseHoloAvg7": 8.55,
-        "reverseHoloAvg30": 7.54
+        "reverseHoloLow": 5.0
       }
     }
   },
@@ -11925,7 +10586,7 @@
       "Supporter"
     ],
     "rules": [
-      "Switch 1 of your opponent's Benched Pok\u00e9mon with his or her Active Pok\u00e9mon.",
+      "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -11971,36 +10632,23 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-104",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Lysandre-FLF104",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 14.56,
-        "lowPrice": 3.5,
-        "trendPrice": 16.38,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 15.0,
-        "reverseHoloTrend": 9.84,
-        "lowPriceExPlus": 9.99,
-        "avg1": 15.98,
-        "avg7": 13.12,
-        "avg30": 15.94,
-        "reverseHoloAvg1": 9.14,
-        "reverseHoloAvg7": 9.73,
-        "reverseHoloAvg30": 9.69
+        "lowPrice": 5.9,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy2-105",
-    "name": "Pok\u00e9mon Center Lady",
+    "name": "Pokémon Center Lady",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
     ],
     "rules": [
-      "Heal 60 damage and remove all Special Conditions from 1 of your Pok\u00e9mon.",
+      "Heal 60 damage and remove all Special Conditions from 1 of your Pokémon.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -12046,36 +10694,23 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-105",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Pokemon-Center-Lady-FLF105",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 61.67,
         "lowPrice": 7.49,
-        "trendPrice": 40.58,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 30.0,
-        "reverseHoloTrend": 12.33,
-        "lowPriceExPlus": 13.5,
-        "avg1": 140.0,
-        "avg7": 36.24,
-        "avg30": 22.37,
-        "reverseHoloAvg1": 8.0,
-        "reverseHoloAvg7": 13.36,
-        "reverseHoloAvg30": 17.37
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy2-106",
-    "name": "Pok\u00e9mon Fan Club",
+    "name": "Pokémon Fan Club",
     "supertype": "Trainer",
     "subtypes": [
       "Supporter"
     ],
     "rules": [
-      "Search your deck for up to 2 Basic Pok\u00e9mon, reveal them, and put them into your hand. Shuffle your deck afterward.",
+      "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Shuffle your deck afterward.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {
@@ -12121,31 +10756,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-106",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/Pokemon-Fan-Club-V2-FLF106",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 12.73,
-        "lowPrice": 2.5,
-        "trendPrice": 11.69,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 7.9,
-        "lowPriceExPlus": 6.0,
-        "avg1": 6.0,
-        "avg7": 8.83,
-        "avg30": 10.85,
-        "reverseHoloAvg1": 9.95,
-        "reverseHoloAvg7": 7.77,
-        "reverseHoloAvg30": 7.37
+        "lowPrice": 2.99,
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy2-107",
     "name": "M Charizard-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -12156,8 +10778,8 @@
     ],
     "evolvesFrom": "Charizard-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12171,13 +10793,13 @@
         ],
         "convertedEnergyCost": 5,
         "damage": "300",
-        "text": "This Pok\u00e9mon does 50 damage to itself."
+        "text": "This Pokémon does 50 damage to itself."
       }
     ],
     "weaknesses": [
       {
         "type": "Water",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12230,31 +10852,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-107",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/MCharizard-EX-V3-FLF107",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 84.97,
         "lowPrice": 18.95,
-        "trendPrice": 73.83,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 54.2,
-        "lowPriceExPlus": 79.0,
-        "avg1": 73.64,
-        "avg7": 82.09,
-        "avg30": 74.3,
-        "reverseHoloAvg1": 50.0,
-        "reverseHoloAvg7": 54.37,
-        "reverseHoloAvg30": 45.98
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy2-108",
     "name": "M Charizard-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -12265,8 +10874,8 @@
     ],
     "evolvesFrom": "Charizard-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12286,7 +10895,7 @@
     "weaknesses": [
       {
         "type": "Fairy",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12341,31 +10950,18 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-108",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/MCharizard-EX-V4-FLF108",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 305.14,
         "lowPrice": 60.0,
-        "trendPrice": 233.56,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 95.9,
-        "lowPriceExPlus": 98.99,
-        "avg1": 69.97,
-        "avg7": 228.98,
-        "avg30": 179.92,
-        "reverseHoloAvg1": 80.0,
-        "reverseHoloAvg7": 61.78,
-        "reverseHoloAvg30": 65.96
+        "reverseHoloLow": null
       }
     }
   },
   {
     "id": "xy2-109",
     "name": "M Kangaskhan-EX",
-    "supertype": "Pok\u00e9mon",
+    "supertype": "Pokémon",
     "subtypes": [
       "MEGA",
       "EX"
@@ -12376,8 +10972,8 @@
     ],
     "evolvesFrom": "Kangaskhan-EX",
     "rules": [
-      "Mega Evolution rule: When 1 of your Pok\u00e9mon becomes a Mega Evolution Pok\u00e9mon, your turn ends.",
-      "Pok\u00e9mon-EX rule: When a Pok\u00e9mon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+      "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
     ],
     "attacks": [
       {
@@ -12395,7 +10991,7 @@
     "weaknesses": [
       {
         "type": "Fighting",
-        "value": "\u00d72"
+        "value": "×2"
       }
     ],
     "retreatCost": [
@@ -12450,24 +11046,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://prices.pokemontcg.io/cardmarket/xy2-109",
-      "updatedAt": "2025/07/22",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Flashfire/MKangaskhan-EX-FLF109",
+      "updatedAt": "2025-08-05",
       "prices": {
-        "averageSellPrice": 37.31,
         "lowPrice": 12.0,
-        "trendPrice": 30.67,
-        "germanProLow": 0.0,
-        "suggestedPrice": 0.0,
-        "reverseHoloSell": 0.0,
-        "reverseHoloLow": 0.0,
-        "reverseHoloTrend": 15.26,
-        "lowPriceExPlus": 25.0,
-        "avg1": 23.0,
-        "avg7": 31.78,
-        "avg30": 23.04,
-        "reverseHoloAvg1": 17.49,
-        "reverseHoloAvg7": 18.67,
-        "reverseHoloAvg30": 13.64
+        "reverseHoloLow": null
       }
     }
   },
@@ -12479,7 +11062,7 @@
       "Supporter"
     ],
     "rules": [
-      "Attach 2 Fire Energy cards from your discard pile to 1 of your Fire Pok\u00e9mon.",
+      "Attach 2 Fire Energy cards from your discard pile to 1 of your Fire Pokémon.",
       "You may play only 1 Supporter card during your turn (before your attack)."
     ],
     "set": {

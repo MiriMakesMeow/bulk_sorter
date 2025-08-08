@@ -13696,5 +13696,249 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "swsh12-promo-33",
+    "name": "Alolan Vulpix V  (SIT 033) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "hp": "190",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Ninetales"
+    ],
+    "rules": [
+      "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "attacks": [
+      {
+        "name": "White Drop",
+        "cost": [],
+        "convertedEnergyCost": 0,
+        "damage": "10+",
+        "text": "If your opponent's Active Pokémon is a Pokémon V, this attack does 50 more damage."
+      },
+      {
+        "name": "Frost Smash",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "110",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "33",
+    "artist": "Ryota Murayama",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      37
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12/33.png",
+      "large": "https://images.pokemontcg.io/swsh12/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Alolan-Vulpix-V-V3-SIT033",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.4,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh12-promo-49",
+    "name": "Pikachu  (SIT 049) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "attacks": [
+      {
+        "name": "Pika Strike",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20+",
+        "text": "If 1 of your Dedenne used Dede-Short during your last turn, this attack does 180 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "49",
+    "artist": "Souichirou Gunjima",
+    "rarity": "Promo",
+    "flavorText": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12/49.png",
+      "large": "https://images.pokemontcg.io/swsh12/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Pikachu-V2-SIT049",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh12-promo-131",
+    "name": "Dragonite  (SIT 131) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Dragon"
+    ],
+    "evolvesFrom": "Dragonair",
+    "attacks": [
+      {
+        "name": "Dragon Claw",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": ""
+      },
+      {
+        "name": "Energy Hurricane",
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "180",
+        "text": "Search your deck for up to 3 basic Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck."
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "131",
+    "artist": "Naoyo Kimura",
+    "rarity": "Promo",
+    "flavorText": "It's a kindhearted Pokémon. If it spots a drowning person or Pokémon, Dragonite simply must help them.",
+    "nationalPokedexNumbers": [
+      149
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12/131.png",
+      "large": "https://images.pokemontcg.io/swsh12/131_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Dragonite-V2-SIT131",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh12-promo-156",
+    "name": "Forest Seal Stone (SIT 156) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item",
+      "Pokémon Tool"
+    ],
+    "rules": [
+      "The Pokémon V this card is attached to can use the VSTAR Power on this card.",
+      "You may play any number of Item cards during your turn.",
+      "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached."
+    ],
+    "abilities": [
+      {
+        "name": "Star Alchemy",
+        "text": "During your turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck. (You can't use more than 1 VSTAR Power in a game.)",
+        "type": "Ability"
+      }
+    ],
+    "number": "156",
+    "artist": "AYUMI ODASHIMA",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "F",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh12/156.png",
+      "large": "https://images.pokemontcg.io/swsh12/156_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Silver-Tempest/Forest-Seal-Stone-V2-SIT156",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

@@ -52,6 +52,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/1.png",
       "large": "https://images.pokemontcg.io/np/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Kyogre-ex-NP1",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 11.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -107,6 +115,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/2.png",
       "large": "https://images.pokemontcg.io/np/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Groudon-ex-NP2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.9,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -172,6 +188,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/3.png",
       "large": "https://images.pokemontcg.io/np/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Treecko-V1-NP3",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -307,6 +331,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/5.png",
       "large": "https://images.pokemontcg.io/np/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Mudkip-V2-NP5",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 180.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -366,6 +398,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/6.png",
       "large": "https://images.pokemontcg.io/np/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Torchic-V1-NP6",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 125.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -431,6 +471,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/7.png",
       "large": "https://images.pokemontcg.io/np/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Treecko-V2-NP7",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -490,6 +538,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/8.png",
       "large": "https://images.pokemontcg.io/np/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Torchic-V2-NP8",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -618,6 +674,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/10.png",
       "large": "https://images.pokemontcg.io/np/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Mudkip-V1-NP10",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.24,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -746,6 +810,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/12.png",
       "large": "https://images.pokemontcg.io/np/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Pikachu-NP12",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 24.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -805,6 +877,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/13.png",
       "large": "https://images.pokemontcg.io/np/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Meowth-NP13",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 6.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -862,6 +942,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/14.png",
       "large": "https://images.pokemontcg.io/np/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Latias-NP14",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 11.95,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -921,6 +1009,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/15.png",
       "large": "https://images.pokemontcg.io/np/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Latios-NP15",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -985,6 +1081,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/16.png",
       "large": "https://images.pokemontcg.io/np/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Treecko-NP16",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.49,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -1035,6 +1139,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/17.png",
       "large": "https://images.pokemontcg.io/np/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Torchic-NP17",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.69,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2306,6 +2418,1528 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/40.png",
       "large": "https://images.pokemontcg.io/np/40_hires.png"
+    }
+  },
+  {
+    "id": "np-promo-18",
+    "name": "Mudkip  (NP 18) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Marshtomp"
+    ],
+    "attacks": [
+      {
+        "name": "Surf",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Whirlpool",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10",
+        "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "18",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      258
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/18.png",
+      "large": "https://images.pokemontcg.io/np/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Mudkip-NP18",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-19",
+    "name": "Whismur  (NP 19) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Loudred"
+    ],
+    "attacks": [
+      {
+        "name": "Supersonic",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+      },
+      {
+        "name": "Pound",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "19",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      293
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/19.png",
+      "large": "https://images.pokemontcg.io/np/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Whismur-NP19",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.71,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-20",
+    "name": "Ludicolo  (NP 20) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Lombre",
+    "abilities": [
+      {
+        "name": "Rain Dish",
+        "text": "At any time between turns, remove 1 damage counter from Ludicolo.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Fury Swipes",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30×",
+        "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "20",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      272
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/20.png",
+      "large": "https://images.pokemontcg.io/np/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Ludicolo-NP20",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 12.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-21",
+    "name": "Jirachi  (NP 21) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "The Third Eye",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Discard an Energy card attached to Jirachi and draw 3 cards."
+      },
+      {
+        "name": "Psywave",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10×",
+        "text": "Does 10 damage times the amount of Energy attached to the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "21",
+    "artist": "Atsuko Nishida",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      385
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/21.png",
+      "large": "https://images.pokemontcg.io/np/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Jirachi-NP21",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 19.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-22",
+    "name": "Beldum  (NP 22) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [
+      "Metang"
+    ],
+    "abilities": [
+      {
+        "name": "Magnetic Call",
+        "text": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a Metal Basic Pokémon and put it onto your Bench. Shuffle your deck afterward. This power can't be used if Beldum is affected by a Special Condition.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Metal Charge",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Put 1 damage counter on Beldum."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "22",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      374
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/22.png",
+      "large": "https://images.pokemontcg.io/np/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Beldum-NP22",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 13.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-23",
+    "name": "Metang  (NP 23) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Metal"
+    ],
+    "evolvesFrom": "Beldum",
+    "evolvesTo": [
+      "Metagross"
+    ],
+    "attacks": [
+      {
+        "name": "Metal Load",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your discard pile for a Metal Energy card and attach it to Metang."
+      },
+      {
+        "name": "Metal Claw",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Grass",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "23",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      375
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/23.png",
+      "large": "https://images.pokemontcg.io/np/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Metang-NP23",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 300.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-24",
+    "name": "Chimecho  (NP 24) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Resonate",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Your opponent switches each Defending Pokémon with his or her Benched Pokémon. If your opponent has only 1 Benched Pokémon, you choose the Defending Pokémon to switch."
+      },
+      {
+        "name": "Healing Sound",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Remove 3 damage counters from each of your Active Pokémon. Each Defending Pokémon is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "24",
+    "artist": "Atsuko Nishida",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      358
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/24.png",
+      "large": "https://images.pokemontcg.io/np/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Chimecho-V1-NP24",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 20.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-25",
+    "name": "Flygon  (NP 25) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Vibrava",
+    "attacks": [
+      {
+        "name": "Sand Pit",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+      },
+      {
+        "name": "Dragonbreath",
+        "cost": [
+          "Grass",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "80",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "25",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      330
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/25.png",
+      "large": "https://images.pokemontcg.io/np/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Flygon-V1-NP25",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-26",
+    "name": "Tropical Wind (NP 26) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
+    ],
+    "number": "26",
+    "artist": "Sumiyoshi Kizuki",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/26.png",
+      "large": "https://images.pokemontcg.io/np/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Tropical-Wind-NP26",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 64.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-27",
+    "name": "Tropical Tidal Wave (NP 27) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, discard all Trainer cards your opponent has in play. If tails, discard all Trainer (excluding Supporter cards) you have in play."
+    ],
+    "number": "27",
+    "artist": "Sumiyoshi Kizuki",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/27.png",
+      "large": "https://images.pokemontcg.io/np/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Tropical-Tidal-Wave-V1-NP27",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 239.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-28",
+    "name": "Championship Arena (NP 28) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rules": [
+      "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.",
+      "At the end of each player's turn, if that player has 8 or more cards in his or her hand, that player discards a number of cards until that player has 7 cards left in his or her hand."
+    ],
+    "number": "28",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/28.png",
+      "large": "https://images.pokemontcg.io/np/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Championship-Arena-NP28",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-29",
+    "name": "Celebi  (NP 29) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Grass"
+    ],
+    "attacks": [
+      {
+        "name": "Leaf Slice",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "29",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      251
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/29.png",
+      "large": "https://images.pokemontcg.io/np/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Celebi-NP29",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.25,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-30",
+    "name": "Suicune  (NP 30) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "abilities": [
+      {
+        "name": "Pure Body",
+        "text": "Whenever you attach a Water Energy card from your hand to Suicune, discard an Energy card attached to Suicune. (You can't attach a Water Energy card from your hand if Suicune has no Energy cards attached.)",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Hypno Wave",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokémon is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "30",
+    "artist": "Atsuko Nishida",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      245
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/30.png",
+      "large": "https://images.pokemontcg.io/np/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Suicune-V2-NP30",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-31",
+    "name": "Moltres ex  (NP 31) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "EX"
+    ],
+    "hp": "100",
+    "types": [
+      "Fire"
+    ],
+    "rules": [
+      "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Synchronized Lift",
+        "text": "As long as you have Articuno ex and Zapdos ex in play, the Retreat Cost for Moltres ex is 0.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Flame Gift",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "You may move a Fire Energy card attached to Moltres ex to 1 of your Pokémon."
+      },
+      {
+        "name": "Scorching Wing",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "90",
+        "text": "Discard all Fire Energy attached to Moltres ex."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "31",
+    "artist": "Ken Ikuji",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      146
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/31.png",
+      "large": "https://images.pokemontcg.io/np/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Moltres-ex-NP31",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.85,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-32",
+    "name": "Articuno ex  (NP 32) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "EX"
+    ],
+    "hp": "100",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Synchronized Lift",
+        "text": "As long as you have Zapdos ex and Moltres ex in play, the Retreat Cost for Articuno ex is 0.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Ice Gift",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "You may move a Water Energy attached to Articuno ex to 1 of your Pokémon."
+      },
+      {
+        "name": "Freezing Wing",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "32",
+    "artist": "Nakaoka",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      144
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/32.png",
+      "large": "https://images.pokemontcg.io/np/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Articuno-ex-NP32",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-33",
+    "name": "Zapdos ex  (NP 33) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "EX"
+    ],
+    "hp": "100",
+    "types": [
+      "Lightning"
+    ],
+    "rules": [
+      "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Synchronized Lift",
+        "text": "As long as you have Articuno ex and Moltres ex in play, the Retreat Cost for Zapdos ex is 0.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Thunder Gift",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "You may move a Lightning Energy card attached to Zapdos ex to 1 of your Pokémon."
+      },
+      {
+        "name": "Lightning Wing",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "Does 10 damage to 1 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "33",
+    "artist": "K. Hoshiba",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      145
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/33.png",
+      "large": "https://images.pokemontcg.io/np/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Zapdos-ex-NP33",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 7.4,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-34",
+    "name": "Typhlosion  (NP 34) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "110",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Quilava",
+    "abilities": [
+      {
+        "name": "Burning Aura",
+        "text": "As long as Typhlosion is your Active Pokémon, put 1 damage counter on each Active Pokémon (both yours and your opponent's) between turns.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Flickering Flames",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "The Defending Pokémon is now Asleep."
+      },
+      {
+        "name": "Rage",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50+",
+        "text": "Does 50 damage plus 10 more damage for each damage counter on Typhlosion."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "34",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      157
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/34.png",
+      "large": "https://images.pokemontcg.io/np/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Typhlosion-NP34",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-35",
+    "name": "Pikachu δ Delta Species  (NP 35) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "40",
+    "types": [
+      "Metal"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "attacks": [
+      {
+        "name": "Thunder Wave",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Iron Tail",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "35",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/35.png",
+      "large": "https://images.pokemontcg.io/np/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Pikachu-Delta-Species-NP35",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 69.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-36",
+    "name": "Tropical Tidal Wave (NP 36) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, discard all Trainer cards your opponent has in play. If tails, discard all Trainer cards (excluding Supporter cards) you have in play."
+    ],
+    "number": "36",
+    "artist": "Sumiyoshi Kizuki",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/36.png",
+      "large": "https://images.pokemontcg.io/np/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Tropical-Tidal-Wave-V2-NP36",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 150.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-37",
+    "name": "Kyogre ex  (NP 37) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "EX"
+    ],
+    "hp": "100",
+    "types": [
+      "Water"
+    ],
+    "rules": [
+      "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Frenzy",
+        "text": "As long as your opponent has Groudon, Groudon ex, Rayquaza, or Rayquaza ex in play. Kyogre ex's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Aqua Supply",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "You may attach a basic Energy card from your hand to 1 of your Pokémon."
+      },
+      {
+        "name": "Tsunami",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "37",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      382
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/37.png",
+      "large": "https://images.pokemontcg.io/np/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Kyogre-ex-NP37",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-38",
+    "name": "Groudon ex  (NP 38) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "EX"
+    ],
+    "hp": "100",
+    "types": [
+      "Fighting"
+    ],
+    "rules": [
+      "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Frenzy",
+        "text": "As long as your opponent has Kyogre, Kyogre ex, Rayquaza, or Rayquaza ex in play, Groudon ex's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Mix-Up",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If heads, your opponent discards the top card from his or her deck."
+      },
+      {
+        "name": "Earthquake",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "38",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      383
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/38.png",
+      "large": "https://images.pokemontcg.io/np/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Groudon-ex-NP38",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-39",
+    "name": "Rayquaza ex  (NP 39) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic",
+      "EX"
+    ],
+    "hp": "100",
+    "types": [
+      "Colorless"
+    ],
+    "rules": [
+      "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+    ],
+    "abilities": [
+      {
+        "name": "Frenzy",
+        "text": "As long as your opponent has Kyogre, Kyogre ex, Groudon, or Groudon ex in play, Rayquaza ex's attacks do 40 damage to the Defending Pokémon (before applying Weakness and Resistance).",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Dragon Bind",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Twister",
+        "cost": [
+          "Fire",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "Flip 2 coins. If both are tails, this attack does nothing. For each heads, discard an Energy attached to the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Water",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "39",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      384
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/39.png",
+      "large": "https://images.pokemontcg.io/np/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Rayquaza-ex-NP39",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-40",
+    "name": "Mew  (NP 40) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Psywave",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10×",
+        "text": "Does 10 damage times the amount of Energy attached to the Defending Pokémon."
+      },
+      {
+        "name": "Devolution Beam",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, choose 1 of either player's Evolved Pokémon, remove the highest stage Evolution card from that Pokémon, and put it into that player's hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "40",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      151
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/40.png",
+      "large": "https://images.pokemontcg.io/np/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Mew-NP40",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 49.45,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "np-promo-12",
+    "name": "Pikachu  (NP 012) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "attacks": [
+      {
+        "name": "Agility",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Pikachu during your opponent's next turn."
+      },
+      {
+        "name": "Thundershock",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "12",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/np/12.png",
+      "large": "https://images.pokemontcg.io/np/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Pikachu-V2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.48,
+        "reverseHoloLow": null
+      }
     }
   }
 ]

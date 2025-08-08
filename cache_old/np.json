@@ -240,6 +240,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/4.png",
       "large": "https://images.pokemontcg.io/np/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Grovyle-V2-OS",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 122.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -543,6 +551,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/9.png",
       "large": "https://images.pokemontcg.io/np/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Combusken-V2-OS",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -663,6 +679,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/np/11.png",
       "large": "https://images.pokemontcg.io/np/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Nintendo-Black-Star-Promos/Marshtomp-V2-OS",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
     }
   },
   {

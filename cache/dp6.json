@@ -9713,5 +9713,418 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "dp6-promo-2",
+    "name": "Dragonite Lv.61  (LA 2) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "61",
+    "hp": "140",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Dragonair",
+    "attacks": [
+      {
+        "name": "Hyper Beam",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+      },
+      {
+        "name": "Draco Meteor",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "",
+        "text": "Flip a coin for each of your opponent's Pokémon. If that coin flip is heads, this attack does 50 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "+30"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "2",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "flavorText": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+    "nationalPokedexNumbers": [
+      149
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dp6/2.png",
+      "large": "https://images.pokemontcg.io/dp6/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Dragonite-Lv61-V2-LA2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dp6-promo-19",
+    "name": "Azelf Lv.55  (LA 19) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "55",
+    "hp": "70",
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      {
+        "name": "Time Walk",
+        "text": "Once during your turn, when you put Azelf from your hand onto your Bench, you may look at all of your face-down Prize cards. If you do, you may choose 1 Pokémon you find there, show it to your opponent, and put it into your hand. Then, choose 1 card in your hand and put it as a Prize card face down.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Lock Up",
+        "cost": [
+          "Psychic"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "19",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "flavorText": "Known as \"The Being of Willpower.\" It sleeps at the bottom of a lake to keep the world in balance.",
+    "nationalPokedexNumbers": [
+      482
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dp6/19.png",
+      "large": "https://images.pokemontcg.io/dp6/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Azelf-Lv55-V2-LA19",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dp6-promo-30",
+    "name": "Heatran Lv.45  (LA 30) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "45",
+    "hp": "100",
+    "types": [
+      "Metal"
+    ],
+    "abilities": [
+      {
+        "name": "Smelt",
+        "text": "Once during your turn (before your attack), you may move a Metal Energy attached to 1 of your Pokémon to Heatran. This power can't be used if Heatran is affected by a Special Condition.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Heavy Metal",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40+",
+        "text": "Flip a coin for each Metal Energy attached to Heatran. This attack does 40 damage plus 20 more damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "30",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+    "nationalPokedexNumbers": [
+      485
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dp6/30.png",
+      "large": "https://images.pokemontcg.io/dp6/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Heatran-Lv45-V2-LA30",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dp6-promo-43",
+    "name": "Uxie Lv.55  (LA 43) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "55",
+    "hp": "70",
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      {
+        "name": "Set Up",
+        "text": "Once during your turn, when you put Uxie from your hand onto your Bench, you may draw cards until you have 7 cards in your hand.",
+        "type": "Poké-Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Psychic Restore",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": "You may put Uxie and all cards attached to it on the bottom of your deck in any order."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "43",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "flavorText": "Known as \"The Being of Knowledge.\" It is said that it can wipe out the memory of those who see its eyes.",
+    "nationalPokedexNumbers": [
+      480
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dp6/43.png",
+      "large": "https://images.pokemontcg.io/dp6/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Uxie-Lv55-V2-LA43",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.16,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dp6-promo-52",
+    "name": "Dragonair Lv.31  (LA 52) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "31",
+    "hp": "70",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Dratini",
+    "evolvesTo": [
+      "Dragonite"
+    ],
+    "attacks": [
+      {
+        "name": "Wrap",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Rising Lunge",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "+20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "52",
+    "artist": "Suwama Chiaki",
+    "rarity": "Promo",
+    "flavorText": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+    "nationalPokedexNumbers": [
+      148
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dp6/52.png",
+      "large": "https://images.pokemontcg.io/dp6/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Dragonair-Lv31-V1-LA52",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "dp6-promo-91",
+    "name": "Dratini Lv.8  (LA 91) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "8",
+    "hp": "40",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Dragonair"
+    ],
+    "attacks": [
+      {
+        "name": "Tail Slap",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Slam",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20×",
+        "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Colorless",
+        "value": "+10"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "91",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "flavorText": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
+    "nationalPokedexNumbers": [
+      147
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/dp6/91.png",
+      "large": "https://images.pokemontcg.io/dp6/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Legends-Awakened/Dratini-Lv8-V2-LA91",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
   }
 ]

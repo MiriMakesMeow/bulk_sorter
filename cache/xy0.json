@@ -3646,5 +3646,193 @@
         "reverseHoloLow": 2.95
       }
     }
+  },
+  {
+    "id": "xy0-promo-34",
+    "name": "Crushing Hammer (KSS 34) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, discard an Energy attached to 1 of your opponent's Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy0",
+      "name": "Kalos Starter Set",
+      "series": "XY",
+      "printedTotal": 39,
+      "total": 39,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "KSS",
+      "releaseDate": "2013/11/08",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy0/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy0/logo.png"
+      }
+    },
+    "number": "34",
+    "artist": "5ban Graphics",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy0/34.png",
+      "large": "https://images.pokemontcg.io/xy0/34_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy0-34",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.2,
+          "mid": 0.4,
+          "high": 4.95,
+          "market": 0.28,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Crushing-Hammer-V2-KSS34",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.7,
+        "reverseHoloLow": null
+      }
+    },
+    "rarity": "Promo"
+  },
+  {
+    "id": "xy0-promo-36",
+    "name": "Pokémon Catcher (KSS 36) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy0",
+      "name": "Kalos Starter Set",
+      "series": "XY",
+      "printedTotal": 39,
+      "total": 39,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "KSS",
+      "releaseDate": "2013/11/08",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy0/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy0/logo.png"
+      }
+    },
+    "number": "36",
+    "artist": "5ban Graphics",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy0/36.png",
+      "large": "https://images.pokemontcg.io/xy0/36_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy0-36",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.23,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Pokemon-Catcher-KSS36",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": null
+      }
+    },
+    "rarity": "Promo"
+  },
+  {
+    "id": "xy0-promo-39",
+    "name": "Tierno (KSS 39) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 3 cards.",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "set": {
+      "id": "xy0",
+      "name": "Kalos Starter Set",
+      "series": "XY",
+      "printedTotal": 39,
+      "total": 39,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "KSS",
+      "releaseDate": "2013/11/08",
+      "updatedAt": "2018/03/04 10:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy0/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy0/logo.png"
+      }
+    },
+    "number": "39",
+    "artist": "Ken Sugimori",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy0/39.png",
+      "large": "https://images.pokemontcg.io/xy0/39_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy0-39",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.19,
+          "high": 4.95,
+          "market": 0.15,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/XY-Kalos-Starter-Set/Tierno-V2-KSS39",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
+    },
+    "rarity": "Promo"
   }
 ]

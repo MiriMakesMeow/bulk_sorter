@@ -12922,5 +12922,464 @@
         "reverseHoloLow": null
       }
     }
+  },
+  {
+    "id": "swsh3-promo-37",
+    "name": "Suicune  (DAA 37) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Wave Splash",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Aurora Loop",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": "Put 2 Water Energy attached to this Pokémon into your hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "37",
+    "artist": "so-taro",
+    "rarity": "Promo",
+    "flavorText": "Said to be the embodiment of north winds, it can instantly purify filthy, murky water.",
+    "nationalPokedexNumbers": [
+      245
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/37.png",
+      "large": "https://images.pokemontcg.io/swsh3/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Darkness-Ablaze/Suicune-V2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh3-promo-44",
+    "name": "Galarian Darmanitan  (DAA 44) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "140",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Galarian Darumaka",
+    "attacks": [
+      {
+        "name": "Blizzard",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Crushing Headbutt",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "170",
+        "text": "During your next turn, this Pokémon can't use Crushing Headbutt."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "44",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "flavorText": "On days when blizzards blow through, it comes down to where people live. It stashes food in the snowball on its head, taking it home for later.",
+    "nationalPokedexNumbers": [
+      555
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/44.png",
+      "large": "https://images.pokemontcg.io/swsh3/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Darkness-Ablaze/Galarian-Darmanitan-V2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 2.64,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh3-promo-98",
+    "name": "Galarian Sirfetch'd  (DAA 98) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "130",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Galarian Farfetch'd",
+    "attacks": [
+      {
+        "name": "Pierce",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "40",
+        "text": ""
+      },
+      {
+        "name": "Meteor Assault",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "180",
+        "text": "This Pokémon can't use Meteor Assault again until it leaves the Active Spot."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "98",
+    "artist": "Ryota Murayama",
+    "rarity": "Promo",
+    "flavorText": "Only Farfetch'd that have survived many battles can attain this evolution. When this Pokémon's leek withers, it will retire from combat.",
+    "nationalPokedexNumbers": [
+      865
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/98.png",
+      "large": "https://images.pokemontcg.io/swsh3/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Darkness-Ablaze/Galarian-Sirfetchd-V2",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh3-promo-49",
+    "name": "Beartic  (DAA 049) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "140",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Cubchoo",
+    "attacks": [
+      {
+        "name": "Slash",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": ""
+      },
+      {
+        "name": "Frozen Slice",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "150",
+        "text": "This Pokémon also does 50 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "49",
+    "artist": "Masakazu Fukuda",
+    "rarity": "Promo",
+    "flavorText": "It swims through frigid seas, searching for prey. From its frozen breath, it forms icy fangs that are harder than steel.",
+    "nationalPokedexNumbers": [
+      614
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/49.png",
+      "large": "https://images.pokemontcg.io/swsh3/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Darkness-Ablaze/Beartic-V2-DAA049",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "swsh3-promo-110",
+    "name": "Hydreigon  (DAA 110) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Darkness"
+    ],
+    "evolvesFrom": "Zweilous",
+    "abilities": [
+      {
+        "name": "Dark Squall",
+        "text": "As often as you like during your turn, you may attach a Darkness Energy card from your hand to 1 of your Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Pitch-Black Fangs",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "130",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "110",
+    "artist": "kawayoo",
+    "rarity": "Promo",
+    "flavorText": "There are a slew of stories about villages that were destroyed by Hydreigon. It bites anything that moves.",
+    "nationalPokedexNumbers": [
+      635
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/110.png",
+      "large": "https://images.pokemontcg.io/swsh3/110_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Darkness-Ablaze/Hydreigon-V2-DAA110",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 3.85,
+        "reverseHoloLow": 3.85
+      }
+    }
+  },
+  {
+    "id": "swsh3-promo-156",
+    "name": "Corviknight  (DAA 156) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Corvisquire",
+    "abilities": [
+      {
+        "name": "Flying Taxi",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 1 of your Pokémon, except any Corviknight, and all attached cards into your hand.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Blasting Wind",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "156",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.",
+    "nationalPokedexNumbers": [
+      823
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/156.png",
+      "large": "https://images.pokemontcg.io/swsh3/156_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Darkness-Ablaze/Corviknight-V2-DAA156",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.24,
+        "reverseHoloLow": 0.5
+      }
+    }
+  },
+  {
+    "id": "swsh3-promo-172",
+    "name": "Turbo Patch (DAA 172) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Flip a coin. If heads, attach a basic Energy card from your discard pile to 1 of your Basic Pokémon that isn't a Pokémon-GX.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "number": "172",
+    "artist": "Toyste Beach",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh3/172.png",
+      "large": "https://images.pokemontcg.io/swsh3/172_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Darkness-Ablaze/Turbo-Patch-V3-DAA172",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
   }
 ]

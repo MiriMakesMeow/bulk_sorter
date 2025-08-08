@@ -51,6 +51,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/1.png",
       "large": "https://images.pokemontcg.io/hgss2/1_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Jirachi-UL1",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.48
+      }
     }
   },
   {
@@ -114,6 +122,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/2.png",
       "large": "https://images.pokemontcg.io/hgss2/2_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Magmortar-UL2",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -166,6 +182,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/3.png",
       "large": "https://images.pokemontcg.io/hgss2/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Manaphy-UL3",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.29
+      }
     }
   },
   {
@@ -235,6 +259,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/4.png",
       "large": "https://images.pokemontcg.io/hgss2/4_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Metagross-UL4",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -296,6 +328,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/5.png",
       "large": "https://images.pokemontcg.io/hgss2/5_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Mismagius-UL5",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.12,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -356,6 +396,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/6.png",
       "large": "https://images.pokemontcg.io/hgss2/6_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Octillery-UL6",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.25,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -414,6 +462,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/7.png",
       "large": "https://images.pokemontcg.io/hgss2/7_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Politoed-V1-UL7",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -475,6 +531,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/8.png",
       "large": "https://images.pokemontcg.io/hgss2/8_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Shaymin-UL8",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.35
+      }
     }
   },
   {
@@ -534,6 +598,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/9.png",
       "large": "https://images.pokemontcg.io/hgss2/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Sudowoodo-UL9",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": 0.7
+      }
     }
   },
   {
@@ -599,6 +671,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/10.png",
       "large": "https://images.pokemontcg.io/hgss2/10_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Torterra-UL10",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.19,
+        "reverseHoloLow": 0.34
+      }
     }
   },
   {
@@ -664,6 +744,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/11.png",
       "large": "https://images.pokemontcg.io/hgss2/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Xatu-UL11",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -718,6 +806,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/12.png",
       "large": "https://images.pokemontcg.io/hgss2/12_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Beedrill-UL12",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -778,6 +874,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/13.png",
       "large": "https://images.pokemontcg.io/hgss2/13_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Blastoise-UL13",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.48,
+        "reverseHoloLow": 1.0
+      }
     }
   },
   {
@@ -839,6 +943,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/14.png",
       "large": "https://images.pokemontcg.io/hgss2/14_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Crobat-V1-UL14",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -905,6 +1017,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/15.png",
       "large": "https://images.pokemontcg.io/hgss2/15_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Fearow-UL15",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.04,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -958,6 +1078,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/16.png",
       "large": "https://images.pokemontcg.io/hgss2/16_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Floatzel-UL16",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1017,6 +1145,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/17.png",
       "large": "https://images.pokemontcg.io/hgss2/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Kingdra-UL17",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -1077,6 +1213,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/18.png",
       "large": "https://images.pokemontcg.io/hgss2/18_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Lanturn-UL18",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1135,6 +1279,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/19.png",
       "large": "https://images.pokemontcg.io/hgss2/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Lucario-UL19",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.4
+      }
     }
   },
   {
@@ -1193,6 +1345,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/20.png",
       "large": "https://images.pokemontcg.io/hgss2/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Ninetales-UL20",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.6
+      }
     }
   },
   {
@@ -1255,6 +1415,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/21.png",
       "large": "https://images.pokemontcg.io/hgss2/21_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Poliwrath-V1-UL21",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1314,6 +1482,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/22.png",
       "large": "https://images.pokemontcg.io/hgss2/22_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Primeape-UL22",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
     }
   },
   {
@@ -1370,6 +1546,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/23.png",
       "large": "https://images.pokemontcg.io/hgss2/23_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Roserade-UL23",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.25
+      }
     }
   },
   {
@@ -1441,6 +1625,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/24.png",
       "large": "https://images.pokemontcg.io/hgss2/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Steelix-V1-UL24",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.39
+      }
     }
   },
   {
@@ -1497,6 +1689,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/25.png",
       "large": "https://images.pokemontcg.io/hgss2/25_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Torkoal-UL25",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -1567,6 +1767,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/26.png",
       "large": "https://images.pokemontcg.io/hgss2/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Tyranitar-UL26",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -1628,6 +1836,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/27.png",
       "large": "https://images.pokemontcg.io/hgss2/27_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Ursaring-UL27",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -1689,6 +1905,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/28.png",
       "large": "https://images.pokemontcg.io/hgss2/28_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Cherrim-UL28",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -1736,6 +1960,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/29.png",
       "large": "https://images.pokemontcg.io/hgss2/29_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Dunsparce-UL29",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1789,6 +2021,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/30.png",
       "large": "https://images.pokemontcg.io/hgss2/30_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Golbat-UL30",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -1859,6 +2099,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/31.png",
       "large": "https://images.pokemontcg.io/hgss2/31_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Grotle-UL31",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -1920,6 +2168,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/32.png",
       "large": "https://images.pokemontcg.io/hgss2/32_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Kakuna-UL32",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -1984,6 +2240,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/33.png",
       "large": "https://images.pokemontcg.io/hgss2/33_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Metang-UL33",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2046,6 +2310,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/34.png",
       "large": "https://images.pokemontcg.io/hgss2/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Minun-UL34",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.47
+      }
     }
   },
   {
@@ -2107,6 +2379,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/35.png",
       "large": "https://images.pokemontcg.io/hgss2/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Numel-UL35",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.13
+      }
     }
   },
   {
@@ -2169,6 +2449,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/36.png",
       "large": "https://images.pokemontcg.io/hgss2/36_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Plusle-UL36",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2231,6 +2519,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/37.png",
       "large": "https://images.pokemontcg.io/hgss2/37_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Poliwhirl-V1-UL37",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -2296,6 +2592,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/38.png",
       "large": "https://images.pokemontcg.io/hgss2/38_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Pupitar-UL38",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.18
+      }
     }
   },
   {
@@ -2365,6 +2669,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/39.png",
       "large": "https://images.pokemontcg.io/hgss2/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Pupitar-UL39",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2427,6 +2739,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/40.png",
       "large": "https://images.pokemontcg.io/hgss2/40_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Seadra-UL40",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -2486,6 +2806,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/41.png",
       "large": "https://images.pokemontcg.io/hgss2/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Tauros-UL41",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2548,6 +2876,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/42.png",
       "large": "https://images.pokemontcg.io/hgss2/42_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Wartortle-UL42",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -2608,6 +2944,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/43.png",
       "large": "https://images.pokemontcg.io/hgss2/43_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Aipom-UL43",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2659,6 +3003,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/44.png",
       "large": "https://images.pokemontcg.io/hgss2/44_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Beldum-UL44",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -2709,6 +3061,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/45.png",
       "large": "https://images.pokemontcg.io/hgss2/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Buizel-UL45",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2771,6 +3131,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/46.png",
       "large": "https://images.pokemontcg.io/hgss2/46_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Carnivine-UL46",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -2827,6 +3195,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/47.png",
       "large": "https://images.pokemontcg.io/hgss2/47_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Cherubi-UL47",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -2887,6 +3263,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/48.png",
       "large": "https://images.pokemontcg.io/hgss2/48_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Chinchou-UL48",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -2947,6 +3331,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/49.png",
       "large": "https://images.pokemontcg.io/hgss2/49_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Horsea-UL49",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -3012,6 +3404,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/50.png",
       "large": "https://images.pokemontcg.io/hgss2/50_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Larvitar-UL50",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.12
+      }
     }
   },
   {
@@ -3078,6 +3478,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/51.png",
       "large": "https://images.pokemontcg.io/hgss2/51_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Larvitar-UL51",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -3138,6 +3546,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/52.png",
       "large": "https://images.pokemontcg.io/hgss2/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Magmar-UL52",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -3198,6 +3614,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/53.png",
       "large": "https://images.pokemontcg.io/hgss2/53_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Mankey-UL53",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3254,6 +3678,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/54.png",
       "large": "https://images.pokemontcg.io/hgss2/54_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Misdreavus-UL54",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -3319,6 +3751,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/55.png",
       "large": "https://images.pokemontcg.io/hgss2/55_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Natu-UL55",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.32
+      }
     }
   },
   {
@@ -3382,6 +3822,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/56.png",
       "large": "https://images.pokemontcg.io/hgss2/56_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Onix-UL56",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3436,6 +3884,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/57.png",
       "large": "https://images.pokemontcg.io/hgss2/57_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Onix-UL57",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3496,6 +3952,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/58.png",
       "large": "https://images.pokemontcg.io/hgss2/58_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Poliwag-V1-UL58",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3556,6 +4020,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/59.png",
       "large": "https://images.pokemontcg.io/hgss2/59_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Remoraid-UL59",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -3616,6 +4088,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/60.png",
       "large": "https://images.pokemontcg.io/hgss2/60_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Riolu-UL60",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3666,6 +4146,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/61.png",
       "large": "https://images.pokemontcg.io/hgss2/61_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Roselia-UL61",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -3731,6 +4219,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/62.png",
       "large": "https://images.pokemontcg.io/hgss2/62_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Spearow-UL62",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3792,6 +4288,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/63.png",
       "large": "https://images.pokemontcg.io/hgss2/63_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Squirtle-UL63",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.5
+      }
     }
   },
   {
@@ -3850,6 +4354,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/64.png",
       "large": "https://images.pokemontcg.io/hgss2/64_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Stantler-UL64",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
     }
   },
   {
@@ -3900,6 +4412,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/65.png",
       "large": "https://images.pokemontcg.io/hgss2/65_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Teddiursa-UL65",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.14
+      }
     }
   },
   {
@@ -3963,6 +4483,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/66.png",
       "large": "https://images.pokemontcg.io/hgss2/66_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Tropius-UL66",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.04
+      }
     }
   },
   {
@@ -4029,6 +4557,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/67.png",
       "large": "https://images.pokemontcg.io/hgss2/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Turtwig-UL67",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -4079,6 +4615,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/68.png",
       "large": "https://images.pokemontcg.io/hgss2/68_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Vulpix-UL68",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
     }
   },
   {
@@ -4138,6 +4682,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/69.png",
       "large": "https://images.pokemontcg.io/hgss2/69_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Weedle-UL69",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
     }
   },
   {
@@ -4203,6 +4755,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/70.png",
       "large": "https://images.pokemontcg.io/hgss2/70_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Zubat-UL70",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4225,6 +4785,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/71.png",
       "large": "https://images.pokemontcg.io/hgss2/71_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Cheerleaders-Cheer-UL71",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4246,6 +4814,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/72.png",
       "large": "https://images.pokemontcg.io/hgss2/72_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Dual-Ball-UL72",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.09
+      }
     }
   },
   {
@@ -4268,6 +4844,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/73.png",
       "large": "https://images.pokemontcg.io/hgss2/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Emcees-Chatter-UL73",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.15
+      }
     }
   },
   {
@@ -4289,6 +4873,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/74.png",
       "large": "https://images.pokemontcg.io/hgss2/74_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Energy-Returner-UL74",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4311,6 +4903,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/75.png",
       "large": "https://images.pokemontcg.io/hgss2/75_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Engineers-Adjustments-UL75",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4332,6 +4932,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/76.png",
       "large": "https://images.pokemontcg.io/hgss2/76_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Good-Rod-UL76",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4354,6 +4962,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/77.png",
       "large": "https://images.pokemontcg.io/hgss2/77_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Interviewers-Questions-UL77",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
     }
   },
   {
@@ -4378,6 +4994,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/78.png",
       "large": "https://images.pokemontcg.io/hgss2/78_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Judge-V1-UL78",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4400,6 +5024,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/79.png",
       "large": "https://images.pokemontcg.io/hgss2/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Life-Herb-UL79",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4423,6 +5055,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/80.png",
       "large": "https://images.pokemontcg.io/hgss2/80_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/PlusPower-UL80",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -4444,6 +5084,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/81.png",
       "large": "https://images.pokemontcg.io/hgss2/81_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Pokemon-Circulator-UL81",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4467,6 +5115,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/82.png",
       "large": "https://images.pokemontcg.io/hgss2/82_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Rare-Candy-V1-UL82",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
     }
   },
   {
@@ -4488,6 +5144,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/83.png",
       "large": "https://images.pokemontcg.io/hgss2/83_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Super-Scoop-Up-V1-UL83",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.19
+      }
     }
   },
   {
@@ -4547,6 +5211,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/84.png",
       "large": "https://images.pokemontcg.io/hgss2/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Crobat-UL84",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4602,6 +5274,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/85.png",
       "large": "https://images.pokemontcg.io/hgss2/85_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Kingdra-UL85",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4660,6 +5340,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/86.png",
       "large": "https://images.pokemontcg.io/hgss2/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Lanturn-UL86",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.6,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4738,6 +5426,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/87.png",
       "large": "https://images.pokemontcg.io/hgss2/87_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Steelix-UL87",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4817,6 +5513,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/88.png",
       "large": "https://images.pokemontcg.io/hgss2/88_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Tyranitar-UL88",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4888,6 +5592,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/89.png",
       "large": "https://images.pokemontcg.io/hgss2/89_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Ursaring-UL89",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 0.15,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4947,6 +5659,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/90.png",
       "large": "https://images.pokemontcg.io/hgss2/90_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Entei-Raikou-LEGEND-V1-UL90",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 8.99,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5010,6 +5730,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/91.png",
       "large": "https://images.pokemontcg.io/hgss2/91_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Entei-Raikou-LEGEND-V2-UL91",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 6.85,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5079,6 +5807,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/92.png",
       "large": "https://images.pokemontcg.io/hgss2/92_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Raikou-Suicune-LEGEND-V1-UL92",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5148,6 +5884,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/93.png",
       "large": "https://images.pokemontcg.io/hgss2/93_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Raikou-Suicune-LEGEND-V2-UL93",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5217,6 +5961,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/94.png",
       "large": "https://images.pokemontcg.io/hgss2/94_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Suicune-Entei-LEGEND-V1-UL94",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -5286,6 +6038,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/hgss2/95.png",
       "large": "https://images.pokemontcg.io/hgss2/95_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Unleashed/Suicune-Entei-LEGEND-V2-UL95",
+      "updatedAt": "2025-08-05",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
     }
   },
   {
