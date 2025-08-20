@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meine Zählhilfe</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Comic+Relief:wght@700&display=swap"
+      rel="stylesheet"
+    />
+
+    <style>
+      body {
+        margin: 0;
+        font-family: "Comic Relief";
+        background: white;
+      }
+
+      .header-image {
+        height: 100vh;
+        width: 100%;
+        object-fit: cover;
+        filter: brightness(0.5);
+      }
+
+      .container-menu {
+        position: absolute;
+        right: 32px;
+        top: 16px;
+        font-size: 24px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .menu-link {
+        color: antiquewhite;
+        text-decoration: none;
+        margin-left: 16px;
+      }
+
+      .menu-link:hover {
+        text-decoration: underline;
+      }
+
+      .headline {
+        position: absolute;
+        left: 20px;
+        top: 215px;
+        color: antiquewhite;
+        font-size: 30px;
+        text-shadow: 5px 5px 5px rgba(0, 0, 0);
+      }
+
+      .logo {
+        position: absolute;
+        height: 200px;
+        width: 275px;
+        left: 16px;
+        top: 16px;
+      }
+
+      .grey {
+        color: rgb(155, 155, 155);
+      }
+
+      .section {
+        max-width: 900px;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        margin-left: 40px; /* linksbündig mit etwas Abstand */
+        padding-right: 1rem;
+      }
+
+      .section-title {
+        background-color: rgb(66, 63, 63);
+        padding: 0.5rem 1rem;
+        border-radius: 10px;
+        box-shadow: 5px 5px 5px rgba(0, 0, 0);
+        font-size: 2rem;
+        text-shadow: 2px 2px rgba(0, 0, 0);
+        color: white;
+        text-decoration: underline;
+        width: fit-content;
+        margin-bottom: 1rem;
+      }
+
+      .description-section {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        align-items: flex-start;
+      }
+
+      .description-section > div,
+      .description-section iframe {
+        flex: 1 1 300px;
+        max-width: 48%;
+      }
+
+      .youtube {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+      }
+
+      @media (max-width: 600px) {
+        .description-section > div,
+        .description-section iframe {
+          max-width: 100%;
+        }
+
+        .section {
+          margin-left: 16px;
+          padding-right: 16px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <img class="header-image" src="/img/background.jpg" />
+
+    <div class="container-menu">
+      <a class="menu-link button" href="">Home</a>
+      <a class="menu-link button" href="">Kontakt</a>
+      <a class="menu-link button" href="">Impressum</a>
+    </div>
+
+    <img src="/img/logo.png" class="logo" />
+    <h1 class="headline">
+      ...für die <span class="grey">gesamte</span> Sammlung!
+    </h1>
+
+    <div class="section">
+      <h2 class="section-title">Dein digitaler Cardshop</h2>
+      <div class="description-section">
+        <div>Uns findest du ab jetzt auch auf Ebay!</div>
+        <a
+          class="ebay-card"
+          href="https://www.ebay.de/itm/365804384035?itmmeta=01K348Y0HHDEYG408DJA76PECY&hash=item552ba3ef23:g:mHQAAeSwuDRoj7Jj"
+          target="_blank"
+          rel="noopener"
+        >
+          <img src="img/evoli.webp" alt="Artikelbild" />
+          <div>
+            <strong>Titel des Artikels</strong><br />
+            <span>Preis: 39,99€</span><br />
+            <small>Weitere Angebote auf meinem eBay-Profil</small>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2 class="section-title">Video</h2>
+      <div class="description-section">
+        <div>Welche Karten sind gerade beliebt und welche eher nicht?</div>
+        <iframe
+          class="youtube"
+          src="https://www.youtube.com/embed/1gRwajiEEJw?si=Idvo9Si3dwTPrQ66"
+          title="YouTube video player"
+          style="border: 0"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+        ></iframe>
+      </div>
+    </div>
+  </body>
+</html>
