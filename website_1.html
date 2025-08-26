@@ -2,7 +2,7 @@
 <html lang="de">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Meine Zählhilfe</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -12,36 +12,78 @@
       rel="stylesheet"
     />
 
+    <!-- libs -->
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
     <style>
+      :root {
+        --card-radius: 12px;
+        --card-border: 1px solid #e5e5e5;
+        --card-shadow: 2px 2px 8px rgba(0, 0, 0, 0.08);
+        --lead-bg: #dcdcdc;
+        --dark: #423f3f;
+        --page-side: 40px;
+        --cols-gap: 2rem;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      html,
       body {
+        height: 100%;
         margin: 0;
         font-family: "Comic Relief";
-        background: white;
+        color: #111;
+        background: #fff;
       }
 
-      .header-image {
-        height: 100vh;
-        width: 100%;
-        object-fit: cover;
-        filter: brightness(0.5);
+      body {
+        display: grid;
+        grid-template-rows: 75vh 25vh;
+        min-height: 100vh;
       }
 
+      .hero {
+        position: relative;
+        display: grid;
+        grid-template-columns: 1fr minmax(320px, 460px);
+        align-items: center;
+        gap: 2rem;
+        padding: 160px var(--page-side) 48px;
+        height: 100%;
+        overflow: hidden;
+        background: url("./img/gengar.png") right 6% center / min(420px, 50vw)
+            auto no-repeat,
+          radial-gradient(
+            ellipse at center,
+            rgba(0, 0, 0, 0.15),
+            rgba(0, 0, 0, 0.45)
+          ),
+          url("./img/background.jpg") center/cover no-repeat;
+      }
+      .logo {
+        position: absolute;
+        left: 16px;
+        top: 16px;
+        height: 120px;
+        width: auto;
+        z-index: 3;
+      }
       .container-menu {
         position: absolute;
-        right: 32px;
-        top: 16px;
-        font-size: 24px;
+        right: 24px;
+        top: 20px;
+        z-index: 3;
         display: flex;
-        align-items: center;
-        justify-content: space-between;
+        gap: 18px;
+        font-size: 22px;
+        white-space: nowrap;
       }
-
       .menu-link {
         color: antiquewhite;
         text-decoration: none;
-        margin-left: 16px;
       }
-
       .menu-link:hover {
         text-decoration: underline;
       }
@@ -49,124 +91,483 @@
       .headline {
         position: absolute;
         left: 20px;
-        top: 215px;
+        top: 155px;
+        z-index: 2;
         color: antiquewhite;
-        font-size: 30px;
-        text-shadow: 5px 5px 5px rgba(0, 0, 0);
+        font-size: 28px;
+        text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);
       }
-
-      .logo {
-        position: absolute;
-        height: 200px;
-        width: 275px;
-        left: 16px;
-        top: 16px;
-      }
-
       .grey {
-        color: rgb(155, 155, 155);
+        color: #9b9b9b;
       }
 
-      .section {
-        max-width: 900px;
-        margin-top: 2rem;
-        margin-bottom: 2rem;
-        margin-left: 40px; /* linksbündig mit etwas Abstand */
-        padding-right: 1rem;
+      .album-dashboard {
+        background: rgba(250, 250, 250, 0.35);
+        backdrop-filter: blur(2px);
+        border: var(--card-border);
+        border-radius: var(--card-radius);
+        box-shadow: var(--card-shadow);
+        width: min(520px, 94vw);
+        padding: 0.32rem 0.56rem;
+        max-height: 48vh;
+        overflow: auto;
+        font-size: 0.9rem;
+        z-index: 2;
       }
-
+      .album-dashboard select {
+        width: 100%;
+        padding: 0.35rem 0.6rem;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        font-size: 0.95rem;
+        margin-bottom: 10px;
+      }
       .section-title {
-        background-color: rgb(66, 63, 63);
-        padding: 0.5rem 1rem;
+        background: var(--dark);
+        color: #fff;
+        padding: 0.45rem 0.9rem;
         border-radius: 10px;
-        box-shadow: 5px 5px 5px rgba(0, 0, 0);
-        font-size: 2rem;
-        text-shadow: 2px 2px rgba(0, 0, 0);
-        color: white;
+        box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
         text-decoration: underline;
+        text-shadow: 2px 2px rgba(0, 0, 0);
+        font-size: 1.35rem;
+        margin: 0 0 10px 0;
         width: fit-content;
-        margin-bottom: 1rem;
+      }
+      .dash-kpis {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-bottom: 10px;
+      }
+      .kpi {
+        flex: 1 1 110px;
+        text-align: center;
+        background: #fff;
+        border: var(--card-border);
+        border-radius: 10px;
+        padding: 0.5rem 0.7rem;
+        box-shadow: var(--card-shadow);
+      }
+      .kpi-label {
+        opacity: 0.75;
+        font-size: 0.92rem;
+      }
+      .kpi-value {
+        font-size: 1.2rem;
+        font-weight: 700;
+      }
+      .dash-controls {
+        display: flex;
+        align-items: center;
+        gap: 0.45rem;
+        flex-wrap: wrap;
+        margin: 0.4rem 0 0.8rem;
+      }
+      .range-btn {
+        border: 1px solid #ddd;
+        background: #eee;
+        border-radius: 8px;
+        padding: 0.3rem 0.6rem;
+        font-weight: 700;
+        cursor: pointer;
+        font-size: 0.95rem;
+      }
+      .range-btn.active {
+        background: var(--dark);
+        color: #fff;
+        border-color: var(--dark);
+      }
+      .dash-updated {
+        margin-left: auto;
+        opacity: 0.85;
+        font-size: 1rem;
+      }
+      .dash-chart-wrap {
+        background: #fff;
+        border: var(--card-border);
+        border-radius: var(--card-radius);
+        box-shadow: var(--card-shadow);
+        padding: 0.5rem;
+      }
+      #ad-chart {
+        height: 200px;
+        max-height: 40vh;
+      }
+      .dash-note {
+        display: block;
+        margin-top: 0.5rem;
+        opacity: 0.6;
       }
 
-      .description-section {
+      .main-sections {
+        height: 100%;
+        overflow: auto;
         display: flex;
         flex-wrap: wrap;
-        gap: 2rem;
-        align-items: flex-start;
+        justify-content: space-between;
+        gap: var(--cols-gap);
+        padding: 20px var(--page-side) 24px;
+        background: #fff;
       }
-
-      .description-section > div,
-      .description-section iframe {
-        flex: 1 1 300px;
+      .section {
+        flex: 0 1 48%;
         max-width: 48%;
+        background: #fafafa;
+        border: var(--card-border);
+        border-radius: var(--card-radius);
+        box-shadow: var(--card-shadow);
+        padding: 14px;
+        display: flex;
+        flex-direction: column;
       }
-
+      .lead {
+        font-weight: 700;
+        line-height: 1.3;
+        font-size: 1.05rem;
+        background: var(--lead-bg);
+        padding: 0.5rem 0.7rem;
+        border-radius: 8px;
+        box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.15);
+        margin: 0 0 10px 0;
+      }
+      .ebay-card {
+        display: flex;
+        gap: 14px;
+        text-decoration: none;
+        color: inherit;
+        background: #fff;
+        border: var(--card-border);
+        border-radius: var(--card-radius);
+        padding: 14px;
+        box-shadow: var(--card-shadow);
+      }
+      .ebay-card img {
+        width: 108px;
+        height: 108px;
+        object-fit: cover;
+        border-radius: 8px;
+      }
       .youtube {
         width: 100%;
-        aspect-ratio: 16 / 9;
+        height: min(220px, 22vh);
+        border-radius: var(--card-radius);
+        border: var(--card-border);
       }
 
-      @media (max-width: 600px) {
-        .description-section > div,
-        .description-section iframe {
+      @media (min-width: 981px) {
+        .album-dashboard {
+          position: absolute;
+          right: var(--page-side);
+          top: 50%;
+          transform: translateY(-50%);
+          margin-top: 0;
+          width: min(520px, 38vw);
+        }
+      }
+      @media (max-width: 1200px) {
+        .container-menu {
+          font-size: 20px;
+          gap: 16px;
+          right: 18px;
+        }
+        .logo {
+          height: 110px;
+        }
+      }
+      @media (max-width: 980px) {
+        .container-menu {
+          font-size: 18px;
+          gap: 14px;
+          right: 16px;
+        }
+        .logo {
+          height: 100px;
+        }
+        .hero {
+          grid-template-columns: 1fr;
+          padding: 200px 20px 36px;
+          background: url("./img/gengar.png") right 4% center / min(360px, 60vw)
+              auto no-repeat,
+            radial-gradient(
+              ellipse at center,
+              rgba(0, 0, 0, 0.15),
+              rgba(0, 0, 0, 0.45)
+            ),
+            url("./img/background.jpg") center/cover no-repeat;
+        }
+        .album-dashboard {
+          position: static;
+          transform: none;
+          right: auto;
+          top: auto;
+          justify-self: center;
+          width: min(480px, 94vw);
+          margin-top: 64px;
+          max-height: 46vh;
+        }
+        .main-sections {
+          flex-direction: column;
+          padding: 16px 20px;
+        }
+        .section {
           max-width: 100%;
         }
-
-        .section {
-          margin-left: 16px;
-          padding-right: 16px;
+        .section-title {
+          font-size: 1.25rem;
+        }
+        .kpi-value {
+          font-size: 1.1rem;
+        }
+        .range-btn {
+          font-size: 0.9rem;
+          padding: 0.28rem 0.55rem;
+        }
+      }
+      @media (max-width: 720px) {
+        .container-menu {
+          left: 16px;
+          right: auto;
+          top: 140px;
+          font-size: 17px;
+          gap: 12px;
+        }
+        .headline {
+          top: 185px;
+        }
+        .hero {
+          padding-top: 210px;
+          background: url("./img/gengar.png") right 2% center / min(300px, 58vw)
+              auto no-repeat,
+            radial-gradient(
+              ellipse at center,
+              rgba(0, 0, 0, 0.15),
+              rgba(0, 0, 0, 0.45)
+            ),
+            url("./img/background.jpg") center/cover no-repeat;
+        }
+        .album-dashboard {
+          width: min(440px, 94vw);
+          max-height: 44vh;
+          margin-top: 72px;
         }
       }
     </style>
   </head>
   <body>
-    <img class="header-image" src="/img/background.jpg" />
+    <!-- HERO -->
+    <section class="hero">
+      <img src="./img/logo.png" alt="Logo" class="logo" />
+      <nav class="container-menu">
+        <a class="menu-link" href="#">Meine Alben</a>
+        <a class="menu-link" href="#">Kartensuche</a>
+        <a class="menu-link" href="#">Kontakt</a>
+      </nav>
 
-    <div class="container-menu">
-      <a class="menu-link button" href="">Home</a>
-      <a class="menu-link button" href="">Kontakt</a>
-      <a class="menu-link button" href="">Impressum</a>
-    </div>
+      <!-- Such-Panel -->
+      <div
+        id="search-panel"
+        style="
+          position: absolute;
+          right: 40px;
+          top: 70px;
+          z-index: 5;
+          width: min(520px, 92vw);
+          background: rgba(255, 255, 255, 0.95);
+          border-radius: 12px;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+          padding: 10px;
+          display: none;
+        "
+      >
+        <input
+          id="search-input"
+          type="search"
+          placeholder="Karte suchen (Name, Set, Nummer)..."
+          style="
+            width: 100%;
+            padding: 8px 10px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+          "
+        />
+        <div
+          id="search-results"
+          style="max-height: 50vh; overflow: auto; margin-top: 10px"
+        ></div>
+      </div>
 
-    <img src="/img/logo.png" class="logo" />
-    <h1 class="headline">
-      ...für die <span class="grey">gesamte</span> Sammlung!
-    </h1>
+      <h1 class="headline">
+        ...für die <span class="grey">gesamte</span> Sammlung!
+      </h1>
 
-    <div class="section">
-      <h2 class="section-title">Dein digitaler Cardshop</h2>
-      <div class="description-section">
-        <div>Uns findest du ab jetzt auch auf Ebay!</div>
+      <div class="album-dashboard">
+        <select id="albumSelect">
+          <option value="domi">Domi Alt Ordner</option>
+          <option value="b2">Beispielalbum 2</option>
+          <option value="b3">Beispielalbum 3</option>
+        </select>
+
+        <h2 class="section-title" id="albumTitle">Domi Alt Ordner</h2>
+
+        <div class="dash-kpis">
+          <div class="kpi">
+            <div class="kpi-label">Gesamtwert</div>
+            <div class="kpi-value" id="ad-total">–</div>
+          </div>
+          <div class="kpi">
+            <div class="kpi-label">Karten</div>
+            <div class="kpi-value" id="ad-count">–</div>
+          </div>
+          <div class="kpi">
+            <div class="kpi-label">Δ Zeitraum</div>
+            <div class="kpi-value" id="ad-change">–</div>
+          </div>
+        </div>
+
+        <div class="dash-controls">
+          <button class="range-btn active" data-range="1m">1M</button>
+          <button class="range-btn" data-range="3m">3M</button>
+          <button class="range-btn" data-range="6m">6M</button>
+          <button class="range-btn" data-range="12m">12M</button>
+          <span class="dash-updated" id="ad-updated">Aktualisiert: –</span>
+        </div>
+
+        <div class="dash-chart-wrap"><canvas id="ad-chart"></canvas></div>
+        <small class="dash-note" id="albumNote"
+          >Quelle: Bewertung deines Albums „Domi Alt Ordner“</small
+        >
+      </div>
+    </section>
+
+    <!-- MAIN -->
+    <section class="main-sections">
+      <div class="section">
+        <h2 class="section-title">Dein digitaler Cardshop</h2>
+        <p class="lead">Uns findest du ab jetzt auch auf Ebay!</p>
         <a
           class="ebay-card"
-          href="https://www.ebay.de/itm/365804384035?itmmeta=01K348Y0HHDEYG408DJA76PECY&hash=item552ba3ef23:g:mHQAAeSwuDRoj7Jj"
+          href="https://www.ebay.de/itm/365804384035"
           target="_blank"
           rel="noopener"
         >
-          <img src="img/evoli.webp" alt="Artikelbild" />
+          <img src="./img/evoli.webp" alt="Artikelbild" />
           <div>
-            <strong>Titel des Artikels</strong><br />
+            <strong>Pokémon TCG Karte Evoli Yu Nagaba Signature Rare</strong
+            ><br />
             <span>Preis: 39,99€</span><br />
             <small>Weitere Angebote auf meinem eBay-Profil</small>
           </div>
         </a>
       </div>
-    </div>
 
-    <div class="section">
-      <h2 class="section-title">Video</h2>
-      <div class="description-section">
-        <div>Welche Karten sind gerade beliebt und welche eher nicht?</div>
+      <div class="section">
+        <h2 class="section-title">Video</h2>
+        <p class="lead">
+          Welche Karten sind gerade beliebt und welche eher nicht?
+        </p>
         <iframe
           class="youtube"
-          src="https://www.youtube.com/embed/1gRwajiEEJw?si=Idvo9Si3dwTPrQ66"
+          src="https://www.youtube.com/embed/1gRwajiEEJw"
           title="YouTube video player"
-          style="border: 0"
-          allowfullscreen=""
+          allowfullscreen
           loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"
         ></iframe>
       </div>
-    </div>
+    </section>
+
+    <script>
+      // --- Suche: UI-Refs
+      const searchPanel = document.getElementById("search-panel");
+      const searchInput = document.getElementById("search-input");
+      const searchResult = document.getElementById("search-results");
+
+      // --- Worker starten (liegt im Root)
+      const worker = new Worker("search_worker.js");
+
+      // Worker-Events
+      worker.onmessage = (e) => {
+        const { type, items, count } = e.data || {};
+        if (type === "READY") {
+          console.log(`Suchindex aufgebaut. Karten: ${count}`);
+        }
+        if (type === "RESULTS") {
+          renderSearchResults(items || []);
+        }
+      };
+
+      // Manifest laden & Index im Worker bauen (Manifest liegt im Root)
+      async function buildGlobalIndex() {
+        const { files } = await fetch("./catalog_index.json", {
+          cache: "no-store",
+        }).then((r) => r.json());
+        worker.postMessage({ type: "BUILD", payload: { files } });
+      }
+
+      // "Kartensuche" toggelt Panel
+      document.querySelectorAll(".menu-link").forEach((a) => {
+        if (a.textContent.toLowerCase().includes("kartensuche")) {
+          a.addEventListener("click", (ev) => {
+            ev.preventDefault();
+            const visible = searchPanel.style.display === "block";
+            searchPanel.style.display = visible ? "none" : "block";
+            if (!visible) searchInput.focus();
+          });
+        }
+      });
+
+      // Input -> Suche (debounced)
+      let searchTimer = null;
+      searchInput.addEventListener("input", () => {
+        clearTimeout(searchTimer);
+        const q = searchInput.value.trim();
+        searchTimer = setTimeout(() => {
+          worker.postMessage({ type: "SEARCH", payload: { query: q } });
+        }, 180);
+      });
+
+      // Ergebnisse rendern
+      function renderSearchResults(items) {
+        if (!items.length) {
+          searchResult.innerHTML = `<div style="padding:8px;color:#666">Keine Treffer</div>`;
+          return;
+        }
+        searchResult.innerHTML = items
+          .map(
+            (c) => `
+          <div style="display:flex; gap:10px; align-items:center; border-bottom:1px solid #eee; padding:8px 4px;">
+            <img src="${
+              c.image || ""
+            }" alt="" style="width:48px;height:48px;object-fit:cover;border-radius:6px; background:#f2f2f2">
+            <div style="flex:1 1 auto;">
+              <div style="font-weight:700">${c.name}</div>
+              <div style="opacity:.75; font-size:13px">${c.set || ""}${
+              c.number ? " · #" + c.number : ""
+            }${c.rarity ? " · " + c.rarity : ""}</div>
+            </div>
+            <div style="font-weight:700; min-width:80px; text-align:right">${(
+              c.priceLow ?? 0
+            ).toFixed(2)} €</div>
+            <button data-id="${
+              c.id
+            }" class="btn-add" style="margin-left:8px; padding:6px 10px; border-radius:8px; border:1px solid #ddd; background:#eee; cursor:pointer">Zu Album</button>
+          </div>
+        `
+          )
+          .join("");
+
+        searchResult.querySelectorAll(".btn-add").forEach((btn) => {
+          btn.addEventListener("click", () => {
+            // TODO: addToAlbum(albumSelect.value, btn.dataset.id)
+            btn.textContent = "Hinzugefügt";
+            btn.disabled = true;
+          });
+        });
+      }
+
+      // Start
+      buildGlobalIndex();
+    </script>
   </body>
 </html>
