@@ -25,6 +25,7 @@
         --dark: #423f3f;
         --page-side: 40px;
         --cols-gap: 2rem;
+        --shadow-lg: 0 10px 24px rgba(0, 0, 0, 0.12);
       }
       * {
         box-sizing: border-box;
@@ -38,6 +39,7 @@
         background: #fff;
       }
 
+      /* ===== Startseite Layout (75/25) ===== */
       body {
         display: grid;
         grid-template-rows: 75vh 25vh;
@@ -352,51 +354,129 @@
           margin-top: 72px;
         }
       }
+
+      /* ===== Vollbild-Suchseite (Option 2) ===== */
+      .page {
+        display: none;
+      }
+      .page.active {
+        display: block;
+      }
+
+      #searchPage {
+        position: fixed;
+        inset: 0;
+        z-index: 100; /* über Hero/Main */
+        background: #fafafa;
+        padding: 12px var(--page-side) 28px;
+        overflow: auto;
+      }
+      .search-header {
+        position: sticky;
+        top: 0;
+        z-index: 5;
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        padding: 10px;
+        margin-bottom: 14px;
+        background: rgba(255, 255, 255, 0.95);
+        border: 1px solid #e8e8e8;
+        border-radius: 12px;
+        box-shadow: var(--shadow-lg);
+      }
+      .btn {
+        border: 1px solid #ddd;
+        background: #eee;
+        border-radius: 10px;
+        padding: 10px 14px;
+        cursor: pointer;
+        text-decoration: none;
+        color: inherit;
+      }
+      .btn:active {
+        transform: translateY(1px);
+      }
+
+      #searchInput {
+        flex: 1 1 auto;
+        padding: 10px 12px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        font-size: 16px;
+      }
+      #progress {
+        margin: 8px 0 12px;
+        color: #555;
+        display: none;
+      }
+
+      .results {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+        gap: 14px;
+      }
+      .result-card {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        background: #fff;
+        border: var(--card-border);
+        border-radius: var(--card-radius);
+        box-shadow: var(--shadow-lg);
+        padding: 10px;
+      }
+      .result-card img {
+        width: 72px;
+        height: 72px;
+        object-fit: cover;
+        border-radius: 8px;
+        background: #f2f2f2;
+      }
+      .result-card h4 {
+        margin: 0 0 4px 0;
+        font-size: 16px;
+      }
+      .meta {
+        font-size: 12px;
+        opacity: 0.75;
+      }
+      .price {
+        margin-left: auto;
+        font-weight: 700;
+        min-width: 80px;
+        text-align: right;
+      }
+
+      @media (max-width: 720px) {
+        #searchPage {
+          padding: 12px 16px 24px;
+        }
+      }
+
+      /* ===== CSS-only Routing per :target ===== */
+      #searchPage:target {
+        display: block;
+      }
+      #searchPage:target ~ .hero,
+      #searchPage:target ~ .main-sections {
+        display: none !important;
+      }
     </style>
   </head>
   <body>
-    <!-- HERO -->
+    <!-- ===== Startseite: HERO ===== -->
     <section class="hero">
       <img src="./img/logo.png" alt="Logo" class="logo" />
-      <nav class="container-menu">
-        <a class="menu-link" href="#">Meine Alben</a>
-        <a class="menu-link" href="#">Kartensuche</a>
-        <a class="menu-link" href="#">Kontakt</a>
-      </nav>
 
-      <!-- Such-Panel -->
-      <div
-        id="search-panel"
-        style="
-          position: absolute;
-          right: 40px;
-          top: 70px;
-          z-index: 5;
-          width: min(520px, 92vw);
-          background: rgba(255, 255, 255, 0.95);
-          border-radius: 12px;
-          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-          padding: 10px;
-          display: none;
-        "
-      >
-        <input
-          id="search-input"
-          type="search"
-          placeholder="Karte suchen (Name, Set, Nummer)..."
-          style="
-            width: 100%;
-            padding: 8px 10px;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            font-size: 16px;
-          "
-        />
-        <div
-          id="search-results"
-          style="max-height: 50vh; overflow: auto; margin-top: 10px"
-        ></div>
-      </div>
+      <!-- Menü: Kartensuche mit Anker (#searchPage) -->
+      <nav class="container-menu">
+        <a class="menu-link" href="#" data-nav="home">Meine Alben</a>
+        <a class="menu-link" href="#searchPage" data-nav="search"
+          >Kartensuche</a
+        >
+        <a class="menu-link" href="#" data-nav="home">Kontakt</a>
+      </nav>
 
       <h1 class="headline">
         ...für die <span class="grey">gesamte</span> Sammlung!
@@ -441,7 +521,7 @@
       </div>
     </section>
 
-    <!-- MAIN -->
+    <!-- ===== Startseite: MAIN (Cardshop + Video) ===== -->
     <section class="main-sections">
       <div class="section">
         <h2 class="section-title">Dein digitaler Cardshop</h2>
@@ -477,97 +557,118 @@
       </div>
     </section>
 
+    <!-- ===== Vollbild-Suchseite ===== -->
+    <section id="searchPage" class="page">
+      <div class="search-header">
+        <!-- Zurück als Link (CSS-only & JS kompatibel) -->
+        <a id="btnBack" class="btn" href="#" title="Zurück">← Zurück</a>
+        <input
+          id="searchInput"
+          type="search"
+          placeholder="Karte suchen (Name, Set, Nummer)..."
+        />
+        <a id="btnClear" class="btn" href="#" title="Eingabe löschen">✕</a>
+      </div>
+
+      <div id="progress"></div>
+      <div id="results" class="results" aria-live="polite"></div>
+    </section>
+
     <script>
-      // --- Suche: UI-Refs
-      const searchPanel = document.getElementById("search-panel");
-      const searchInput = document.getElementById("search-input");
-      const searchResult = document.getElementById("search-results");
+      (() => {
+        const progress = document.getElementById("progress"); // <div id="progress">
+        const input = document.getElementById("searchInput"); // <input id="searchInput">
+        const results = document.getElementById("results"); // <div id="results">
 
-      // --- Worker starten (liegt im Root)
-      const worker = new Worker("search_worker.js");
+        let worker = null;
+        let workerReady = false;
+        let searchDebounceId = 0;
 
-      // Worker-Events
-      worker.onmessage = (e) => {
-        const { type, items, count } = e.data || {};
-        if (type === "READY") {
-          console.log(`Suchindex aufgebaut. Karten: ${count}`);
+        function logProgress(msg) {
+          if (!progress) return;
+          progress.style.display = "block";
+          progress.textContent = msg;
         }
-        if (type === "RESULTS") {
-          renderSearchResults(items || []);
+
+        function render(items) {
+          if (!results) return;
+          if (!items.length) {
+            results.innerHTML =
+              '<div style="padding:10px;color:#666">Keine Treffer</div>';
+            return;
+          }
+          results.innerHTML = items
+            .map(
+              (c) => `
+      <article class="result-card">
+        <img src="${c.image || ""}" alt="">
+        <div>
+          <h4>${c.name}</h4>
+          <div class="meta">${c.set || ""}${c.number ? " · #" + c.number : ""}${
+                c.rarity ? " · " + c.rarity : ""
+              }</div>
+        </div>
+        <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
+        <button class="btn" data-id="${c.id}">Zu Album</button>
+      </article>
+    `
+            )
+            .join("");
         }
-      };
 
-      // Manifest laden & Index im Worker bauen (Manifest liegt im Root)
-      async function buildGlobalIndex() {
-        const { files } = await fetch("./catalog_index.json", {
-          cache: "no-store",
-        }).then((r) => r.json());
-        worker.postMessage({ type: "BUILD", payload: { files } });
-      }
-
-      // "Kartensuche" toggelt Panel
-      document.querySelectorAll(".menu-link").forEach((a) => {
-        if (a.textContent.toLowerCase().includes("kartensuche")) {
-          a.addEventListener("click", (ev) => {
-            ev.preventDefault();
-            const visible = searchPanel.style.display === "block";
-            searchPanel.style.display = visible ? "none" : "block";
-            if (!visible) searchInput.focus();
-          });
-        }
-      });
-
-      // Input -> Suche (debounced)
-      let searchTimer = null;
-      searchInput.addEventListener("input", () => {
-        clearTimeout(searchTimer);
-        const q = searchInput.value.trim();
-        searchTimer = setTimeout(() => {
-          worker.postMessage({ type: "SEARCH", payload: { query: q } });
-        }, 180);
-      });
-
-      // Ergebnisse rendern
-      function renderSearchResults(items) {
-        if (!items.length) {
-          searchResult.innerHTML = `<div style="padding:8px;color:#666">Keine Treffer</div>`;
+        // Worker starten
+        if (location.protocol === "file:") {
+          logProgress(
+            "Bitte über http://localhost … starten (file:// blockiert fetch/Worker)."
+          );
           return;
         }
-        searchResult.innerHTML = items
-          .map(
-            (c) => `
-          <div style="display:flex; gap:10px; align-items:center; border-bottom:1px solid #eee; padding:8px 4px;">
-            <img src="${
-              c.image || ""
-            }" alt="" style="width:48px;height:48px;object-fit:cover;border-radius:6px; background:#f2f2f2">
-            <div style="flex:1 1 auto;">
-              <div style="font-weight:700">${c.name}</div>
-              <div style="opacity:.75; font-size:13px">${c.set || ""}${
-              c.number ? " · #" + c.number : ""
-            }${c.rarity ? " · " + c.rarity : ""}</div>
-            </div>
-            <div style="font-weight:700; min-width:80px; text-align:right">${(
-              c.priceLow ?? 0
-            ).toFixed(2)} €</div>
-            <button data-id="${
-              c.id
-            }" class="btn-add" style="margin-left:8px; padding:6px 10px; border-radius:8px; border:1px solid #ddd; background:#eee; cursor:pointer">Zu Album</button>
-          </div>
-        `
+        worker = new Worker("search_worker.js");
+        worker.onmessage = (e) => {
+          const { type, items, count, loaded, total, file, message } =
+            e.data || {};
+          if (type === "PROGRESS")
+            logProgress(
+              `Katalog lädt… ${loaded}/${total}${file ? " (" + file + ")" : ""}`
+            );
+          if (type === "WARN") logProgress(`Warnung: ${file} – ${message}`);
+          if (type === "ERROR") logProgress(`Fehler: ${message}`);
+          if (type === "READY") {
+            workerReady = true;
+            logProgress(`Katalog geladen: ${count} Karten`);
+            setTimeout(() => {
+              if (progress) progress.style.display = "none";
+            }, 1200);
+          }
+          if (type === "RESULTS") render(items || []);
+        };
+
+        // Manifest laden – Pfad ggf. anpassen!
+        fetch("./catalog_index.json", { cache: "no-store" })
+          .then((r) => {
+            if (!r.ok) throw new Error("HTTP " + r.status);
+            return r.json();
+          })
+          .then(({ files }) =>
+            worker.postMessage({ type: "BUILD", payload: { files } })
           )
-          .join("");
+          .catch((err) => logProgress("Manifest-Fehler: " + err.message));
 
-        searchResult.querySelectorAll(".btn-add").forEach((btn) => {
-          btn.addEventListener("click", () => {
-            // TODO: addToAlbum(albumSelect.value, btn.dataset.id)
-            btn.textContent = "Hinzugefügt";
-            btn.disabled = true;
+        // Debounced Input -> SEARCH
+        if (input) {
+          input.addEventListener("input", () => {
+            clearTimeout(searchDebounceId);
+            const q = input.value.trim();
+            searchDebounceId = setTimeout(() => {
+              if (!workerReady) {
+                logProgress("Index wird noch aufgebaut…");
+                return;
+              }
+              worker.postMessage({ type: "SEARCH", payload: { query: q } });
+            }, 180);
           });
-        });
-      }
-
-      // Start
-      buildGlobalIndex();
+        }
+      })();
     </script>
   </body>
 </html>
