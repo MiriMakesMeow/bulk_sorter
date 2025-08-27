@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>Meine Pokémon-Karten Zählhilfe</title>
 
-    <!-- Fonts & Chart.js -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -25,12 +24,8 @@
         --ui-bg: #fafafa;
         --accent: #2e6cf6;
         --ok: #16a34a;
-
-        /* WICHTIG: sicherer Abstand unter Logo/Navigation/Headline
-           -> Desktop-Top-Position des Albums */
         --hero-top-offset: clamp(220px, 25vh, 320px);
       }
-
       * {
         box-sizing: border-box;
       }
@@ -43,7 +38,6 @@
         color: #111;
       }
 
-      /* Mini SPA – Screens */
       .screen {
         display: none;
         min-height: 100dvh;
@@ -53,7 +47,6 @@
         display: block;
       }
 
-      /* ------------------ HERO / Header ------------------ */
       .hero {
         position: relative;
         min-height: 75vh;
@@ -61,10 +54,7 @@
         grid-template-columns: 1fr minmax(320px, 480px);
         align-items: start;
         gap: 2rem;
-
-        /* genug Platz oben für Logo/Menu/Headline */
         padding: clamp(140px, 10vh, 220px) var(--page-side) 48px;
-
         background: url("./img/gengar.png") right 6% center / min(420px, 50vw)
             auto no-repeat,
           radial-gradient(
@@ -74,7 +64,6 @@
           ),
           url("./img/background.jpg") center/cover no-repeat;
       }
-
       .logo {
         position: absolute;
         left: 16px;
@@ -83,7 +72,6 @@
         width: auto;
         z-index: 3;
       }
-
       .menu {
         position: absolute;
         right: 24px;
@@ -101,7 +89,6 @@
       .menu a:hover {
         text-decoration: underline;
       }
-
       .headline {
         position: absolute;
         left: 20px;
@@ -115,7 +102,6 @@
         color: #9b9b9b;
       }
 
-      /* ------------------ Album-Box ------------------ */
       .album {
         background: rgba(250, 250, 250, 0.35);
         backdrop-filter: blur(2px);
@@ -127,22 +113,17 @@
         max-height: 48vh;
         overflow: auto;
       }
-
-      /* DESKTOP: absolut rechts fixieren (unter Navi/Headline) */
       @media (min-width: 981px) {
         .album {
           position: absolute;
           right: var(--page-side);
-          top: var(--hero-top-offset); /* <- hier sitzt die Magie */
+          top: var(--hero-top-offset);
           transform: none;
-
-          /* Größe: rechts kleben, aber nicht zu breit */
           width: auto;
           max-width: 40vw;
           min-width: 360px;
-
-          margin: 0; /* keine Flow-Margins nötig */
-          max-height: 53vh; /* wie gewünscht */
+          margin: 0;
+          max-height: 53vh;
           justify-self: end;
           align-self: start;
         }
@@ -158,7 +139,6 @@
         width: max-content;
         margin: 0.5rem 0 1rem;
       }
-
       .select-row {
         display: flex;
         align-items: center;
@@ -178,7 +158,6 @@
         padding: 0.25rem 0.6rem;
         font-size: 0.9rem;
       }
-
       .kpis {
         display: flex;
         gap: 10px;
@@ -202,7 +181,6 @@
         font-size: 1.25rem;
         font-weight: 700;
       }
-
       .range {
         display: flex;
         gap: 0.5rem;
@@ -222,7 +200,6 @@
         color: #fff;
         border-color: var(--dark);
       }
-
       .chart-wrap {
         background: #fff;
         border: var(--card-border);
@@ -236,7 +213,6 @@
         opacity: 0.6;
       }
 
-      /* ------------------ Main Content ------------------ */
       .main {
         padding: 20px var(--page-side) 24px;
         display: flex;
@@ -290,7 +266,6 @@
         border: var(--card-border);
       }
 
-      /* Tablet / kleines Notebook */
       @media (max-width: 980px) {
         .hero {
           grid-template-columns: 1fr;
@@ -310,7 +285,7 @@
           right: auto;
           top: auto;
           width: min(480px, 94vw);
-          margin: 64px auto 0; /* mittig zentriert */
+          margin: 64px auto 0;
           max-height: 46vh;
         }
         .main {
@@ -321,8 +296,6 @@
           max-width: 100%;
         }
       }
-
-      /* Handy */
       @media (max-width: 720px) {
         .menu {
           left: 16px;
@@ -355,7 +328,6 @@
         }
       }
 
-      /* ------------------ Search Screen ------------------ */
       .search-header {
         position: sticky;
         top: 0;
@@ -402,7 +374,6 @@
         font-weight: 900;
         cursor: pointer;
       }
-
       .filters {
         display: flex;
         align-items: center;
@@ -416,7 +387,6 @@
         border: 1px solid #e5e5e5;
         border-radius: 8px;
       }
-
       .results {
         padding: 20px var(--page-side) 32px;
         display: grid;
@@ -472,7 +442,7 @@
     </style>
   </head>
   <body>
-    <!-- =============== SCREEN: HOME ================= -->
+    <!-- HOME -->
     <section id="home" class="screen active">
       <div class="hero">
         <img src="./img/logo.png" class="logo" alt="Logo" />
@@ -485,7 +455,6 @@
           ...für die <span class="grey">gesamte</span> Sammlung!
         </h1>
 
-        <!-- Album-Box (rechts fixiert auf Desktop, zentriert auf Mobile) -->
         <div class="album" id="albumBox">
           <div class="select-row">
             <select id="albumSelect">
@@ -566,7 +535,7 @@
       </div>
     </section>
 
-    <!-- =============== SCREEN: SEARCH (Stub) ================= -->
+    <!-- SEARCH -->
     <section id="search" class="screen">
       <div class="search-header">
         <div class="search-bar">
@@ -592,11 +561,12 @@
           <option value="b3">Beispielalbum 3</option>
         </select>
       </div>
-      <div id="results" class="searchResults"></div>
+
+      <div id="results" class="results"></div>
     </section>
 
     <script>
-      /* ===== Mini SPA Navigation ===== */
+      /* SPA Navigation */
       const screens = {
         home: document.getElementById("home"),
         search: document.getElementById("search"),
@@ -604,9 +574,8 @@
       function showScreen(name) {
         Object.values(screens).forEach((s) => s.classList.remove("active"));
         (screens[name] || screens.home).classList.add("active");
-        if (name === "search") {
+        if (name === "search")
           setTimeout(() => document.getElementById("sQuery").focus(), 50);
-        }
       }
       document.querySelectorAll("[data-nav]").forEach((a) => {
         a.addEventListener("click", (e) => {
@@ -614,17 +583,20 @@
           showScreen(a.dataset.nav);
         });
       });
+
+      /* Demo-Karte für Fallbacks */
       const TEST_CARD = {
         id: "test-0001",
-        name: "Testkarte (Demo)",
+        name: "Pikachu (Demo)",
         set: "Demo-Set",
         number: "T-001",
         rarity: "Promo",
-        image: "./img/evoli.webp", // oder eigenes Platzhalterbild
+        image: "./img/evoli.webp",
         priceLow: 12.34,
       };
 
-      const API_BASE = "http://127.0.0.1:5000";
+      /* --- API Layer --- */
+      const API_BASE = "http://127.0.0.1:5000"; // z.B. "http://127.0.0.1:8000"
       async function http(
         path,
         { method = "GET", json, headers, ...rest } = {}
@@ -639,73 +611,48 @@
           ...rest,
         });
         if (!res.ok) {
-          const text = await res.text().catch(() => "");
-          throw new Error(`${method} ${path} → ${res.status} ${text}`);
+          const txt = await res.text().catch(() => "");
+          throw new Error(`${method} ${path} → ${res.status} ${txt}`);
         }
-        // Leere Antworten (204) abfangen
         if (res.status === 204) return null;
         const ct = res.headers.get("content-type") || "";
-        if (ct.includes("application/json")) return res.json();
-        return res.text();
+        return ct.includes("application/json") ? res.json() : res.text();
       }
-      // === API: spricht mit dem Python-Backend ===
-      // Erwartete Endpunkte (so wie in deinen Logs):
-      //  GET    /album/:albumId/cards                     → [ {id, name, set, number, rarity, image, priceLow}, ... ]  ODER [ "id1","id2",... ]
-      //  POST   /album/:albumId/cards    { id }           → 200/204
-      //  DELETE /album/:albumId/cards/:cardId             → 200/204
-      //  GET    /search?q=...                             → [ {id, name, set, number, rarity, image, priceLow}, ... ]
-      const api = {
-        // Hilfsmapper: falls Backend nur IDs liefert, hier evtl. Detail-Fetch ergänzen
-        _ensureCardObjects(list) {
-          // Wenn die Elemente Strings sind, hier optional Detailendpunkt aufrufen.
-          // Vorläufig: wir gehen davon aus, dass Backend Objekte liefert (empfohlen).
-          return list;
-        },
 
+      const api = {
         async getAlbumCards(albumId) {
           const data = await http(
             `/album/${encodeURIComponent(albumId)}/cards`
           );
-          return this._ensureCardObjects(Array.isArray(data) ? data : []);
+          return Array.isArray(data) ? data : [];
         },
-
         async addCard(albumId, cardId) {
           await http(`/album/${encodeURIComponent(albumId)}/cards`, {
             method: "POST",
             json: { id: cardId },
           });
         },
-
-        async removeCard(albumId, cardId) {
-          await http(
-            `/album/${encodeURIComponent(albumId)}/cards/${encodeURIComponent(
-              cardId
-            )}`,
-            {
-              method: "DELETE",
-            }
-          );
-        },
-
         async hasCard(albumId, cardId) {
           const cards = await this.getAlbumCards(albumId);
           return cards.some((c) => (c.id ?? c) === cardId);
         },
-
-        async count(albumId) {
-          const cards = await this.getAlbumCards(albumId);
-          return cards.length;
-        },
-
         async searchCards(query) {
           if (!query) return [];
-          const data = await http(`/search?q=${encodeURIComponent(query)}`);
-          // Erwartetes Format: [{ id, name, set, number, rarity, image, priceLow }]
-          return Array.isArray(data) ? data : [];
+          try {
+            const data = await http(`/search?q=${encodeURIComponent(query)}`);
+            return Array.isArray(data) ? data : [];
+          } catch (err) {
+            // Fallback zum Testen, wenn Backend nicht erreichbar
+            const q = query.toLowerCase();
+            const demo = [];
+            if (q.includes("pikachu")) demo.push(TEST_CARD);
+            if (q.includes("test")) demo.push(TEST_CARD);
+            return demo;
+          }
         },
       };
 
-      /* ===== HOME KPIs & Chart (Demo) ===== */
+      /* HOME KPIs & Chart */
       const albumSelect = document.getElementById("albumSelect");
       const albumSelect2 = document.getElementById("albumSelect2");
       const badge = document.getElementById("albumCountBadge");
@@ -719,37 +666,36 @@
       async function updateAlbumUI() {
         const id = albumSelect.value;
         const name = albumSelect.options[albumSelect.selectedIndex].textContent;
-
         albumTitle.textContent = name;
         noteAlbum.textContent = name;
 
-        const cards = await api.getAlbumCards(id); // Backend
+        let cards = [];
+        try {
+          cards = await api.getAlbumCards(id);
+        } catch (e) {
+          /* Backend noch nicht dran → 0*/
+        }
         const count = cards.length;
-
         badge.textContent = String(count);
         kpiCount.textContent = String(count);
 
         const total = cards.reduce(
-          (sum, c) => sum + (typeof c.priceLow === "number" ? c.priceLow : 0),
+          (s, c) => s + (typeof c.priceLow === "number" ? c.priceLow : 0),
           0
         );
         kpiTotal.textContent = total.toFixed(2).replace(".", ",") + " €";
 
-        // solange noch kein echter KPI-Endpunkt existiert:
         kpiDelta.textContent = (Math.random() * 3 - 1).toFixed(1) + "%";
         kpiUpdated.textContent = new Date().toLocaleDateString();
       }
 
-      // Sync Dropdowns + refresh
       albumSelect.addEventListener("change", async () => {
         albumSelect2.value = albumSelect.value;
         await updateAlbumUI();
         await refreshSearchButtonsState?.();
       });
 
-      // beim Start
-      updateAlbumUI();
-
+      // Chart (Dummy)
       const chart = new Chart(
         document.getElementById("chart").getContext("2d"),
         {
@@ -780,28 +726,30 @@
           },
         }
       );
-      /* ===== SEARCH Screen ===== */
+
+      /* SEARCH */
       const sQuery = document.getElementById("sQuery");
       const sClear = document.getElementById("sClear");
       const sGo = document.getElementById("sGo");
       const results = document.getElementById("results");
+
       function resultRowHtml(c, disabled) {
         return `
-                <div class="result-line">
-                  <img src="${c.image || ""}" alt="">
-                  <div>
-                    <h4>${c.name}</h4>
-                    <div class="meta">${c.set || ""}${
+          <div class="result-line">
+            <img src="${c.image || ""}" alt="">
+            <div>
+              <h4>${c.name}</h4>
+              <div class="meta">${c.set || ""}${
           c.number ? " · #" + c.number : ""
         }${c.rarity ? " · " + c.rarity : ""}</div>
-                  </div>
-                  <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
-                  <button class="btn ${
-                    disabled ? "ok" : ""
-                  } btn-add" data-id="${c.id}" ${disabled ? "disabled" : ""}>
-                    ${disabled ? "Hinzugefügt" : "Zu Album"}
-                  </button>
-                </div>`;
+            </div>
+            <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
+            <button class="btn ${disabled ? "ok" : ""} btn-add" data-id="${
+          c.id
+        }" ${disabled ? "disabled" : ""}>
+              ${disabled ? "Hinzugefügt" : "Zu Album"}
+            </button>
+          </div>`;
       }
 
       async function renderSearch(items) {
@@ -811,7 +759,7 @@
           return;
         }
         const flags = await Promise.all(
-          items.map((it) => api.hasCard(aid, it.id))
+          items.map((it) => api.hasCard(aid, it.id).catch(() => false))
         );
         results.innerHTML = items
           .map((it, i) => resultRowHtml(it, flags[i]))
@@ -836,9 +784,18 @@
 
       async function doSearch() {
         const q = sQuery.value.trim();
-        const items = await api.searchCards(q);
-        await renderSearch(items);
+        if (!q) {
+          results.innerHTML = "";
+          return;
+        }
+        try {
+          const items = await api.searchCards(q);
+          await renderSearch(items);
+        } catch (err) {
+          results.innerHTML = `<div style="grid-column:1/-1;padding:8px;color:#c00">Suche fehlgeschlagen: ${err.message}</div>`;
+        }
       }
+
       sGo.addEventListener("click", doSearch);
       sClear.addEventListener("click", () => {
         sQuery.value = "";
@@ -853,15 +810,19 @@
         const aid = albumSelect2.value;
         const btns = results.querySelectorAll(".btn-add[data-id]");
         for (const btn of btns) {
-          const inAlbum = await api.hasCard(aid, btn.dataset.id);
+          const inAlbum = await api
+            .hasCard(aid, btn.dataset.id)
+            .catch(() => false);
           btn.disabled = inAlbum;
           btn.classList.toggle("ok", inAlbum);
           btn.textContent = inAlbum ? "Hinzugefügt" : "Zu Album";
         }
       }
 
+      // INIT
       (async function init() {
-        await initAlbums();
+        albumSelect2.value = albumSelect.value; // Dropdowns synchron
+        await updateAlbumUI(); // KPIs initial
         showScreen("home");
       })();
     </script>
