@@ -613,33 +613,37 @@
           localStorage.setItem(this._LS_KEY, JSON.stringify(obj));
         },
 
-        async ensureAlbum(id) {
-          const s = this._read();
-          if (!s[id]) {
-            s[id] = [];
-            this._write(s);
+        async ensureAlbum(albumId) {
+          const response = await fetch(`http://localhost:5000/album/${albumId}`);
+          if (response.status === 404) {
+            // Kein Album gefunden, leeres anlegen
+            await fetch("http://localhost:5000/album", {
+              method: "POST",
+              headers: {"Content-Type": "application/json"},
+              body: JSON.stringify({album_name: albumId, cards: []})
+            });
           }
         },
-        async addCard(albumId, cardId) {
-          const s = this._read();
-          s[albumId] = s[albumId] || [];
-          if (!s[albumId].includes(cardId)) {
-            s[albumId].push(cardId);
-            this._write(s);
-          }
+      async addCard(albumId, cardId) {
+        await fetch(`http://localhost:5000/album/${albumId}/add_card`, {
+          method: "POST",
+          headers: {"Content-Type": "application/json"},
+          body: JSON.stringify({card_id: cardId})
+        });
+        },
+        async getAlbumCards(albumId) {
+          const res = await fetch(`http://localhost:5000/album/${albumId}/cards`);
+          if (!res.ok) return [];
+          const data = await res.json();
+          return data.cards || [];
         },
         async hasCard(albumId, cardId) {
-          const s = this._read();
-          return (s[albumId] || []).includes(cardId);
+          const cards = await this.getAlbumCards(albumId);
+          return cards.includes(cardId);
         },
         async count(albumId) {
-          const s = this._read();
-          return (s[albumId] || []).length;
-        },
-
-        async getAlbumCards(albumId) {
-          const s = this._read();
-          return s[albumId] || [];
+          const cards = await this.getAlbumCards(albumId);
+          return cards.length;
         },
 
         // --- Suche (Stub) ---
