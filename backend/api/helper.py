@@ -38,6 +38,7 @@ cards = load_cards()
 def normalize_card(raw):
     print(f"Normalizing card: {raw.get('name')}")
     low = raw.get("cardmarket", {}).get("prices", {}).get("lowPrice", 0) or 0
+    reverse = raw.get("cardmarket", {}).get("prices", {}).get("reverseHolo", 0) or None
     return {
         "id": raw.get("id"),
         "name": raw.get("name"),
@@ -46,6 +47,7 @@ def normalize_card(raw):
         "rarity": raw.get("rarity"),
         "image": raw.get("images", {}).get("small") if raw.get("images") else None,
         "priceLow": low,
+        "priceReverse": reverse,
         "updatedAt": raw.get("cardmarket", {}).get("updatedAt"),
     }
 
