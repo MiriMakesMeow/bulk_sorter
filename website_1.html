@@ -28,7 +28,7 @@
 
         /* WICHTIG: sicherer Abstand unter Logo/Navigation/Headline
            -> Desktop-Top-Position des Albums */
-        --hero-top-offset: clamp(220px, 18vh, 320px);
+        --hero-top-offset: clamp(220px, 25vh, 320px);
       }
 
       * {
@@ -597,250 +597,270 @@
     </section>
 
     <script>
-      /* ===== Mini SPA Navigation ===== */
-      const screens = {
-        home: document.getElementById("home"),
-        search: document.getElementById("search"),
-      };
-      function showScreen(name) {
-        Object.values(screens).forEach((s) => s.classList.remove("active"));
-        (screens[name] || screens.home).classList.add("active");
-        if (name === "search") {
-          setTimeout(() => document.getElementById("sQuery").focus(), 50);
-        }
-      }
-      document.querySelectorAll("[data-nav]").forEach((a) => {
-        a.addEventListener("click", (e) => {
-          e.preventDefault();
-          showScreen(a.dataset.nav);
-        });
-      });
-
-      /* ===== Stub-API (Persistenz via localStorage) ===== */
-      const api = {
-        _KEY: "albums",
-        _read() {
-          try {
-            return JSON.parse(localStorage.getItem(this._KEY) || "{}");
-          } catch {
-            return {};
-          }
-        },
-        _write(obj) {
-          localStorage.setItem(this._KEY, JSON.stringify(obj));
-        },
-        async ensureAlbum(id) {
-          const s = this._read();
-          if (!s[id]) {
-            s[id] = [];
-            this._write(s);
-          }
-        },
-        async addCard(albumId, cardId) {
-          const s = this._read();
-          s[albumId] = s[albumId] || [];
-          if (!s[albumId].includes(cardId)) {
-            s[albumId].push(cardId);
-            this._write(s);
-          }
-        },
-        async hasCard(albumId, cardId) {
-          const s = this._read();
-          return (s[albumId] || []).includes(cardId);
-        },
-        async count(id) {
-          const s = this._read();
-          return (s[id] || []).length;
-        },
-        async searchCards(q) {
-          if (!q) return [];
-          const demo = [
-            {
-              id: "xy-12-11",
-              name: "Charizard",
-              set: "XY Evolutions",
-              number: "11/108",
-              rarity: "Holo Rare",
-              image: "./img/evoli.webp",
-              priceLow: 39.99,
-            },
-            {
-              id: "base-4",
-              name: "Charizard",
-              set: "Base Set",
-              number: "4/102",
-              rarity: "Holo Rare",
-              image: "",
-              priceLow: 199.0,
-            },
-            {
-              id: "sv-151-006",
-              name: "Bulbasaur",
-              set: "Scarlet & Violet 151",
-              number: "001/165",
-              rarity: "Common",
-              image: "",
-              priceLow: 0.2,
-            },
-          ];
-          return demo.filter((x) =>
-            x.name.toLowerCase().includes(q.toLowerCase())
-          );
-        },
-      };
-
-      /* ===== HOME KPIs & Chart (Demo) ===== */
-      const albumSelect = document.getElementById("albumSelect");
-      const albumSelect2 = document.getElementById("albumSelect2");
-      const badge = document.getElementById("albumCountBadge");
-      const kpiCount = document.getElementById("kpi-count");
-      const kpiTotal = document.getElementById("kpi-total");
-      const kpiDelta = document.getElementById("kpi-delta");
-      const kpiUpdated = document.getElementById("kpi-updated");
-      const albumTitle = document.getElementById("albumTitle");
-      const noteAlbum = document.getElementById("note-album");
-
-      async function updateAlbumUI() {
-        const id = albumSelect.value;
-        const name = albumSelect.options[albumSelect.selectedIndex].textContent;
-        albumTitle.textContent = name;
-        noteAlbum.textContent = name;
-        const count = await api.count(id);
-        badge.textContent = String(count);
-        kpiCount.textContent = String(count);
-        kpiTotal.textContent = count
-          ? (count * 12.5).toFixed(2) + " €"
-          : "0,00 €";
-        kpiDelta.textContent = (Math.random() * 3 - 1).toFixed(1) + "%";
-        kpiUpdated.textContent = new Date().toLocaleDateString();
-      }
-      albumSelect.addEventListener("change", async () => {
-        albumSelect2.value = albumSelect.value;
-        await updateAlbumUI();
-        await refreshSearchButtonsState();
-      });
-      async function initAlbums() {
-        for (const id of ["domi", "b2", "b3"]) await api.ensureAlbum(id);
-        albumSelect2.value = albumSelect.value;
-        await updateAlbumUI();
-      }
-
-      const chart = new Chart(
-        document.getElementById("chart").getContext("2d"),
-        {
-          type: "line",
-          data: {
-            labels: ["-12M", "-9M", "-6M", "-3M", "Jetzt"],
-            datasets: [
-              {
-                label: "Wertentwicklung",
-                data: [11000, 11500, 11800, 12150, 12300],
-                borderColor: "#333",
-                backgroundColor: "rgba(0,0,0,.12)",
-                pointBackgroundColor: "#333",
-                borderWidth: 2,
-                tension: 0.3,
-                fill: true,
-              },
-            ],
-          },
-          options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: { legend: { display: false } },
-            scales: {
-              x: { ticks: { font: { size: 12 } } },
-              y: { ticks: { font: { size: 12 } } },
-            },
-          },
-        }
-      );
-
-      /* ===== Suche (Stub) ===== */
-      const sQuery = document.getElementById("sQuery");
-      const sClear = document.getElementById("sClear");
-      const sGo = document.getElementById("sGo");
-      const results = document.getElementById("results");
-
-      function resultRowHtml(c, disabled) {
-        return `
-          <div class="result-line">
-            <img src="${c.image || ""}" alt="">
-            <div>
-              <h4>${c.name}</h4>
-              <div class="meta">${c.set || ""}${
-          c.number ? " · #" + c.number : ""
-        }${c.rarity ? " · " + c.rarity : ""}</div>
-            </div>
-            <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
-            <button class="btn ${disabled ? "ok" : ""} btn-add" data-id="${
-          c.id
-        }" ${disabled ? "disabled" : ""}>
-              ${disabled ? "Hinzugefügt" : "Zu Album"}
-            </button>
-          </div>`;
-      }
-
-      async function renderSearch(items) {
-        const aid = albumSelect2.value;
-        if (!items.length) {
-          results.innerHTML = `<div style="grid-column:1/-1;padding:8px;color:#666">Keine Treffer</div>`;
-          return;
-        }
-        const flags = await Promise.all(
-          items.map((it) => api.hasCard(aid, it.id))
-        );
-        results.innerHTML = items
-          .map((it, i) => resultRowHtml(it, flags[i]))
-          .join("");
-        results.querySelectorAll(".btn-add").forEach((btn) => {
-          btn.addEventListener("click", async () => {
-            const id = btn.dataset.id;
-            btn.disabled = true;
-            btn.textContent = "...";
-            try {
-              await api.addCard(aid, id);
-              btn.classList.add("ok");
-              btn.textContent = "Hinzugefügt";
-            } catch {
-              btn.disabled = false;
-              btn.textContent = "Fehler";
+            /* ===== Mini SPA Navigation ===== */
+            const screens = {
+              home: document.getElementById("home"),
+              search: document.getElementById("search"),
+            };
+            function showScreen(name) {
+              Object.values(screens).forEach((s) => s.classList.remove("active"));
+              (screens[name] || screens.home).classList.add("active");
+              if (name === "search") {
+                setTimeout(() => document.getElementById("sQuery").focus(), 50);
+              }
             }
-            await updateAlbumUI();
-          });
-        });
-      }
+            document.querySelectorAll("[data-nav]").forEach((a) => {
+              a.addEventListener("click", (e) => {
+                e.preventDefault();
+                showScreen(a.dataset.nav);
+              });
+            });
+            const TEST_CARD = {
+              id: "test-0001",
+              name: "Testkarte (Demo)",
+              set: "Demo-Set",
+              number: "T-001",
+              rarity: "Promo",
+              image: "./img/evoli.webp", // oder eigenes Platzhalterbild
+              priceLow: 12.34,
+            };
 
-      async function doSearch() {
-        const q = sQuery.value.trim();
-        const items = await api.searchCards(q);
-        await renderSearch(items);
-      }
-      sGo.addEventListener("click", doSearch);
-      sClear.addEventListener("click", () => {
-        sQuery.value = "";
-        sQuery.focus();
-        doSearch();
-      });
-      sQuery.addEventListener("keydown", (e) => {
-        if (e.key === "Enter") doSearch();
-      });
+            /* ===== Stub-API (Persistenz via localStorage) ===== */
+            const api = {
+              _KEY: "albums",
+              _read() {
+                try {
+                  return JSON.parse(localStorage.getItem(this._KEY) || "{}");
+                } catch {
+                  return {};
+                }
+              },
+              _write(obj) {
+                localStorage.setItem(this._KEY, JSON.stringify(obj));
+              },
+              async ensureAlbum(id) {
+                const s = this._read();
+                if (!s[id]) {
+                  s[id] = [];
+                  this._write(s);
+                }
+              },
+              async addCard(albumId, cardId) {
+                const s = this._read();
+                s[albumId] = s[albumId] || [];
+                if (!s[albumId].includes(cardId)) {
+                  s[albumId].push(cardId);
+                  this._write(s);
+                }
+              },
+              async hasCard(albumId, cardId) {
+                const s = this._read();
+                return (s[albumId] || []).includes(cardId);
+              },
+              async count(id) {
+                const s = this._read();
+                return (s[id] || []).length;
+              },
+              async searchCards(q) {
+                if (!q) return [];
 
-      async function refreshSearchButtonsState() {
-        const aid = albumSelect2.value;
-        const btns = results.querySelectorAll(".btn-add[data-id]");
-        for (const btn of btns) {
-          const inAlbum = await api.hasCard(aid, btn.dataset.id);
-          btn.disabled = inAlbum;
-          btn.classList.toggle("ok", inAlbum);
-          btn.textContent = inAlbum ? "Hinzugefügt" : "Zu Album";
-        }
-      }
+                const lc = q.toLowerCase();
 
-      (async function init() {
-        await initAlbums();
-        showScreen("home");
-      })();
+                const demo = [
+                  {
+                    id: "xy-12-11",
+                    name: "Charizard",
+                    set: "XY Evolutions",
+                    number: "11/108",
+                    rarity: "Holo Rare",
+                    image: "./img/evoli.webp",
+                    priceLow: 39.99,
+                  },
+                  {
+                    id: "base-4",
+                    name: "Charizard",
+                    set: "Base Set",
+                    number: "4/102",
+                    rarity: "Holo Rare",
+                    image: "",
+                    priceLow: 199.0,
+                  },
+                  {
+                    id: "sv-151-006",
+                    name: "Bulbasaur",
+                    set: "Scarlet & Violet 151",
+                    number: "001/165",
+                    rarity: "Common",
+                    image: "",
+                    priceLow: 0.2,
+                  },
+                ];
+                // normal filtern
+                let results = demo.filter(x => x.name.toLowerCase().includes(lc));
+
+        // >>> Testkarte injizieren, sobald "test" getippt wird
+                if (lc.includes("test")) {
+          // an den Anfang setzen (immer sichtbar)
+                results = [TEST_CARD, ...results];
+                   }
+
+                return results;
+                 }
+              }
+          
+
+            /* ===== HOME KPIs & Chart (Demo) ===== */
+            const albumSelect = document.getElementById("albumSelect");
+            const albumSelect2 = document.getElementById("albumSelect2");
+            const badge = document.getElementById("albumCountBadge");
+            const kpiCount = document.getElementById("kpi-count");
+            const kpiTotal = document.getElementById("kpi-total");
+            const kpiDelta = document.getElementById("kpi-delta");
+            const kpiUpdated = document.getElementById("kpi-updated");
+            const albumTitle = document.getElementById("albumTitle");
+            const noteAlbum = document.getElementById("note-album");
+
+            async function updateAlbumUI() {
+              const id = albumSelect.value;
+              const name = albumSelect.options[albumSelect.selectedIndex].textContent;
+              albumTitle.textContent = name;
+              noteAlbum.textContent = name;
+              const count = await api.count(id);
+              badge.textContent = String(count);
+              kpiCount.textContent = String(count);
+              kpiTotal.textContent = count
+                ? (count * 12.5).toFixed(2) + " €"
+                : "0,00 €";
+              kpiDelta.textContent = (Math.random() * 3 - 1).toFixed(1) + "%";
+              kpiUpdated.textContent = new Date().toLocaleDateString();
+            }
+            albumSelect.addEventListener("change", async () => {
+              albumSelect2.value = albumSelect.value;
+              await updateAlbumUI();
+              await refreshSearchButtonsState();
+            });
+            async function initAlbums() {
+              for (const id of ["domi", "b2", "b3"]) await api.ensureAlbum(id);
+              albumSelect2.value = albumSelect.value;
+              await updateAlbumUI();
+            }
+
+            const chart = new Chart(
+              document.getElementById("chart").getContext("2d"),
+              {
+                type: "line",
+                data: {
+                  labels: ["-12M", "-9M", "-6M", "-3M", "Jetzt"],
+                  datasets: [
+                    {
+                      label: "Wertentwicklung",
+                      data: [11000, 11500, 11800, 12150, 12300],
+                      borderColor: "#333",
+                      backgroundColor: "rgba(0,0,0,.12)",
+                      pointBackgroundColor: "#333",
+                      borderWidth: 2,
+                      tension: 0.3,
+                      fill: true,
+                    },
+                  ],
+                },
+                options: {
+                  responsive: true,
+                  maintainAspectRatio: false,
+                  plugins: { legend: { display: false } },
+                  scales: {
+                    x: { ticks: { font: { size: 12 } } },
+                    y: { ticks: { font: { size: 12 } } },
+                  },
+                },
+              }
+            );
+
+            /* ===== Suche (Stub) ===== */
+            const sQuery = document.getElementById("sQuery");
+            const sClear = document.getElementById("sClear");
+            const sGo = document.getElementById("sGo");
+            const results = document.getElementById("results");
+
+            function resultRowHtml(c, disabled) {
+              return `
+                <div class="result-line">
+                  <img src="${c.image || ""}" alt="">
+                  <div>
+                    <h4>${c.name}</h4>
+                    <div class="meta">${c.set || ""}${
+                c.number ? " · #" + c.number : ""
+              }${c.rarity ? " · " + c.rarity : ""}</div>
+                  </div>
+                  <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
+                  <button class="btn ${disabled ? "ok" : ""} btn-add" data-id="${
+                c.id
+              }" ${disabled ? "disabled" : ""}>
+                    ${disabled ? "Hinzugefügt" : "Zu Album"}
+                  </button>
+                </div>`;
+            }
+
+            async function renderSearch(items) {
+              const aid = albumSelect2.value;
+              if (!items.length) {
+                results.innerHTML = `<div style="grid-column:1/-1;padding:8px;color:#666">Keine Treffer</div>`;
+                return;
+              }
+              const flags = await Promise.all(
+                items.map((it) => api.hasCard(aid, it.id))
+              );
+              results.innerHTML = items
+                .map((it, i) => resultRowHtml(it, flags[i]))
+                .join("");
+              results.querySelectorAll(".btn-add").forEach((btn) => {
+                btn.addEventListener("click", async () => {
+                  const id = btn.dataset.id;
+                  btn.disabled = true;
+                  btn.textContent = "...";
+                  try {
+                    await api.addCard(aid, id);
+                    btn.classList.add("ok");
+                    btn.textContent = "Hinzugefügt";
+                  } catch {
+                    btn.disabled = false;
+                    btn.textContent = "Fehler";
+                  }
+                  await updateAlbumUI();
+                });
+              });
+            }
+
+            async function doSearch() {
+              const q = sQuery.value.trim();
+              const items = await api.searchCards(q);
+              await renderSearch(items);
+            }
+            sGo.addEventListener("click", doSearch);
+            sClear.addEventListener("click", () => {
+              sQuery.value = "";
+              sQuery.focus();
+              doSearch();
+            });
+            sQuery.addEventListener("keydown", (e) => {
+              if (e.key === "Enter") doSearch();
+            });
+
+            async function refreshSearchButtonsState() {
+              const aid = albumSelect2.value;
+              const btns = results.querySelectorAll(".btn-add[data-id]");
+              for (const btn of btns) {
+                const inAlbum = await api.hasCard(aid, btn.dataset.id);
+                btn.disabled = inAlbum;
+                btn.classList.toggle("ok", inAlbum);
+                btn.textContent = inAlbum ? "Hinzugefügt" : "Zu Album";
+              }
+            }
+
+            (async function init() {
+              await initAlbums();
+              showScreen("home");
+            })();
     </script>
   </body>
 </html>
