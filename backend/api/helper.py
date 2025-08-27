@@ -9,20 +9,28 @@ CORS(app)
 
 ALBUM_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../cache/users/admin/albums'))
 
+def load_set_mapping(mapping_path=None):
+    if mapping_path is None:
+        mapping_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../set_mapping.json"))
+    with open(mapping_path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
 def load_cards():
     cards = []
     base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../cache'))
-    # Hier z.B. alle JSONs in cache sequenziell laden (beispielhafter Pfad)
+    set_mapping = load_set_mapping()  # Set-Mapping laden
+
     for filename in os.listdir(base_path):
-        print(f"Looking in {base_path}, found {filename}")
         if filename.endswith(".json"):
-            print("Lade", filename)
+            set_key = filename.split('.')[0]
+            set_name = set_mapping.get(set_key, None)  # Gemappten Setnamen holen, falls vorhanden
             path = os.path.join(base_path, filename)
             with open(path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-                print(data[:2])
                 if isinstance(data, list):
-                    cards.extend(data)
+                    for card in data:
+                        card["set"] = set_name
+                        cards.append(card)
     return cards
 
 cards = load_cards()
