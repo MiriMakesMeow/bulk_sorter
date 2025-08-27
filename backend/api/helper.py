@@ -1,10 +1,77 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import os
 import json
+from rapidfuzz import process, fuzz
 
 app = Flask(__name__)
+CORS(app)
 
 ALBUM_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../cache/users/admin/albums'))
+
+def load_cards():
+    cards = []
+    base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../cache'))
+    # Hier z.B. alle JSONs in cache sequenziell laden (beispielhafter Pfad)
+    for filename in os.listdir(base_path):
+        print(f"Looking in {base_path}, found {filename}")
+        if filename.endswith(".json"):
+            print("Lade", filename)
+            path = os.path.join(base_path, filename)
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                print(data[:2])
+                if isinstance(data, list):
+                    cards.extend(data)
+    return cards
+
+cards = load_cards()
+
+def normalize_card(raw):
+    print(f"Normalizing card: {raw.get('name')}")
+    low = raw.get("cardmarket", {}).get("prices", {}).get("lowPrice", 0) or 0
+    return {
+        "id": raw.get("id"),
+        "name": raw.get("name"),
+        "set": raw.get("set") or raw.get("setName"),
+        "number": raw.get("number"),
+        "rarity": raw.get("rarity"),
+        "image": raw.get("images", {}).get("small") if raw.get("images") else None,
+        "priceLow": low,
+        "updatedAt": raw.get("cardmarket", {}).get("updatedAt"),
+    }
+
+normalized_cards = [normalize_card(c) for c in cards]
+
+@app.route("/search", methods=["GET"])
+def search_cards():
+    query = request.args.get("q", "").strip()
+    print(f"[DEBUG] Search query received: '{query}'")
+    if not query:
+        print("[DEBUG] Empty query, returning empty list")
+        return jsonify([])
+
+    # TODO: Suche auf Set etc erweitern
+    # Suche nur anhand des Namens, setzt Score per partial_ratio (ähnlich Fuse.js)
+    names = [c["name"] or "" for c in normalized_cards]
+
+    results = process.extract(
+        query, names, scorer=fuzz.partial_ratio, limit=50
+    )
+    print(f"[DEBUG] Number of matches found: {len(results)}")
+
+    # Map Ergebnisse zurück auf Kartenobjekte + Score
+    filtered = []
+    for match in results:
+        name_match, score, idx = match
+        card = normalized_cards[idx]
+        filtered.append({**card, "_score": score})
+    print(f"[DEBUG] Number of filtered cards before sorting: {len(filtered)}")
+
+    # Sortiere absteigend nach Score
+    filtered.sort(key=lambda x: x["_score"], reverse=True)
+
+    return jsonify(filtered)
 
 def load_album(album_name):
     album_file = os.path.join(ALBUM_PATH, f"{album_name}.json")

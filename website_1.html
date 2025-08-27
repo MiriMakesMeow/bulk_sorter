@@ -592,8 +592,7 @@
           <option value="b3">Beispielalbum 3</option>
         </select>
       </div>
-
-      <div id="results" class="results"></div>
+      <div id="results" class="searchResults"></div>
     </section>
 
     <script>
@@ -616,78 +615,55 @@
         });
       });
 
-      /* ===== Stub-API (Persistenz via localStorage) ===== */
+      /* ===== SEARCH LOGIC with Backend-API ===== */
       const api = {
-        _KEY: "albums",
-        _read() {
-          try {
-            return JSON.parse(localStorage.getItem(this._KEY) || "{}");
-          } catch {
-            return {};
-          }
-        },
-        _write(obj) {
-          localStorage.setItem(this._KEY, JSON.stringify(obj));
-        },
-        async ensureAlbum(id) {
-          const s = this._read();
-          if (!s[id]) {
-            s[id] = [];
-            this._write(s);
-          }
-        },
         async addCard(albumId, cardId) {
-          const s = this._read();
-          s[albumId] = s[albumId] || [];
-          if (!s[albumId].includes(cardId)) {
-            s[albumId].push(cardId);
-            this._write(s);
-          }
+          const res = await fetch(`http://localhost:5000/album/${albumId}/add_card`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ card_id: cardId }),
+          });
+          if (!res.ok) throw new Error("Karte konnte nicht hinzugefügt werden");
         },
+
         async hasCard(albumId, cardId) {
-          const s = this._read();
-          return (s[albumId] || []).includes(cardId);
+          const res = await fetch(`http://localhost:5000/album/${albumId}/cards`);
+          if (!res.ok) return false;
+          const { cards } = await res.json();
+          return cards.includes(cardId);
         },
-        async count(id) {
-          const s = this._read();
-          return (s[id] || []).length;
+
+        async count(albumId) {
+          const res = await fetch(`http://localhost:5000/album/${albumId}/cards`);
+          if (!res.ok) return 0;
+          const { cards } = await res.json();
+          return cards.length;
         },
-        async searchCards(q) {
-          if (!q) return [];
-          const demo = [
-            {
-              id: "xy-12-11",
-              name: "Charizard",
-              set: "XY Evolutions",
-              number: "11/108",
-              rarity: "Holo Rare",
-              image: "./img/evoli.webp",
-              priceLow: 39.99,
-            },
-            {
-              id: "base-4",
-              name: "Charizard",
-              set: "Base Set",
-              number: "4/102",
-              rarity: "Holo Rare",
-              image: "",
-              priceLow: 199.0,
-            },
-            {
-              id: "sv-151-006",
-              name: "Bulbasaur",
-              set: "Scarlet & Violet 151",
-              number: "001/165",
-              rarity: "Common",
-              image: "",
-              priceLow: 0.2,
-            },
-          ];
-          return demo.filter((x) =>
-            x.name.toLowerCase().includes(q.toLowerCase())
-          );
+
+        async searchCards(query) {
+          if (!query) return [];
+          const res = await fetch(`http://localhost:5000/search?q=${encodeURIComponent(query)}`);
+          if (!res.ok) return [];
+          const data = await res.json();
+          return data;
         },
       };
+
+
+      function displayResults(results) {
+        const container = document.getElementById("results");
+        container.innerHTML = ""; // vorherige Ergebnisse löschen
+        if (results.length === 0) {
+          container.textContent = "Keine Treffer";
+          return;
+        }
+        // Beispiel: Ergebnisliste rendern
+        results.forEach(card => {
+          const div = document.createElement("div");
+          div.textContent = card.name + " (" + card.set + ")";
+          container.appendChild(div);
+        });
+      }
 
       /* ===== HOME KPIs & Chart (Demo) ===== */
       const albumSelect = document.getElementById("albumSelect");
@@ -755,8 +731,7 @@
           },
         }
       );
-
-      /* ===== Suche (Stub) ===== */
+      /* ===== SEARCH Screen ===== */
       const sQuery = document.getElementById("sQuery");
       const sClear = document.getElementById("sClear");
       const sGo = document.getElementById("sGo");
@@ -764,21 +739,22 @@
 
       function resultRowHtml(c, disabled) {
         return `
-          <div class="result-line">
-            <img src="${c.image || ""}" alt="">
-            <div>
-              <h4>${c.name}</h4>
-              <div class="meta">${c.set || ""}${
+        <div class="result-line">
+          <img src="${c.image || ""}" alt="">
+          <div>
+            <h4>${c.name}</h4>
+            <div class="meta">${c.set || ""}${
           c.number ? " · #" + c.number : ""
         }${c.rarity ? " · " + c.rarity : ""}</div>
-            </div>
-            <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
-            <button class="btn ${disabled ? "ok" : ""} btn-add" data-id="${
+          </div>
+          <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
+          <button class="btn ${disabled ? "ok" : ""} btn-add" data-id="${
           c.id
         }" ${disabled ? "disabled" : ""}>
-              ${disabled ? "Hinzugefügt" : "Zu Album"}
-            </button>
-          </div>`;
+            ${disabled ? "Hinzugefügt" : "Zu Album"}
+          </button>
+        </div>
+      `;
       }
 
       async function renderSearch(items) {
