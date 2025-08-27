@@ -121,25 +121,45 @@ def add_card_to_album(album_name):
     card_data = request.get_json()
     if not card_data or "card_id" not in card_data:
         return jsonify({"error": "Keine Karte angegeben"}), 400
-    
+
+    normal = card_data.get("count_normal", 1)
+    reverse = card_data.get("count_reverse", 0)
+
     album = load_album(album_name)
     if album is None:
         album = {"album_name": album_name, "cards": []}
     if "cards" not in album:
         album["cards"] = []
 
-    if card_data["card_id"] not in album["cards"]:
-        album["cards"].append(card_data["card_id"])
-        save_album(album_name, album)
+    # Suche, ob Karte schon existiert (via card_id)
+    existing = next((c for c in album["cards"] if c["card_id"] == card_data["card_id"]), None)
 
+    if existing:
+        # Counter erhöhen
+        existing["count_normal"] = existing.get("count_normal", 0) + normal
+        existing["count_reverse"] = existing.get("count_reverse", 0) + reverse
+    else:
+        # Neue Karte mit Counter anlegen
+        album["cards"].append({
+            "card_id": card_data["card_id"],
+            "set": card_data.get("set"),
+            "count_normal": normal,
+            "count_reverse": reverse
+        })
+
+    save_album(album_name, album)
     return jsonify({"status": "Karte hinzugefügt"}), 200
 
 @app.route("/album/<album_name>/cards", methods=["GET"])
 def get_album_cards(album_name):
     album = load_album(album_name)
     if album is None or "cards" not in album:
-        return jsonify({"cards": []})
-    return jsonify({"cards": album["cards"]})
+        return jsonify({"cards": [], "total_cards": 0})
+
+    cards = album["cards"]
+    total_count = sum(c.get("count_normal", 0) + c.get("count_reverse", 0) for c in cards)
+
+    return jsonify({"cards": cards, "total_cards": total_count})
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
