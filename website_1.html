@@ -596,119 +596,159 @@
     </section>
 
     <script>
-            /* ===== Mini SPA Navigation ===== */
-            const screens = {
-              home: document.getElementById("home"),
-              search: document.getElementById("search"),
-            };
-            function showScreen(name) {
-              Object.values(screens).forEach((s) => s.classList.remove("active"));
-              (screens[name] || screens.home).classList.add("active");
-              if (name === "search") {
-                setTimeout(() => document.getElementById("sQuery").focus(), 50);
-              }
-            }
-            document.querySelectorAll("[data-nav]").forEach((a) => {
-              a.addEventListener("click", (e) => {
-                e.preventDefault();
-                showScreen(a.dataset.nav);
-              });
-            });
-            const TEST_CARD = {
-              id: "test-0001",
-              name: "Testkarte (Demo)",
-              set: "Demo-Set",
-              number: "T-001",
-              rarity: "Promo",
-              image: "./img/evoli.webp", // oder eigenes Platzhalterbild
-              priceLow: 12.34,
-            };
+      /* ===== Mini SPA Navigation ===== */
+      const screens = {
+        home: document.getElementById("home"),
+        search: document.getElementById("search"),
+      };
+      function showScreen(name) {
+        Object.values(screens).forEach((s) => s.classList.remove("active"));
+        (screens[name] || screens.home).classList.add("active");
+        if (name === "search") {
+          setTimeout(() => document.getElementById("sQuery").focus(), 50);
+        }
+      }
+      document.querySelectorAll("[data-nav]").forEach((a) => {
+        a.addEventListener("click", (e) => {
+          e.preventDefault();
+          showScreen(a.dataset.nav);
+        });
+      });
+      const TEST_CARD = {
+        id: "test-0001",
+        name: "Testkarte (Demo)",
+        set: "Demo-Set",
+        number: "T-001",
+        rarity: "Promo",
+        image: "./img/evoli.webp", // oder eigenes Platzhalterbild
+        priceLow: 12.34,
+      };
 
-      /* ===== SEARCH LOGIC with Backend-API ===== */
+      const API_BASE = "http://127.0.0.1:5000";
+      async function http(
+        path,
+        { method = "GET", json, headers, ...rest } = {}
+      ) {
+        const res = await fetch(API_BASE + path, {
+          method,
+          headers: {
+            ...(json ? { "Content-Type": "application/json" } : {}),
+            ...headers,
+          },
+          body: json ? JSON.stringify(json) : undefined,
+          ...rest,
+        });
+        if (!res.ok) {
+          const text = await res.text().catch(() => "");
+          throw new Error(`${method} ${path} → ${res.status} ${text}`);
+        }
+        // Leere Antworten (204) abfangen
+        if (res.status === 204) return null;
+        const ct = res.headers.get("content-type") || "";
+        if (ct.includes("application/json")) return res.json();
+        return res.text();
+      }
+      // === API: spricht mit dem Python-Backend ===
+      // Erwartete Endpunkte (so wie in deinen Logs):
+      //  GET    /album/:albumId/cards                     → [ {id, name, set, number, rarity, image, priceLow}, ... ]  ODER [ "id1","id2",... ]
+      //  POST   /album/:albumId/cards    { id }           → 200/204
+      //  DELETE /album/:albumId/cards/:cardId             → 200/204
+      //  GET    /search?q=...                             → [ {id, name, set, number, rarity, image, priceLow}, ... ]
       const api = {
+        // Hilfsmapper: falls Backend nur IDs liefert, hier evtl. Detail-Fetch ergänzen
+        _ensureCardObjects(list) {
+          // Wenn die Elemente Strings sind, hier optional Detailendpunkt aufrufen.
+          // Vorläufig: wir gehen davon aus, dass Backend Objekte liefert (empfohlen).
+          return list;
+        },
+
+        async getAlbumCards(albumId) {
+          const data = await http(
+            `/album/${encodeURIComponent(albumId)}/cards`
+          );
+          return this._ensureCardObjects(Array.isArray(data) ? data : []);
+        },
+
         async addCard(albumId, cardId) {
-          const res = await fetch(`http://localhost:5000/album/${albumId}/add_card`, {
+          await http(`/album/${encodeURIComponent(albumId)}/cards`, {
             method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ card_id: cardId }),
+            json: { id: cardId },
           });
-          if (!res.ok) throw new Error("Karte konnte nicht hinzugefügt werden");
+        },
+
+        async removeCard(albumId, cardId) {
+          await http(
+            `/album/${encodeURIComponent(albumId)}/cards/${encodeURIComponent(
+              cardId
+            )}`,
+            {
+              method: "DELETE",
+            }
+          );
         },
 
         async hasCard(albumId, cardId) {
-          const res = await fetch(`http://localhost:5000/album/${albumId}/cards`);
-          if (!res.ok) return false;
-          const { cards } = await res.json();
-          return cards.includes(cardId);
+          const cards = await this.getAlbumCards(albumId);
+          return cards.some((c) => (c.id ?? c) === cardId);
         },
 
         async count(albumId) {
-          const res = await fetch(`http://localhost:5000/album/${albumId}/cards`);
-          if (!res.ok) return 0;
-          const { cards } = await res.json();
+          const cards = await this.getAlbumCards(albumId);
           return cards.length;
         },
 
         async searchCards(query) {
           if (!query) return [];
-          const res = await fetch(`http://localhost:5000/search?q=${encodeURIComponent(query)}`);
-          if (!res.ok) return [];
-          const data = await res.json();
-          return data;
+          const data = await http(`/search?q=${encodeURIComponent(query)}`);
+          // Erwartetes Format: [{ id, name, set, number, rarity, image, priceLow }]
+          return Array.isArray(data) ? data : [];
         },
       };
 
+      /* ===== HOME KPIs & Chart (Demo) ===== */
+      const albumSelect = document.getElementById("albumSelect");
+      const albumSelect2 = document.getElementById("albumSelect2");
+      const badge = document.getElementById("albumCountBadge");
+      const kpiCount = document.getElementById("kpi-count");
+      const kpiTotal = document.getElementById("kpi-total");
+      const kpiDelta = document.getElementById("kpi-delta");
+      const kpiUpdated = document.getElementById("kpi-updated");
+      const albumTitle = document.getElementById("albumTitle");
+      const noteAlbum = document.getElementById("note-album");
 
-      function displayResults(results) {
-        const container = document.getElementById("results");
-        container.innerHTML = ""; // vorherige Ergebnisse löschen
-        if (results.length === 0) {
-          container.textContent = "Keine Treffer";
-          return;
-        }
-        // Beispiel: Ergebnisliste rendern
-        results.forEach(card => {
-          const div = document.createElement("div");
-          div.textContent = card.name + " (" + card.set + ")";
-          container.appendChild(div);
-        });
+      async function updateAlbumUI() {
+        const id = albumSelect.value;
+        const name = albumSelect.options[albumSelect.selectedIndex].textContent;
+
+        albumTitle.textContent = name;
+        noteAlbum.textContent = name;
+
+        const cards = await api.getAlbumCards(id); // Backend
+        const count = cards.length;
+
+        badge.textContent = String(count);
+        kpiCount.textContent = String(count);
+
+        const total = cards.reduce(
+          (sum, c) => sum + (typeof c.priceLow === "number" ? c.priceLow : 0),
+          0
+        );
+        kpiTotal.textContent = total.toFixed(2).replace(".", ",") + " €";
+
+        // solange noch kein echter KPI-Endpunkt existiert:
+        kpiDelta.textContent = (Math.random() * 3 - 1).toFixed(1) + "%";
+        kpiUpdated.textContent = new Date().toLocaleDateString();
       }
 
-            /* ===== HOME KPIs & Chart (Demo) ===== */
-            const albumSelect = document.getElementById("albumSelect");
-            const albumSelect2 = document.getElementById("albumSelect2");
-            const badge = document.getElementById("albumCountBadge");
-            const kpiCount = document.getElementById("kpi-count");
-            const kpiTotal = document.getElementById("kpi-total");
-            const kpiDelta = document.getElementById("kpi-delta");
-            const kpiUpdated = document.getElementById("kpi-updated");
-            const albumTitle = document.getElementById("albumTitle");
-            const noteAlbum = document.getElementById("note-album");
+      // Sync Dropdowns + refresh
+      albumSelect.addEventListener("change", async () => {
+        albumSelect2.value = albumSelect.value;
+        await updateAlbumUI();
+        await refreshSearchButtonsState?.();
+      });
 
-            async function updateAlbumUI() {
-              const id = albumSelect.value;
-              const name = albumSelect.options[albumSelect.selectedIndex].textContent;
-              albumTitle.textContent = name;
-              noteAlbum.textContent = name;
-              const count = await api.count(id);
-              badge.textContent = String(count);
-              kpiCount.textContent = String(count);
-              kpiTotal.textContent = count
-                ? (count * 12.5).toFixed(2) + " €"
-                : "0,00 €";
-              kpiDelta.textContent = (Math.random() * 3 - 1).toFixed(1) + "%";
-              kpiUpdated.textContent = new Date().toLocaleDateString();
-            }
-            albumSelect.addEventListener("change", async () => {
-              albumSelect2.value = albumSelect.value;
-              await updateAlbumUI();
-              await refreshSearchButtonsState();
-            });
-            async function initAlbums() {
-              for (const id of ["domi", "b2", "b3"]) await api.ensureAlbum(id);
-              albumSelect2.value = albumSelect.value;
-              await updateAlbumUI();
-            }
+      // beim Start
+      updateAlbumUI();
 
       const chart = new Chart(
         document.getElementById("chart").getContext("2d"),
@@ -745,86 +785,85 @@
       const sClear = document.getElementById("sClear");
       const sGo = document.getElementById("sGo");
       const results = document.getElementById("results");
-
-            function resultRowHtml(c, disabled) {
-              return `
+      function resultRowHtml(c, disabled) {
+        return `
                 <div class="result-line">
                   <img src="${c.image || ""}" alt="">
                   <div>
                     <h4>${c.name}</h4>
                     <div class="meta">${c.set || ""}${
-                c.number ? " · #" + c.number : ""
-              }${c.rarity ? " · " + c.rarity : ""}</div>
+          c.number ? " · #" + c.number : ""
+        }${c.rarity ? " · " + c.rarity : ""}</div>
                   </div>
                   <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
-                  <button class="btn ${disabled ? "ok" : ""} btn-add" data-id="${
-                c.id
-              }" ${disabled ? "disabled" : ""}>
+                  <button class="btn ${
+                    disabled ? "ok" : ""
+                  } btn-add" data-id="${c.id}" ${disabled ? "disabled" : ""}>
                     ${disabled ? "Hinzugefügt" : "Zu Album"}
                   </button>
                 </div>`;
-            }
+      }
 
-            async function renderSearch(items) {
-              const aid = albumSelect2.value;
-              if (!items.length) {
-                results.innerHTML = `<div style="grid-column:1/-1;padding:8px;color:#666">Keine Treffer</div>`;
-                return;
-              }
-              const flags = await Promise.all(
-                items.map((it) => api.hasCard(aid, it.id))
-              );
-              results.innerHTML = items
-                .map((it, i) => resultRowHtml(it, flags[i]))
-                .join("");
-              results.querySelectorAll(".btn-add").forEach((btn) => {
-                btn.addEventListener("click", async () => {
-                  const id = btn.dataset.id;
-                  btn.disabled = true;
-                  btn.textContent = "...";
-                  try {
-                    await api.addCard(aid, id);
-                    btn.classList.add("ok");
-                    btn.textContent = "Hinzugefügt";
-                  } catch {
-                    btn.disabled = false;
-                    btn.textContent = "Fehler";
-                  }
-                  await updateAlbumUI();
-                });
-              });
+      async function renderSearch(items) {
+        const aid = albumSelect2.value;
+        if (!items.length) {
+          results.innerHTML = `<div style="grid-column:1/-1;padding:8px;color:#666">Keine Treffer</div>`;
+          return;
+        }
+        const flags = await Promise.all(
+          items.map((it) => api.hasCard(aid, it.id))
+        );
+        results.innerHTML = items
+          .map((it, i) => resultRowHtml(it, flags[i]))
+          .join("");
+        results.querySelectorAll(".btn-add").forEach((btn) => {
+          btn.addEventListener("click", async () => {
+            const id = btn.dataset.id;
+            btn.disabled = true;
+            btn.textContent = "...";
+            try {
+              await api.addCard(aid, id);
+              btn.classList.add("ok");
+              btn.textContent = "Hinzugefügt";
+            } catch {
+              btn.disabled = false;
+              btn.textContent = "Fehler";
             }
+            await updateAlbumUI();
+          });
+        });
+      }
 
-            async function doSearch() {
-              const q = sQuery.value.trim();
-              const items = await api.searchCards(q);
-              await renderSearch(items);
-            }
-            sGo.addEventListener("click", doSearch);
-            sClear.addEventListener("click", () => {
-              sQuery.value = "";
-              sQuery.focus();
-              doSearch();
-            });
-            sQuery.addEventListener("keydown", (e) => {
-              if (e.key === "Enter") doSearch();
-            });
+      async function doSearch() {
+        const q = sQuery.value.trim();
+        const items = await api.searchCards(q);
+        await renderSearch(items);
+      }
+      sGo.addEventListener("click", doSearch);
+      sClear.addEventListener("click", () => {
+        sQuery.value = "";
+        sQuery.focus();
+        doSearch();
+      });
+      sQuery.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") doSearch();
+      });
 
-            async function refreshSearchButtonsState() {
-              const aid = albumSelect2.value;
-              const btns = results.querySelectorAll(".btn-add[data-id]");
-              for (const btn of btns) {
-                const inAlbum = await api.hasCard(aid, btn.dataset.id);
-                btn.disabled = inAlbum;
-                btn.classList.toggle("ok", inAlbum);
-                btn.textContent = inAlbum ? "Hinzugefügt" : "Zu Album";
-              }
-            }
+      async function refreshSearchButtonsState() {
+        const aid = albumSelect2.value;
+        const btns = results.querySelectorAll(".btn-add[data-id]");
+        for (const btn of btns) {
+          const inAlbum = await api.hasCard(aid, btn.dataset.id);
+          btn.disabled = inAlbum;
+          btn.classList.toggle("ok", inAlbum);
+          btn.textContent = inAlbum ? "Hinzugefügt" : "Zu Album";
+        }
+      }
 
-            (async function init() {
-              await initAlbums();
-              showScreen("home");
-            })();
+      (async function init() {
+        await initAlbums();
+        showScreen("home");
+      })();
     </script>
   </body>
 </html>
