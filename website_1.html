@@ -2,30 +2,29 @@
 <html lang="de">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Meine Zählhilfe</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Meine Pokémon-Karten Zählhilfe</title>
 
+    <!-- Fonts & Chart.js (nur fürs Demo-Chart) -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Comic+Relief:wght@700&display=swap"
       rel="stylesheet"
     />
-
-    <!-- libs -->
-    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
     <style>
       :root {
+        --page-side: 40px;
+        --dark: #423f3f;
         --card-radius: 12px;
         --card-border: 1px solid #e5e5e5;
         --card-shadow: 2px 2px 8px rgba(0, 0, 0, 0.08);
         --lead-bg: #dcdcdc;
-        --dark: #423f3f;
-        --page-side: 40px;
-        --cols-gap: 2rem;
-        --shadow-lg: 0 10px 24px rgba(0, 0, 0, 0.12);
+        --ui-bg: #fafafa;
+        --accent: #2e6cf6;
+        --ok: #16a34a;
       }
       * {
         box-sizing: border-box;
@@ -34,27 +33,29 @@
       body {
         height: 100%;
         margin: 0;
-        font-family: "Comic Relief";
+        font-family: "Comic Relief", system-ui, -apple-system, Segoe UI, Roboto,
+          Arial;
         color: #111;
+      }
+
+      /* Mini SPA – zwei Screens */
+      .screen {
+        display: none;
+        min-height: 100dvh;
         background: #fff;
       }
-
-      /* ===== Startseite Layout (75/25) ===== */
-      body {
-        display: grid;
-        grid-template-rows: 75vh 25vh;
-        min-height: 100vh;
+      .screen.active {
+        display: block;
       }
 
+      /* ---------- NAV / Header ---------- */
       .hero {
         position: relative;
         display: grid;
-        grid-template-columns: 1fr minmax(320px, 460px);
+        grid-template-columns: 1fr minmax(320px, 480px);
         align-items: center;
         gap: 2rem;
         padding: 160px var(--page-side) 48px;
-        height: 100%;
-        overflow: hidden;
         background: url("./img/gengar.png") right 6% center / min(420px, 50vw)
             auto no-repeat,
           radial-gradient(
@@ -72,7 +73,7 @@
         width: auto;
         z-index: 3;
       }
-      .container-menu {
+      .menu {
         position: absolute;
         right: 24px;
         top: 20px;
@@ -82,14 +83,13 @@
         font-size: 22px;
         white-space: nowrap;
       }
-      .menu-link {
+      .menu a {
         color: antiquewhite;
         text-decoration: none;
       }
-      .menu-link:hover {
+      .menu a:hover {
         text-decoration: underline;
       }
-
       .headline {
         position: absolute;
         left: 20px;
@@ -99,123 +99,133 @@
         font-size: 28px;
         text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.7);
       }
-      .grey {
+      .headline .grey {
         color: #9b9b9b;
       }
 
-      .album-dashboard {
+      /* ---------- Album Dashboard ---------- */
+      .album {
         background: rgba(250, 250, 250, 0.35);
         backdrop-filter: blur(2px);
         border: var(--card-border);
         border-radius: var(--card-radius);
         box-shadow: var(--card-shadow);
+        padding: 0.5rem 0.75rem;
         width: min(520px, 94vw);
-        padding: 0.32rem 0.56rem;
         max-height: 48vh;
         overflow: auto;
-        font-size: 0.9rem;
-        z-index: 2;
       }
-      .album-dashboard select {
-        width: 100%;
-        padding: 0.35rem 0.6rem;
-        border: 1px solid #ccc;
-        border-radius: 8px;
-        font-size: 0.95rem;
-        margin-bottom: 10px;
+      @media (min-width: 981px) {
+        .album {
+          position: absolute;
+          right: var(--page-side);
+          top: 50%;
+          transform: translateY(-50%);
+        }
       }
+
       .section-title {
         background: var(--dark);
         color: #fff;
-        padding: 0.45rem 0.9rem;
+        padding: 0.5rem 1rem;
         border-radius: 10px;
-        box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
         text-decoration: underline;
-        text-shadow: 2px 2px rgba(0, 0, 0);
-        font-size: 1.35rem;
-        margin: 0 0 10px 0;
-        width: fit-content;
+        text-shadow: 2px 2px rgba(0, 0, 0, 1);
+        width: max-content;
+        margin: 0.5rem 0 1rem;
       }
-      .dash-kpis {
+
+      .select-row {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+      .select-row select {
+        flex: 1 1 auto;
+        padding: 0.5rem 0.75rem;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        font-size: 1rem;
+      }
+      .album-badge {
+        background: #111;
+        color: #fff;
+        border-radius: 999px;
+        padding: 0.25rem 0.6rem;
+        font-size: 0.9rem;
+      }
+
+      .kpis {
         display: flex;
         gap: 10px;
         flex-wrap: wrap;
-        margin-bottom: 10px;
+        margin: 10px 0;
       }
       .kpi {
-        flex: 1 1 110px;
-        text-align: center;
         background: #fff;
         border: var(--card-border);
         border-radius: 10px;
-        padding: 0.5rem 0.7rem;
+        padding: 0.6rem 0.8rem;
         box-shadow: var(--card-shadow);
+        text-align: center;
+        flex: 1 1 110px;
       }
-      .kpi-label {
+      .kpi .lab {
         opacity: 0.75;
-        font-size: 0.92rem;
+        font-size: 0.95rem;
       }
-      .kpi-value {
-        font-size: 1.2rem;
+      .kpi .val {
+        font-size: 1.25rem;
         font-weight: 700;
       }
-      .dash-controls {
+
+      .range {
         display: flex;
+        gap: 0.5rem;
         align-items: center;
-        gap: 0.45rem;
-        flex-wrap: wrap;
-        margin: 0.4rem 0 0.8rem;
+        margin: 0.3rem 0 1rem;
       }
-      .range-btn {
+      .range button {
         border: 1px solid #ddd;
         background: #eee;
         border-radius: 8px;
         padding: 0.3rem 0.6rem;
         font-weight: 700;
         cursor: pointer;
-        font-size: 0.95rem;
       }
-      .range-btn.active {
+      .range button.active {
         background: var(--dark);
         color: #fff;
         border-color: var(--dark);
       }
-      .dash-updated {
-        margin-left: auto;
-        opacity: 0.85;
-        font-size: 1rem;
-      }
-      .dash-chart-wrap {
+
+      .chart-wrap {
         background: #fff;
         border: var(--card-border);
         border-radius: var(--card-radius);
         box-shadow: var(--card-shadow);
         padding: 0.5rem;
       }
-      #ad-chart {
-        height: 200px;
-        max-height: 40vh;
-      }
-      .dash-note {
+
+      .note {
         display: block;
         margin-top: 0.5rem;
         opacity: 0.6;
       }
 
-      .main-sections {
-        height: 100%;
-        overflow: auto;
+      /* ---------- Main Two-Cols ---------- */
+      .main {
+        padding: 20px var(--page-side) 24px;
         display: flex;
         flex-wrap: wrap;
+        gap: 2rem;
         justify-content: space-between;
-        gap: var(--cols-gap);
-        padding: 20px var(--page-side) 24px;
         background: #fff;
       }
-      .section {
+      .card {
         flex: 0 1 48%;
         max-width: 48%;
-        background: #fafafa;
+        background: var(--ui-bg);
         border: var(--card-border);
         border-radius: var(--card-radius);
         box-shadow: var(--card-shadow);
@@ -231,9 +241,9 @@
         padding: 0.5rem 0.7rem;
         border-radius: 8px;
         box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.15);
-        margin: 0 0 10px 0;
+        margin: 0 0 10px;
       }
-      .ebay-card {
+      .ebay {
         display: flex;
         gap: 14px;
         text-decoration: none;
@@ -244,7 +254,7 @@
         padding: 14px;
         box-shadow: var(--card-shadow);
       }
-      .ebay-card img {
+      .ebay img {
         width: 108px;
         height: 108px;
         object-fit: cover;
@@ -257,35 +267,7 @@
         border: var(--card-border);
       }
 
-      @media (min-width: 981px) {
-        .album-dashboard {
-          position: absolute;
-          right: var(--page-side);
-          top: 50%;
-          transform: translateY(-50%);
-          margin-top: 0;
-          width: min(520px, 38vw);
-        }
-      }
-      @media (max-width: 1200px) {
-        .container-menu {
-          font-size: 20px;
-          gap: 16px;
-          right: 18px;
-        }
-        .logo {
-          height: 110px;
-        }
-      }
       @media (max-width: 980px) {
-        .container-menu {
-          font-size: 18px;
-          gap: 14px;
-          right: 16px;
-        }
-        .logo {
-          height: 100px;
-        }
         .hero {
           grid-template-columns: 1fr;
           padding: 200px 20px 36px;
@@ -298,41 +280,31 @@
             ),
             url("./img/background.jpg") center/cover no-repeat;
         }
-        .album-dashboard {
+        .album {
           position: static;
           transform: none;
-          right: auto;
-          top: auto;
-          justify-self: center;
           width: min(480px, 94vw);
-          margin-top: 64px;
+          margin: 64px auto 0;
           max-height: 46vh;
         }
-        .main-sections {
-          flex-direction: column;
+        .main {
           padding: 16px 20px;
+          flex-direction: column;
         }
-        .section {
+        .card {
           max-width: 100%;
-        }
-        .section-title {
-          font-size: 1.25rem;
-        }
-        .kpi-value {
-          font-size: 1.1rem;
-        }
-        .range-btn {
-          font-size: 0.9rem;
-          padding: 0.28rem 0.55rem;
         }
       }
       @media (max-width: 720px) {
-        .container-menu {
+        .menu {
           left: 16px;
           right: auto;
           top: 140px;
-          font-size: 17px;
           gap: 12px;
+          font-size: 17px;
+        }
+        .logo {
+          height: 100px;
         }
         .headline {
           top: 185px;
@@ -348,326 +320,538 @@
             ),
             url("./img/background.jpg") center/cover no-repeat;
         }
-        .album-dashboard {
+        .album {
           width: min(440px, 94vw);
           max-height: 44vh;
           margin-top: 72px;
         }
       }
 
-      /* ===== Vollbild-Suchseite (Option 2) ===== */
-      .page {
-        display: none;
-      }
-      .page.active {
-        display: block;
-      }
-
-      #searchPage {
-        position: fixed;
-        inset: 0;
-        z-index: 100; /* über Hero/Main */
-        background: #fafafa;
-        padding: 12px var(--page-side) 28px;
-        overflow: auto;
-      }
+      /* ---------- Search Screen ---------- */
       .search-header {
         position: sticky;
         top: 0;
-        z-index: 5;
+        z-index: 10;
+        background: #fff;
+        padding: 12px var(--page-side);
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+      }
+      .search-bar {
         display: flex;
-        gap: 10px;
         align-items: center;
-        padding: 10px;
-        margin-bottom: 14px;
-        background: rgba(255, 255, 255, 0.95);
-        border: 1px solid #e8e8e8;
-        border-radius: 12px;
-        box-shadow: var(--shadow-lg);
+        gap: 10px;
       }
-      .btn {
-        border: 1px solid #ddd;
-        background: #eee;
+      .back {
+        border: 1px solid #e5e5e5;
+        background: #f6f6f6;
         border-radius: 10px;
-        padding: 10px 14px;
+        padding: 0.6rem 1rem;
         cursor: pointer;
-        text-decoration: none;
-        color: inherit;
       }
-      .btn:active {
-        transform: translateY(1px);
+      .s-input-wrap {
+        position: relative;
+        flex: 1 1 auto;
+      }
+      .s-input {
+        width: 100%;
+        padding: 0.7rem 2.5rem 0.7rem 0.9rem;
+        border: 2px solid #111;
+        border-radius: 14px;
+        font-size: 18px;
+        outline: none;
+      }
+      .s-clear {
+        position: absolute;
+        right: 10px;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 28px;
+        height: 28px;
+        border-radius: 999px;
+        background: #eef2ff;
+        border: 1px solid #c7d2fe;
+        color: #1d4ed8;
+        font-weight: 900;
+        cursor: pointer;
       }
 
-      #searchInput {
-        flex: 1 1 auto;
-        padding: 10px 12px;
-        border: 1px solid #ddd;
-        border-radius: 10px;
-        font-size: 16px;
+      .filters {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 8px var(--page-side);
+        border-bottom: 1px solid #eee;
+        background: #fff;
       }
-      #progress {
-        margin: 8px 0 12px;
-        color: #555;
-        display: none;
+      .filters select {
+        padding: 0.45rem 0.6rem;
+        border: 1px solid #e5e5e5;
+        border-radius: 8px;
       }
 
       .results {
+        padding: 20px var(--page-side) 32px;
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-        gap: 14px;
+        gap: 12px;
       }
-      .result-card {
-        display: flex;
-        gap: 10px;
+      .result-line {
+        display: grid;
+        grid-template-columns: 64px 1fr auto auto;
+        gap: 12px;
         align-items: center;
+        padding: 10px 12px;
+        border: 1px solid #eee;
+        border-radius: 12px;
         background: #fff;
-        border: var(--card-border);
-        border-radius: var(--card-radius);
-        box-shadow: var(--shadow-lg);
-        padding: 10px;
       }
-      .result-card img {
-        width: 72px;
-        height: 72px;
-        object-fit: cover;
+      .result-line img {
+        width: 64px;
+        height: 64px;
         border-radius: 8px;
+        object-fit: cover;
         background: #f2f2f2;
       }
-      .result-card h4 {
-        margin: 0 0 4px 0;
-        font-size: 16px;
+      .result-line h4 {
+        margin: 0 0 4px;
+        font-size: 18px;
       }
-      .meta {
-        font-size: 12px;
-        opacity: 0.75;
+      .result-line .meta {
+        opacity: 0.7;
+        font-size: 13px;
       }
       .price {
-        margin-left: auto;
         font-weight: 700;
-        min-width: 80px;
+        min-width: 90px;
         text-align: right;
       }
-
-      @media (max-width: 720px) {
-        #searchPage {
-          padding: 12px 16px 24px;
-        }
+      .btn {
+        padding: 0.5rem 0.8rem;
+        border-radius: 10px;
+        border: 1px solid #ddd;
+        background: #eee;
+        cursor: pointer;
       }
-
-      /* ===== CSS-only Routing per :target ===== */
-      #searchPage:target {
-        display: block;
+      .btn.primary {
+        background: var(--accent);
+        border-color: var(--accent);
+        color: #fff;
       }
-      #searchPage:target ~ .hero,
-      #searchPage:target ~ .main-sections {
-        display: none !important;
+      .btn.ok {
+        background: var(--ok);
+        border-color: var(--ok);
+        color: #fff;
       }
     </style>
   </head>
   <body>
-    <!-- ===== Startseite: HERO ===== -->
-    <section class="hero">
-      <img src="./img/logo.png" alt="Logo" class="logo" />
+    <!-- =============== SCREEN: HOME ================= -->
+    <section id="home" class="screen active">
+      <div class="hero">
+        <img src="./img/logo.png" class="logo" alt="Logo" />
+        <nav class="menu">
+          <a href="#" data-nav="home">Home</a>
+          <a href="#" data-nav="search">Kartensuche</a>
+          <a href="#" data-nav="contact">Kontakt</a>
+        </nav>
+        <h1 class="headline">
+          ...für die <span class="grey">gesamte</span> Sammlung!
+        </h1>
 
-      <!-- Menü: Kartensuche mit Anker (#searchPage) -->
-      <nav class="container-menu">
-        <a class="menu-link" href="#" data-nav="home">Meine Alben</a>
-        <a class="menu-link" href="#searchPage" data-nav="search"
-          >Kartensuche</a
-        >
-        <a class="menu-link" href="#" data-nav="home">Kontakt</a>
-      </nav>
+        <div class="album" id="albumBox">
+          <div class="select-row">
+            <select id="albumSelect">
+              <option value="domi">Domi Alt Ordner</option>
+              <option value="b2">Beispielalbum 2</option>
+              <option value="b3">Beispielalbum 3</option>
+            </select>
+            <span class="album-badge" id="albumCountBadge">0</span>
+          </div>
 
-      <h1 class="headline">
-        ...für die <span class="grey">gesamte</span> Sammlung!
-      </h1>
+          <h2 class="section-title" id="albumTitle">Domi Alt Ordner</h2>
 
-      <div class="album-dashboard">
-        <select id="albumSelect">
+          <div class="kpis">
+            <div class="kpi">
+              <div class="lab">Gesamtwert</div>
+              <div class="val" id="kpi-total">–</div>
+            </div>
+            <div class="kpi">
+              <div class="lab">Karten</div>
+              <div class="val" id="kpi-count">0</div>
+            </div>
+            <div class="kpi">
+              <div class="lab">Δ Zeitraum</div>
+              <div class="val" id="kpi-delta">+0.0%</div>
+            </div>
+          </div>
+
+          <div class="range">
+            <button class="active">1M</button>
+            <button>3M</button>
+            <button>6M</button>
+            <button>12M</button>
+            <span style="margin-left: auto; opacity: 0.85"
+              >Aktualisiert: <span id="kpi-updated">–</span></span
+            >
+          </div>
+
+          <div class="chart-wrap">
+            <canvas id="chart"></canvas>
+          </div>
+          <small class="note"
+            >Quelle: Bewertung deines Albums „<span id="note-album"
+              >Domi Alt Ordner</span
+            >“</small
+          >
+        </div>
+      </div>
+
+      <div class="main">
+        <div class="card">
+          <h2 class="section-title">Dein digitaler Cardshop</h2>
+          <p class="lead">Uns findest du ab jetzt auch auf Ebay!</p>
+          <a
+            class="ebay"
+            href="https://www.ebay.de/itm/365804384035"
+            target="_blank"
+            rel="noopener"
+          >
+            <img src="./img/evoli.webp" alt="Artikelbild" />
+            <div>
+              <strong>Pokémon TCG Karte Evoli Yu Nagaba Signature Rare</strong
+              ><br />
+              <span>Preis: 39,99€</span><br />
+              <small>Weitere Angebote auf meinem eBay-Profil</small>
+            </div>
+          </a>
+        </div>
+
+        <div class="card">
+          <h2 class="section-title">Video</h2>
+          <p class="lead">
+            Welche Karten sind gerade beliebt und welche eher nicht?
+          </p>
+          <iframe
+            class="youtube"
+            src="https://www.youtube.com/embed/1gRwajiEEJw"
+            title="YouTube video player"
+            loading="lazy"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+    </section>
+
+    <!-- =============== SCREEN: SEARCH ================= -->
+    <section id="search" class="screen">
+      <div class="search-header">
+        <div class="search-bar">
+          <button class="back" data-nav="home">← Zurück</button>
+          <div class="s-input-wrap">
+            <input
+              id="sQuery"
+              type="search"
+              class="s-input"
+              placeholder="Karte suchen (Name, Set, Nummer) …"
+            />
+            <button id="sClear" class="s-clear">×</button>
+          </div>
+          <button id="sGo" class="btn primary">Suchen</button>
+        </div>
+      </div>
+
+      <div class="filters">
+        <label for="albumSelect2" style="opacity: 0.7">Ziel-Album:</label>
+        <select id="albumSelect2">
           <option value="domi">Domi Alt Ordner</option>
           <option value="b2">Beispielalbum 2</option>
           <option value="b3">Beispielalbum 3</option>
         </select>
-
-        <h2 class="section-title" id="albumTitle">Domi Alt Ordner</h2>
-
-        <div class="dash-kpis">
-          <div class="kpi">
-            <div class="kpi-label">Gesamtwert</div>
-            <div class="kpi-value" id="ad-total">–</div>
-          </div>
-          <div class="kpi">
-            <div class="kpi-label">Karten</div>
-            <div class="kpi-value" id="ad-count">–</div>
-          </div>
-          <div class="kpi">
-            <div class="kpi-label">Δ Zeitraum</div>
-            <div class="kpi-value" id="ad-change">–</div>
-          </div>
-        </div>
-
-        <div class="dash-controls">
-          <button class="range-btn active" data-range="1m">1M</button>
-          <button class="range-btn" data-range="3m">3M</button>
-          <button class="range-btn" data-range="6m">6M</button>
-          <button class="range-btn" data-range="12m">12M</button>
-          <span class="dash-updated" id="ad-updated">Aktualisiert: –</span>
-        </div>
-
-        <div class="dash-chart-wrap"><canvas id="ad-chart"></canvas></div>
-        <small class="dash-note" id="albumNote"
-          >Quelle: Bewertung deines Albums „Domi Alt Ordner“</small
-        >
-      </div>
-    </section>
-
-    <!-- ===== Startseite: MAIN (Cardshop + Video) ===== -->
-    <section class="main-sections">
-      <div class="section">
-        <h2 class="section-title">Dein digitaler Cardshop</h2>
-        <p class="lead">Uns findest du ab jetzt auch auf Ebay!</p>
-        <a
-          class="ebay-card"
-          href="https://www.ebay.de/itm/365804384035"
-          target="_blank"
-          rel="noopener"
-        >
-          <img src="./img/evoli.webp" alt="Artikelbild" />
-          <div>
-            <strong>Pokémon TCG Karte Evoli Yu Nagaba Signature Rare</strong
-            ><br />
-            <span>Preis: 39,99€</span><br />
-            <small>Weitere Angebote auf meinem eBay-Profil</small>
-          </div>
-        </a>
       </div>
 
-      <div class="section">
-        <h2 class="section-title">Video</h2>
-        <p class="lead">
-          Welche Karten sind gerade beliebt und welche eher nicht?
-        </p>
-        <iframe
-          class="youtube"
-          src="https://www.youtube.com/embed/1gRwajiEEJw"
-          title="YouTube video player"
-          allowfullscreen
-          loading="lazy"
-        ></iframe>
-      </div>
-    </section>
-
-    <!-- ===== Vollbild-Suchseite ===== -->
-    <section id="searchPage" class="page">
-      <div class="search-header">
-        <!-- Zurück als Link (CSS-only & JS kompatibel) -->
-        <a id="btnBack" class="btn" href="#" title="Zurück">← Zurück</a>
-        <input
-          id="searchInput"
-          type="search"
-          placeholder="Karte suchen (Name, Set, Nummer)..."
-        />
-        <a id="btnClear" class="btn" href="#" title="Eingabe löschen">✕</a>
-      </div>
-
-      <div id="progress"></div>
-      <div id="results" class="results" aria-live="polite"></div>
+      <div id="results" class="results"></div>
     </section>
 
     <script>
-      (() => {
-        const progress = document.getElementById("progress"); // <div id="progress">
-        const input = document.getElementById("searchInput"); // <input id="searchInput">
-        const results = document.getElementById("results"); // <div id="results">
-
-        let worker = null;
-        let workerReady = false;
-        let searchDebounceId = 0;
-
-        function logProgress(msg) {
-          if (!progress) return;
-          progress.style.display = "block";
-          progress.textContent = msg;
+      /* ===========================================================
+       MINI SPA NAVIGATION (ohne extra Dateien)
+    ============================================================ */
+      const screens = {
+        home: document.getElementById("home"),
+        search: document.getElementById("search"),
+      };
+      function showScreen(name) {
+        Object.values(screens).forEach((s) => s.classList.remove("active"));
+        (screens[name] || screens.home).classList.add("active");
+        // Fokus auf Suche nach Navigation
+        if (name === "search") {
+          setTimeout(() => document.getElementById("sQuery").focus(), 50);
         }
+      }
+      document.querySelectorAll("[data-nav]").forEach((a) => {
+        a.addEventListener("click", (ev) => {
+          ev.preventDefault();
+          showScreen(a.dataset.nav);
+        });
+      });
 
-        function render(items) {
-          if (!results) return;
-          if (!items.length) {
-            results.innerHTML =
-              '<div style="padding:10px;color:#666">Keine Treffer</div>';
-            return;
+      /* ===========================================================
+       STUB-API (nur Frontend) –> später durch echtes Backend ersetzen
+       - Aktuell: localStorage basierte Fake-Implementierung
+       - TODO Backend: fetch() an eure Endpunkte
+    ============================================================ */
+      const api = {
+        // Persistenz: Alben in localStorage
+        _LS_KEY: "albums",
+        _read() {
+          try {
+            return JSON.parse(localStorage.getItem(this._LS_KEY) || "{}");
+          } catch {
+            return {};
           }
-          results.innerHTML = items
-            .map(
-              (c) => `
-      <article class="result-card">
-        <img src="${c.image || ""}" alt="">
-        <div>
-          <h4>${c.name}</h4>
-          <div class="meta">${c.set || ""}${c.number ? " · #" + c.number : ""}${
-                c.rarity ? " · " + c.rarity : ""
-              }</div>
-        </div>
-        <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
-        <button class="btn" data-id="${c.id}">Zu Album</button>
-      </article>
-    `
-            )
-            .join("");
-        }
+        },
+        _write(obj) {
+          localStorage.setItem(this._LS_KEY, JSON.stringify(obj));
+        },
 
-        // Worker starten
-        if (location.protocol === "file:") {
-          logProgress(
-            "Bitte über http://localhost … starten (file:// blockiert fetch/Worker)."
+        async ensureAlbum(id) {
+          const s = this._read();
+          if (!s[id]) {
+            s[id] = [];
+            this._write(s);
+          }
+        },
+        async addCard(albumId, cardId) {
+          const s = this._read();
+          s[albumId] = s[albumId] || [];
+          if (!s[albumId].includes(cardId)) {
+            s[albumId].push(cardId);
+            this._write(s);
+          }
+        },
+        async hasCard(albumId, cardId) {
+          const s = this._read();
+          return (s[albumId] || []).includes(cardId);
+        },
+        async count(albumId) {
+          const s = this._read();
+          return (s[albumId] || []).length;
+        },
+
+        async getAlbumCards(albumId) {
+          const s = this._read();
+          return s[albumId] || [];
+        },
+
+        // --- Suche (Stub) ---
+        async searchCards(query) {
+          // TODO Backend: echte Suche (Worker/API). Hier nur demo Items:
+          if (!query) return [];
+          const demo = [
+            {
+              id: "xy-12-11",
+              name: "Charizard",
+              set: "XY Evolutions",
+              number: "11/108",
+              rarity: "Holo Rare",
+              image: "./img/evoli.webp",
+              priceLow: 39.99,
+            },
+            {
+              id: "base-4",
+              name: "Charizard",
+              set: "Base Set",
+              number: "4/102",
+              rarity: "Holo Rare",
+              image: "",
+              priceLow: 199.0,
+            },
+            {
+              id: "sv-151-006",
+              name: "Bulbasaur",
+              set: "Scarlet & Violet 151",
+              number: "001/165",
+              rarity: "Common",
+              image: "",
+              priceLow: 0.2,
+            },
+          ];
+          return demo.filter((x) =>
+            x.name.toLowerCase().includes(query.toLowerCase())
           );
+        },
+      };
+
+      /* ===========================================================
+       HOME: Album-KPIs & Chart (Dummy)
+    ============================================================ */
+      const albumSelect = document.getElementById("albumSelect");
+      const albumSelect2 = document.getElementById("albumSelect2");
+      const badge = document.getElementById("albumCountBadge");
+      const kpiCount = document.getElementById("kpi-count");
+      const kpiTotal = document.getElementById("kpi-total");
+      const kpiDelta = document.getElementById("kpi-delta");
+      const kpiUpdated = document.getElementById("kpi-updated");
+      const albumTitle = document.getElementById("albumTitle");
+      const noteAlbum = document.getElementById("note-album");
+
+      async function updateAlbumUI() {
+        const id = albumSelect.value;
+        const name = albumSelect.options[albumSelect.selectedIndex].textContent;
+        albumTitle.textContent = name;
+        noteAlbum.textContent = name;
+
+        // Count (echt aus Persistenz, Stub)
+        const count = await api.count(id);
+        badge.textContent = String(count);
+        kpiCount.textContent = String(count);
+
+        // Demo-Werte für Total & Delta
+        kpiTotal.textContent = count
+          ? (count * 12.5).toFixed(2) + " €"
+          : "0,00 €";
+        kpiDelta.textContent = (Math.random() * 3 - 1).toFixed(1) + "%";
+        const now = new Date();
+        kpiUpdated.textContent = now.toLocaleDateString();
+      }
+
+      albumSelect.addEventListener("change", async () => {
+        albumSelect2.value = albumSelect.value;
+        await updateAlbumUI();
+        await refreshSearchButtonsState();
+      });
+
+      async function initAlbums() {
+        for (const id of ["domi", "b2", "b3"]) await api.ensureAlbum(id);
+        albumSelect2.value = albumSelect.value;
+        await updateAlbumUI();
+      }
+
+      // Chart Dummy
+      const chart = new Chart(
+        document.getElementById("chart").getContext("2d"),
+        {
+          type: "line",
+          data: {
+            labels: ["-12M", "-9M", "-6M", "-3M", "Jetzt"],
+            datasets: [
+              {
+                label: "Wertentwicklung",
+                data: [11000, 11500, 11800, 12150, 12300],
+                borderColor: "#333",
+                backgroundColor: "rgba(0,0,0,.12)",
+                pointBackgroundColor: "#333",
+                borderWidth: 2,
+                tension: 0.3,
+                fill: true,
+              },
+            ],
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { display: false } },
+            scales: {
+              x: { ticks: { font: { size: 12 } } },
+              y: { ticks: { font: { size: 12 } } },
+            },
+          },
+        }
+      );
+
+      /* ===========================================================
+       SEARCH: UI & Verhalten
+    ============================================================ */
+      const sQuery = document.getElementById("sQuery");
+      const sClear = document.getElementById("sClear");
+      const sGo = document.getElementById("sGo");
+      const results = document.getElementById("results");
+
+      function resultRowHtml(c, disabled) {
+        return `
+        <div class="result-line">
+          <img src="${c.image || ""}" alt="">
+          <div>
+            <h4>${c.name}</h4>
+            <div class="meta">${c.set || ""}${
+          c.number ? " · #" + c.number : ""
+        }${c.rarity ? " · " + c.rarity : ""}</div>
+          </div>
+          <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
+          <button class="btn ${disabled ? "ok" : ""} btn-add" data-id="${
+          c.id
+        }" ${disabled ? "disabled" : ""}>
+            ${disabled ? "Hinzugefügt" : "Zu Album"}
+          </button>
+        </div>
+      `;
+      }
+
+      async function renderSearch(items) {
+        const aid = albumSelect2.value;
+        if (!items.length) {
+          results.innerHTML = `<div style="grid-column:1/-1; padding:8px; color:#666">Keine Treffer</div>`;
           return;
         }
-        worker = new Worker("search_worker.js");
-        worker.onmessage = (e) => {
-          const { type, items, count, loaded, total, file, message } =
-            e.data || {};
-          if (type === "PROGRESS")
-            logProgress(
-              `Katalog lädt… ${loaded}/${total}${file ? " (" + file + ")" : ""}`
-            );
-          if (type === "WARN") logProgress(`Warnung: ${file} – ${message}`);
-          if (type === "ERROR") logProgress(`Fehler: ${message}`);
-          if (type === "READY") {
-            workerReady = true;
-            logProgress(`Katalog geladen: ${count} Karten`);
-            setTimeout(() => {
-              if (progress) progress.style.display = "none";
-            }, 1200);
-          }
-          if (type === "RESULTS") render(items || []);
-        };
-
-        // Manifest laden – Pfad ggf. anpassen!
-        fetch("./catalog_index.json", { cache: "no-store" })
-          .then((r) => {
-            if (!r.ok) throw new Error("HTTP " + r.status);
-            return r.json();
-          })
-          .then(({ files }) =>
-            worker.postMessage({ type: "BUILD", payload: { files } })
-          )
-          .catch((err) => logProgress("Manifest-Fehler: " + err.message));
-
-        // Debounced Input -> SEARCH
-        if (input) {
-          input.addEventListener("input", () => {
-            clearTimeout(searchDebounceId);
-            const q = input.value.trim();
-            searchDebounceId = setTimeout(() => {
-              if (!workerReady) {
-                logProgress("Index wird noch aufgebaut…");
-                return;
-              }
-              worker.postMessage({ type: "SEARCH", payload: { query: q } });
-            }, 180);
+        // check already in album
+        const flags = await Promise.all(
+          items.map((it) => api.hasCard(aid, it.id))
+        );
+        results.innerHTML = items
+          .map((it, i) => resultRowHtml(it, flags[i]))
+          .join("");
+        results.querySelectorAll(".btn-add").forEach((btn) => {
+          btn.addEventListener("click", async () => {
+            const id = btn.dataset.id;
+            btn.disabled = true;
+            btn.textContent = "...";
+            try {
+              await api.addCard(aid, id);
+              btn.classList.add("ok");
+              btn.textContent = "Hinzugefügt";
+            } catch {
+              btn.disabled = false;
+              btn.textContent = "Fehler";
+            }
+            await updateAlbumUI();
           });
+        });
+      }
+
+      async function doSearch() {
+        const q = sQuery.value.trim();
+        const items = await api.searchCards(q); // Stub → später Backend
+        await renderSearch(items);
+      }
+
+      sGo.addEventListener("click", doSearch);
+      sClear.addEventListener("click", () => {
+        sQuery.value = "";
+        sQuery.focus();
+        doSearch();
+      });
+      sQuery.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") doSearch();
+      });
+
+      async function refreshSearchButtonsState() {
+        // Wenn Album in Home geändert wurde, setze Search-Buttons neu
+        const aid = albumSelect2.value;
+        const btns = results.querySelectorAll(".btn-add[data-id]");
+        for (const btn of btns) {
+          const inAlbum = await api.hasCard(aid, btn.dataset.id);
+          btn.disabled = inAlbum;
+          btn.classList.toggle("ok", inAlbum);
+          btn.textContent = inAlbum ? "Hinzugefügt" : "Zu Album";
         }
+      }
+
+      /* ===========================================================
+       INIT
+    ============================================================ */
+      (async function init() {
+        await initAlbums();
+        // Standard: Home aktiv, Suche leer
+        showScreen("home");
       })();
     </script>
   </body>
