@@ -36,7 +36,7 @@ def load_cards():
 cards = load_cards()
 
 def normalize_card(raw):
-    print(f"Normalizing card: {raw.get('name')}")
+    #print(f"Normalizing card: {raw.get('name')}")
     low = raw.get("cardmarket", {}).get("prices", {}).get("lowPrice", 0) or 0
     reverse = raw.get("cardmarket", {}).get("prices", {}).get("reverseHolo", 0) or None
     return {
@@ -56,7 +56,7 @@ normalized_cards = [normalize_card(c) for c in cards]
 @app.route("/search", methods=["GET"])
 def search_cards():
     query = request.args.get("q", "").strip()
-    print(f"[DEBUG] Search query received: '{query}'")
+    #print(f"[DEBUG] Search query received: '{query}'")
     if not query:
         print("[DEBUG] Empty query, returning empty list")
         return jsonify([])
@@ -68,7 +68,7 @@ def search_cards():
     results = process.extract(
         query, names, scorer=fuzz.partial_ratio, limit=50
     )
-    print(f"[DEBUG] Number of matches found: {len(results)}")
+    #print(f"[DEBUG] Number of matches found: {len(results)}")
 
     # Map Ergebnisse zurück auf Kartenobjekte + Score
     filtered = []
@@ -76,7 +76,7 @@ def search_cards():
         name_match, score, idx = match
         card = normalized_cards[idx]
         filtered.append({**card, "_score": score})
-    print(f"[DEBUG] Number of filtered cards before sorting: {len(filtered)}")
+    #print(f"[DEBUG] Number of filtered cards before sorting: {len(filtered)}")
 
     # Sortiere absteigend nach Score
     filtered.sort(key=lambda x: x["_score"], reverse=True)
