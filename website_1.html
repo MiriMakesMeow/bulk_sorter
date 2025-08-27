@@ -592,8 +592,7 @@
           <option value="b3">Beispielalbum 3</option>
         </select>
       </div>
-
-      <div id="results" class="results"></div>
+      <div id="results" class="searchResults"></div>
     </section>
 
     <script>
@@ -625,89 +624,55 @@
               priceLow: 12.34,
             };
 
-            /* ===== Stub-API (Persistenz via localStorage) ===== */
-            const api = {
-              _KEY: "albums",
-              _read() {
-                try {
-                  return JSON.parse(localStorage.getItem(this._KEY) || "{}");
-                } catch {
-                  return {};
-                }
-              },
-              _write(obj) {
-                localStorage.setItem(this._KEY, JSON.stringify(obj));
-              },
-              async ensureAlbum(id) {
-                const s = this._read();
-                if (!s[id]) {
-                  s[id] = [];
-                  this._write(s);
-                }
-              },
-              async addCard(albumId, cardId) {
-                const s = this._read();
-                s[albumId] = s[albumId] || [];
-                if (!s[albumId].includes(cardId)) {
-                  s[albumId].push(cardId);
-                  this._write(s);
-                }
-              },
-              async hasCard(albumId, cardId) {
-                const s = this._read();
-                return (s[albumId] || []).includes(cardId);
-              },
-              async count(id) {
-                const s = this._read();
-                return (s[id] || []).length;
-              },
-              async searchCards(q) {
-                if (!q) return [];
+      /* ===== SEARCH LOGIC with Backend-API ===== */
+      const api = {
+        async addCard(albumId, cardId) {
+          const res = await fetch(`http://localhost:5000/album/${albumId}/add_card`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ card_id: cardId }),
+          });
+          if (!res.ok) throw new Error("Karte konnte nicht hinzugefügt werden");
+        },
 
-                const lc = q.toLowerCase();
+        async hasCard(albumId, cardId) {
+          const res = await fetch(`http://localhost:5000/album/${albumId}/cards`);
+          if (!res.ok) return false;
+          const { cards } = await res.json();
+          return cards.includes(cardId);
+        },
 
-                const demo = [
-                  {
-                    id: "xy-12-11",
-                    name: "Charizard",
-                    set: "XY Evolutions",
-                    number: "11/108",
-                    rarity: "Holo Rare",
-                    image: "./img/evoli.webp",
-                    priceLow: 39.99,
-                  },
-                  {
-                    id: "base-4",
-                    name: "Charizard",
-                    set: "Base Set",
-                    number: "4/102",
-                    rarity: "Holo Rare",
-                    image: "",
-                    priceLow: 199.0,
-                  },
-                  {
-                    id: "sv-151-006",
-                    name: "Bulbasaur",
-                    set: "Scarlet & Violet 151",
-                    number: "001/165",
-                    rarity: "Common",
-                    image: "",
-                    priceLow: 0.2,
-                  },
-                ];
-                // normal filtern
-                let results = demo.filter(x => x.name.toLowerCase().includes(lc));
+        async count(albumId) {
+          const res = await fetch(`http://localhost:5000/album/${albumId}/cards`);
+          if (!res.ok) return 0;
+          const { cards } = await res.json();
+          return cards.length;
+        },
 
-        // >>> Testkarte injizieren, sobald "test" getippt wird
-                if (lc.includes("test")) {
-          // an den Anfang setzen (immer sichtbar)
-                results = [TEST_CARD, ...results];
-                   }
+        async searchCards(query) {
+          if (!query) return [];
+          const res = await fetch(`http://localhost:5000/search?q=${encodeURIComponent(query)}`);
+          if (!res.ok) return [];
+          const data = await res.json();
+          return data;
+        },
+      };
 
-                return results;
-                 }
-              }
-          
+
+      function displayResults(results) {
+        const container = document.getElementById("results");
+        container.innerHTML = ""; // vorherige Ergebnisse löschen
+        if (results.length === 0) {
+          container.textContent = "Keine Treffer";
+          return;
+        }
+        // Beispiel: Ergebnisliste rendern
+        results.forEach(card => {
+          const div = document.createElement("div");
+          div.textContent = card.name + " (" + card.set + ")";
+          container.appendChild(div);
+        });
+      }
 
             /* ===== HOME KPIs & Chart (Demo) ===== */
             const albumSelect = document.getElementById("albumSelect");
@@ -745,42 +710,41 @@
               await updateAlbumUI();
             }
 
-            const chart = new Chart(
-              document.getElementById("chart").getContext("2d"),
+      const chart = new Chart(
+        document.getElementById("chart").getContext("2d"),
+        {
+          type: "line",
+          data: {
+            labels: ["-12M", "-9M", "-6M", "-3M", "Jetzt"],
+            datasets: [
               {
-                type: "line",
-                data: {
-                  labels: ["-12M", "-9M", "-6M", "-3M", "Jetzt"],
-                  datasets: [
-                    {
-                      label: "Wertentwicklung",
-                      data: [11000, 11500, 11800, 12150, 12300],
-                      borderColor: "#333",
-                      backgroundColor: "rgba(0,0,0,.12)",
-                      pointBackgroundColor: "#333",
-                      borderWidth: 2,
-                      tension: 0.3,
-                      fill: true,
-                    },
-                  ],
-                },
-                options: {
-                  responsive: true,
-                  maintainAspectRatio: false,
-                  plugins: { legend: { display: false } },
-                  scales: {
-                    x: { ticks: { font: { size: 12 } } },
-                    y: { ticks: { font: { size: 12 } } },
-                  },
-                },
-              }
-            );
-
-            /* ===== Suche (Stub) ===== */
-            const sQuery = document.getElementById("sQuery");
-            const sClear = document.getElementById("sClear");
-            const sGo = document.getElementById("sGo");
-            const results = document.getElementById("results");
+                label: "Wertentwicklung",
+                data: [11000, 11500, 11800, 12150, 12300],
+                borderColor: "#333",
+                backgroundColor: "rgba(0,0,0,.12)",
+                pointBackgroundColor: "#333",
+                borderWidth: 2,
+                tension: 0.3,
+                fill: true,
+              },
+            ],
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { display: false } },
+            scales: {
+              x: { ticks: { font: { size: 12 } } },
+              y: { ticks: { font: { size: 12 } } },
+            },
+          },
+        }
+      );
+      /* ===== SEARCH Screen ===== */
+      const sQuery = document.getElementById("sQuery");
+      const sClear = document.getElementById("sClear");
+      const sGo = document.getElementById("sGo");
+      const results = document.getElementById("results");
 
             function resultRowHtml(c, disabled) {
               return `
