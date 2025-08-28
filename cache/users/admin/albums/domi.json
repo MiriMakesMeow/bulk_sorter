@@ -6,6 +6,18 @@
       "set": null,
       "count_normal": 8,
       "count_reverse": 0
+    },
+    {
+      "card_id": "base1-4",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "np-12",
+      "set": "np",
+      "count_normal": 1,
+      "count_reverse": 0
     }
   ]
 }
