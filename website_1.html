@@ -624,7 +624,7 @@
           const data = await http(
             `/album/${encodeURIComponent(albumId)}/cards`
           );
-          return Array.isArray(data) ? data : [];
+          return data && Array.isArray(data.cards) ? data.cards : [];
         },
         async addCard(albumId, cardId) {
           await http(`/album/${encodeURIComponent(albumId)}/add_cards`, {
@@ -634,7 +634,7 @@
         },
         async hasCard(albumId, cardId) {
           const cards = await this.getAlbumCards(albumId);
-          return cards.some((c) => (c.id ?? c) === cardId);
+          return cards.some((c) => (c.id || c.card_id) === cardId);
         },
         async searchCards(query) {
           if (!query) return [];
@@ -653,6 +653,49 @@
       };
 
       /* HOME KPIs & Chart */
+      async function fetchCardDetails(ids) {
+        if (!ids.length) return [];
+        const q = encodeURIComponent(ids.join(","));
+        return http(`/cards/details?ids=${q}`);
+      }
+
+      function renderAlbumCards(cards) {
+        // Container innerhalb der Album-Box (unter KPIs) suchen oder erzeugen
+        let list = document.getElementById("albumCardList");
+        if (!list) {
+          list = document.createElement("div");
+          list.id = "albumCardList";
+          document.getElementById("albumBox").appendChild(list);
+        }
+        list.innerHTML = "";
+
+        if (cards.length === 0) {
+          list.innerHTML = `<p style="padding:6px;color:#666">Noch keine Karten im Album.</p>`;
+          return;
+        }
+
+        cards.forEach((c) => {
+          const div = document.createElement("div");
+          div.className = "result-line"; // vorhandenes Layout nutzen
+          div.innerHTML = `
+      <img src="${c.image || ""}" alt="">
+      <div>
+        <h4>${c.name}</h4>
+        <div class="meta">${c.set || ""}${
+            c.number ? " · #" + c.number : ""
+          }</div>
+      </div>
+      <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
+    `;
+          list.appendChild(div);
+        });
+      }
+
+      async function refreshAlbumUI(albumId) {
+        const cards = await api.getAlbumCards(albumId);
+
+        renderAlbumCards(details);
+      }
       const albumSelect = document.getElementById("albumSelect");
       const albumSelect2 = document.getElementById("albumSelect2");
       const badge = document.getElementById("albumCountBadge");
@@ -662,6 +705,8 @@
       const kpiUpdated = document.getElementById("kpi-updated");
       const albumTitle = document.getElementById("albumTitle");
       const noteAlbum = document.getElementById("note-album");
+      const album = document.getElementById("albumSelect").value;
+      refreshAlbumUI(album);
 
       async function updateAlbumUI() {
         const id = albumSelect.value;
@@ -679,14 +724,18 @@
         badge.textContent = String(count);
         kpiCount.textContent = String(count);
 
-        const total = cards.reduce(
-          (s, c) => s + (typeof c.priceLow === "number" ? c.priceLow : 0),
-          0
-        );
+        const total = cards.reduce((s, c) => {
+          const price = typeof c.priceLow === "number" ? c.priceLow : 0;
+          const qty = (c.count_normal || 0) + (c.count_reverse || 0);
+          return s + price * qty;
+        }, 0);
+
         kpiTotal.textContent = total.toFixed(2).replace(".", ",") + " €";
 
         kpiDelta.textContent = (Math.random() * 3 - 1).toFixed(1) + "%";
         kpiUpdated.textContent = new Date().toLocaleDateString();
+
+        renderAlbumCards(cards);
       }
 
       albumSelect.addEventListener("change", async () => {

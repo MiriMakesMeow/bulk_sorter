@@ -110,25 +110,44 @@ def add_card_to_album(album_name):
 
 @app.route("/album/<album_name>/cards", methods=["GET"])
 def get_album_cards(album_name):
+    print("getalbumcalled")
     album = load_album(album_name)
     if album is None or "cards" not in album:
+        print("nocards")
         return jsonify({"cards": [], "total_cards": 0})
 
-    cards = album["cards"]
-    total_count = sum(c.get("count_normal", 0) + c.get("count_reverse", 0) for c in cards)
+    raw_cards = album["cards"]
+    result = []
+    total_count = 0
 
-    return jsonify({"cards": cards, "total_cards": total_count})
+    for entry in raw_cards:
+        card_id = entry["card_id"]
+        card = lookup_card_by_id(card_id, normalized_cards)
+        if card:
+            # Counts mergen
+            merged = {
+                **card,  # alle Details (name, image, set, prices, …)
+                "count_normal": entry.get("count_normal", 0),
+                "count_reverse": entry.get("count_reverse", 0),
+            }
+            total_count += merged["count_normal"] + merged["count_reverse"]
+            result.append(merged)
+
+    print(result, total_count)
+    return jsonify({"cards": result, "total_cards": total_count})
 
 @app.route("/cards/details", methods=["GET"])
 def get_card_details():
-    card_id = request.args.get("card_id", "").strip()
-    if not card_id:
+    ids = request.args.get("ids", "").split(",")
+    if not ids:
+        print("no id")
         return jsonify({"error": "Keine card_id angegeben"}), 400
 
-    card = lookup_card_by_id(card_id, normalized_cards)
+    card =[lookup_card_by_id(i, normalized_cards) for i in ids]
     if card is None:
+        print("card not found")
         return jsonify({"error": "Karte nicht gefunden"}), 404
-
+    print(card)
     return jsonify(card)
 
 

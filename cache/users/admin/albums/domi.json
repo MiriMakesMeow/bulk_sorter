@@ -1,4 +1,11 @@
 {
   "album_name": "domi",
-  "cards": []
+  "cards": [
+    {
+      "card_id": "base3-3",
+      "set": null,
+      "count_normal": 8,
+      "count_reverse": 0
+    }
+  ]
 }
