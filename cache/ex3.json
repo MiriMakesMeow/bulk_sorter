@@ -62,10 +62,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Absol-DR1",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 4.0,
-        "reverseHoloLow": 5.0
+        "reverseHoloLow": 4.38
       }
     }
   },
@@ -137,10 +137,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Altaria-DR2",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.0,
-        "reverseHoloLow": 2.99
+        "reverseHoloLow": 2.95
       }
     }
   },
@@ -202,7 +202,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Crawdaunt-DR3",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.19,
         "reverseHoloLow": 0.4
@@ -280,7 +280,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Flygon-DR4",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.0,
         "reverseHoloLow": 2.0
@@ -353,7 +353,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Golem-DR5",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.0,
         "reverseHoloLow": 1.0
@@ -420,10 +420,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Grumpig-DR6",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.95,
-        "reverseHoloLow": 0.99
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.0
       }
     }
   },
@@ -497,7 +497,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Minun-DR7",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.0,
         "reverseHoloLow": 2.5
@@ -574,10 +574,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Plusle-DR8",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.0,
-        "reverseHoloLow": 2.99
+        "reverseHoloLow": 5.0
       }
     }
   },
@@ -647,9 +647,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Roselia-DR9",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.3,
+        "lowPrice": 0.5,
         "reverseHoloLow": 0.5
       }
     }
@@ -733,7 +733,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Salamence-DR10",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.49,
         "reverseHoloLow": 2.49
@@ -789,7 +789,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Shedinja-DR11",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.49,
         "reverseHoloLow": 1.49
@@ -854,7 +854,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Torkoal-DR12",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.45,
         "reverseHoloLow": 1.45
@@ -920,10 +920,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Crawdaunt-DR13",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 0.94
+        "reverseHoloLow": 0.8
       }
     }
   },
@@ -1001,7 +1001,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Dragonair-DR14",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 1.0
@@ -1124,7 +1124,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Girafarig-DR16",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.8
@@ -1196,7 +1196,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magneton-DR17",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.45
@@ -1258,7 +1258,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Ninjask-DR18",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 1.0
@@ -1397,7 +1397,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Shelgon-DR20",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.45
@@ -1467,7 +1467,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Skarmory-DR21",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.88
@@ -1545,7 +1545,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Vibrava-DR22",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.89
@@ -1622,9 +1622,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Bagon-DR23",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.23,
+        "lowPrice": 0.2,
         "reverseHoloLow": 0.8
       }
     }
@@ -1690,7 +1690,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Camerupt-DR24",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.39
@@ -1760,7 +1760,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Combusken-DR25",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.99
@@ -1836,10 +1836,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Dratini-DR26",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.25,
-        "reverseHoloLow": 1.19
+        "reverseHoloLow": 1.0
       }
     }
   },
@@ -1910,7 +1910,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Flaaffy-DR27",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": 0.99
@@ -1984,7 +1984,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Forretress-DR28",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": 0.3
@@ -2056,7 +2056,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Graveler-DR29",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.25,
         "reverseHoloLow": 0.5
@@ -2128,10 +2128,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Graveler-DR30",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.94
+        "reverseHoloLow": 1.0
       }
     }
   },
@@ -2193,9 +2193,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Grovyle-DR31",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.07,
+        "lowPrice": 0.05,
         "reverseHoloLow": 0.88
       }
     }
@@ -2262,7 +2262,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Gyarados-DR32",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.3,
         "reverseHoloLow": 2.0
@@ -2328,9 +2328,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Horsea-DR33",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.1,
+        "lowPrice": 0.15,
         "reverseHoloLow": 0.5
       }
     }
@@ -2401,7 +2401,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Houndoom-DR34",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 1.49
@@ -2471,10 +2471,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magneton-DR35",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.04,
-        "reverseHoloLow": 0.97
+        "reverseHoloLow": 0.88
       }
     }
   },
@@ -2530,7 +2530,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Marshtomp-DR36",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.5
@@ -2597,10 +2597,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Meditite-DR37",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.04,
-        "reverseHoloLow": 0.7
+        "reverseHoloLow": 0.89
       }
     }
   },
@@ -2661,10 +2661,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Ninjask-DR38",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.07,
-        "reverseHoloLow": 0.25
+        "reverseHoloLow": 0.45
       }
     }
   },
@@ -2730,7 +2730,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Seadra-DR39",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": 0.6
@@ -2800,7 +2800,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Seadra-DR40",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.15
@@ -2861,10 +2861,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Shelgon-DR41",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
-        "reverseHoloLow": 0.94
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.95
       }
     }
   },
@@ -2926,7 +2926,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Shelgon-DR42",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.5
@@ -2998,7 +2998,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Shuppet-DR43",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.99
@@ -3056,10 +3056,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Snorunt-DR44",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
-        "reverseHoloLow": 0.5
+        "reverseHoloLow": 0.95
       }
     }
   },
@@ -3123,10 +3123,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Swellow-DR45",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 0.2
+        "reverseHoloLow": 0.8
       }
     }
   },
@@ -3183,7 +3183,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Vibrava-DR46",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": 0.7
@@ -3247,7 +3247,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Vibrava-DR47",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.03,
         "reverseHoloLow": 0.45
@@ -3323,10 +3323,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Whiscash-DR48",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.5,
-        "reverseHoloLow": 0.79
+        "lowPrice": 0.2,
+        "reverseHoloLow": 0.45
       }
     }
   },
@@ -3384,10 +3384,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Bagon-DR49",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.25
+        "reverseHoloLow": 0.43
       }
     }
   },
@@ -3445,10 +3445,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Bagon-DR50",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 0.44
+        "reverseHoloLow": 0.4
       }
     }
   },
@@ -3512,10 +3512,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Barboach-DR51",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 0.35
+        "reverseHoloLow": 0.3
       }
     }
   },
@@ -3578,10 +3578,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Corphish-DR52",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.45
+        "reverseHoloLow": 0.69
       }
     }
   },
@@ -3645,7 +3645,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Corphish-DR53",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -3712,9 +3712,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Corphish-DR54",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.05,
+        "lowPrice": 0.02,
         "reverseHoloLow": 0.1
       }
     }
@@ -3778,10 +3778,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Geodude-DR55",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.2
+        "reverseHoloLow": 0.35
       }
     }
   },
@@ -3835,7 +3835,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Geodude-DR56",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -3901,7 +3901,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Grimer-DR57",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.19
@@ -3968,7 +3968,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Horsea-DR58",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -4041,7 +4041,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Houndour-DR59",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -4108,7 +4108,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magikarp-DR60",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.3
@@ -4181,7 +4181,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magnemite-DR61",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -4244,10 +4244,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magnemite-DR62",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 0.49
+        "reverseHoloLow": 0.4
       }
     }
   },
@@ -4301,7 +4301,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magnemite-DR63",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.04,
         "reverseHoloLow": 0.1
@@ -4364,10 +4364,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Mareep-DR64",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.24
+        "reverseHoloLow": 0.25
       }
     }
   },
@@ -4421,10 +4421,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Mudkip-DR65",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.39
+        "reverseHoloLow": 0.5
       }
     }
   },
@@ -4478,10 +4478,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Nincada-DR66",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.79
+        "reverseHoloLow": 0.5
       }
     }
   },
@@ -4545,7 +4545,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Nincada-DR67",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.19
@@ -4602,7 +4602,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Nincada-DR68",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.4
@@ -4669,7 +4669,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Numel-DR69",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.5
@@ -4736,7 +4736,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Numel-DR70",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.19
@@ -4801,7 +4801,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Pineco-DR71",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -4869,7 +4869,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Slugma-DR72",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -4926,10 +4926,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Spoink-DR73",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.4
+        "reverseHoloLow": 0.25
       }
     }
   },
@@ -4993,9 +4993,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Spoink-DR74",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.05,
+        "lowPrice": 0.03,
         "reverseHoloLow": 0.15
       }
     }
@@ -5065,7 +5065,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Swablu-DR75",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.35
@@ -5128,7 +5128,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Taillow-DR76",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.03,
         "reverseHoloLow": 0.2
@@ -5186,7 +5186,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Torchic-DR77",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.25
@@ -5243,10 +5243,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Trapinch-DR78",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.2
+        "reverseHoloLow": 0.4
       }
     }
   },
@@ -5310,7 +5310,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Trapinch-DR79",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.25
@@ -5374,7 +5374,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Treecko-DR80",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.03,
         "reverseHoloLow": 0.2
@@ -5441,10 +5441,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Wurmple-DR81",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.03,
-        "reverseHoloLow": 0.03
+        "reverseHoloLow": 0.22
       }
     }
   },
@@ -5471,7 +5471,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Balloon-Berry-DR82",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.3
@@ -5501,10 +5501,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Buffer-Piece-DR83",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 0.42
+        "reverseHoloLow": 0.35
       }
     }
   },
@@ -5531,7 +5531,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Energy-Recycle-System-DR84",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.04,
         "reverseHoloLow": 0.5
@@ -5561,7 +5561,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/High-Pressure-System-DR85",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.03,
         "reverseHoloLow": 0.2
@@ -5591,10 +5591,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Low-Pressure-System-DR86",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 0.19
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -5621,9 +5621,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Mr-Brineys-Compassion-DR87",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.49,
+        "lowPrice": 0.7,
         "reverseHoloLow": 0.75
       }
     }
@@ -5652,7 +5652,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/TV-Reporter-DR88",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 6.0
@@ -5728,9 +5728,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Ampharos-ex-DR89",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 9.97,
+        "lowPrice": 10.99,
         "reverseHoloLow": null
       }
     }
@@ -5818,9 +5818,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Dragonite-ex-DR90",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 14.0,
+        "lowPrice": 16.0,
         "reverseHoloLow": null
       }
     }
@@ -5900,7 +5900,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Golem-ex-DR91",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 4.0,
         "reverseHoloLow": null
@@ -5976,7 +5976,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Kingdra-ex-DR92",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 4.0,
         "reverseHoloLow": null
@@ -6056,7 +6056,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Latias-ex-DR93",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 10.0,
         "reverseHoloLow": null
@@ -6136,9 +6136,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Latios-ex-DR94",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 9.99,
+        "lowPrice": 10.0,
         "reverseHoloLow": null
       }
     }
@@ -6208,7 +6208,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Magcargo-ex-DR95",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 3.99,
         "reverseHoloLow": null
@@ -6286,9 +6286,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Muk-ex-DR96",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 3.87,
+        "lowPrice": 3.0,
         "reverseHoloLow": null
       }
     }
@@ -6365,7 +6365,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Rayquaza-ex-DR97",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 14.5,
         "reverseHoloLow": null
@@ -6627,8 +6627,330 @@
       "large": "https://images.pokemontcg.io/ex3/15_hires.png"
     },
     "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Flygon-V1-DR15",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.79
+      }
+    }
+  },
+  {
+    "id": "ex3-promo-19",
+    "name": "Salamence  (DR 19) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "100",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Shelgon",
+    "abilities": [
+      {
+        "name": "Intimidating Fang",
+        "text": "As long as Salamence is your Active Pokémon, any damage done to your Pokémon by an opponent's attack is reduced by 10 (before applying Weakness and Resistance).",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Dragon Flame",
+        "cost": [
+          "Fire",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40+",
+        "text": "You may discard an Energy card attached to Salamence. If you do, this attack does 40 damage plus 20 more damage."
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "19",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      373
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex3/19.png",
+      "large": "https://images.pokemontcg.io/ex3/19_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Salamence-V1-DR19",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 1.79
+      }
+    }
+  },
+  {
+    "id": "ex3-promo-98",
+    "name": "Charmander  (DR 98) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [
+      "Charmeleon"
+    ],
+    "attacks": [
+      {
+        "name": "Flare",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Rage",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "Does 10 damage plus 10 more damage for each damage counter on Charmander."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "98",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      4
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex3/98.png",
+      "large": "https://images.pokemontcg.io/ex3/98_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Charmander-V1-DR98",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": 20.0
+      }
+    }
+  },
+  {
+    "id": "ex3-promo-99",
+    "name": "Charmeleon  (DR 99) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "70",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Charmander",
+    "evolvesTo": [
+      "Charizard"
+    ],
+    "attacks": [
+      {
+        "name": "Smokescreen",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+      },
+      {
+        "name": "Fireworks",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "40",
+        "text": "Flip a coin. If tails, discard a Fire Energy card attached to Charmeleon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "99",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      5
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex3/99.png",
+      "large": "https://images.pokemontcg.io/ex3/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Charmeleon-V1-DR99",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 15.0,
+        "reverseHoloLow": 24.0
+      }
+    }
+  },
+  {
+    "id": "ex3-promo-100",
+    "name": "Charizard  (DR 100) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Charmeleon",
+    "attacks": [
+      {
+        "name": "Collect Fire",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If heads, search your discard pile for 2 Fire Energy cards and attach them to Charizard (1 if there is only 1)."
+      },
+      {
+        "name": "Flame Pillar",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60",
+        "text": "You may discard a Fire Energy card attached to Charizard. If you do, choose 1 of your opponent's Benched Pokémon and do 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "100",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      6
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex3/100.png",
+      "large": "https://images.pokemontcg.io/ex3/100_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Charizard-V1-DR100",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 49.0,
+        "reverseHoloLow": 119.99
+      }
+    }
+  },
+  {
+    "id": "ex3-promo-15",
+    "name": "Flygon  (DR 15) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "100",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Vibrava",
+    "abilities": [
+      {
+        "name": "Sand Guard",
+        "text": "Whenever Flygon would be damaged by your opponent's attack (after applying Weakness and Resistance), flip a coin. If heads, reduce that damage by 20.",
+        "type": "Poké-Body"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Air Slash",
+        "cost": [
+          "Grass",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60",
+        "text": "Flip a coin. If tails, discard an Energy card attached to Flygon."
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "15",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      330
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex3/15.png",
+      "large": "https://images.pokemontcg.io/ex3/15_hires.png"
+    },
+    "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Flygon-V2-DR15",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 3.5,
         "reverseHoloLow": null
@@ -6687,7 +7009,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Salamence-V2-DR19",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 3.0,
         "reverseHoloLow": null
@@ -6754,7 +7076,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Charmander-V2-DR98",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 60.0,
         "reverseHoloLow": null
@@ -6822,9 +7144,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Charmeleon-V2-DR99",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 60.0,
+        "lowPrice": 129.95,
         "reverseHoloLow": null
       }
     }
@@ -6891,7 +7213,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Dragon/Charizard-V2-DR100",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 400.0,
         "reverseHoloLow": null

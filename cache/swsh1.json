@@ -93,9 +93,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Celebi-V-SSH1",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.0,
+        "lowPrice": 0.5,
         "reverseHoloLow": null
       }
     }
@@ -191,7 +191,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Roselia-SSH2",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -299,7 +299,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Roselia-SSH3",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -405,11 +405,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Budew-PRE004",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Roserade-SSH4",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.24
       }
     }
   },
@@ -503,11 +503,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Pikachu-V1-CEL005",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Cottonee-SSH5",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.5,
-        "reverseHoloLow": null
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -609,7 +609,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Whimsicott-SSH6",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -715,7 +715,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Maractus-SSH7",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -811,7 +811,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Durant-SSH8",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -914,7 +914,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Dhelmise-V-V1-SSH9",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.2,
         "reverseHoloLow": null
@@ -1011,11 +1011,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Shaymin-V1-DRI010",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Grookey-SSH10",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.03
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -1120,10 +1120,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Grookey-SSH11",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.08
+        "reverseHoloLow": 0.03
       }
     }
   },
@@ -1231,7 +1231,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Thwackey-SSH12",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.19
@@ -1343,7 +1343,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Thwackey-SSH13",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -1564,10 +1564,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Rillaboom-SSH15",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.18,
-        "reverseHoloLow": 0.29
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.5
       }
     }
   },
@@ -1662,7 +1662,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Blipbug-SSH16",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -1760,7 +1760,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Blipbug-SSH17",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -1870,10 +1870,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Dottler-SSH18",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.15
+        "reverseHoloLow": 0.14
       }
     }
   },
@@ -1974,7 +1974,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Orbeetle-SSH19",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -2081,7 +2081,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Gossifleur-SSH20",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -2186,7 +2186,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Eldegoss-SSH21",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.08
@@ -2284,7 +2284,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Vulpix-SSH22",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -2390,10 +2390,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Ninetales-SSH23",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.3
+        "reverseHoloLow": 0.54
       }
     }
   },
@@ -2498,7 +2498,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Torkoal-V-V1-SSH24",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.5,
         "reverseHoloLow": null
@@ -2600,7 +2600,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Victini-V-SSH25",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.35,
         "reverseHoloLow": null
@@ -2705,7 +2705,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Heatmor-SSH26",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -2803,10 +2803,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Salandit-SSH27",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.03
       }
     }
   },
@@ -2909,7 +2909,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Salazzle-SSH28",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -3019,7 +3019,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Turtonator-SSH29",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.15
@@ -3117,7 +3117,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Scorbunny-SSH30",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.03
@@ -3225,7 +3225,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Scorbunny-SSH31",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -3335,7 +3335,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Raboot-SSH32",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -3444,10 +3444,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Raboot-SSH33",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.29
+        "reverseHoloLow": 0.3
       }
     }
   },
@@ -3655,7 +3655,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Cinderace-SSH35",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.2,
         "reverseHoloLow": 0.2
@@ -3763,7 +3763,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Cinderace-SSH36",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.5
@@ -3872,7 +3872,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Sizzlipede-SSH37",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -3971,7 +3971,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Sizzlipede-SSH38",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -4081,7 +4081,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Centiskorch-SSH39",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.04,
         "reverseHoloLow": 0.15
@@ -4180,10 +4180,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Shellder-SSH40",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.05
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -4288,7 +4288,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Cloyster-SSH41",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -4397,7 +4397,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Krabby-SSH42",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -4497,7 +4497,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Krabby-SSH43",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -4604,11 +4604,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Munkidori-PRE044",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Kingler-SSH44",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -4703,7 +4703,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Goldeen-SSH45",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.07
@@ -4811,7 +4811,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Goldeen-SSH46",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.09
@@ -4918,10 +4918,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Seaking-SSH47",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.1
+        "reverseHoloLow": 0.19
       }
     }
   },
@@ -5122,7 +5122,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lapras-V-V1-SSH49",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.0,
         "reverseHoloLow": null
@@ -5217,9 +5217,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lapras-VMAX-V1-SSH50",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 2.0,
+        "lowPrice": 1.9,
         "reverseHoloLow": null
       }
     }
@@ -5319,10 +5319,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Qwilfish-SSH51",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.04
+        "reverseHoloLow": 0.09
       }
     }
   },
@@ -5424,7 +5424,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Mantine-SSH52",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.09
@@ -5527,7 +5527,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Keldeo-V-SSH53",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.7,
         "reverseHoloLow": null
@@ -5625,7 +5625,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Sobble-SSH54",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -5733,7 +5733,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Sobble-SSH55",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -5840,7 +5840,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Drizzile-SSH56",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.5
@@ -5949,10 +5949,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Drizzile-SSH57",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.3
+        "reverseHoloLow": 0.29
       }
     }
   },
@@ -6159,10 +6159,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Inteleon-SSH59",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.28
+        "reverseHoloLow": 0.25
       }
     }
   },
@@ -6270,10 +6270,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Chewtle-SSH60",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.03
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -6381,11 +6381,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Night-Stretcher-SFA061",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Drednaw-SSH61",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -6487,10 +6487,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Cramorant-SSH62",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.18
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -6585,7 +6585,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Snom-SSH63",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -6905,10 +6905,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Raichu-SSH66",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 0.8
+        "reverseHoloLow": 0.09
       }
     }
   },
@@ -7004,7 +7004,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Chinchou-SSH67",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -7112,7 +7112,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Chinchou-SSH68",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -7220,10 +7220,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lanturn-SSH69",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.12
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -7318,7 +7318,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Joltik-SSH70",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.03
@@ -7415,10 +7415,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Galvantula-SSH71",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.2
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -7513,9 +7513,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Tapu-Koko-V-SSH72",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.5,
+        "lowPrice": 0.7,
         "reverseHoloLow": null
       }
     }
@@ -7620,7 +7620,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Yamper-SSH73",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -7728,7 +7728,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Yamper-SSH74",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.03
@@ -7836,7 +7836,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Boltund-SSH75",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.13,
         "reverseHoloLow": 0.13
@@ -7940,10 +7940,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Boltund-SSH76",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 0.15
+        "reverseHoloLow": 0.19
       }
     }
   },
@@ -8037,7 +8037,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Pincurchin-SSH77",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -8132,7 +8132,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Morpeko-SSH78",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -8235,7 +8235,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Morpeko-V-V1-SSH79",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.5,
         "reverseHoloLow": null
@@ -8327,11 +8327,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Iono-V1-PAF080",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Morpeko-VMAX-V1-SSH80",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "lowPrice": 1.35,
+        "reverseHoloLow": null
       }
     }
   },
@@ -8432,7 +8432,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Galarian-Ponyta-SSH81",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.09
@@ -8542,10 +8542,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Galarian-Rapidash-SSH82",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
-        "reverseHoloLow": 1.25
+        "lowPrice": 0.5,
+        "reverseHoloLow": 2.99
       }
     }
   },
@@ -8646,10 +8646,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Gastly-SSH83",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.1
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -8761,7 +8761,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Haunter-SSH84",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -8873,10 +8873,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Gengar-SSH85",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.25,
-        "reverseHoloLow": 3.0
+        "reverseHoloLow": 3.99
       }
     }
   },
@@ -8983,9 +8983,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Wobbuffet-V-V1-SSH86",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.5,
+        "lowPrice": 0.49,
         "reverseHoloLow": null
       }
     }
@@ -9097,7 +9097,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Munna-SSH87",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.08
@@ -9211,10 +9211,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Musharna-SSH88",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.2
+        "reverseHoloLow": 0.11
       }
     }
   },
@@ -9315,7 +9315,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Sinistea-SSH89",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -9427,7 +9427,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Polteageist-SSH90",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.15
@@ -9534,7 +9534,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Indeedee-V-V1-SSH91",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.5,
         "reverseHoloLow": null
@@ -9632,10 +9632,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Diglett-SSH92",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.05
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -9728,7 +9728,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Dugtrio-SSH93",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -9835,7 +9835,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Hitmonlee-SSH94",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.15
@@ -9939,11 +9939,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Twilight-Masquerade/Munkidori-V1-TWM095",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Hitmonchan-SSH95",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.3
       }
     }
   },
@@ -10050,7 +10050,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Rhyhorn-SSH96",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -10161,7 +10161,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Rhyhorn-SSH97",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -10277,7 +10277,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Rhydon-SSH98",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -10390,10 +10390,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Rhyperior-SSH99",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.15,
-        "reverseHoloLow": 0.3
+        "reverseHoloLow": 0.25
       }
     }
   },
@@ -10494,10 +10494,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Sudowoodo-SSH100",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.08
+        "reverseHoloLow": 0.2
       }
     }
   },
@@ -10601,8 +10601,8 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Buddy-Buddy-Poffin-PRE101",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Baltoy-SSH101",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -10700,7 +10700,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Baltoy-SSH102",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -10807,7 +10807,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Claydol-SSH103",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -10912,7 +10912,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Regirock-V-SSH104",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.9,
         "reverseHoloLow": null
@@ -11021,7 +11021,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Mudbray-SSH105",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -11120,11 +11120,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Earthen-Vessel-PRE106",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Mudsdale-SSH106",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.2
       }
     }
   },
@@ -11220,7 +11220,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Silicobra-SSH107",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -11328,7 +11328,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Silicobra-SSH108",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -11436,7 +11436,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Sandaconda-SSH109",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -11541,9 +11541,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Sandaconda-SSH110",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.1,
+        "lowPrice": 0.09,
         "reverseHoloLow": 0.17
       }
     }
@@ -11640,7 +11640,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Clobbopus-SSH111",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -11740,7 +11740,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Clobbopus-SSH112",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -11849,10 +11849,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Grapploct-SSH113",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.04,
-        "reverseHoloLow": 0.19
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.25
       }
     }
   },
@@ -11946,7 +11946,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Stonjourner-SSH114",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.07
@@ -12050,7 +12050,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Stonjourner-V-V1-SSH115",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.33,
         "reverseHoloLow": null
@@ -12154,9 +12154,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Stonjourner-VMAX-V1-SSH116",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.99,
+        "lowPrice": 0.94,
         "reverseHoloLow": null
       }
     }
@@ -12260,7 +12260,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Galarian-Zigzagoon-SSH117",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -12371,7 +12371,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Galarian-Linoone-SSH118",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.12
@@ -12476,7 +12476,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Galarian-Obstagoon-V1-SSH119",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.06,
         "reverseHoloLow": 0.09
@@ -12578,9 +12578,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Sableye-V-V1-SSH120",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.6,
+        "lowPrice": 0.5,
         "reverseHoloLow": null
       }
     }
@@ -12688,7 +12688,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Skorupi-SSH121",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.08
@@ -12800,10 +12800,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Drapion-SSH122",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.05,
-        "reverseHoloLow": 0.15
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -12908,7 +12908,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Croagunk-SSH123",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -13013,10 +13013,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Toxicroak-SSH124",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
-        "reverseHoloLow": 0.55
+        "reverseHoloLow": 0.5
       }
     }
   },
@@ -13111,7 +13111,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Nickit-SSH125",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -13218,10 +13218,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Thievul-SSH126",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.03,
-        "reverseHoloLow": 0.19
+        "reverseHoloLow": 0.25
       }
     }
   },
@@ -13332,10 +13332,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Galarian-Meowth-SSH127",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -13444,7 +13444,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Galarian-Perrserker-SSH128",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.45
@@ -13555,7 +13555,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Mawile-SSH129",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -13660,7 +13660,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Ferroseed-SSH130",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -13774,7 +13774,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Ferrothorn-SSH131",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -13884,7 +13884,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Galarian-Stunfisk-SSH132",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -13998,7 +13998,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Pawniard-SSH133",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -14111,7 +14111,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Bisharp-SSH134",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.09
@@ -14225,7 +14225,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Corviknight-SSH135",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.03,
         "reverseHoloLow": 0.15
@@ -14331,11 +14331,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Marnies-Grimmsnarl-ex-DRI136",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Cufant-SSH136",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.5,
-        "reverseHoloLow": null
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
       }
     }
   },
@@ -14449,7 +14449,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Copperajah-SSH137",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.15,
         "reverseHoloLow": 0.3
@@ -14556,7 +14556,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Zacian-V-V1-SSH138",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": null
@@ -14663,7 +14663,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Zamazenta-V-V1-SSH139",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.48,
         "reverseHoloLow": null
@@ -14775,10 +14775,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Snorlax-SSH140",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.69
+        "reverseHoloLow": 0.5
       }
     }
   },
@@ -14883,9 +14883,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Snorlax-V-V1-SSH141",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.0,
+        "lowPrice": 1.35,
         "reverseHoloLow": null
       }
     }
@@ -14979,9 +14979,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Snorlax-VMAX-V1-SSH142",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 4.0,
+        "lowPrice": 5.0,
         "reverseHoloLow": null
       }
     }
@@ -15093,7 +15093,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Hoothoot-SSH143",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -15207,10 +15207,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Noctowl-SSH144",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.19
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -15315,7 +15315,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Minccino-SSH145",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -15413,7 +15413,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Minccino-SSH146",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -15516,10 +15516,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Cinccino-SSH147",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
-        "reverseHoloLow": 0.5
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.3
       }
     }
   },
@@ -15621,10 +15621,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Oranguru-SSH148",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 0.19
+        "reverseHoloLow": 0.4
       }
     }
   },
@@ -15718,7 +15718,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Drampa-SSH149",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.15
@@ -15832,7 +15832,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Rookidee-SSH150",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -15947,7 +15947,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Corvisquire-SSH151",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -16046,7 +16046,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Wooloo-SSH152",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -16155,7 +16155,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Wooloo-SSH153",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -16263,7 +16263,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Dubwool-SSH154",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -16371,7 +16371,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Cramorant-V-V1-SSH155",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.44,
         "reverseHoloLow": null
@@ -16442,7 +16442,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Air-Balloon-V1-SSH156",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.5
@@ -16512,7 +16512,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Bede-V1-SSH157",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -16583,7 +16583,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Big-Charm-SSH158",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.17
@@ -16654,10 +16654,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Crushing-Hammer-SSH159",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.05
+        "reverseHoloLow": 0.25
       }
     }
   },
@@ -16724,11 +16724,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Counter-Catcher-V1-PAR160",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Energy-Retrieval-SSH160",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.9
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -16796,7 +16796,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Energy-Search-SSH161",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -16867,10 +16867,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Energy-Switch-SSH162",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.09
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -16937,7 +16937,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Evolution-Incense-SSH163",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.6
@@ -17008,7 +17008,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Great-Ball-SSH164",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.07
@@ -17078,7 +17078,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Hop-SSH165",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -17147,11 +17147,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Arven-V1-SVI166",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Hyper-Potion-SSH166",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 1.25
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -17219,7 +17219,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lucky-Egg-SSH167",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -17290,7 +17290,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lum-Berry-SSH168",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -17360,7 +17360,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Marnie-V1-SSH169",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.15
@@ -17430,7 +17430,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Metal-Saucer-V1-SSH170",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -17500,10 +17500,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Ordinary-Rod-V1-SSH171",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.15
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -17571,10 +17571,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Pal-Pad-SSH172",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.2
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -17641,7 +17641,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Poke-Kid-SSH173",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -17712,9 +17712,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Pokegear-30-SSH174",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.1,
+        "lowPrice": 0.02,
         "reverseHoloLow": 0.2
       }
     }
@@ -17783,7 +17783,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Pokemon-Catcher-SSH175",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -17853,10 +17853,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Pokemon-Center-Lady-SSH176",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -17924,7 +17924,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Potion-SSH177",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.03
@@ -18137,10 +18137,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Rare-Candy-SSH180",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.05
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -18206,11 +18206,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Scarlet-Violet/Nest-Ball-V1-SVI181",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Rotom-Bike-SSH181",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.08
       }
     }
   },
@@ -18278,7 +18278,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Sitrus-Berry-SSH182",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -18349,7 +18349,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Switch-SSH183",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.03
@@ -18419,10 +18419,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Team-Yell-Grunt-V1-SSH184",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.06
       }
     }
   },
@@ -18491,7 +18491,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Vitality-Band-SSH185",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -18560,10 +18560,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Aurora-Energy-SSH186",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.04
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -18663,7 +18663,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Dhelmise-V-V2-SSH187",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.0,
         "reverseHoloLow": null
@@ -18771,9 +18771,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Torkoal-V-V2-SSH188",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 3.0,
+        "lowPrice": 2.95,
         "reverseHoloLow": null
       }
     }
@@ -18875,7 +18875,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lapras-V-V2-SSH189",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.49,
         "reverseHoloLow": null
@@ -18978,7 +18978,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Morpeko-V-V2-SSH190",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.0,
         "reverseHoloLow": null
@@ -19087,11 +19087,11 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldea-Evolved/Luminous-Energy-PAL191",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Wobbuffet-V-V2-SSH191",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
       }
     }
   },
@@ -19195,7 +19195,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Indeedee-V-V2-SSH192",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.99,
         "reverseHoloLow": null
@@ -19299,9 +19299,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Stonjourner-V-V2-SSH193",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.49,
+        "lowPrice": 1.35,
         "reverseHoloLow": null
       }
     }
@@ -19401,7 +19401,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Sableye-V-V2-SSH194",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.5,
         "reverseHoloLow": null
@@ -19508,9 +19508,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Zacian-V-V2-SSH195",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 3.48,
+        "lowPrice": 3.25,
         "reverseHoloLow": null
       }
     }
@@ -19615,7 +19615,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Zamazenta-V-V2-SSH196",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.0,
         "reverseHoloLow": null
@@ -19723,7 +19723,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Snorlax-V-V2-SSH197",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 4.99,
         "reverseHoloLow": null
@@ -19831,9 +19831,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Cramorant-V-V2-SSH198",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 2.95,
+        "lowPrice": 2.9,
         "reverseHoloLow": null
       }
     }
@@ -19894,7 +19894,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Bede-V2-SSH199",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.0,
         "reverseHoloLow": null
@@ -19957,7 +19957,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Marnie-V2-SSH200",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 17.0,
         "reverseHoloLow": null
@@ -20021,7 +20021,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Professors-Research-Professor-Magnolia-V2-SSH201",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.0,
         "reverseHoloLow": null
@@ -20084,9 +20084,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Team-Yell-Grunt-V2-SSH202",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 3.0,
+        "lowPrice": 3.16,
         "reverseHoloLow": null
       }
     }
@@ -20179,7 +20179,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lapras-VMAX-V2-SSH203",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 9.97,
         "reverseHoloLow": null
@@ -20272,7 +20272,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Morpeko-VMAX-V2-SSH204",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 5.0,
         "reverseHoloLow": null
@@ -20376,7 +20376,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Stonjourner-VMAX-V2-SSH205",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.98,
         "reverseHoloLow": null
@@ -20472,7 +20472,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Snorlax-VMAX-V2-SSH206",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 19.95,
         "reverseHoloLow": null
@@ -20535,7 +20535,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Bede-V3-SSH207",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.0,
         "reverseHoloLow": null
@@ -20598,9 +20598,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Marnie-V3-SSH208",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 7.99,
+        "lowPrice": 7.94,
         "reverseHoloLow": null
       }
     }
@@ -20662,9 +20662,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Professors-Research-Professor-Magnolia-V3-SSH209",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 3.99,
+        "lowPrice": 4.2,
         "reverseHoloLow": null
       }
     }
@@ -20725,7 +20725,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Team-Yell-Grunt-V3-SSH210",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.5,
         "reverseHoloLow": null
@@ -20832,9 +20832,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Zacian-V-V3-SSH211",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 10.0,
+        "lowPrice": 9.5,
         "reverseHoloLow": null
       }
     }
@@ -20939,7 +20939,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Zamazenta-V-V3-SSH212",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 8.99,
         "reverseHoloLow": null
@@ -21003,7 +21003,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Air-Balloon-V2-SSH213",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 4.0,
         "reverseHoloLow": null
@@ -21066,9 +21066,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Metal-Saucer-V2-SSH214",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 2.95,
+        "lowPrice": 3.0,
         "reverseHoloLow": null
       }
     }
@@ -21129,7 +21129,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Ordinary-Rod-V2-SSH215",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.0,
         "reverseHoloLow": null
@@ -21193,9 +21193,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Quick-Ball-V2-SSH216",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 6.13,
+        "lowPrice": 5.49,
         "reverseHoloLow": null
       }
     }
@@ -21314,10 +21314,782 @@
       }
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Rillaboom-V2-SSH14",
-      "updatedAt": "2025-08-08",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Rillaboom-V1-SSH14",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.07,
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
+    }
+  },
+  {
+    "id": "swsh1-promo-34",
+    "name": "Cinderace  (SSH 34) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "170",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Raboot",
+    "abilities": [
+      {
+        "name": "Libero",
+        "text": "Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may attach up to 2 Fire Energy cards from your discard pile to it.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Flare Striker",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "190",
+        "text": "Discard 2 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "34",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "It's skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
+    "nationalPokedexNumbers": [
+      815
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/34.png",
+      "large": "https://images.pokemontcg.io/swsh1/34_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh1-34",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.14,
+          "mid": 0.39,
+          "high": 5.95,
+          "market": 0.39,
+          "directLow": 0.25
+        },
+        "reverseHolofoil": {
+          "low": 0.34,
+          "mid": 0.47,
+          "high": 5.85,
+          "market": 0.42,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Cinderace-V1-SSH34",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
+    }
+  },
+  {
+    "id": "swsh1-promo-58",
+    "name": "Inteleon  (SSH 58) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Drizzile",
+    "abilities": [
+      {
+        "name": "Shady Dealings",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Aqua Bullet",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "120",
+        "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "58",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.",
+    "nationalPokedexNumbers": [
+      818
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/58.png",
+      "large": "https://images.pokemontcg.io/swsh1/58_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh1-58",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.2,
+          "mid": 0.46,
+          "high": 6.0,
+          "market": 0.41,
+          "directLow": 0.35
+        },
+        "reverseHolofoil": {
+          "low": 0.25,
+          "mid": 0.99,
+          "high": 8.99,
+          "market": 1.0,
+          "directLow": 0.6
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Inteleon-V1-SSH58",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.2
+      }
+    }
+  },
+  {
+    "id": "swsh1-promo-64",
+    "name": "Frosmoth  (SSH 64) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Snom",
+    "abilities": [
+      {
+        "name": "Ice Dance",
+        "text": "As often as you like during your turn, you may attach a Water Energy card from your hand to 1 of your Benched Water Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Aurora Beam",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Metal",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "64",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away.",
+    "nationalPokedexNumbers": [
+      873
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/64.png",
+      "large": "https://images.pokemontcg.io/swsh1/64_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh1-64",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 0.01,
+          "mid": 0.39,
+          "high": 4.95,
+          "market": 0.35,
+          "directLow": null
+        },
+        "reverseHolofoil": {
+          "low": 0.27,
+          "mid": 0.45,
+          "high": 4.95,
+          "market": 0.4,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Frosmoth-V1-SSH64",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": 0.1
+      }
+    }
+  },
+  {
+    "id": "swsh1-promo-48",
+    "name": "Lapras  (SSH 048) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Water"
+    ],
+    "attacks": [
+      {
+        "name": "Aqua Wash",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "70",
+        "text": "You may put 2 Energy attached to your opponent's Active Pokémon into their hand."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "48",
+    "artist": "Kazuma Koda",
+    "rarity": "Promo",
+    "flavorText": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
+    "nationalPokedexNumbers": [
+      131
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/48.png",
+      "large": "https://images.pokemontcg.io/swsh1/48_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh1-48",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.3,
+          "mid": 0.5,
+          "high": 4.95,
+          "market": 0.45,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 89.0,
+          "market": 0.23,
+          "directLow": 0.22
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lapras-V1-SSH48",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.25
+      }
+    }
+  },
+  {
+    "id": "swsh1-promo-65",
+    "name": "Pikachu  (SSH 065) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesTo": [
+      "Raichu"
+    ],
+    "attacks": [
+      {
+        "name": "Charge",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Search your deck for a Lightning Energy card and attach it to this Pokémon. Then, shuffle your deck."
+      },
+      {
+        "name": "Electro Ball",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "65",
+    "artist": "Ryuta Fuse",
+    "rarity": "Promo",
+    "flavorText": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+    "nationalPokedexNumbers": [
+      25
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/65.png",
+      "large": "https://images.pokemontcg.io/swsh1/65_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh1-65",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 89.0,
+          "market": 0.23,
+          "directLow": 0.18
+        },
+        "reverseHolofoil": {
+          "low": 0.33,
+          "mid": 0.74,
+          "high": 5.98,
+          "market": 0.75,
+          "directLow": 0.79
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Pikachu-V1-SSH65",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
+    }
+  },
+  {
+    "id": "swsh1-promo-178",
+    "name": "Professor's Research - Professor Magnolia (SSH 178) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Discard your hand and draw 7 cards.",
+      "You may play only 1 Supporter card during your turn."
+    ],
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "178",
+    "artist": "Yusuke Ohmura",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "standard": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/178.png",
+      "large": "https://images.pokemontcg.io/swsh1/178_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh1-178",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.15,
+          "mid": 0.34,
+          "high": 4.95,
+          "market": 0.32,
+          "directLow": 0.25
+        },
+        "holofoil": {
+          "low": 0.09,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Professors-Research-Professor-Magnolia-V1-SSH178",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
+      }
+    }
+  },
+  {
+    "id": "swsh1-promo-179",
+    "name": "Quick Ball (SSH 179) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "You can play this card only if you discard another card from your hand.",
+      "Search your deck for a Basic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play any number of Item cards during your turn."
+    ],
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "179",
+    "artist": "sadaji",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/179.png",
+      "large": "https://images.pokemontcg.io/swsh1/179_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh1-179",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.13,
+          "mid": 0.5,
+          "high": 5.99,
+          "market": 0.64,
+          "directLow": null
+        },
+        "normal": {
+          "low": 0.05,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": 0.15
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Quick-Ball-V1-SSH179",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.07
+      }
+    }
+  },
+  {
+    "id": "swsh1-promo-14",
+    "name": "Rillaboom  (SSH 14) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "170",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Thwackey",
+    "abilities": [
+      {
+        "name": "Voltage Beat",
+        "text": "Once during your turn, you may search your deck for up to 2 Grass Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Hammer In",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "140",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "series": "Sword & Shield",
+      "printedTotal": 202,
+      "total": 216,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "SSH",
+      "releaseDate": "2020/02/07",
+      "updatedAt": "2020/08/14 09:35:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
+        "logo": "https://images.pokemontcg.io/swsh1/logo.png"
+      }
+    },
+    "number": "14",
+    "artist": "Anesaki Dynamic",
+    "rarity": "Promo",
+    "flavorText": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
+    "nationalPokedexNumbers": [
+      812
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "regulationMark": "D",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh1/14.png",
+      "large": "https://images.pokemontcg.io/swsh1/14_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/swsh1-14",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "reverseHolofoil": {
+          "low": 0.1,
+          "mid": 0.44,
+          "high": 4.95,
+          "market": 0.49,
+          "directLow": null
+        },
+        "holofoil": {
+          "low": 0.05,
+          "mid": 0.25,
+          "high": 4.95,
+          "market": 0.21,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Rillaboom-V2-SSH14",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.05,
         "reverseHoloLow": null
       }
     }
@@ -21420,9 +22192,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Cinderace-V2-SSH34",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.1,
+        "lowPrice": 0.05,
         "reverseHoloLow": null
       }
     }
@@ -21524,9 +22296,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Inteleon-V2-SSH58",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.1,
+        "lowPrice": 0.05,
         "reverseHoloLow": null
       }
     }
@@ -21629,7 +22401,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Frosmoth-V2-SSH64",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.45,
         "reverseHoloLow": null
@@ -21729,7 +22501,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Lapras-V2-SSH048",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": null
@@ -21837,7 +22609,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Pikachu-V2-SSH065",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 4.0,
         "reverseHoloLow": null
@@ -21908,7 +22680,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Professors-Research-Professor-Magnolia-V4-SSH178",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 6.49,
         "reverseHoloLow": null
@@ -21979,9 +22751,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Quick-Ball-V3-SSH179",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.3,
+        "lowPrice": 1.25,
         "reverseHoloLow": null
       }
     }

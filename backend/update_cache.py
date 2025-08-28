@@ -37,7 +37,8 @@ def scrape_overview_prices(set_url_base: str, max_pages: int = 20) -> dict:
 
     for page in range(1, max_pages + 1):
         url = f"{set_url_base}&site={page}"
-        print(f"Scraping: {url}")
+        if page == 1:
+            print(f"Scraping: {url}")
 
         html = scrape_with_playwright_sync(url, engine="playwright-stealth", headless=True)
         soup = BeautifulSoup(html, "html.parser")
@@ -101,7 +102,7 @@ def scrape_overview_prices(set_url_base: str, max_pages: int = 20) -> dict:
 def update_single_set_from_overview(set_id, mapped_set_name):
     print(f"\n=== Aktualisiere Set: {set_id} → {mapped_set_name} ===")
 
-    cards = load_cards_from_old_cache(set_id)
+    cards = load_cards_from_old_cache(set_id, base_path="../cache")
     updated_at = datetime.now().strftime("%Y-%m-%d")
     set_url_base = f"https://www.cardmarket.com/en/Pokemon/Products/Singles/{mapped_set_name}?idRarity=0&sortBy=collectorsnumber_asc"
     overview_data = scrape_overview_prices(set_url_base)

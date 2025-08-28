@@ -313,9 +313,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Pikachu-V1-CEL005",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.5,
+        "lowPrice": 0.8,
         "reverseHoloLow": null
       }
     }
@@ -2063,6 +2063,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/34.png",
       "large": "https://images.pokemontcg.io/bw4/34_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-Bolt/Zekrom-ex-V1-BLK033",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -2748,6 +2756,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/45.png",
       "large": "https://images.pokemontcg.io/bw4/45_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Jellicent-ex-V1-WHT045",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -3692,10 +3708,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Night-Stretcher-SFA061",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -4069,6 +4085,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/67.png",
       "large": "https://images.pokemontcg.io/bw4/67_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-Bolt/Genesect-ex-V1-BLK067",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": null
+      }
     }
   },
   {
@@ -4841,6 +4865,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/79.png",
       "large": "https://images.pokemontcg.io/bw4/79_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-Bolt/Air-Balloon-BLK079",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
     }
   },
   {
@@ -4904,8 +4936,8 @@
       "large": "https://images.pokemontcg.io/bw4/80_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Iono-V1-PAF080",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Brave-Bangle-WHT080",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -5165,6 +5197,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/84.png",
       "large": "https://images.pokemontcg.io/bw4/84_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Hilda-V1-WHT084",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.89
+      }
     }
   },
   {
@@ -5246,6 +5286,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/bw4/86.png",
       "large": "https://images.pokemontcg.io/bw4/86_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Black-Bolt/Prism-Energy-BLK086",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
     }
   },
   {
@@ -5943,7 +5991,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Buddy-Buddy-Poffin-PRE101",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -6181,6 +6229,74 @@
       "updatedAt": "2025-08-08",
       "prices": {
         "lowPrice": 3.89,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bw4-promo-20",
+    "name": "Pikachu  (M-P 020) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Lampent",
+    "attacks": [
+      {
+        "name": "Flame Burst",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30",
+        "text": "Does 30 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      },
+      {
+        "name": "Inferno",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "80",
+        "text": "Discard all Energy attached to this Pokémon. The Defending Pokémon is now Burned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "20",
+    "artist": "5ban Graphics",
+    "rarity": "Promo",
+    "flavorText": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+    "nationalPokedexNumbers": [
+      609
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/bw4/20.png",
+      "large": "https://images.pokemontcg.io/bw4/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/M-P-Promos/Pikachu-M-P020",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 27.95,
         "reverseHoloLow": null
       }
     }

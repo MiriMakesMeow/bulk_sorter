@@ -77,10 +77,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Aggron-PK1",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.0,
-        "reverseHoloLow": 2.0
+        "reverseHoloLow": 2.45
       }
     }
   },
@@ -161,7 +161,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Altaria-PK2",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.0,
         "reverseHoloLow": 1.0
@@ -229,7 +229,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Armaldo-PK3",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.5,
         "reverseHoloLow": 2.2
@@ -302,9 +302,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Banette-PK4",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.99,
+        "lowPrice": 0.5,
         "reverseHoloLow": 1.99
       }
     }
@@ -367,9 +367,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Blaziken-PK5",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.0,
+        "lowPrice": 0.98,
         "reverseHoloLow": 2.0
       }
     }
@@ -435,7 +435,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Charizard-PK6",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 10.0,
         "reverseHoloLow": 10.0
@@ -500,7 +500,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Cradily-PK7",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.3,
         "reverseHoloLow": 0.64
@@ -562,10 +562,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Delcatty-PK8",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 1.5
+        "reverseHoloLow": 1.49
       }
     }
   },
@@ -625,9 +625,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Gardevoir-PK9",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.25,
+        "lowPrice": 0.3,
         "reverseHoloLow": 1.5
       }
     }
@@ -700,7 +700,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Kabutops-PK10",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.8,
         "reverseHoloLow": 2.5
@@ -776,10 +776,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Machamp-PK11",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.5,
-        "reverseHoloLow": 1.95
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.5
       }
     }
   },
@@ -842,7 +842,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Raichu-PK12",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.0,
         "reverseHoloLow": 3.95
@@ -909,7 +909,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Slaking-PK13",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.95,
         "reverseHoloLow": 0.99
@@ -986,7 +986,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Dusclops-PK14",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.25
@@ -1051,7 +1051,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Lanturn-PK15",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.09,
         "reverseHoloLow": 1.0
@@ -1123,9 +1123,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Magneton-PK16",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.14,
+        "lowPrice": 0.15,
         "reverseHoloLow": 1.0
       }
     }
@@ -1193,7 +1193,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Mawile-PK17",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": 1.5
@@ -1262,9 +1262,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Mightyena-PK18",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.04,
+        "lowPrice": 0.03,
         "reverseHoloLow": 0.2
       }
     }
@@ -1336,10 +1336,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Ninetales-PK19",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.15,
-        "reverseHoloLow": 3.0
+        "lowPrice": 0.1,
+        "reverseHoloLow": 3.4
       }
     }
   },
@@ -1402,10 +1402,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Omastar-PK20",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.49
+        "reverseHoloLow": 0.39
       }
     }
   },
@@ -1466,7 +1466,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Pichu-PK21",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.45,
         "reverseHoloLow": 3.0
@@ -1537,7 +1537,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Sableye-PK22",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 1.0
@@ -1602,7 +1602,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Seviper-PK23",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -1666,7 +1666,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Wobbuffet-PK24",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.09,
         "reverseHoloLow": 0.5
@@ -1737,10 +1737,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Zangoose-PK25",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 1.5
+        "reverseHoloLow": 0.99
       }
     }
   },
@@ -1803,7 +1803,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Anorith-PK26",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -1873,9 +1873,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Cacturne-PK27",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
+        "lowPrice": 0.05,
         "reverseHoloLow": 1.0
       }
     }
@@ -1942,10 +1942,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Charmeleon-PK28",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 2.99
+        "reverseHoloLow": 3.5
       }
     }
   },
@@ -2008,7 +2008,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Combusken-PK29",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.04,
         "reverseHoloLow": 1.0
@@ -2082,7 +2082,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Glalie-PK30",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.99
@@ -2151,10 +2151,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Kirlia-PK31",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.05
+        "reverseHoloLow": 1.25
       }
     }
   },
@@ -2228,7 +2228,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Lairon-PK32",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -2297,7 +2297,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Machoke-PK33",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -2371,10 +2371,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Medicham-PK34",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 0.5
+        "reverseHoloLow": 1.0
       }
     }
   },
@@ -2444,7 +2444,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Metang-PK35",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.5
@@ -2519,7 +2519,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Nuzleaf-PK36",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.45
@@ -2578,7 +2578,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Sealeo-PK37",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.99
@@ -2647,10 +2647,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Sharpedo-PK38",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 1.2
+        "reverseHoloLow": 1.5
       }
     }
   },
@@ -2728,9 +2728,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Shelgon-PK39",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.05,
+        "lowPrice": 0.08,
         "reverseHoloLow": 0.8
       }
     }
@@ -2808,7 +2808,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Vibrava-PK40",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.5
@@ -2874,7 +2874,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Vigoroth-PK41",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -2948,7 +2948,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Aron-PK42",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.25
@@ -3015,10 +3015,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Bagon-PK43",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.5
+        "reverseHoloLow": 0.49
       }
     }
   },
@@ -3082,7 +3082,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Baltoy-PK44",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.99
@@ -3146,7 +3146,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Beldum-PK45",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.95
@@ -3203,7 +3203,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Cacnea-PK46",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.35
@@ -3274,7 +3274,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Carvanha-PK47",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.3
@@ -3331,7 +3331,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Charmander-PK48",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 4.95
@@ -3398,7 +3398,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Chinchou-PK49",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.99
@@ -3462,7 +3462,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Duskull-PK50",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.8
@@ -3531,10 +3531,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Kabuto-PK51",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.03,
-        "reverseHoloLow": 1.0
+        "reverseHoloLow": 1.5
       }
     }
   },
@@ -3602,10 +3602,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Lileep-PK52",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 1.5
+        "reverseHoloLow": 1.0
       }
     }
   },
@@ -3669,7 +3669,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Machop-PK53",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.5
@@ -3742,10 +3742,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Magnemite-PK54",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 1.0
+        "reverseHoloLow": 0.99
       }
     }
   },
@@ -3808,7 +3808,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Meditite-PK55",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.4
@@ -3876,10 +3876,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Omanyte-PK56",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 1.28
+        "reverseHoloLow": 0.98
       }
     }
   },
@@ -3943,7 +3943,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Pikachu-PK57",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.2,
         "reverseHoloLow": 7.5
@@ -4006,7 +4006,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Poochyena-PK58",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.5
@@ -4073,7 +4073,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Ralts-PK59",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.4
@@ -4140,7 +4140,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Seedot-PK60",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.98
@@ -4203,7 +4203,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Shuppet-PK61",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.75
@@ -4270,7 +4270,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Skitty-PK62",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.8
@@ -4336,10 +4336,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Slakoth-PK63",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.5
       }
     }
   },
@@ -4404,7 +4404,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Snorunt-PK64",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.45
@@ -4471,7 +4471,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Spheal-PK65",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.49
@@ -4534,7 +4534,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Swablu-PK66",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.75
@@ -4591,7 +4591,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Torchic-PK67",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.99
@@ -4648,7 +4648,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Trapinch-PK68",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.75
@@ -4715,7 +4715,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Vulpix-PK69",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 2.9
@@ -4779,7 +4779,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Wynaut-PK70",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.04,
         "reverseHoloLow": 1.49
@@ -4809,7 +4809,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Battle-Frontier-PK71",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.2,
         "reverseHoloLow": 1.5
@@ -4839,7 +4839,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Drakes-Stadium-PK72",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.2
@@ -4869,7 +4869,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Energy-Recycle-System-PK73",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.75
@@ -4898,7 +4898,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Energy-Removal-2-PK74",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -4929,10 +4929,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Energy-Switch-PK75",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.49
+        "reverseHoloLow": 0.5
       }
     }
   },
@@ -4959,7 +4959,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Glacias-Stadium-PK76",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.9
@@ -4990,7 +4990,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Great-Ball-PK77",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.79
@@ -5019,10 +5019,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Master-Ball-PK78",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.04
+        "reverseHoloLow": 0.45
       }
     }
   },
@@ -5049,7 +5049,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Phoebes-Stadium-PK79",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.69
@@ -5079,7 +5079,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Professor-Birch-PK80",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.99
@@ -5109,10 +5109,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Scott-PK81",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 1.39
+        "reverseHoloLow": 0.99
       }
     }
   },
@@ -5139,7 +5139,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Sidneys-Stadium-PK82",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.4
@@ -5170,7 +5170,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Stevens-Advice-PK83",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.15,
         "reverseHoloLow": 0.4
@@ -5207,7 +5207,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Claw-Fossil-PK84",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -5237,7 +5237,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Mysterious-Fossil-PK85",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.15
@@ -5274,10 +5274,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Root-Fossil-PK86",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.49
+        "reverseHoloLow": 0.45
       }
     }
   },
@@ -5303,7 +5303,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Darkness-Energy-PK87",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -5332,9 +5332,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Metal-Energy-PK88",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
+        "lowPrice": 0.08,
         "reverseHoloLow": 0.12
       }
     }
@@ -5361,10 +5361,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Multi-Energy-PK89",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.1,
-        "reverseHoloLow": 0.95
+        "lowPrice": 0.09,
+        "reverseHoloLow": 0.99
       }
     }
   },
@@ -5390,7 +5390,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Cyclone-Energy-PK90",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": 0.49
@@ -5420,7 +5420,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Warp-Energy-PK91",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.44
@@ -5492,7 +5492,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Absol-ex-PK92",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 10.0,
         "reverseHoloLow": null
@@ -5571,9 +5571,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Claydol-ex-PK93",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 5.0,
+        "lowPrice": 5.5,
         "reverseHoloLow": null
       }
     }
@@ -5645,9 +5645,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Flygon-ex-PK94",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 12.95,
+        "lowPrice": 10.0,
         "reverseHoloLow": null
       }
     }
@@ -5722,9 +5722,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Metagross-ex-PK95",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 12.5,
+        "lowPrice": 15.0,
         "reverseHoloLow": null
       }
     }
@@ -5807,9 +5807,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Salamence-ex-PK96",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 11.0,
+        "lowPrice": 10.0,
         "reverseHoloLow": null
       }
     }
@@ -5883,7 +5883,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Shiftry-ex-PK97",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 4.99,
         "reverseHoloLow": null
@@ -5966,9 +5966,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Skarmory-ex-PK98",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 6.0,
+        "lowPrice": 4.75,
         "reverseHoloLow": null
       }
     }
@@ -6036,9 +6036,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Walrein-ex-PK99",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 4.89,
+        "lowPrice": 4.99,
         "reverseHoloLow": null
       }
     }
@@ -6103,10 +6103,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Flareon-Gold-Star-PK100",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 225.0,
-        "reverseHoloLow": 650.0
+        "lowPrice": 349.99,
+        "reverseHoloLow": null
       }
     }
   },
@@ -6176,10 +6176,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Jolteon-Gold-Star-PK101",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 95.0,
-        "reverseHoloLow": 450.0
+        "lowPrice": 89.99,
+        "reverseHoloLow": 449.99
       }
     }
   },
@@ -6243,9 +6243,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Vaporeon-Gold-Star-PK102",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 364.99,
+        "lowPrice": 349.99,
         "reverseHoloLow": null
       }
     }
@@ -6270,7 +6270,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Grass-Energy-PK103",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.5,
         "reverseHoloLow": 1.0
@@ -6297,10 +6297,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Fire-Energy-PK104",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.45,
-        "reverseHoloLow": 0.48
+        "reverseHoloLow": 0.5
       }
     }
   },
@@ -6324,7 +6324,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Water-Energy-PK105",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.6,
         "reverseHoloLow": 0.6
@@ -6351,7 +6351,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Lightning-Energy-PK106",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.3,
         "reverseHoloLow": 0.6
@@ -6378,7 +6378,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Psychic-Energy-PK107",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.5,
         "reverseHoloLow": 0.5
@@ -6405,7 +6405,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Power-Keepers/Fighting-Energy-PK108",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.2,
         "reverseHoloLow": 0.2

@@ -102,7 +102,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Venusaur-EX-EVO1",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.0,
         "reverseHoloLow": null
@@ -200,7 +200,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MVenusaur-EX-EVO2",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.5,
         "reverseHoloLow": null
@@ -298,7 +298,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Caterpie-EVO3",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -409,7 +409,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Metapod-EVO4",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -507,7 +507,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Weedle-EVO5",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -618,7 +618,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Kakuna-EVO6",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -720,7 +720,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Beedrill-EVO7",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.19
@@ -831,7 +831,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Tangela-EVO8",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -1051,7 +1051,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Charmeleon-EVO10",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -1273,9 +1273,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Charizard-EX-EVO12",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 3.0,
+        "lowPrice": 4.0,
         "reverseHoloLow": null
       }
     }
@@ -1369,9 +1369,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MCharizard-EX-EVO13",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 9.0,
+        "lowPrice": 10.0,
         "reverseHoloLow": null
       }
     }
@@ -1468,10 +1468,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Vulpix-EVO14",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.1
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -1575,10 +1575,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Ninetales-EVO15",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.0,
-        "reverseHoloLow": 1.45
+        "lowPrice": 1.25,
+        "reverseHoloLow": 2.0
       }
     }
   },
@@ -1656,10 +1656,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Ninetales-BREAK-EVO16",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.5,
-        "reverseHoloLow": 1.0
+        "lowPrice": 0.9,
+        "reverseHoloLow": 1.7
       }
     }
   },
@@ -1765,7 +1765,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Growlithe-EVO17",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -1872,7 +1872,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Arcanine-EVO18",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -1981,7 +1981,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Ponyta-EVO19",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -2092,7 +2092,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Magmar-EVO20",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.08
@@ -2199,9 +2199,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Blastoise-EX-EVO21",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.75,
+        "lowPrice": 2.0,
         "reverseHoloLow": null
       }
     }
@@ -2295,9 +2295,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MBlastoise-EX-EVO22",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 2.0,
+        "lowPrice": 2.99,
         "reverseHoloLow": null
       }
     }
@@ -2394,7 +2394,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Poliwag-EVO23",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -2506,7 +2506,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Poliwhirl-EVO24",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -2614,10 +2614,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Poliwrath-EVO25",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.7,
-        "reverseHoloLow": 0.79
+        "reverseHoloLow": 1.0
       }
     }
   },
@@ -2721,7 +2721,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Slowbro-EX-EVO26",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.5,
         "reverseHoloLow": null
@@ -2817,7 +2817,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MSlowbro-EX-EVO27",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.0,
         "reverseHoloLow": null
@@ -2926,10 +2926,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Seel-EVO28",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.05
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -3035,10 +3035,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Dewgong-EVO29",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.05
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -3133,7 +3133,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Staryu-EVO30",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -3237,7 +3237,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Starmie-EVO31",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.5
@@ -3317,10 +3317,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Starmie-BREAK-EVO32",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.4,
-        "reverseHoloLow": 2.97
+        "reverseHoloLow": 4.95
       }
     }
   },
@@ -3415,7 +3415,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Magikarp-EVO33",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.06
@@ -3641,10 +3641,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Pikachu-EVO35",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.03
       }
     }
   },
@@ -3754,9 +3754,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Raichu-EVO36",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.99,
+        "lowPrice": 0.95,
         "reverseHoloLow": 1.99
       }
     }
@@ -3868,10 +3868,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Magnemite-EVO37",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.03
       }
     }
   },
@@ -3985,10 +3985,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Magneton-EVO38",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.45,
-        "reverseHoloLow": 0.95
+        "reverseHoloLow": 0.9
       }
     }
   },
@@ -4089,7 +4089,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Voltorb-EVO39",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.09
@@ -4200,10 +4200,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Electrode-EVO40",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.15
+        "reverseHoloLow": 0.2
       }
     }
   },
@@ -4315,7 +4315,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Electabuzz-EVO41",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -4426,10 +4426,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Zapdos-EVO42",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.8,
-        "reverseHoloLow": 0.8
+        "lowPrice": 1.0,
+        "reverseHoloLow": 1.5
       }
     }
   },
@@ -4524,7 +4524,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Nidoran-EVO43",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -4635,7 +4635,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Nidorino-EVO44",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -4745,7 +4745,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Nidoking-EVO45",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.4,
         "reverseHoloLow": 1.99
@@ -4827,7 +4827,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Nidoking-BREAK-EVO46",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.5,
         "reverseHoloLow": 1.5
@@ -4941,7 +4941,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Gastly-EVO47",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -5056,7 +5056,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Haunter-EVO48",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -5164,10 +5164,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Drowzee-EVO49",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.05
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -5263,10 +5263,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Koffing-EVO50",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.09
+        "reverseHoloLow": 0.08
       }
     }
   },
@@ -5485,9 +5485,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mewtwo-EX-V1-EVO52",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.9,
+        "lowPrice": 3.0,
         "reverseHoloLow": null
       }
     }
@@ -5686,7 +5686,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Sandshrew-EVO54",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -5792,7 +5792,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Diglett-EVO55",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -5900,7 +5900,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Dugtrio-EVO56",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -6000,7 +6000,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Machop-EVO57",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -6112,7 +6112,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Machoke-EVO58",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -6300,9 +6300,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Machamp-BREAK-EVO60",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.5,
+        "lowPrice": 0.45,
         "reverseHoloLow": 1.99
       }
     }
@@ -6410,7 +6410,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Onix-EVO61",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -6517,10 +6517,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Hitmonchan-EVO62",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.09,
-        "reverseHoloLow": 0.25
+        "reverseHoloLow": 0.8
       }
     }
   },
@@ -6632,10 +6632,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Clefairy-EVO63",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.5,
-        "reverseHoloLow": 0.5
+        "lowPrice": 0.8,
+        "reverseHoloLow": 0.8
       }
     }
   },
@@ -6742,7 +6742,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Pidgeot-EX-EVO64",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.5,
         "reverseHoloLow": null
@@ -6838,7 +6838,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MPidgeot-EX-EVO65",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.0,
         "reverseHoloLow": null
@@ -6943,7 +6943,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Rattata-EVO66",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.08
@@ -7048,10 +7048,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Raticate-EVO67",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.5
+        "reverseHoloLow": 0.25
       }
     }
   },
@@ -7163,7 +7163,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Farfetchd-EVO68",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.15
@@ -7267,7 +7267,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Doduo-EVO69",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.03
@@ -7380,9 +7380,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Chansey-EVO70",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.0,
+        "lowPrice": 0.8,
         "reverseHoloLow": 1.0
       }
     }
@@ -7478,7 +7478,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Porygon-EVO71",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -7586,9 +7586,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Dragonite-EX-V1-EVO72",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.0,
+        "lowPrice": 1.5,
         "reverseHoloLow": null
       }
     }
@@ -7656,10 +7656,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Blastoise-Spirit-Link-EVO73",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.1
+        "reverseHoloLow": 0.19
       }
     }
   },
@@ -7725,7 +7725,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Brocks-Grit-EVO74",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -7795,10 +7795,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Charizard-Spirit-Link-EVO75",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.1
+        "reverseHoloLow": 0.7
       }
     }
   },
@@ -7864,7 +7864,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Devolution-Spray-EVO76",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -7934,7 +7934,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Energy-Retrieval-EVO77",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -8003,7 +8003,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Full-Heal-EVO78",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.09
@@ -8072,7 +8072,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Maintenance-EVO79",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.2
@@ -8141,7 +8141,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mistys-Determination-V1-EVO80",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -8211,7 +8211,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Pidgeot-Spirit-Link-EVO81",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -8280,7 +8280,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Pokedex-EVO82",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.4
@@ -8350,7 +8350,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Potion-EVO83",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -8419,7 +8419,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Professor-Oaks-Hint-EVO84",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -8488,7 +8488,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Revive-EVO85",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -8558,7 +8558,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Slowbro-Spirit-Link-EVO86",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -8627,7 +8627,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Super-Potion-EVO87",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.08
@@ -8697,7 +8697,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Switch-EVO88",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -8767,10 +8767,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Venusaur-Spirit-Link-EVO89",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.15
+        "reverseHoloLow": 0.25
       }
     }
   },
@@ -8900,7 +8900,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Grass-Energy-EVO91",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.12
@@ -8965,10 +8965,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Fire-Energy-EVO92",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.95
+        "reverseHoloLow": 0.8
       }
     }
   },
@@ -9030,10 +9030,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Water-Energy-EVO93",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.15
+        "reverseHoloLow": 0.5
       }
     }
   },
@@ -9095,7 +9095,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Lightning-Energy-EVO94",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.6
@@ -9160,7 +9160,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Psychic-Energy-EVO95",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -9225,7 +9225,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Fighting-Energy-EVO96",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.25
@@ -9290,10 +9290,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Darkness-Energy-EVO97",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 0.99
+        "reverseHoloLow": 1.3
       }
     }
   },
@@ -9355,10 +9355,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Metal-Energy-EVO98",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
-        "reverseHoloLow": 0.3
+        "reverseHoloLow": 0.71
       }
     }
   },
@@ -9419,7 +9419,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Fairy-Energy-EVO99",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.2
@@ -9517,9 +9517,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MVenusaur-EX-EVO100",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 2.0,
+        "lowPrice": 4.41,
         "reverseHoloLow": null
       }
     }
@@ -9613,9 +9613,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MCharizard-EX-EVO101",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 24.99,
+        "lowPrice": 22.85,
         "reverseHoloLow": null
       }
     }
@@ -9709,7 +9709,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MBlastoise-EX-EVO102",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 8.99,
         "reverseHoloLow": null
@@ -9824,7 +9824,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mewtwo-EX-V2-EVO103",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 6.0,
         "reverseHoloLow": null
@@ -9934,9 +9934,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Pidgeot-EX-EVO104",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 2.5,
+        "lowPrice": 1.5,
         "reverseHoloLow": null
       }
     }
@@ -10030,7 +10030,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/MPidgeot-EX-EVO105",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.0,
         "reverseHoloLow": null
@@ -10138,9 +10138,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Dragonite-EX-V2-EVO106",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 5.0,
+        "lowPrice": 6.0,
         "reverseHoloLow": null
       }
     }
@@ -10200,7 +10200,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Brocks-Grit-EVO107",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.5,
         "reverseHoloLow": null
@@ -10262,9 +10262,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mistys-Determination-V2-EVO108",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 4.99,
+        "lowPrice": 5.0,
         "reverseHoloLow": null
       }
     }
@@ -10352,9 +10352,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Exeggutor-EVO109",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.3,
+        "lowPrice": 0.39,
         "reverseHoloLow": null
       }
     }
@@ -10454,9 +10454,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Flying-Pikachu-EVO110",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.9,
+        "lowPrice": 0.99,
         "reverseHoloLow": null
       }
     }
@@ -10546,9 +10546,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Surfing-Pikachu-EVO111",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 2.9,
+        "lowPrice": 1.25,
         "reverseHoloLow": null
       }
     }
@@ -10645,7 +10645,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Imakunis-Doduo-EVO112",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.2,
         "reverseHoloLow": null
@@ -10707,7 +10707,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Here-Comes-Team-Rocket-EVO113",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.16,
         "reverseHoloLow": null
@@ -10814,8 +10814,726 @@
       }
     },
     "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Charmander-V1-EVO9",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
+    }
+  },
+  {
+    "id": "xy12-promo-11",
+    "name": "Charizard  (EVO 11) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "76",
+    "hp": "150",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Charmeleon",
+    "abilities": [
+      {
+        "name": "Energy Burn",
+        "text": "All Energy attached to this Pokémon are Fire Energy instead of their usual type.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Fire Spin",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "200",
+        "text": "Discard 3 Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "11",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "flavorText": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+    "nationalPokedexNumbers": [
+      6
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/11.png",
+      "large": "https://images.pokemontcg.io/xy12/11_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-11",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 44.85,
+          "mid": 60.67,
+          "high": 10000.0,
+          "market": 58.62,
+          "directLow": 35.4
+        },
+        "reverseHolofoil": {
+          "low": 34.98,
+          "mid": 47.95,
+          "high": 179.0,
+          "market": 45.21,
+          "directLow": 30.0
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Charizard-V1-EVO11",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 25.0,
+        "reverseHoloLow": 27.5
+      }
+    }
+  },
+  {
+    "id": "xy12-promo-34",
+    "name": "Gyarados  (EVO 34) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "41",
+    "hp": "130",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Magikarp",
+    "attacks": [
+      {
+        "name": "Bubble Beam",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Dragon Rage",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "180",
+        "text": "Flip 2 coins. If either of them is tails, this attack does nothing."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "34",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "flavorText": "It has an extremely aggressive nature. The Hyper Beam it shoots from its mouth totally incinerates all targets.",
+    "nationalPokedexNumbers": [
+      130
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/34.png",
+      "large": "https://images.pokemontcg.io/xy12/34_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-34",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 2.99,
+          "mid": 4.52,
+          "high": 89.0,
+          "market": 4.35,
+          "directLow": 2.0
+        },
+        "reverseHolofoil": {
+          "low": 2.99,
+          "mid": 4.65,
+          "high": 89.0,
+          "market": 4.56,
+          "directLow": 2.51
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Gyarados-V1-EVO34",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": 1.2
+      }
+    }
+  },
+  {
+    "id": "xy12-promo-51",
+    "name": "Mewtwo  (EVO 51) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "53",
+    "hp": "130",
+    "types": [
+      "Psychic"
+    ],
+    "attacks": [
+      {
+        "name": "Psychic",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20+",
+        "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+      },
+      {
+        "name": "Barrier",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon. If 1 of your Pokémon used Barrier during your last turn, this attack can't be used."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "51",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "flavorText": "A Pokémon whose genetic code was repeatedly recombined for research. It turned vicious as a result.",
+    "nationalPokedexNumbers": [
+      150
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/51.png",
+      "large": "https://images.pokemontcg.io/xy12/51_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-51",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.4,
+          "mid": 1.33,
+          "high": 89.0,
+          "market": 1.36,
+          "directLow": 0.75
+        },
+        "reverseHolofoil": {
+          "low": 2.4,
+          "mid": 4.99,
+          "high": 19.69,
+          "market": 5.28,
+          "directLow": 2.75
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mewtwo-V1-EVO51",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.16,
+        "reverseHoloLow": 1.48
+      }
+    }
+  },
+  {
+    "id": "xy12-promo-53",
+    "name": "Mew  (EVO 53) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "8",
+    "hp": "40",
+    "types": [
+      "Psychic"
+    ],
+    "abilities": [
+      {
+        "name": "Neutral Shield",
+        "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Evolution Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Psy Bolt",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "53",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "flavorText": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+    "nationalPokedexNumbers": [
+      151
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/53.png",
+      "large": "https://images.pokemontcg.io/xy12/53_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-53",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 4.37,
+          "mid": 7.71,
+          "high": 89.0,
+          "market": 9.85,
+          "directLow": 5.88
+        },
+        "reverseHolofoil": {
+          "low": 5.08,
+          "mid": 7.41,
+          "high": 89.0,
+          "market": 7.24,
+          "directLow": 5.56
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mew-V1-EVO53",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 3.75,
+        "reverseHoloLow": 3.98
+      }
+    }
+  },
+  {
+    "id": "xy12-promo-59",
+    "name": "Machamp  (EVO 59) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "67",
+    "hp": "160",
+    "types": [
+      "Fighting"
+    ],
+    "evolvesFrom": "Machoke",
+    "abilities": [
+      {
+        "name": "Counterattack",
+        "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Seismic Toss",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "59",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "flavorText": "Its four ruggedly developed arms can launch a flurry of 1,000 punches in just two seconds.",
+    "nationalPokedexNumbers": [
+      68
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/59.png",
+      "large": "https://images.pokemontcg.io/xy12/59_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-59",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "holofoil": {
+          "low": 2.1,
+          "mid": 3.28,
+          "high": 89.0,
+          "market": 3.28,
+          "directLow": 2.11
+        },
+        "reverseHolofoil": {
+          "low": 2.0,
+          "mid": 3.85,
+          "high": 89.0,
+          "market": 3.7,
+          "directLow": 1.38
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Machamp-V1-EVO59",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": 1.0
+      }
+    }
+  },
+  {
+    "id": "xy12-promo-90",
+    "name": "Double Colorless Energy (EVO 90) (Promo)",
+    "supertype": "Energy",
+    "subtypes": [
+      "Special"
+    ],
+    "rules": [
+      "Double Colorless Energy provides ColorlessColorless Energy."
+    ],
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "90",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/90.png",
+      "large": "https://images.pokemontcg.io/xy12/90_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-90",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.1,
+          "mid": 0.44,
+          "high": 89.0,
+          "market": 0.37,
+          "directLow": 0.1
+        },
+        "reverseHolofoil": {
+          "low": 0.76,
+          "mid": 1.8,
+          "high": 24.99,
+          "market": 1.69,
+          "directLow": 1.46
+        }
+      }
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Double-Colorless-Energy-V1-EVO90",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.75
+      }
+    }
+  },
+  {
+    "id": "xy12-promo-9",
+    "name": "Charmander  (EVO 9) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "10",
+    "hp": "60",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [
+      "Charmeleon"
+    ],
+    "attacks": [
+      {
+        "name": "Scratch",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Ember",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Discard a Fire Energy attached to this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "set": {
+      "id": "xy12",
+      "name": "Evolutions",
+      "series": "XY",
+      "printedTotal": 108,
+      "total": 113,
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "ptcgoCode": "EVO",
+      "releaseDate": "2016/11/02",
+      "updatedAt": "2020/09/25 10:09:00",
+      "images": {
+        "symbol": "https://images.pokemontcg.io/xy12/symbol.png",
+        "logo": "https://images.pokemontcg.io/xy12/logo.png"
+      }
+    },
+    "number": "9",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "flavorText": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+    "nationalPokedexNumbers": [
+      4
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/xy12/9.png",
+      "large": "https://images.pokemontcg.io/xy12/9_hires.png"
+    },
+    "tcgplayer": {
+      "url": "https://prices.pokemontcg.io/tcgplayer/xy12-9",
+      "updatedAt": "2025/07/22",
+      "prices": {
+        "normal": {
+          "low": 0.01,
+          "mid": 0.2,
+          "high": 4.95,
+          "market": 0.17,
+          "directLow": 0.18
+        },
+        "reverseHolofoil": {
+          "low": 0.32,
+          "mid": 0.9,
+          "high": 89.0,
+          "market": 0.97,
+          "directLow": null
+        }
+      }
+    },
+    "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Charmander-V2-EVO9",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 70.0,
         "reverseHoloLow": null
@@ -10929,7 +11647,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Charizard-V2-EVO11",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 150.0,
         "reverseHoloLow": null
@@ -11041,7 +11759,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Gyarados-V2-EVO34",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 78.31,
         "reverseHoloLow": null
@@ -11148,7 +11866,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mewtwo-V2-EVO51",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 70.0,
         "reverseHoloLow": null
@@ -11251,9 +11969,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Mew-V2-EVO53",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 100.0,
+        "lowPrice": 90.0,
         "reverseHoloLow": null
       }
     }
@@ -11357,7 +12075,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Machamp-V2-EVO59",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 44.9,
         "reverseHoloLow": null
@@ -11425,7 +12143,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Evolutions/Double-Colorless-Energy-V2-EVO90",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 9.95,
         "reverseHoloLow": null

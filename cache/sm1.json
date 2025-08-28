@@ -61,7 +61,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Caterpie-SUM1",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -134,7 +134,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Metapod-SUM2",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.03
@@ -202,10 +202,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Butterfree-SUM3",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.04,
-        "reverseHoloLow": 0.17
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -261,8 +261,8 @@
       "large": "https://images.pokemontcg.io/sm1/4_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Budew-PRE004",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Paras-SUM4",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -332,11 +332,11 @@
       "large": "https://images.pokemontcg.io/sm1/5_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Celebrations/Pikachu-V1-CEL005",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Parasect-SUM5",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.5,
-        "reverseHoloLow": null
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -401,7 +401,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Pinsir-SUM6",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -460,7 +460,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Surskit-SUM7",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -513,7 +513,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Masquerain-SUM8",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -652,11 +652,11 @@
       "large": "https://images.pokemontcg.io/sm1/10_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Shaymin-V1-DRI010",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Dartrix-SUM10",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.03
+        "reverseHoloLow": 0.08
       }
     }
   },
@@ -800,7 +800,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Decidueye-GX-SUM12",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.49,
         "reverseHoloLow": null
@@ -861,7 +861,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Grubbin-SUM13",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -930,7 +930,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Fomantis-SUM14",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -1011,9 +1011,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lurantis-GX-V1-SUM15",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.4,
+        "lowPrice": 0.45,
         "reverseHoloLow": null
       }
     }
@@ -1079,7 +1079,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Morelull-SUM16",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -1213,7 +1213,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Bounsweet-SUM18",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -1284,10 +1284,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Steenee-SUM19",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.04
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -1413,7 +1413,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Growlithe-SUM21",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.07
@@ -1485,10 +1485,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Arcanine-SUM22",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.3,
-        "reverseHoloLow": 0.3
+        "lowPrice": 0.65,
+        "reverseHoloLow": 0.99
       }
     }
   },
@@ -1553,7 +1553,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Torkoal-SUM23",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.03
@@ -1694,7 +1694,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Torracat-SUM25",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -1849,9 +1849,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Incineroar-GX-SUM27",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.5,
+        "lowPrice": 0.49,
         "reverseHoloLow": null
       }
     }
@@ -1909,7 +1909,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Psyduck-SUM28",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.03
@@ -1971,10 +1971,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Golduck-SUM29",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.08
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -2041,7 +2041,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Poliwag-SUM30",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.03
@@ -2115,7 +2115,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Poliwhirl-SUM31",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -2185,7 +2185,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Poliwrath-SUM32",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.15,
         "reverseHoloLow": 0.3
@@ -2245,7 +2245,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Shellder-SUM33",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -2316,7 +2316,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Cloyster-SUM34",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.07
@@ -2398,7 +2398,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lapras-GX-V1-SUM35",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.5,
         "reverseHoloLow": null
@@ -2468,7 +2468,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Corsola-SUM36",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -2533,7 +2533,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Wingull-SUM37",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -2608,10 +2608,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Pelipper-SUM38",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.06
+        "reverseHoloLow": 0.04
       }
     }
   },
@@ -2750,7 +2750,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Brionne-SUM40",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -2904,9 +2904,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Primarina-GX-SUM42",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.25,
+        "lowPrice": 0.94,
         "reverseHoloLow": null
       }
     }
@@ -2978,10 +2978,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Crabominable-SUM43",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -3040,11 +3040,11 @@
       "large": "https://images.pokemontcg.io/sm1/44_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Munkidori-PRE044",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Wishiwashi-SUM44",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -3100,7 +3100,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Dewpider-SUM45",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -3167,7 +3167,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Araquanid-SUM46",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -3230,10 +3230,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Pyukumuku-SUM47",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.08
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -3298,7 +3298,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Bruxish-SUM48",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -3374,7 +3374,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Chinchou-SUM49",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -3449,7 +3449,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lanturn-SUM50",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -3529,7 +3529,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Charjabug-SUM51",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -3675,7 +3675,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Togedemaru-SUM53",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -3740,7 +3740,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Zubat-SUM54",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -3812,7 +3812,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Golbat-SUM55",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -3882,10 +3882,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Crobat-SUM56",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
-        "reverseHoloLow": 0.2
+        "reverseHoloLow": 0.15
       }
     }
   },
@@ -3952,7 +3952,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Alolan-Grimer-SUM57",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -4022,7 +4022,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Alolan-Muk-SUM58",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 0.2
@@ -4092,10 +4092,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Drowzee-SUM59",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.08
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -4162,10 +4162,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Hypno-SUM60",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.05
+        "reverseHoloLow": 0.06
       }
     }
   },
@@ -4243,11 +4243,11 @@
       "large": "https://images.pokemontcg.io/sm1/61_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Night-Stretcher-SFA061",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Espeon-GX-V1-SUM61",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "lowPrice": 0.7,
+        "reverseHoloLow": null
       }
     }
   },
@@ -4303,7 +4303,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Mareanie-SUM62",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -4371,7 +4371,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Toxapex-SUM63",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": 0.25
@@ -4430,7 +4430,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Cosmog-SUM64",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -4493,10 +4493,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Cosmoem-SUM65",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.1
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -4581,7 +4581,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lunala-GX-V1-SUM66",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.95,
         "reverseHoloLow": null
@@ -4651,7 +4651,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Makuhita-SUM67",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -4725,7 +4725,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Hariyama-SUM68",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -4787,7 +4787,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Roggenrola-SUM69",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -4862,7 +4862,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Boldore-SUM70",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -4935,7 +4935,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Gigalith-SUM71",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.19
@@ -5007,10 +5007,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Crabrawler-SUM72",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.03
+        "reverseHoloLow": 0.02
       }
     }
   },
@@ -5073,7 +5073,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Passimian-SUM73",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -5145,7 +5145,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Sandygast-SUM74",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.03
@@ -5215,10 +5215,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Palossand-SUM75",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.05
+        "reverseHoloLow": 0.07
       }
     }
   },
@@ -5274,7 +5274,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Alolan-Rattata-SUM76",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -5351,10 +5351,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Alolan-Raticate-SUM77",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.05
+        "reverseHoloLow": 0.03
       }
     }
   },
@@ -5414,7 +5414,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Alolan-Meowth-SUM78",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.09
@@ -5484,7 +5484,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Alolan-Persian-SUM79",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -5571,11 +5571,11 @@
       "large": "https://images.pokemontcg.io/sm1/80_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paldean-Fates/Iono-V1-PAF080",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Umbreon-GX-V1-SUM80",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
       }
     }
   },
@@ -5647,7 +5647,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Carvanha-SUM81",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -5715,7 +5715,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Sharpedo-SUM82",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.06,
         "reverseHoloLow": 0.1
@@ -5793,10 +5793,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Sandile-SUM83",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.04
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -5872,10 +5872,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Krokorok-SUM84",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.06
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -5949,7 +5949,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Krookodile-SUM85",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.08,
         "reverseHoloLow": 0.1
@@ -6021,7 +6021,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Alolan-Diglett-SUM86",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.07
@@ -6094,7 +6094,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Alolan-Dugtrio-SUM87",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -6168,7 +6168,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Skarmory-SUM88",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -6254,7 +6254,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Solgaleo-GX-V1-SUM89",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": null
@@ -6319,7 +6319,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Snubbull-SUM90",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -6394,7 +6394,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Granbull-SUM91",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -6459,7 +6459,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Cutiefly-SUM92",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -6529,7 +6529,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Ribombee-SUM93",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -6598,7 +6598,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Dratini-SUM94",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -6669,11 +6669,11 @@
       "large": "https://images.pokemontcg.io/sm1/95_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Twilight-Masquerade/Munkidori-V1-TWM095",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Dragonair-SUM95",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -6744,7 +6744,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Dragonite-SUM96",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.2,
         "reverseHoloLow": 0.2
@@ -6809,7 +6809,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Spearow-SUM97",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -6881,7 +6881,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Fearow-SUM98",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -7033,7 +7033,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Tauros-GX-V1-SUM100",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": null
@@ -7106,11 +7106,11 @@
       "large": "https://images.pokemontcg.io/sm1/101_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Buddy-Buddy-Poffin-PRE101",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Eevee-V1-SUM101",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -7229,7 +7229,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Spinda-SUM102",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -7298,7 +7298,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lillipup-SUM103",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -7367,7 +7367,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Herdier-SUM104",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -7440,7 +7440,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Stoutland-SUM105",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.08
@@ -7504,8 +7504,8 @@
       "large": "https://images.pokemontcg.io/sm1/106_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Earthen-Vessel-PRE106",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Pikipek-SUM106",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -7571,7 +7571,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Trumbeak-SUM107",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -7647,10 +7647,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Toucannon-SUM108",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.02
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -7716,7 +7716,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Yungoos-SUM109",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -7795,7 +7795,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Gumshoos-GX-V1-SUM110",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.2,
         "reverseHoloLow": null
@@ -7856,10 +7856,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Stufful-SUM111",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.05
+        "reverseHoloLow": 0.04
       }
     }
   },
@@ -7927,7 +7927,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Bewear-SUM112",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.09
@@ -8024,7 +8024,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Big-Malasada-SUM114",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -8056,10 +8056,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Crushing-Hammer-SUM115",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.1
+        "reverseHoloLow": 0.12
       }
     }
   },
@@ -8088,7 +8088,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Energy-Retrieval-SUM116",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -8120,7 +8120,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Energy-Switch-SUM117",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -8153,7 +8153,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Exp-Share-SUM118",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -8185,7 +8185,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Great-Ball-SUM119",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -8216,7 +8216,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Hau-SUM120",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -8247,10 +8247,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Ilima-V1-SUM121",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.03
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -8278,7 +8278,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lillie-V1-SUM122",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.09
@@ -8341,7 +8341,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Poison-Barb-SUM124",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -8373,7 +8373,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Poke-Ball-SUM125",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -8405,10 +8405,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Pokemon-Catcher-V1-SUM126",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.06
+        "reverseHoloLow": 0.05
       }
     }
   },
@@ -8437,7 +8437,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Potion-SUM127",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -8500,7 +8500,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Rare-Candy-SUM129",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.04
@@ -8531,7 +8531,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Repel-SUM130",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.03
@@ -8562,7 +8562,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Rotom-Dex-V1-SUM131",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -8594,7 +8594,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Switch-V1-SUM132",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -8625,7 +8625,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Team-Skull-Grunt-V1-SUM133",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.05
@@ -8656,7 +8656,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Timer-Ball-SUM134",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.08
@@ -8715,11 +8715,11 @@
       "large": "https://images.pokemontcg.io/sm1/136_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Destined-Rivals/Marnies-Grimmsnarl-ex-DRI136",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Double-Colorless-Energy-SUM136",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.5,
-        "reverseHoloLow": null
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.1
       }
     }
   },
@@ -8745,7 +8745,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Rainbow-Energy-SUM137",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -8826,7 +8826,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lurantis-GX-V2-SUM138",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.0,
         "reverseHoloLow": null
@@ -8908,7 +8908,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lapras-GX-V2-SUM139",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.4,
         "reverseHoloLow": null
@@ -8990,7 +8990,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Espeon-GX-V2-SUM140",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 4.89,
         "reverseHoloLow": null
@@ -9078,9 +9078,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lunala-GX-V2-SUM141",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.8,
+        "lowPrice": 2.0,
         "reverseHoloLow": null
       }
     }
@@ -9166,7 +9166,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Umbreon-GX-V2-SUM142",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 4.75,
         "reverseHoloLow": null
@@ -9252,7 +9252,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Solgaleo-GX-V2-SUM143",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.0,
         "reverseHoloLow": null
@@ -9334,7 +9334,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Tauros-GX-V2-SUM144",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.0,
         "reverseHoloLow": null
@@ -9413,7 +9413,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Gumshoos-GX-V2-SUM145",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.89,
         "reverseHoloLow": null
@@ -9444,7 +9444,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Ilima-V2-SUM146",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.9,
         "reverseHoloLow": null
@@ -9475,7 +9475,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lillie-V2-SUM147",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 10.0,
         "reverseHoloLow": null
@@ -9506,9 +9506,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Professor-Kukui-V2-SUM148",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.5,
+        "lowPrice": 1.4,
         "reverseHoloLow": null
       }
     }
@@ -9537,9 +9537,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Team-Skull-Grunt-V2-SUM149",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.97,
+        "lowPrice": 1.79,
         "reverseHoloLow": null
       }
     }
@@ -9618,7 +9618,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lurantis-GX-V3-SUM150",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 2.5,
         "reverseHoloLow": null
@@ -9700,7 +9700,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lapras-GX-V3-SUM151",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 3.9,
         "reverseHoloLow": null
@@ -9782,7 +9782,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Espeon-GX-V3-SUM152",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 6.0,
         "reverseHoloLow": null
@@ -9870,9 +9870,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Lunala-GX-V3-SUM153",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 5.0,
+        "lowPrice": 3.0,
         "reverseHoloLow": null
       }
     }
@@ -9958,9 +9958,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Umbreon-GX-V3-SUM154",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 8.9,
+        "lowPrice": 8.01,
         "reverseHoloLow": null
       }
     }
@@ -10044,7 +10044,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Solgaleo-GX-V3-SUM155",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 5.8,
         "reverseHoloLow": null
@@ -10125,11 +10125,11 @@
       "large": "https://images.pokemontcg.io/sm1/156_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sword-Shield/Air-Balloon-V1-SSH156",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Tauros-GX-V3-SUM156",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
-        "reverseHoloLow": 0.5
+        "lowPrice": 3.95,
+        "reverseHoloLow": null
       }
     }
   },
@@ -10205,9 +10205,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Gumshoos-GX-V3-SUM157",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 2.5,
+        "lowPrice": 2.0,
         "reverseHoloLow": null
       }
     }
@@ -10237,9 +10237,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Nest-Ball-V2-SUM158",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 6.0,
+        "lowPrice": 6.99,
         "reverseHoloLow": null
       }
     }
@@ -10268,7 +10268,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Rotom-Dex-V2-SUM159",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.5,
         "reverseHoloLow": null
@@ -10299,11 +10299,11 @@
       "large": "https://images.pokemontcg.io/sm1/160_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Counter-Catcher-V1-PAR160",
-      "updatedAt": "2025-08-05",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Switch-V2-SUM160",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
-        "reverseHoloLow": 0.9
+        "lowPrice": 3.94,
+        "reverseHoloLow": null
       }
     }
   },
@@ -10332,7 +10332,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Ultra-Ball-V2-SUM161",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 17.0,
         "reverseHoloLow": null
@@ -10359,7 +10359,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Psychic-Energy-V2-SUM162",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 4.74,
         "reverseHoloLow": null
@@ -10386,7 +10386,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Metal-Energy-V2-SUM163",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 3.79,
         "reverseHoloLow": null
@@ -10646,10 +10646,863 @@
       "large": "https://images.pokemontcg.io/sm1/9_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Rowlet-V2-SUM9",
-      "updatedAt": "2025-08-08",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Rowlet-V1-SUM9",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.3,
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-11",
+    "name": "Decidueye  (SUM 11) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "140",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Dartrix",
+    "attacks": [
+      {
+        "name": "Leaf Blade",
+        "cost": [
+          "Grass"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30+",
+        "text": "Flip a coin. If heads, this attack does 30 more damage."
+      },
+      {
+        "name": "Brave Bird",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "120",
+        "text": "This Pokémon does 20 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "11",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards.",
+    "nationalPokedexNumbers": [
+      724
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/11.png",
+      "large": "https://images.pokemontcg.io/sm1/11_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Decidueye-V1-SUM11",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-17",
+    "name": "Shiinotic  (SUM 17) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "100",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Morelull",
+    "abilities": [
+      {
+        "name": "Illuminate",
+        "text": "Once during your turn (before your attack), you may search your deck for a Grass Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Flickering Spores",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "17",
+    "artist": "Mizue",
+    "rarity": "Promo",
+    "flavorText": "It emits flickering spores that cause drowsiness. When its prey succumb to sleep, this Pokémon feeds on them by sucking in their energy.",
+    "nationalPokedexNumbers": [
+      756
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/17.png",
+      "large": "https://images.pokemontcg.io/sm1/17_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Shiinotic-V1-SUM17",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-20",
+    "name": "Tsareena  (SUM 20) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "140",
+    "types": [
+      "Grass"
+    ],
+    "evolvesFrom": "Steenee",
+    "abilities": [
+      {
+        "name": "Queenly Majesty",
+        "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may have your opponent reveal their hand. Then, discard a card from it.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Trop Kick",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "80",
+        "text": "Heal 20 damage and remove all Special Conditions from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "20",
+    "artist": "Shin Nagasawa",
+    "rarity": "Promo",
+    "flavorText": "Its long, striking legs aren't just for show but to be used to kick with skill. In victory, it shows off by kicking the defeated, laughing boisterously.",
+    "nationalPokedexNumbers": [
+      763
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/20.png",
+      "large": "https://images.pokemontcg.io/sm1/20_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Tsareena-V1-SUM20",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.08,
+        "reverseHoloLow": 0.08
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-24",
+    "name": "Litten  (SUM 24) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Fire"
+    ],
+    "evolvesTo": [
+      "Torracat"
+    ],
+    "attacks": [
+      {
+        "name": "Bite",
+        "cost": [
+          "Fire"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Flare",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "24",
+    "artist": "Akira Komayama",
+    "rarity": "Promo",
+    "flavorText": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
+    "nationalPokedexNumbers": [
+      725
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/24.png",
+      "large": "https://images.pokemontcg.io/sm1/24_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Litten-V1-SUM24",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-26",
+    "name": "Incineroar  (SUM 26) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "160",
+    "types": [
+      "Fire"
+    ],
+    "evolvesFrom": "Torracat",
+    "attacks": [
+      {
+        "name": "Fire Fang",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Your opponent's Active Pokémon is now Burned."
+      },
+      {
+        "name": "Darkest Lariat",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100×",
+        "text": "Flip 2 coins. This attack does 100 damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "26",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Promo",
+    "flavorText": "This Pokémon has a violent, selfish disposition. If it's not in the mood to listen, it will ignore its Trainer's orders with complete nonchalance.",
+    "nationalPokedexNumbers": [
+      727
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/26.png",
+      "large": "https://images.pokemontcg.io/sm1/26_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Incineroar-V1-SUM26",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.08
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-39",
+    "name": "Popplio  (SUM 39) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "70",
+    "types": [
+      "Water"
+    ],
+    "evolvesTo": [
+      "Brionne"
+    ],
+    "attacks": [
+      {
+        "name": "Pound",
+        "cost": [
+          "Water"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "39",
+    "artist": "Kouki Saitou",
+    "rarity": "Promo",
+    "flavorText": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker.",
+    "nationalPokedexNumbers": [
+      728
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/39.png",
+      "large": "https://images.pokemontcg.io/sm1/39_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Popplio-V1-SUM39",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.05
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-41",
+    "name": "Primarina  (SUM 41) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Water"
+    ],
+    "evolvesFrom": "Brionne",
+    "attacks": [
+      {
+        "name": "Disarming Voice",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Your opponent's Active Pokémon is now Confused."
+      },
+      {
+        "name": "Sparkling Aria",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "100",
+        "text": "Heal 30 damage from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "41",
+    "artist": "Kagemaru Himeno",
+    "rarity": "Promo",
+    "flavorText": "It controls its water balloons with song. The melody is learning from others of its kind and is passed down from one generation to the next.",
+    "nationalPokedexNumbers": [
+      730
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/41.png",
+      "large": "https://images.pokemontcg.io/sm1/41_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Primarina-V1-SUM41",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-52",
+    "name": "Vikavolt  (SUM 52) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "150",
+    "types": [
+      "Lightning"
+    ],
+    "evolvesFrom": "Charjabug",
+    "abilities": [
+      {
+        "name": "Strong Charge",
+        "text": "Once during your turn (before your attack), you may search your deck for a Grass Energy card and a Lightning Energy card and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Electro Cannon",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "150",
+        "text": "Discard 3 Energy from this Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Metal",
+        "value": "-20"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "52",
+    "artist": "Hitoshi Ariga",
+    "rarity": "Promo",
+    "flavorText": "It produces electricity via an electrical organ in its abdomen. It overwhelms bird Pokémon with shocking beams of electrical energy.",
+    "nationalPokedexNumbers": [
+      738
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/52.png",
+      "large": "https://images.pokemontcg.io/sm1/52_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Vikavolt-V1-SUM52",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-99",
+    "name": "Kangaskhan  (SUM 99) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "130",
+    "types": [
+      "Colorless"
+    ],
+    "attacks": [
+      {
+        "name": "Cross-Cut",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "30+",
+        "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 30 more damage."
+      },
+      {
+        "name": "Hurricane Punch",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "50×",
+        "text": "Flip 4 coins. This attack does 50 damage for each heads."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "99",
+    "artist": "TOKIYA",
+    "rarity": "Promo",
+    "flavorText": "Kangaskhan's maternal love is so deep that it will brave death to protect its offspring.",
+    "nationalPokedexNumbers": [
+      115
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/99.png",
+      "large": "https://images.pokemontcg.io/sm1/99_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Kangaskhan-V1-SUM99",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": 0.1
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-113",
+    "name": "Oranguru  (SUM 113) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "120",
+    "types": [
+      "Colorless"
+    ],
+    "abilities": [
+      {
+        "name": "Instruct",
+        "text": "Once during your turn (before your attack), you may draw cards until you have 3 cards in your hand.",
+        "type": "Ability"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Psychic",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "60+",
+        "text": "This attack does 20 more damage times the amount of Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "113",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Promo",
+    "flavorText": "Deep in the jungle, high in the lofty canopy, this Pokémon abides. On rare occasions, it shows up at the beach to match wits with Slowking.",
+    "nationalPokedexNumbers": [
+      765
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/113.png",
+      "large": "https://images.pokemontcg.io/sm1/113_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Oranguru-V1-SUM113",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-123",
+    "name": "Nest Ball (SUM 123) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "123",
+    "artist": "Toyste Beach",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/123.png",
+      "large": "https://images.pokemontcg.io/sm1/123_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Nest-Ball-V1-SUM123",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.3
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-128",
+    "name": "Professor Kukui (SUM 128) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rules": [
+      "Draw 2 cards. During this turn, your Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+      "You may play only 1 Supporter card during your turn (before your attack)."
+    ],
+    "number": "128",
+    "artist": "Ken Sugimori",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/128.png",
+      "large": "https://images.pokemontcg.io/sm1/128_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Professor-Kukui-V1-SUM128",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.03
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-135",
+    "name": "Ultra Ball (SUM 135) (Promo)",
+    "supertype": "Trainer",
+    "subtypes": [
+      "Item"
+    ],
+    "rules": [
+      "Discard 2 cards from your hand. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+      "You may play as many Item cards as you like during your turn (before your attack)."
+    ],
+    "number": "135",
+    "artist": "Ryo Ueda",
+    "rarity": "Promo",
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/135.png",
+      "large": "https://images.pokemontcg.io/sm1/135_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Ultra-Ball-V1-SUM135",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.2
+      }
+    }
+  },
+  {
+    "id": "sm1-promo-9",
+    "name": "Rowlet  (SUM 9) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "60",
+    "types": [
+      "Grass"
+    ],
+    "evolvesTo": [
+      "Dartrix"
+    ],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Leafage",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "9",
+    "artist": "Megumi Mizutani",
+    "rarity": "Promo",
+    "flavorText": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night.",
+    "nationalPokedexNumbers": [
+      722
+    ],
+    "legalities": {
+      "unlimited": "Legal",
+      "expanded": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/sm1/9.png",
+      "large": "https://images.pokemontcg.io/sm1/9_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Rowlet-V2-SUM9",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.49,
         "reverseHoloLow": null
       }
     }
@@ -10715,7 +11568,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Decidueye-V2-SUM11",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": null
@@ -10781,7 +11634,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Shiinotic-V2-SUM17",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.5,
         "reverseHoloLow": null
@@ -10848,7 +11701,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Tsareena-V2-SUM20",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 3.8,
         "reverseHoloLow": null
@@ -10917,9 +11770,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Litten-V2-SUM24",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.8,
+        "lowPrice": 1.25,
         "reverseHoloLow": null
       }
     }
@@ -10988,7 +11841,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Incineroar-V2-SUM26",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": null
@@ -11057,7 +11910,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Popplio-V2-SUM39",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": null
@@ -11127,9 +11980,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Primarina-V2-SUM41",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.09,
+        "lowPrice": 0.1,
         "reverseHoloLow": null
       }
     }
@@ -11202,7 +12055,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Vikavolt-V2-SUM52",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.5,
         "reverseHoloLow": null
@@ -11272,7 +12125,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Kangaskhan-V2-SUM99",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": null
@@ -11338,7 +12191,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Oranguru-V2-SUM113",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.75,
         "reverseHoloLow": null
@@ -11369,9 +12222,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Nest-Ball-V3-SUM123",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 17.0,
+        "lowPrice": 15.0,
         "reverseHoloLow": null
       }
     }
@@ -11400,7 +12253,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Professor-Kukui-V3-SUM128",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.0,
         "reverseHoloLow": null
@@ -11431,7 +12284,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon/Ultra-Ball-V6-SUM135",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 10.0,
         "reverseHoloLow": null

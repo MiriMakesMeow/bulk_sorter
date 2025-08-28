@@ -6981,10 +6981,10 @@
     "rarity": "Promo",
     "number": "1",
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Snivy-V1-BWBW01",
-      "updatedAt": "2025-08-08",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Snivy-V2",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.05,
+        "lowPrice": 1.38,
         "reverseHoloLow": null
       }
     }
@@ -6995,8 +6995,8 @@
     "rarity": "Promo",
     "number": "2",
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Tepig-V1-BWBW02",
-      "updatedAt": "2025-08-08",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Tepig-V2",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": null
@@ -7009,10 +7009,10 @@
     "rarity": "Promo",
     "number": "3",
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Oshawott-V1-BWBW03",
-      "updatedAt": "2025-08-08",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Oshawott-V2",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.1,
+        "lowPrice": 1.0,
         "reverseHoloLow": null
       }
     }
@@ -7233,10 +7233,10 @@
     "rarity": "Promo",
     "number": "19",
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Zoroark-BWBW19",
-      "updatedAt": "2025-08-08",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Zoroark-V2-OS",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.2,
+        "lowPrice": 1.5,
         "reverseHoloLow": null
       }
     }
@@ -7415,10 +7415,10 @@
     "rarity": "Promo",
     "number": "32",
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Victini-BWBW32",
-      "updatedAt": "2025-08-08",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Victini-V2-BWBW32",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.05,
+        "lowPrice": 2.0,
         "reverseHoloLow": null
       }
     }
@@ -8089,6 +8089,1126 @@
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Genesect-V2-BWBW101",
       "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-1",
+    "name": "Snivy  (BW 01) (Promo)",
+    "rarity": "Promo",
+    "number": "1",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Snivy-V1-BWBW01",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-2",
+    "name": "Tepig  (BW 02) (Promo)",
+    "rarity": "Promo",
+    "number": "2",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Tepig-V1-BWBW02",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-3",
+    "name": "Oshawott  (BW 03) (Promo)",
+    "rarity": "Promo",
+    "number": "3",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Oshawott-V1-BWBW03",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-4",
+    "name": "Reshiram  (BW 04) (Promo)",
+    "rarity": "Promo",
+    "number": "4",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Reshiram-BWBW04",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-5",
+    "name": "Zekrom  (BW 05) (Promo)",
+    "rarity": "Promo",
+    "number": "5",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Zekrom-BWBW05",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.1,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-6",
+    "name": "Snivy  (BW 06) (Promo)",
+    "rarity": "Promo",
+    "number": "6",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Snivy-BWBW06",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-7",
+    "name": "Tepig  (BW 07) (Promo)",
+    "rarity": "Promo",
+    "number": "7",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Tepig-BWBW07",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-8",
+    "name": "Oshawott  (BW 08) (Promo)",
+    "rarity": "Promo",
+    "number": "8",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Oshawott-BWBW08",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-9",
+    "name": "Zoroark  (BW 09) (Promo)",
+    "rarity": "Promo",
+    "number": "9",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Zoroark-BWBW09",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.3,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-10",
+    "name": "Axew  (BW 10) (Promo)",
+    "rarity": "Promo",
+    "number": "10",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Axew-BWBW10",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-11",
+    "name": "Pansage  (BW 11) (Promo)",
+    "rarity": "Promo",
+    "number": "11",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Pansage-BWBW11",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.6,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-12",
+    "name": "Zorua  (BW 12) (Promo)",
+    "rarity": "Promo",
+    "number": "12",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Zorua-BWBW12",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 9.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-13",
+    "name": "Minccino  (BW 13) (Promo)",
+    "rarity": "Promo",
+    "number": "13",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Minccino-BWBW13",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 8.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-14",
+    "name": "Pansage  (BW 14) (Promo)",
+    "rarity": "Promo",
+    "number": "14",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Pansage-BWBW14",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-15",
+    "name": "Pidove  (BW 15) (Promo)",
+    "rarity": "Promo",
+    "number": "15",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Pidove-BWBW15",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 99.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-16",
+    "name": "Axew  (BW 16) (Promo)",
+    "rarity": "Promo",
+    "number": "16",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Axew-BWBW16",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 4.94,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-17",
+    "name": "Ducklett  (BW 17) (Promo)",
+    "rarity": "Promo",
+    "number": "17",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Ducklett-BWBW17",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 3.45,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-18",
+    "name": "Darumaka  (BW 18) (Promo)",
+    "rarity": "Promo",
+    "number": "18",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Darumaka-BWBW18",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.55,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-19",
+    "name": "Zoroark  (BW 19) (Promo)",
+    "rarity": "Promo",
+    "number": "19",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Zoroark-BWBW19",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.7,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-20",
+    "name": "Serperior  (BW 20) (Promo)",
+    "rarity": "Promo",
+    "number": "20",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Serperior-BWBW20",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.29,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-21",
+    "name": "Emboar  (BW 21) (Promo)",
+    "rarity": "Promo",
+    "number": "21",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Emboar-BWBW21",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-22",
+    "name": "Samurott  (BW 22) (Promo)",
+    "rarity": "Promo",
+    "number": "22",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Samurott-BWBW22",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-23",
+    "name": "Reshiram  (BW 23) (Promo)",
+    "rarity": "Promo",
+    "number": "23",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Reshiram-BWBW23",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.9,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-24",
+    "name": "Zekrom  (BW 24) (Promo)",
+    "rarity": "Promo",
+    "number": "24",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Zekrom-BWBW24",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-25",
+    "name": "Scraggy  (BW 25) (Promo)",
+    "rarity": "Promo",
+    "number": "25",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Scraggy-BWBW25",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 10.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-26",
+    "name": "Axew  (BW 26) (Promo)",
+    "rarity": "Promo",
+    "number": "26",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Axew-BWBW26",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-27",
+    "name": "Litwick  (BW 27) (Promo)",
+    "rarity": "Promo",
+    "number": "27",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Litwick-BWBW27",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-28",
+    "name": "Tropical Beach (BW 28) (Promo)",
+    "rarity": "Promo",
+    "number": "28",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Tropical-Beach-V1-BWBW28",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 99.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-29",
+    "name": "Victory Cup (BW 29) (Promo)",
+    "rarity": "Promo",
+    "number": "29",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Victory-Cup-V1-BWBW29",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 40.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-30",
+    "name": "Victory Cup (BW 30) (Promo)",
+    "rarity": "Promo",
+    "number": "30",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Victory-Cup-V2-BW30",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 50.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-31",
+    "name": "Victory Cup (BW 31) (Promo)",
+    "rarity": "Promo",
+    "number": "31",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Victory-Cup-V3-BWBW31",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 95.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-32",
+    "name": "Victini  (BW 32) (Promo)",
+    "rarity": "Promo",
+    "number": "32",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Victini-BWBW32",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.05,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-33",
+    "name": "Riolu  (BW 33) (Promo)",
+    "rarity": "Promo",
+    "number": "33",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Riolu-BWBW33",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.45,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-34",
+    "name": "Luxio  (BW 34) (Promo)",
+    "rarity": "Promo",
+    "number": "34",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Luxio-BWBW34",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-35",
+    "name": "Meowth  (BW 35) (Promo)",
+    "rarity": "Promo",
+    "number": "35",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Meowth-BWBW35",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-36",
+    "name": "Reshiram EX  (BW 36) (Promo)",
+    "rarity": "Promo",
+    "number": "36",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Reshiram-EX-BWBW36",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-37",
+    "name": "Kyurem EX  (BW 37) (Promo)",
+    "rarity": "Promo",
+    "number": "37",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Kyurem-EX-BW37",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-38",
+    "name": "Zekrom EX  (BW 38) (Promo)",
+    "rarity": "Promo",
+    "number": "38",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Zekrom-EX-BWBW38",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-39",
+    "name": "Battle City (BW 39) (Promo)",
+    "rarity": "Promo",
+    "number": "39",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Battle-City-BWBW39",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.49,
+        "reverseHoloLow": 0.49
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-40",
+    "name": "Volcarona  (BW 40) (Promo)",
+    "rarity": "Promo",
+    "number": "40",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Volcarona-BWBW40",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 6.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-41",
+    "name": "Thundurus  (BW 41) (Promo)",
+    "rarity": "Promo",
+    "number": "41",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Thundurus-BWBW41",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 2.5,
+        "reverseHoloLow": 2.5
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-42",
+    "name": "Tornadus  (BW 42) (Promo)",
+    "rarity": "Promo",
+    "number": "42",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Tornadus-BWBW42",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 2.45,
+        "reverseHoloLow": 2.45
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-43",
+    "name": "Landorus  (BW 43) (Promo)",
+    "rarity": "Promo",
+    "number": "43",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Landorus-BWBW43",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.65,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-44",
+    "name": "Kyurem  (BW 44) (Promo)",
+    "rarity": "Promo",
+    "number": "44",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Kyurem-BWBW44",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-45",
+    "name": "Mewtwo EX  (BW 45) (Promo)",
+    "rarity": "Promo",
+    "number": "45",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Mewtwo-EX-BWBW45",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-46",
+    "name": "Darkrai EX  (BW 46) (Promo)",
+    "rarity": "Promo",
+    "number": "46",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Darkrai-EX-BWBW46",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-47",
+    "name": "Rayquaza EX  (BW 47) (Promo)",
+    "rarity": "Promo",
+    "number": "47",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Rayquaza-EX-BWBW47",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-48",
+    "name": "Altaria  (BW 48) (Promo)",
+    "rarity": "Promo",
+    "number": "48",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Altaria-BWBW48",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-49",
+    "name": "Lilligant  (BW 49) (Promo)",
+    "rarity": "Promo",
+    "number": "49",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Lilligant-BWBW49",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 25.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-50",
+    "name": "Tropical Beach (BW 50) (Promo)",
+    "rarity": "Promo",
+    "number": "50",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Tropical-Beach-V2-BWBW50",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 32.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-51",
+    "name": "Crobat  (BW 51) (Promo)",
+    "rarity": "Promo",
+    "number": "51",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Crobat-BW51",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-52",
+    "name": "Lillipup  (BW 52) (Promo)",
+    "rarity": "Promo",
+    "number": "52",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Lillipup-BWBW52",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 4.0,
+        "reverseHoloLow": 4.95
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-53",
+    "name": "Flygon  (BW 53) (Promo)",
+    "rarity": "Promo",
+    "number": "53",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Flygon-BWBW53",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 6.55,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-54",
+    "name": "Pikachu  (BW 54) (Promo)",
+    "rarity": "Promo",
+    "number": "54",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Pikachu-BWBW54",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 29.32,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-55",
+    "name": "Elgyem  (BW 55) (Promo)",
+    "rarity": "Promo",
+    "number": "55",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Elgyem-BWBW55",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 7.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-75",
+    "name": "Metagross  (BW 75) (Promo)",
+    "rarity": "Promo",
+    "number": "75",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Metagross-BWBW75",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 9.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-76",
+    "name": "Electrode  (BW 76) (Promo)",
+    "rarity": "Promo",
+    "number": "76",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Electrode-BWBW76",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 13.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-79",
+    "name": "Landorus  (BW 79) (Promo)",
+    "rarity": "Promo",
+    "number": "79",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Landorus-BWBW79",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-80",
+    "name": "Druddigon  (BW 80) (Promo)",
+    "rarity": "Promo",
+    "number": "80",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Druddigon-BWBW80",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-81",
+    "name": "Thundurus EX  (BW 81) (Promo)",
+    "rarity": "Promo",
+    "number": "81",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Thundurus-EX-BWBW81",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.75,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-82",
+    "name": "Deoxys EX  (BW 82) (Promo)",
+    "rarity": "Promo",
+    "number": "82",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Deoxys-EX-BWBW82",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-83",
+    "name": "Lugia EX  (BW 83) (Promo)",
+    "rarity": "Promo",
+    "number": "83",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Lugia-EX-BWBW83",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-84",
+    "name": "Porygon-Z  (BW 84) (Promo)",
+    "rarity": "Promo",
+    "number": "84",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Porygon-Z-BWBW84",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 5.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-85",
+    "name": "Lucario  (BW 85) (Promo)",
+    "rarity": "Promo",
+    "number": "85",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Lucario-BW85",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.2,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-86",
+    "name": "Genesect  (BW 86) (Promo)",
+    "rarity": "Promo",
+    "number": "86",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Genesect-BWBW86",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-87",
+    "name": "Leafeon  (BW 87) (Promo)",
+    "rarity": "Promo",
+    "number": "87",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Leafeon-BWBW87",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.85,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-88",
+    "name": "Flareon  (BW 88) (Promo)",
+    "rarity": "Promo",
+    "number": "88",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Flareon-BWBW88",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 4.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-89",
+    "name": "Vaporeon  (BW 89) (Promo)",
+    "rarity": "Promo",
+    "number": "89",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Vaporeon-BWBW89",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 3.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-90",
+    "name": "Glaceon  (BW 90) (Promo)",
+    "rarity": "Promo",
+    "number": "90",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Glaceon-BWBW90",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-91",
+    "name": "Jolteon  (BW 91) (Promo)",
+    "rarity": "Promo",
+    "number": "91",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Jolteon-BWBW91",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 3.5,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-92",
+    "name": "Espeon  (BW 92) (Promo)",
+    "rarity": "Promo",
+    "number": "92",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Espeon-BWBW92",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 2.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-93",
+    "name": "Umbreon  (BW 93) (Promo)",
+    "rarity": "Promo",
+    "number": "93",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Umbreon-BWBW93",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 4.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-94",
+    "name": "Eevee  (BW 94) (Promo)",
+    "rarity": "Promo",
+    "number": "94",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Eevee-V1-BWBW94",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 4.89,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-95",
+    "name": "Champions Festival  (BW 95) (Promo)",
+    "rarity": "Promo",
+    "number": "95",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Champions-Festival-BW95",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 74.95,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-96",
+    "name": "Tornadus EX  (BW 96) (Promo)",
+    "rarity": "Promo",
+    "number": "96",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Tornadus-EX-BWBW96",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 12.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-97",
+    "name": "Eevee  (BW 97) (Promo)",
+    "rarity": "Promo",
+    "number": "97",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Eevee-V2-BWBW97",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 129.99,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-98",
+    "name": "Mew  (BW 98) (Promo)",
+    "rarity": "Promo",
+    "number": "98",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Mew-BWBW98",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 17.0,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-99",
+    "name": "Genesect  (BW 99) (Promo)",
+    "rarity": "Promo",
+    "number": "99",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Genesect-V1-BWBW99",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.75,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-100",
+    "name": "N (BW 100) (Promo)",
+    "rarity": "Promo",
+    "number": "100",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/N-V1-BWBW100",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 1.75,
+        "reverseHoloLow": null
+      }
+    }
+  },
+  {
+    "id": "bwp-promo-101",
+    "name": "Genesect  (BW 101) (Promo)",
+    "rarity": "Promo",
+    "number": "101",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/BW-Black-Star-Promos/Genesect-V2-BWBW101",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 4.5,
         "reverseHoloLow": null

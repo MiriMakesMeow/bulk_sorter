@@ -3253,8 +3253,36 @@
     "rarity": "Promo",
     "number": "51",
     "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Glastrier-V1-LOR051",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
+  },
+  {
+    "id": "swsh11tg-promo-76",
+    "name": "Hisuian Zoroark  (LOR 076) (Promo)",
+    "rarity": "Promo",
+    "number": "76",
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Hisuian-Zoroark-V1-LOR076",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
+  },
+  {
+    "id": "swsh11tg-promo-51",
+    "name": "Glastrier  (LOR 051) (Promo)",
+    "rarity": "Promo",
+    "number": "51",
+    "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Glastrier-V2-LOR051",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": null
@@ -3268,7 +3296,7 @@
     "number": "76",
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin/Hisuian-Zoroark-V2-LOR076",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.09,
         "reverseHoloLow": null

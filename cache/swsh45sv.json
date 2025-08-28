@@ -13768,8 +13768,22 @@
     "rarity": "Promo",
     "number": "60",
     "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Professors-Research-Professor-Juniper-V1-SHF60",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
+  },
+  {
+    "id": "swsh45sv-promo-60",
+    "name": "Professor's Research - Professor Juniper (SHF 60) (Promo)",
+    "rarity": "Promo",
+    "number": "60",
+    "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shining-Fates/Professors-Research-Professor-Juniper-V2-SHF60",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": null

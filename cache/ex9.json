@@ -66,10 +66,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Blaziken-EM1",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.09,
-        "reverseHoloLow": 3.0
+        "reverseHoloLow": 1.0
       }
     }
   },
@@ -128,7 +128,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Deoxys-EM2",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 3.5,
         "reverseHoloLow": 3.5
@@ -293,7 +293,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Gardevoir-EM4",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 1.75,
         "reverseHoloLow": 3.5
@@ -358,10 +358,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Groudon-EM5",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 1.2,
-        "reverseHoloLow": 4.9
+        "lowPrice": 0.99,
+        "reverseHoloLow": 4.41
       }
     }
   },
@@ -424,9 +424,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Kyogre-EM6",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 3.0,
+        "lowPrice": 2.99,
         "reverseHoloLow": 6.5
       }
     }
@@ -497,7 +497,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Manectric-EM7",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": 0.5
@@ -564,7 +564,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Milotic-EM8",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.4,
         "reverseHoloLow": 1.21
@@ -631,9 +631,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Rayquaza-EM9",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 3.5,
+        "lowPrice": 8.0,
         "reverseHoloLow": 10.0
       }
     }
@@ -712,10 +712,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Sceptile-EM10",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 3.0
+        "reverseHoloLow": 1.5
       }
     }
   },
@@ -786,10 +786,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Swampert-EM11",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.4,
-        "reverseHoloLow": 3.25
+        "lowPrice": 0.5,
+        "reverseHoloLow": 3.99
       }
     }
   },
@@ -850,9 +850,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Chimecho-EM12",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.09,
+        "lowPrice": 0.15,
         "reverseHoloLow": 1.5
       }
     }
@@ -916,7 +916,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Glalie-EM13",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.8
@@ -984,9 +984,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Groudon-EM14",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.35,
+        "lowPrice": 0.4,
         "reverseHoloLow": 2.89
       }
     }
@@ -1050,10 +1050,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Kyogre-EM15",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.3,
-        "reverseHoloLow": 5.0
+        "reverseHoloLow": 9.9
       }
     }
   },
@@ -1121,7 +1121,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Manectric-EM16",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 2.0
@@ -1188,9 +1188,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Nosepass-EM17",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.27,
+        "lowPrice": 0.1,
         "reverseHoloLow": 0.99
       }
     }
@@ -1252,7 +1252,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Relicanth-EM18",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 2.0
@@ -1324,9 +1324,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Rhydon-EM19",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.05,
+        "lowPrice": 0.04,
         "reverseHoloLow": 2.5
       }
     }
@@ -1389,7 +1389,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Seviper-EM20",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 1.4
@@ -1453,10 +1453,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Zangoose-EM21",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.25,
-        "reverseHoloLow": 3.0
+        "lowPrice": 0.15,
+        "reverseHoloLow": 4.0
       }
     }
   },
@@ -1519,7 +1519,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Breloom-EM22",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
         "reverseHoloLow": 1.44
@@ -1587,7 +1587,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Camerupt-EM23",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.25
@@ -1651,7 +1651,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Claydol-EM24",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": 1.0
@@ -1721,7 +1721,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Combusken-EM25",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -1794,9 +1794,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Dodrio-EM26",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.12,
+        "lowPrice": 0.15,
         "reverseHoloLow": 1.5
       }
     }
@@ -1860,7 +1860,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Electrode-EM27",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -1935,7 +1935,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Grovyle-EM28",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 3.0
@@ -2002,10 +2002,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Grumpig-EM29",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 1.8
+        "reverseHoloLow": 1.71
       }
     }
   },
@@ -2067,9 +2067,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Grumpig-EM30",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
+        "lowPrice": 0.1,
         "reverseHoloLow": 2.4
       }
     }
@@ -2134,7 +2134,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Hariyama-EM31",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.03,
         "reverseHoloLow": 1.5
@@ -2198,10 +2198,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Illumise-EM32",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.15,
-        "reverseHoloLow": 3.0
+        "reverseHoloLow": 2.5
       }
     }
   },
@@ -2269,7 +2269,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Kirlia-EM33",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
         "reverseHoloLow": 2.0
@@ -2330,10 +2330,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Linoone-EM34",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.09,
-        "reverseHoloLow": 5.0
+        "lowPrice": 0.1,
+        "reverseHoloLow": 4.99
       }
     }
   },
@@ -2469,10 +2469,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Marshtomp-EM36",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 1.5
+        "reverseHoloLow": 2.0
       }
     }
   },
@@ -2537,10 +2537,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Minun-EM37",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.1,
-        "reverseHoloLow": 1.99
+        "reverseHoloLow": 1.79
       }
     }
   },
@@ -2603,7 +2603,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Ninetales-EM38",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 2.0
@@ -2673,10 +2673,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Plusle-EM39",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 4.62
+        "reverseHoloLow": 4.28
       }
     }
   },
@@ -2741,7 +2741,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Swalot-EM40",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.98
@@ -2809,10 +2809,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Swellow-EM41",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
-        "reverseHoloLow": 2.0
+        "lowPrice": 0.1,
+        "reverseHoloLow": 2.99
       }
     }
   },
@@ -2873,9 +2873,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Volbeat-EM42",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.09,
+        "lowPrice": 0.08,
         "reverseHoloLow": 1.0
       }
     }
@@ -2941,7 +2941,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Baltoy-EM43",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.7
@@ -2998,7 +2998,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Cacnea-EM44",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.8
@@ -3061,7 +3061,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Doduo-EM45",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.5
@@ -3124,7 +3124,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Duskull-EM46",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.15
@@ -3187,7 +3187,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Electrike-EM47",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.96
@@ -3260,7 +3260,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Electrike-EM48",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -3325,7 +3325,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Feebas-EM49",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.25
@@ -3382,7 +3382,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Feebas-EM50",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.79
@@ -3449,7 +3449,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Gulpin-EM51",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -3507,7 +3507,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Larvitar-EM52",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -3571,7 +3571,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Luvdisc-EM53",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 2.0
@@ -3628,7 +3628,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Makuhita-EM54",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.1
@@ -3695,7 +3695,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Meditite-EM55",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -3752,7 +3752,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Mudkip-EM56",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 2.0
@@ -3818,7 +3818,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Numel-EM57",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -3886,10 +3886,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Numel-EM58",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 2.0
+        "reverseHoloLow": 2.95
       }
     }
   },
@@ -3950,7 +3950,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Pichu-EM59",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 3.0
@@ -4017,7 +4017,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Pikachu-EM60",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 8.5
@@ -4074,10 +4074,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Ralts-EM61",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.7
+        "reverseHoloLow": 1.0
       }
     }
   },
@@ -4141,7 +4141,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Rhyhorn-EM62",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.02
@@ -4214,10 +4214,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Shroomish-EM63",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.89
+        "reverseHoloLow": 0.85
       }
     }
   },
@@ -4272,7 +4272,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Snorunt-EM64",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -4329,10 +4329,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Spoink-EM65",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
-        "reverseHoloLow": 2.0
+        "lowPrice": 0.04,
+        "reverseHoloLow": 2.5
       }
     }
   },
@@ -4386,7 +4386,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Spoink-EM66",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -4456,10 +4456,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Swablu-EM67",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.02,
-        "reverseHoloLow": 0.49
+        "lowPrice": 0.03,
+        "reverseHoloLow": 0.44
       }
     }
   },
@@ -4519,7 +4519,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Taillow-EM68",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.5
@@ -4576,7 +4576,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Torchic-EM69",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 2.3
@@ -4639,7 +4639,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Treecko-EM70",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.99
@@ -4707,7 +4707,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Voltorb-EM71",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 2.28
@@ -4774,7 +4774,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Vulpix-EM72",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -4908,7 +4908,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Zigzagoon-EM74",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.5
@@ -4938,9 +4938,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Battle-Frontier-EM75",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.1,
+        "lowPrice": 0.35,
         "reverseHoloLow": 4.95
       }
     }
@@ -4967,7 +4967,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Double-Full-Heal-EM76",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.07,
         "reverseHoloLow": 1.0
@@ -4997,10 +4997,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Lanettes-Net-Search-EM77",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.2,
-        "reverseHoloLow": 1.5
+        "reverseHoloLow": 1.0
       }
     }
   },
@@ -5028,7 +5028,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Lum-Berry-EM78",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.3
@@ -5058,10 +5058,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Mr-Stones-Project-EM79",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.05,
-        "reverseHoloLow": 0.5
+        "reverseHoloLow": 1.71
       }
     }
   },
@@ -5088,7 +5088,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Oran-Berry-EM80",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 0.25
@@ -5117,7 +5117,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/PokeNav-EM81",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 1.0
@@ -5147,10 +5147,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Professor-Birch-V1-EM82",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
-        "reverseHoloLow": 0.49
+        "reverseHoloLow": 0.44
       }
     }
   },
@@ -5178,10 +5178,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Rare-Candy-EM83",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.75,
-        "reverseHoloLow": 4.5
+        "lowPrice": 0.9,
+        "reverseHoloLow": 3.0
       }
     }
   },
@@ -5208,10 +5208,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Scott-EM84",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.1,
-        "reverseHoloLow": 1.6
+        "lowPrice": 0.39,
+        "reverseHoloLow": 1.98
       }
     }
   },
@@ -5238,7 +5238,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Wallys-Training-EM85",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.02,
         "reverseHoloLow": 2.0
@@ -5267,10 +5267,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Darkness-Energy-EM86",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.19,
-        "reverseHoloLow": 0.93
+        "reverseHoloLow": 0.94
       }
     }
   },
@@ -5296,10 +5296,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Double-Rainbow-Energy-EM87",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.4,
-        "reverseHoloLow": 2.0
+        "lowPrice": 0.49,
+        "reverseHoloLow": 1.0
       }
     }
   },
@@ -5325,10 +5325,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Metal-Energy-EM88",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.1,
-        "reverseHoloLow": 1.5
+        "lowPrice": 0.15,
+        "reverseHoloLow": 1.48
       }
     }
   },
@@ -5354,7 +5354,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Multi-Energy-EM89",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.19,
         "reverseHoloLow": 0.55
@@ -5425,9 +5425,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Altaria-ex-EM90",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 8.98,
+        "lowPrice": 9.0,
         "reverseHoloLow": null
       }
     }
@@ -5502,9 +5502,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Cacturne-ex-EM91",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 7.95,
+        "lowPrice": 5.99,
         "reverseHoloLow": null
       }
     }
@@ -5581,9 +5581,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Camerupt-ex-EM92",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 7.0,
+        "lowPrice": 14.99,
         "reverseHoloLow": null
       }
     }
@@ -5648,7 +5648,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Deoxys-ex-EM93",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 15.0,
         "reverseHoloLow": null
@@ -5728,7 +5728,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Dusclops-ex-EM94",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 9.0,
         "reverseHoloLow": null
@@ -5806,7 +5806,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Medicham-ex-EM95",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 4.0,
         "reverseHoloLow": null
@@ -5884,7 +5884,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Milotic-ex-EM96",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 20.0,
         "reverseHoloLow": null
@@ -5959,9 +5959,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Raichu-ex-EM97",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 12.9,
+        "lowPrice": 12.0,
         "reverseHoloLow": null
       }
     }
@@ -6030,7 +6030,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Regice-ex-EM98",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 15.0,
         "reverseHoloLow": null
@@ -6101,7 +6101,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Regirock-ex-EM99",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 10.0,
         "reverseHoloLow": null
@@ -6171,9 +6171,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Registeel-ex-EM100",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 14.89,
+        "lowPrice": 11.99,
         "reverseHoloLow": null
       }
     }
@@ -6198,7 +6198,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Grass-Energy-EM101",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.5,
         "reverseHoloLow": 0.8
@@ -6225,7 +6225,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Fire-Energy-EM102",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.99,
         "reverseHoloLow": 1.5
@@ -6252,10 +6252,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Water-Energy-EM103",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 0.5,
-        "reverseHoloLow": 1.51
+        "lowPrice": 0.75,
+        "reverseHoloLow": 1.5
       }
     }
   },
@@ -6279,7 +6279,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Lightning-Energy-EM104",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.3,
         "reverseHoloLow": 0.5
@@ -6306,10 +6306,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Psychic-Energy-EM105",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.99,
-        "reverseHoloLow": 1.5
+        "reverseHoloLow": 1.0
       }
     }
   },
@@ -6333,10 +6333,10 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Fighting-Energy-EM106",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.49,
-        "reverseHoloLow": 0.5
+        "reverseHoloLow": 0.99
       }
     }
   },
@@ -6406,9 +6406,9 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Farfetchd-EM107",
-      "updatedAt": "2025-08-05",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 4.5,
+        "lowPrice": 4.0,
         "reverseHoloLow": null
       }
     }
@@ -6494,10 +6494,236 @@
       "large": "https://images.pokemontcg.io/ex9/3_hires.png"
     },
     "cardmarket": {
-      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Exploud-V2-EM3",
-      "updatedAt": "2025-08-08",
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Exploud-V1-EM3",
+      "updatedAt": "2025-08-28",
       "prices": {
-        "lowPrice": 3.75,
+        "lowPrice": 0.9,
+        "reverseHoloLow": 1.9
+      }
+    }
+  },
+  {
+    "id": "ex9-promo-35",
+    "name": "Loudred  (EM 35) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "hp": "80",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Whismur",
+    "evolvesTo": [
+      "Exploud"
+    ],
+    "attacks": [
+      {
+        "name": "Body Slam",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Double-edge",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "Loudred does 10 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "35",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      294
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex9/35.png",
+      "large": "https://images.pokemontcg.io/ex9/35_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Loudred-V1-EM35",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.02
+      }
+    }
+  },
+  {
+    "id": "ex9-promo-73",
+    "name": "Whismur  (EM 73) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "hp": "50",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesTo": [
+      "Loudred"
+    ],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": ""
+      },
+      {
+        "name": "Rollout",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "73",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      293
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex9/73.png",
+      "large": "https://images.pokemontcg.io/ex9/73_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Whismur-V1-EM73",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 0.02,
+        "reverseHoloLow": 0.49
+      }
+    }
+  },
+  {
+    "id": "ex9-promo-3",
+    "name": "Exploud  (EM 3) (Promo)",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "hp": "120",
+    "types": [
+      "Colorless"
+    ],
+    "evolvesFrom": "Loudred",
+    "attacks": [
+      {
+        "name": "Collect",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Draw 3 cards."
+      },
+      {
+        "name": "Body Slam",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Hyper Voice",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Mega Throw",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60+",
+        "text": "If the Defending Pokémon is Pokémon-ex, this attack does 60 damage plus 40 more damage."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "3",
+    "artist": "Hajime Kusajima",
+    "rarity": "Promo",
+    "nationalPokedexNumbers": [
+      295
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/ex9/3.png",
+      "large": "https://images.pokemontcg.io/ex9/3_hires.png"
+    },
+    "cardmarket": {
+      "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Exploud-V2-EM3",
+      "updatedAt": "2025-08-28",
+      "prices": {
+        "lowPrice": 7.5,
         "reverseHoloLow": null
       }
     }
@@ -6565,7 +6791,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Loudred-V2-EM35",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 11.9,
         "reverseHoloLow": null
@@ -6632,7 +6858,7 @@
     },
     "cardmarket": {
       "url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/EX-Emerald/Whismur-V2-EM73",
-      "updatedAt": "2025-08-08",
+      "updatedAt": "2025-08-28",
       "prices": {
         "lowPrice": 0.15,
         "reverseHoloLow": null

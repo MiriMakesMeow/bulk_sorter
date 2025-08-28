@@ -32,14 +32,14 @@ async def scrape_with_playwright(
         str: The HTML content of the page
     """
     from playwright.async_api import async_playwright
-    print(f"Using user agents from: {user_agents_file}")
+    #print(f"Using user agents from: {user_agents_file}")
 
     # Validate engine choice
     valid_engines = ['playwright', 'playwright-stealth', 'puppeteer-compat']
     if engine not in valid_engines:
         raise ValueError(f"Engine must be one of: {', '.join(valid_engines)}")
     
-    print(f"Scraping {url} with {engine} engine")
+    #print(f"Scraping {url} with {engine} engine")
     
     # Load user agents
     user_agents = _load_user_agents(user_agents_file)
