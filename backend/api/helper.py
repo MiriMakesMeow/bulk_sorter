@@ -5,7 +5,7 @@ import json
 from rapidfuzz import process, fuzz
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, supports_credentials=True)
 
 ALBUM_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../cache/users/admin/albums'))
 
@@ -52,6 +52,11 @@ def normalize_card(raw):
     }
 
 normalized_cards = [normalize_card(c) for c in cards]
+
+@app.before_request
+def handle_options():
+    if request.method == 'OPTIONS':
+        return '', 200
 
 @app.route("/search", methods=["GET"])
 def search_cards():
@@ -116,14 +121,17 @@ def get_album(album_name):
     return jsonify(album)
 
 
-@app.route("/album/<album_name>/add_card", methods=["POST"])
+@app.route("/album/<album_name>/add_cards", methods=["POST"])
 def add_card_to_album(album_name):
+    print("Called add_card_to_album")
     card_data = request.get_json()
     if not card_data or "card_id" not in card_data:
+        print("No card_id provided in request")
         return jsonify({"error": "Keine Karte angegeben"}), 400
 
     normal = card_data.get("count_normal", 1)
     reverse = card_data.get("count_reverse", 0)
+    print(f"Adding card {card_data['card_id']} to album {album_name} (normal: {normal}, reverse: {reverse})")
 
     album = load_album(album_name)
     if album is None:

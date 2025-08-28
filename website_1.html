@@ -627,9 +627,9 @@
           return Array.isArray(data) ? data : [];
         },
         async addCard(albumId, cardId) {
-          await http(`/album/${encodeURIComponent(albumId)}/cards`, {
+          await http(`/album/${encodeURIComponent(albumId)}/add_cards`, {
             method: "POST",
-            json: { id: cardId },
+            json: { card_id: cardId },
           });
         },
         async hasCard(albumId, cardId) {
