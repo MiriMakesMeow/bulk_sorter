@@ -37,77 +37,77 @@ class CardmarketPricePlugin:
                 value="Example Card",
                 field_type=DataType.STRING,
                 description="Name of the card",
-                accumulate=True
+                #accumulate=True
             ),
             ScrapedField(
                 name="card_set",
                 value="Example Set",
                 field_type=DataType.STRING,
                 description="Set/expansion the card belongs to",
-                accumulate=True
+                #accumulate=True
             ),
             ScrapedField(
                 name="available_items",
                 value=500,
                 field_type=DataType.INTEGER,
                 description="Number of available items for sale",
-                accumulate=True
+                #accumulate=True
             ),
             ScrapedField(
                 name="lowest_price",
                 value=1.00 if self.STORE_PRICES_AS_FLOAT else "1,00 €",
                 field_type=DataType.FLOAT if self.STORE_PRICES_AS_FLOAT else DataType.STRING,
                 description="Lowest price available for the card",
-                accumulate=True
+                #accumulate=True
             ),
             ScrapedField(
                 name="price_trend",
                 value=5.00 if self.STORE_PRICES_AS_FLOAT else "5,00 €",
                 field_type=DataType.FLOAT if self.STORE_PRICES_AS_FLOAT else DataType.STRING,
                 description="Price trend of the card",
-                accumulate=True
+                #accumulate=True
             ),
             ScrapedField(
                 name="avg_30_days",
                 value=4.75 if self.STORE_PRICES_AS_FLOAT else "4,75 €",
                 field_type=DataType.FLOAT if self.STORE_PRICES_AS_FLOAT else DataType.STRING,
                 description="Average price over the last 30 days",
-                accumulate=True
+                #accumulate=True
             ),
             ScrapedField(
                 name="avg_7_days",
                 value=4.50 if self.STORE_PRICES_AS_FLOAT else "4,50 €",
                 field_type=DataType.FLOAT if self.STORE_PRICES_AS_FLOAT else DataType.STRING,
                 description="Average price over the last 7 days",
-                accumulate=True
+                #accumulate=True
             ),
             ScrapedField(
                 name="avg_1_day",
                 value=4.25 if self.STORE_PRICES_AS_FLOAT else "4,25 €",
                 field_type=DataType.FLOAT if self.STORE_PRICES_AS_FLOAT else DataType.STRING,
                 description="Average price over the last day",
-                accumulate=True
+                #accumulate=True
             ),
             ScrapedField(
                 name="card_rarity",
                 value="Uncommon",
                 field_type=DataType.STRING,
                 description="Rarity of the card",
-                accumulate=True
+                #accumulate=True
             ),
             ScrapedField(
                 name="card_number",
                 value="123",
                 field_type=DataType.STRING,
                 description="Card number in the set",
-                accumulate=True
+                #accumulate=True
             ),
             ScrapedField(
                 name="card_expansion",
                 value="Example Set",
                 field_type=DataType.STRING,
                 description="Expansion/set the card belongs to",
-                accumulate=True
+                #accumulate=True
             )
         ]
 
@@ -195,7 +195,7 @@ class CardmarketPricePlugin:
                             value=card_name,
                             field_type=DataType.STRING,
                             description="Name of the card",
-                            accumulate=True
+                            #accumulate=True
                         ))
                         
                         results.append(ScrapedField(
@@ -203,7 +203,7 @@ class CardmarketPricePlugin:
                             value=card_set,
                             field_type=DataType.STRING,
                             description="Set/expansion the card belongs to",
-                            accumulate=True
+                            #accumulate=True
                         ))
         except Exception as e:
             # Continue even if card name extraction fails
@@ -257,7 +257,7 @@ class CardmarketPricePlugin:
                 value=rarity_value,
                 field_type=DataType.STRING,
                 description="Rarity of the card",
-                accumulate=True
+                #accumulate=True
             ))
         
         # Extract card number
@@ -273,7 +273,7 @@ class CardmarketPricePlugin:
                 value=number_value,
                 field_type=DataType.STRING,
                 description="Card number in the set",
-                accumulate=True
+                #accumulate=True
             ))
         
         # Extract available items
@@ -294,7 +294,7 @@ class CardmarketPricePlugin:
                 value=available_items_value,
                 field_type=DataType.INTEGER if isinstance(available_items_value, int) else DataType.STRING,
                 description="Number of available items for sale",
-                accumulate=True
+                #accumulate=True
             ))
         
         # Extract lowest price
@@ -314,7 +314,7 @@ class CardmarketPricePlugin:
                 value=lowest_price,
                 field_type=DataType.FLOAT if self.STORE_PRICES_AS_FLOAT else DataType.STRING,
                 description="Lowest price available for the card",
-                accumulate=True
+                #accumulate=True
             ))
         
         # Extract price trend
@@ -334,7 +334,7 @@ class CardmarketPricePlugin:
                 value=price_trend,
                 field_type=DataType.FLOAT if self.STORE_PRICES_AS_FLOAT else DataType.STRING,
                 description="Price trend of the card",
-                accumulate=True
+                #accumulate=True
             ))
         
         # Extract 30-day average
@@ -354,7 +354,7 @@ class CardmarketPricePlugin:
                 value=avg_30_days,
                 field_type=DataType.FLOAT if self.STORE_PRICES_AS_FLOAT else DataType.STRING,
                 description="Average price over the last 30 days",
-                accumulate=True
+                #accumulate=True
             ))
         
         # Extract 7-day average
@@ -374,7 +374,7 @@ class CardmarketPricePlugin:
                 value=avg_7_days,
                 field_type=DataType.FLOAT if self.STORE_PRICES_AS_FLOAT else DataType.STRING,
                 description="Average price over the last 7 days",
-                accumulate=True
+                #accumulate=True
             ))
         
         # Extract 1-day average
@@ -394,7 +394,7 @@ class CardmarketPricePlugin:
                 value=avg_1_day,
                 field_type=DataType.FLOAT if self.STORE_PRICES_AS_FLOAT else DataType.STRING,
                 description="Average price over the last day",
-                accumulate=True
+                #accumulate=True
             ))
         
         # Extract card expansion (though we already got it from the title)
@@ -410,7 +410,7 @@ class CardmarketPricePlugin:
                 value=card_expansion,
                 field_type=DataType.STRING,
                 description="Expansion/set the card belongs to",
-                accumulate=True
+                #accumulate=True
             ))
         
         return results

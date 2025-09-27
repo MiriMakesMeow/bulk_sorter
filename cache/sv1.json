@@ -15520,6 +15520,14 @@
     "images": {
       "small": "https://images.pokemontcg.io/sv1/248.png",
       "large": "https://images.pokemontcg.io/sv1/248_hires.png"
+    },
+        "cardmarket": {
+      "url": "https://www.cardmarket.com/de/Pokemon/Products/Singles/Scarlet-Violet/Iron-Treads-ex-V3-SVI248",
+      "updatedAt": "2025-08-08",
+      "prices": {
+        "lowPrice": null,
+        "reverseHoloLow": null
+      }
     }
   },
   {
