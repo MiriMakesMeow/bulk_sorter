@@ -39,6 +39,7 @@ def load_set_mapping(mapping_path: Path = MAPPING):
 
 
 def load_set_mapping_v2(mapping_path: Path = MAPPING_V2):
+
     with mapping_path.open("r", encoding="utf-8") as f:
         mapping = json.load(f)
     alias_to_master = {}
@@ -54,8 +55,11 @@ def load_set_mapping_v2(mapping_path: Path = MAPPING_V2):
 
 def load_cards_from_old_cache(set_id, base_path: Path = CACHE_PATH):
     path = base_path / f"{set_id}.json"
-    with path.open("r", encoding="utf-8") as f:
-        return json.load(f)
+    try:
+        with path.open("r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        print(f"{path} not found.")
 
 
 def save_updated_cards(set_id, cards, base_path: Path = CACHE_PATH):
@@ -84,7 +88,11 @@ def scrape_overview_prices(set_url_base: str, max_pages: int = 20) -> dict:
             break
 
         found = True
+        cancel_counter = 0
         for row in rows:
+            if cancel_counter == 2:
+                print(f"No card-URLs found for: \n{set_url_base}")
+                return None
             aria_labels = [svg.get("aria-label", "") for svg in row.select("svg[aria-label]")]
             if "Online Code Card" in aria_labels:
                 continue
@@ -94,6 +102,7 @@ def scrape_overview_prices(set_url_base: str, max_pages: int = 20) -> dict:
             price_rev_div = row.select_one('div.col-price.d-lg-flex')
 
             if not link or not number_div:
+                cancel_counter += 1
                 continue
 
             number = number_div.text.strip().lstrip("0")
@@ -132,11 +141,12 @@ def scrape_overview_prices(set_url_base: str, max_pages: int = 20) -> dict:
 
 def update_single_set_from_overview(set_id: str, mapped_name: str):
     print(f"\nUpdating set: {set_id} → {mapped_name}")
-    cards = load_cards_from_old_cache(set_id, OLD_CACHE_PATH)
+    cards = load_cards_from_old_cache(set_id, CACHE_PATH)
     updated_epoch = datetime.now()
-    overview_url = f"https://www.cardmarket.com/en/pokemon/products/singles/{mapped_name}?idRarity=0&sort=collectorsnumber-asc"
+    overview_url = f"https://www.cardmarket.com/en/Pokemon/Products/Singles/{mapped_name}?idRarity=0&sortBy=collectorsnumber_asc"
+    svp_url = f"https://www.cardmarket.com/en/Pokemon/Products/Singles/SV-Black-Star-Promos?idRarity=0&sortBy=collectorsnumber_asc&perSite=30"
     overview = scrape_overview_prices(overview_url)
-
+    
     if overview is None:
         print(f"Warning: no cards found for {mapped_name} at {overview_url}")
         return
@@ -288,22 +298,23 @@ def update_prices_in_csv():
                 except Exception as e:
                     row["online_price"] = ""
                     print(f"⚠️ Fehler beim Verarbeiten von URL {url}: {e}")
-                    no_url_found.append()
+                    no_url_found.append(url)
             else:
                 row["online_price"] = ""
                 print(f"⚠️  Keine URL in Cache für {row}")
                 no_url_found.append(f"{set_code} - {row['nr']}")
             writer.writerow(row)
-    set(set_not_found)
-    set(no_url_found)
+    set_not_found = sorted(set(set_not_found))
+    no_url_found = sorted(set(no_url_found))
     print(f"Sets not mapped yet: {set_not_found}")
     print(f"Cards without URL or price: {no_url_found}")
     
             
-update_prices_in_csv()
-# if __name__ == "__main__":
-#     set_mapping = load_set_mapping("set_mapping.json")
-#     # update_single_set_from_overview("sv3pt5", set_mapping["sv3pt5"])
+# update_prices_in_csv()
+if __name__ == "__main__":
+    # set_mapping = load_set_mapping("set_mapping.json")
+    set_mapping, master_to_aliases = load_set_mapping_v2()
+    update_single_set_from_overview("svp", set_mapping["svp"])
 
-#     for set_id, mapped_set_name in set_mapping.items():
-#         update_single_set_from_overview(set_id, mapped_set_name)
+    # for set_id, mapped_set_name in set_mapping.items():
+    #     update_single_set_from_overview(set_id, mapped_set_name)
