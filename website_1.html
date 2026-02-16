@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="de">
   <head>
     <meta charset="UTF-8" />
@@ -24,7 +24,6 @@
         --ui-bg: #fafafa;
         --accent: #2e6cf6;
         --ok: #16a34a;
-        --hero-top-offset: clamp(220px, 25vh, 320px);
       }
       * {
         box-sizing: border-box;
@@ -33,7 +32,12 @@
       body {
         height: 100%;
         margin: 0;
-        font-family: "Comic Relief", system-ui, -apple-system, Segoe UI, Roboto,
+        font-family:
+          "Comic Relief",
+          system-ui,
+          -apple-system,
+          Segoe UI,
+          Roboto,
           Arial;
         color: #111;
       }
@@ -51,12 +55,16 @@
         position: relative;
         min-height: 75vh;
         display: grid;
-        grid-template-columns: 1fr minmax(320px, 480px);
-        align-items: start;
+        grid-template-columns: minmax(320px, 420px) minmax(360px, 480px) minmax(
+            360px,
+            520px
+          );
+        grid-template-rows: auto 1fr;  
+        align-items: center;
+        row-gap: 3rem;
         gap: 2rem;
-        padding: clamp(140px, 10vh, 220px) var(--page-side) 48px;
-        background: url("./img/gengar.png") right 6% center / min(420px, 50vw)
-            auto no-repeat,
+        padding: 140px var(--page-side) 48px;
+        background:
           radial-gradient(
             ellipse at center,
             rgba(0, 0, 0, 0.15),
@@ -102,89 +110,41 @@
         color: #9b9b9b;
       }
 
-      .album {
-        background: rgba(250, 250, 250, 0.35);
-        backdrop-filter: blur(2px);
-        border: var(--card-border);
+      .gengar-center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .gengar-center img {
+        max-width: 100%;
+        height: auto;
+      }
+
+      .album-info {
+        background: rgba(250, 250, 250, 0.9);
         border-radius: var(--card-radius);
         box-shadow: var(--card-shadow);
-        padding: 0.5rem 0.75rem;
-        width: min(520px, 94vw);
-        max-height: 48vh;
+        padding: 0.75rem 0.9rem;
+        border: var(--card-border);
+        grid-row: 2;
+      }
+
+      .album-cards-panel {
+        background: rgba(250, 250, 250, 0.9);
+        border-radius: var(--card-radius);
+        box-shadow: var(--card-shadow);
+        padding: 0.75rem 0.9rem;
+        border: var(--card-border);
+        max-height: 60vh;
         overflow: auto;
-      }
-      /* Desktop-Layout: Album zweispaltig, keine Überlagerungen */
-      /* Desktop-Layout: Album rechts, zweispaltig, ohne Überlappungen */
-      @media (min-width: 981px) {
-        /* Mehr Platz für die rechte Spalte; Album soll eher am rechten Rand sitzen */
-        :root { --hero-top-offset: 100px; }
-        .hero {
-          grid-template-columns: minmax(520px, 1fr) minmax(760px, 980px);
-          min-height:120vh; /* nutzt die untere Lücke */
-        }
-
-        /* Album in die rechte Spalte, nach unten unter den Schriftzug schieben */
-        .album {
-          grid-column: 2; /* rechte Spalte erzwingen */
-          justify-self: end; /* am rechten Rand der Spalte ausrichten */
-          align-self: start;
-          margin-top: var(--hero-top-offset); /* unter die Headline rutschen */
-
-          /* zweispaltiges Innenlayout: links Infos/Chart, rechts Top-3-Karten */
-          display: grid;
-          grid-template-columns: 1fr 400px; /* rechts genug Breite für Karten */
-          column-gap: 16px;
-          row-gap: 12px;
-
-          max-height: none; /* volle Höhe erlauben */
-          width: auto;
-          max-width: none;
-        }
-
-        /* Kartenliste dauerhaft rechts und über die volle Album-Höhe */
-        #albumCardList {
-          grid-column: 2; /* rechte Album-Spalte */
-          grid-row: 1 / -1; /* von oben bis unten */
-          align-self: start;
-          overflow: auto; /* scrollt, falls nötig */
-          max-height: calc(88vh - var(--hero-top-offset) - 24px);
-        }
+        grid-row: 2;
       }
 
-      /* XL-Desktops: noch etwas mehr Luft rechts */
-      @media (min-width: 1280px) {
-        .hero {
-          grid-template-columns: minmax(520px, 1fr) minmax(820px, 1040px);
-        }
-        .album {
-          grid-template-columns: 1fr 440px;
-        }
-      }
-
-      /* etwas kompaktere Kartenzeilen rechts */
-      #albumCardList .result-line {
-        grid-template-columns: 56px 1fr auto 48px;
-      }
-
-      /* Kartenkacheln NUR im Dashboard rechts etwas kompakter darstellen */
-      #albumCardList .result-line {
-        grid-template-columns: 56px 1fr auto 48px;
-      }
-
-      .section-title {
-        background: var(--dark);
-        color: #fff;
-        padding: 0.5rem 1rem;
-        border-radius: 10px;
-        text-decoration: underline;
-        text-shadow: 2px 2px rgba(0, 0, 0, 1);
-        width: max-content;
-        margin: 0.5rem 0 1rem;
-      }
       .select-row {
         display: flex;
         align-items: center;
         gap: 0.5rem;
+        margin-bottom: 0.5rem;
       }
       .select-row select {
         flex: 1 1 auto;
@@ -199,6 +159,18 @@
         border-radius: 999px;
         padding: 0.25rem 0.6rem;
         font-size: 0.9rem;
+      }
+
+      .section-title {
+        background: var(--dark);
+        color: #fff;
+        padding: 0.5rem 1rem;
+        border-radius: 10px;
+        text-decoration: underline;
+        text-shadow: 2px 2px rgba(0, 0, 0, 1);
+        width: max-content;
+        margin: 0.5rem 0 1rem;
+        cursor: pointer;
       }
 
       .kpis {
@@ -230,6 +202,7 @@
         gap: 0.5rem;
         align-items: center;
         margin: 0.3rem 0 1rem;
+        font-size: 0.9rem;
       }
       .range button {
         border: 1px solid #ddd;
@@ -251,11 +224,13 @@
         border-radius: var(--card-radius);
         box-shadow: var(--card-shadow);
         padding: 0.5rem;
+        height: 190px;
       }
       .note {
         display: block;
         margin-top: 0.5rem;
         opacity: 0.6;
+        font-size: 0.8rem;
       }
 
       .main {
@@ -311,36 +286,29 @@
         border: var(--card-border);
       }
 
-      @media (max-width: 980px) {
+      @media (max-width: 1100px) {
         .hero {
-          grid-template-columns: 1fr;
-          padding: 200px 20px 36px;
-          background: url("./img/gengar.png") right 4% center / min(360px, 60vw)
-              auto no-repeat,
-            radial-gradient(
-              ellipse at center,
-              rgba(0, 0, 0, 0.15),
-              rgba(0, 0, 0, 0.45)
-            ),
-            url("./img/background.jpg") center/cover no-repeat;
+          grid-template-columns: minmax(320px, 1fr);
+          grid-auto-rows: auto;
+          padding: 180px 20px 36px;
         }
-        .album {
-          position: static;
-          transform: none;
-          right: auto;
-          top: auto;
-          width: min(480px, 94vw);
-          margin: 64px auto 0;
-          max-height: 46vh;
-        }
-        .main {
-          padding: 16px 20px;
-          flex-direction: column;
-        }
-        .card {
-          max-width: 100%;
+        .gengar-center {
+          order: -1;
+          grid-row: 2;
         }
       }
+
+      @media (min-width: 1100px) {
+        .hero {
+          max-width: 5000px; /* Breite des Gesamtblocks */
+          margin: 0 auto; /* mittig im Bildschirm */
+          grid-template-columns: 1fr 1fr; /* zwei gleich breite Spalten */
+          align-items: start; /* Boxen oben ausrichten */
+          gap: 3rem; /* Abstand zwischen links/rechts */
+          padding-top: 180px; /* etwas weiter unter den Schriftzug */
+        }
+      }
+
       @media (max-width: 720px) {
         .menu {
           left: 16px;
@@ -357,19 +325,13 @@
         }
         .hero {
           padding-top: 210px;
-          background: url("./img/gengar.png") right 2% center / min(300px, 58vw)
-              auto no-repeat,
-            radial-gradient(
-              ellipse at center,
-              rgba(0, 0, 0, 0.15),
-              rgba(0, 0, 0, 0.45)
-            ),
-            url("./img/background.jpg") center/cover no-repeat;
         }
-        .album {
-          width: min(440px, 94vw);
-          max-height: 44vh;
-          margin-top: 72px;
+        .main {
+          padding: 16px 20px;
+          flex-direction: column;
+        }
+        .card {
+          max-width: 100%;
         }
       }
 
@@ -399,25 +361,11 @@
       }
       .s-input {
         width: 100%;
-        padding: 0.7rem 2.5rem 0.7rem 0.9rem;
+        padding: 0.7rem 0.9rem;
         border: 2px solid #111;
         border-radius: 14px;
         font-size: 18px;
         outline: none;
-      }
-      .s-clear {
-        position: absolute;
-        right: 10px;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 28px;
-        height: 28px;
-        border-radius: 999px;
-        background: #eef2ff;
-        border: 1px solid #c7d2fe;
-        color: #1d4ed8;
-        font-weight: 900;
-        cursor: pointer;
       }
       .filters {
         display: flex;
@@ -493,6 +441,54 @@
         border-color: #ddd;
         background: #f5f5f5;
       }
+
+      /* Album-Detail-Ansicht */
+
+      .edit-row {
+        display: grid;
+        grid-template-columns: 64px 1fr 260px 60px;
+        gap: 12px;
+        align-items: center;
+        padding: 10px 12px;
+        border: 1px solid #eee;
+        border-radius: 12px;
+        background: #fff;
+      }
+      .edit-row img {
+        width: 64px;
+        height: 64px;
+        border-radius: 8px;
+        object-fit: cover;
+      }
+      .edit-row .meta {
+        opacity: 0.7;
+        font-size: 13px;
+      }
+      .edit-row input[type="number"] {
+        width: 60px;
+        padding: 0.25rem 0.4rem;
+        border-radius: 6px;
+        border: 1px solid #ddd;
+        font-size: 14px;
+      }
+      .qty-minus,
+      .qty-plus {
+        width: 28px;
+        height: 28px;
+        border-radius: 6px;
+        border: 1px solid #ddd;
+        background: #f3f4f6;
+        cursor: pointer;
+        font-weight: bold;
+      }
+      .delete-btn {
+        background: #ef4444;
+        color: #fff;
+        border-radius: 8px;
+        border: none;
+        cursor: pointer;
+        padding: 0.4rem 0.6rem;
+      }
     </style>
   </head>
   <body>
@@ -503,23 +499,25 @@
         <nav class="menu">
           <a href="#" data-nav="home">Home</a>
           <a href="#" data-nav="search">Kartensuche</a>
+          <a href="#" data-nav="albumDetail">Album</a>
           <a href="#" data-nav="contact">Kontakt</a>
         </nav>
         <h1 class="headline">
           ...für die <span class="grey">gesamte</span> Sammlung!
         </h1>
 
-        <div class="album" id="albumBox">
+        <!-- Linke Seite: Album-Info -->
+        <div class="album-info" id="albumInfo">
           <div class="select-row">
             <select id="albumSelect">
-              <option value="b1">OG & Niclas</option>
+              <option value="b1">OG &amp; Niclas</option>
               <option value="b2">Beispielalbum 2</option>
               <option value="b3">Beispielalbum 3</option>
             </select>
             <span class="album-badge" id="albumCountBadge">0</span>
           </div>
 
-          <h2 class="section-title" id="albumTitle">OG & Niclas</h2>
+          <h2 class="section-title" id="albumTitle">OG &amp; Niclas</h2>
 
           <div class="kpis">
             <div class="kpi">
@@ -547,9 +545,15 @@
           <div class="chart-wrap"><canvas id="chart"></canvas></div>
           <small class="note"
             >Quelle: Bewertung deines Albums „<span id="note-album"
-              >OG & Niclas</span
+              >OG &amp; Niclas</span
             >“</small
           >
+        </div>
+
+        <!-- Rechte Seite: Top-Karten -->
+        <div class="album-cards-panel" id="albumCardsPanel">
+          <h2 class="section-title" style="margin-top: 0">Top-Karten</h2>
+          <div id="albumCardList"></div>
         </div>
       </div>
 
@@ -601,7 +605,6 @@
               class="s-input"
               placeholder="Karte suchen (Name, Set, Nummer) …"
             />
-            <button id="sClear" class="s-clear">×</button>
           </div>
           <button id="sGo" class="btn primary">Suchen</button>
         </div>
@@ -610,7 +613,7 @@
       <div class="filters">
         <label for="albumSelect2" style="opacity: 0.7">Ziel-Album:</label>
         <select id="albumSelect2">
-          <option value="b1">OG & Niclas</option>
+          <option value="b1">OG &amp; Niclas</option>
           <option value="b2">Beispielalbum 2</option>
           <option value="b3">Beispielalbum 3</option>
         </select>
@@ -619,11 +622,34 @@
       <div id="results" class="results"></div>
     </section>
 
+    <!-- ALBUM DETAIL -->
+    <section id="albumDetail" class="screen">
+      <div class="search-header">
+        <div class="search-bar">
+          <button class="back" data-nav="home">← Zurück</button>
+          <h2 id="detailTitle" style="margin-left: 10px">Album Übersicht</h2>
+        </div>
+      </div>
+
+      <div class="filters">
+        <label for="detailAlbumSelect" style="opacity: 0.7">Album:</label>
+        <select id="detailAlbumSelect">
+          <option value="b1">OG &amp; Niclas</option>
+          <option value="b2">Beispielalbum 2</option>
+          <option value="b3">Beispielalbum 3</option>
+        </select>
+        <span id="detailCountBadge" class="album-badge">0</span>
+      </div>
+
+      <div id="detailResults" class="results"></div>
+    </section>
+
     <script>
       /* SPA Navigation */
       const screens = {
         home: document.getElementById("home"),
         search: document.getElementById("search"),
+        albumDetail: document.getElementById("albumDetail"),
       };
       function showScreen(name) {
         Object.values(screens).forEach((s) => s.classList.remove("active"));
@@ -635,6 +661,9 @@
         a.addEventListener("click", (e) => {
           e.preventDefault();
           showScreen(a.dataset.nav);
+          if (a.dataset.nav === "albumDetail") {
+            loadAlbumDetail();
+          }
         });
       });
 
@@ -649,11 +678,14 @@
         priceLow: 12.34,
       };
 
+      // Clientseitige Zusatzinfos (nur UI)
+      const albumClientMeta = new Map(); // key: `${albumId}:${cardId}`
+
       /* --- API Layer --- */
       const API_BASE = "http://127.0.0.1:5000";
       async function http(
         path,
-        { method = "GET", json, headers, ...rest } = {}
+        { method = "GET", json, headers, ...rest } = {},
       ) {
         const res = await fetch(API_BASE + path, {
           method,
@@ -676,7 +708,7 @@
       const api = {
         async getAlbumCards(albumId) {
           const data = await http(
-            `/album/${encodeURIComponent(albumId)}/cards`
+            `/album/${encodeURIComponent(albumId)}/cards`,
           );
           return data && Array.isArray(data.cards) ? data.cards : [];
         },
@@ -696,7 +728,6 @@
             const data = await http(`/search?q=${encodeURIComponent(query)}`);
             return Array.isArray(data) ? data : [];
           } catch (err) {
-            // Fallback zum Testen, wenn Backend nicht erreichbar
             const q = query.toLowerCase();
             const demo = [];
             if (q.includes("pikachu")) demo.push(TEST_CARD);
@@ -708,20 +739,15 @@
 
       /* HOME KPIs & Chart */
       function renderAlbumCards(cards) {
-        let list = document.getElementById("albumCardList");
-        if (!list) {
-          list = document.createElement("div");
-          list.id = "albumCardList";
-          document.getElementById("albumBox").appendChild(list);
-        }
+        const list = document.getElementById("albumCardList");
         list.innerHTML = "";
 
         if (!cards.length) {
-          list.innerHTML = `<p style="padding:6px;color:#666">Noch keine Karten im Album.</p>`;
+          list.innerHTML =
+            '<p style="padding:6px;color:#666">Noch keine Karten im Album.</p>';
           return;
         }
 
-        // Top-3 nach priceLow abwärts
         const top = [...cards]
           .sort((a, b) => (b.priceLow ?? 0) - (a.priceLow ?? 0))
           .slice(0, 3);
@@ -735,11 +761,11 @@
             <div>
               <h4>${c.name}</h4>
               <div class="meta">${c.set || ""}${
-            c.number ? " · #" + c.number : ""
-          }</div>
+                c.number ? " · #" + c.number : ""
+              }</div>
               <div class="meta">Normal: ${c.count_normal || 0} · Reverse: ${
-            c.count_reverse || 0
-          }</div>
+                c.count_reverse || 0
+              }</div>
             </div>
             <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
             <button class="btn qty" title="Gesamtmenge">${qty}</button>
@@ -755,6 +781,7 @@
 
       const albumSelect = document.getElementById("albumSelect");
       const albumSelect2 = document.getElementById("albumSelect2");
+      const detailAlbumSelect = document.getElementById("detailAlbumSelect");
       const badge = document.getElementById("albumCountBadge");
       const kpiCount = document.getElementById("kpi-count");
       const kpiTotal = document.getElementById("kpi-total");
@@ -762,12 +789,18 @@
       const kpiUpdated = document.getElementById("kpi-updated");
       const albumTitle = document.getElementById("albumTitle");
       const noteAlbum = document.getElementById("note-album");
+      const detailTitle = document.getElementById("detailTitle");
+      const detailCountBadge = document.getElementById("detailCountBadge");
+      const detailResults = document.getElementById("detailResults");
 
       async function updateAlbumUI() {
         const id = albumSelect.value;
         const name = albumSelect.options[albumSelect.selectedIndex].textContent;
         albumTitle.textContent = name;
         noteAlbum.textContent = name;
+
+        detailAlbumSelect.value = id;
+        detailTitle.textContent = `Album Übersicht: ${name}`;
 
         let cards = [];
         try {
@@ -776,15 +809,13 @@
           cards = [];
         }
 
-        // totale Stückzahl (nicht nur verschiedene)
         const totalQty = cards.reduce(
           (s, c) => s + (c.count_normal || 0) + (c.count_reverse || 0),
-          0
+          0,
         );
         badge.textContent = String(totalQty);
         kpiCount.textContent = String(totalQty);
 
-        // Wert = Preis * Menge
         const totalValue = cards.reduce((s, c) => {
           const price = typeof c.priceLow === "number" ? c.priceLow : 0;
           const qty = (c.count_normal || 0) + (c.count_reverse || 0);
@@ -799,9 +830,23 @@
       }
 
       albumSelect.addEventListener("change", async () => {
-        albumSelect2.value = albumSelect.value; // Dropdowns synchronisieren
+        albumSelect2.value = albumSelect.value;
+        detailAlbumSelect.value = albumSelect.value;
         await updateAlbumUI();
         await refreshSearchButtonsState?.();
+      });
+
+      detailAlbumSelect.addEventListener("change", async () => {
+        albumSelect.value = detailAlbumSelect.value;
+        albumSelect2.value = detailAlbumSelect.value;
+        await updateAlbumUI();
+        await loadAlbumDetail();
+      });
+
+      albumTitle.addEventListener("click", async () => {
+        detailAlbumSelect.value = albumSelect.value;
+        await loadAlbumDetail();
+        showScreen("albumDetail");
       });
 
       // Chart (Dummy)
@@ -833,12 +878,11 @@
               y: { ticks: { font: { size: 12 } } },
             },
           },
-        }
+        },
       );
 
       /* SEARCH */
       const sQuery = document.getElementById("sQuery");
-      const sClear = document.getElementById("sClear");
       const sGo = document.getElementById("sGo");
       const results = document.getElementById("results");
 
@@ -849,13 +893,13 @@
             <div>
               <h4>${c.name}</h4>
               <div class="meta">${c.set || ""}${
-          c.number ? " · #" + c.number : ""
-        }${c.rarity ? " · " + c.rarity : ""}</div>
+                c.number ? " · #" + c.number : ""
+              }${c.rarity ? " · " + c.rarity : ""}</div>
             </div>
             <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
             <button class="btn ${disabled ? "ok" : ""} btn-add" data-id="${
-          c.id
-        }" ${disabled ? "disabled" : ""}>
+              c.id
+            }" ${disabled ? "disabled" : ""}>
               ${disabled ? "Hinzugefügt" : "Zu Album"}
             </button>
           </div>`;
@@ -864,11 +908,12 @@
       async function renderSearch(items) {
         const aid = albumSelect2.value;
         if (!items.length) {
-          results.innerHTML = `<div style="grid-column:1/-1;padding:8px;color:#666">Keine Treffer</div>`;
+          results.innerHTML =
+            '<div style="grid-column:1/-1;padding:8px;color:#666">Keine Treffer</div>';
           return;
         }
         const flags = await Promise.all(
-          items.map((it) => api.hasCard(aid, it.id).catch(() => false))
+          items.map((it) => api.hasCard(aid, it.id).catch(() => false)),
         );
         results.innerHTML = items
           .map((it, i) => resultRowHtml(it, flags[i]))
@@ -906,11 +951,6 @@
       }
 
       sGo.addEventListener("click", doSearch);
-      sClear.addEventListener("click", () => {
-        sQuery.value = "";
-        sQuery.focus();
-        doSearch();
-      });
       sQuery.addEventListener("keydown", (e) => {
         if (e.key === "Enter") doSearch();
       });
@@ -928,10 +968,169 @@
         }
       }
 
+      /* Album-Detail */
+
+      function renderAlbumDetailCards(albumId, cards) {
+        if (!cards.length) {
+          detailResults.innerHTML =
+            '<div style="padding:40px;text-align:center;color:#666">Noch keine Karten in diesem Album.</div>';
+          detailCountBadge.textContent = "0";
+          return;
+        }
+
+        const totalQty = cards.reduce(
+          (s, c) => s + (c.count_normal || 0) + (c.count_reverse || 0),
+          0,
+        );
+        detailCountBadge.textContent = String(totalQty);
+
+        detailResults.innerHTML = cards
+          .map((c) => {
+            const cid = c.id || c.card_id;
+            const key = `${detailAlbumSelect.value}:${cid}`;
+            const meta = albumClientMeta.get(key) || {
+              qty: (c.count_normal || 0) + (c.count_reverse || 0),
+              finish: c.count_reverse && !c.count_normal ? "reverse" : "normal",
+              firstEdition: false,
+            };
+
+            return `
+          <div class="edit-row" data-id="${cid}">
+            <img src="${c.image || ""}" alt="">
+            <div>
+              <h4>${c.name}</h4>
+              <div class="meta">${c.set || ""}${
+                c.number ? " · #" + c.number : ""
+              }${c.rarity ? " · " + c.rarity : ""}</div>
+              <div class="meta">Preis: ${(c.priceLow ?? 0).toFixed(2)} €</div>
+            </div>
+            <div>
+              <div class="meta">Menge</div>
+              <div style="display:flex;align-items:center;gap:4px;">
+                <button class="qty-minus" data-role="qty">-</button>
+                <input type="number" min="0" value="${
+                  meta.qty
+                }" data-role="qty-input">
+                <button class="qty-plus" data-role="qty">+</button>
+              </div>
+              <div style="margin-top:6px;font-size:13px;">
+                <label style="margin-right:8px;">
+                  <input type="radio" name="finish-${cid}" value="normal" ${
+                    meta.finish === "normal" ? "checked" : ""
+                  }> Normal
+                </label>
+                <label style="margin-right:8px;">
+                  <input type="radio" name="finish-${cid}" value="holo" ${
+                    meta.finish === "holo" ? "checked" : ""
+                  }> Holo
+                </label>
+                <label>
+                  <input type="radio" name="finish-${cid}" value="reverse" ${
+                    meta.finish === "reverse" ? "checked" : ""
+                  }> Reverse
+                </label>
+              </div>
+              <div style="margin-top:6px;font-size:13px;">
+                <label>
+                  <input type="checkbox" data-role="firstEdition" ${
+                    meta.firstEdition ? "checked" : ""
+                  }> First Edition
+                </label>
+              </div>
+            </div>
+            <button class="delete-btn">Löschen</button>
+          </div>`;
+          })
+          .join("");
+
+        detailResults
+          .querySelectorAll(".qty-plus, .qty-minus")
+          .forEach((btn) => btn.addEventListener("click", onQtyButtonClick));
+        detailResults
+          .querySelectorAll('input[data-role="qty-input"]')
+          .forEach((input) =>
+            input.addEventListener("change", onQtyInputChange),
+          );
+        detailResults
+          .querySelectorAll(
+            'input[name^="finish-"], [data-role="firstEdition"]',
+          )
+          .forEach((el) =>
+            el.addEventListener("change", (e) =>
+              saveMetaFromRow(e.currentTarget.closest(".edit-row")),
+            ),
+          );
+        detailResults
+          .querySelectorAll(".delete-btn")
+          .forEach((btn) => btn.addEventListener("click", onDeleteClick));
+      }
+
+      async function loadAlbumDetail() {
+        const albumId = detailAlbumSelect.value;
+        const name =
+          detailAlbumSelect.options[detailAlbumSelect.selectedIndex]
+            .textContent;
+        detailTitle.textContent = `Album Übersicht: ${name}`;
+        const cards = await api.getAlbumCards(albumId);
+        renderAlbumDetailCards(albumId, cards);
+      }
+
+      function saveMetaFromRow(row) {
+        const albumId = detailAlbumSelect.value;
+        const cardId = row.dataset.id;
+        const key = `${albumId}:${cardId}`;
+
+        const qtyInput = row.querySelector('input[data-role="qty-input"]');
+        let qty = parseInt(qtyInput.value || "0", 10);
+        if (isNaN(qty) || qty < 0) qty = 0;
+        qtyInput.value = String(qty);
+
+        const finish =
+          row.querySelector(`input[name="finish-${cardId}"]:checked`)?.value ||
+          "normal";
+
+        const firstEdition = row.querySelector(
+          '[data-role="firstEdition"]',
+        ).checked;
+
+        albumClientMeta.set(key, { qty, finish, firstEdition });
+      }
+
+      function onQtyButtonClick(e) {
+        const btn = e.currentTarget;
+        const row = btn.closest(".edit-row");
+        const input = row.querySelector('input[data-role="qty-input"]');
+        let val = parseInt(input.value || "0", 10);
+        if (isNaN(val)) val = 0;
+
+        if (btn.classList.contains("qty-plus")) val++;
+        if (btn.classList.contains("qty-minus") && val > 0) val--;
+
+        input.value = String(val);
+        saveMetaFromRow(row);
+      }
+
+      function onQtyInputChange(e) {
+        const row = e.currentTarget.closest(".edit-row");
+        saveMetaFromRow(row);
+      }
+
+      function onDeleteClick(e) {
+        const row = e.currentTarget.closest(".edit-row");
+        const albumId = detailAlbumSelect.value;
+        const cardId = row.dataset.id;
+        const key = `${albumId}:${cardId}`;
+        if (!confirm("Karte wirklich aus Album löschen?")) return;
+        row.remove();
+        albumClientMeta.delete(key);
+      }
+
       // INIT
       (async function init() {
-        albumSelect2.value = albumSelect.value; // Dropdowns synchron
-        await updateAlbumUI(); // KPIs + Dashboard initial
+        albumSelect2.value = albumSelect.value;
+        detailAlbumSelect.value = albumSelect.value;
+        await updateAlbumUI();
+        await loadAlbumDetail();
         showScreen("home");
       })();
     </script>
