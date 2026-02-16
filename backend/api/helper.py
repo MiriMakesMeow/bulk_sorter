@@ -1,5 +1,9 @@
 import os
 import json
+from pathlib import Path
+CACHE_PATH = Path(__file__).parent.parent.parent / "cache"  # 3 Ebenen hoch: api → backend → root → cache
+ALBUM_PATH = Path(__file__).parent.parent.parent / "cache/users/admin/albums"
+
 
 ALBUM_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../cache/users/admin/albums'))
 

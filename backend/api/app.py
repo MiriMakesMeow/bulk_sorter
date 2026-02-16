@@ -3,7 +3,20 @@ from flask_cors import CORS
 import os
 import json
 from rapidfuzz import process, fuzz
+from pathlib import Path
+
+print("🔍 STARTING Bulksorter API...")
+print("Cache files:", len(list(Path("cache").glob("*.json"))))
+
 from helper import load_set_mapping, load_cards, normalize_card, lookup_card_by_id, load_album, save_album, ALBUM_PATH
+
+#Debug Zeilen
+print("🔍 LOADING CARDS...")
+cards = load_cards()
+print(f"✅ Loaded {len(cards)} RAW cards")
+normalized_cards = [normalize_card(c) for c in cards]
+print(f"✅ Normalized {len(normalized_cards)} cards")
+print("🚀 API ready: http://localhost:5000/search?q=pikachu")
 
 # Initialisiere Flask-App
 app = Flask(__name__)
