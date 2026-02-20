@@ -3,12 +3,15 @@ from flask_cors import CORS
 import os
 import json
 from rapidfuzz import process, fuzz
+import sqlite3
 from pathlib import Path
+
+DB_PATH = Path(__file__).parent.parent / "db" / "cards.db"
 
 print("🔍 STARTING Bulksorter API...")
 print("Cache files:", len(list(Path("cache").glob("*.json"))))
 
-from helper import load_set_mapping, load_cards, normalize_card, lookup_card_by_id, load_album, save_album, ALBUM_PATH
+from helper import load_set_mapping, load_cards, normalize_card, lookup_card_by_id, load_album, save_album, ALBUM_PATH, get_db_connection
 
 #Debug Zeilen
 print("🔍 LOADING CARDS...")
@@ -163,6 +166,61 @@ def get_card_details():
     print(card)
     return jsonify(card)
 
+# --------- SQLite API ---------
+@app.route("/sets", methods=["GET"])
+def list_sets():
+    conn = get_db_connection()
+    cur = conn.cursor()
+    cur.execute("SELECT code, name, short_code FROM sets ORDER BY name")
+    rows = cur.fetchall()
+    conn.close()
+
+    sets = [
+        {"code": r["code"], "name": r["name"], "short_code": r["short_code"]}
+        for r in rows
+    ]
+    return jsonify(sets)
+
+@app.route("/sets/<set_code>/cards", methods=["GET"])
+def get_cards_for_set(set_code):
+    """
+    Liefert alle Karten eines Sets inkl. Bild + Normal/Reverse-Preis (aus SQLite).
+    """
+    conn = get_db_connection()
+    cur = conn.cursor()
+
+    cur.execute("""
+        SELECT
+            c.id,
+            c.name,
+            c.number,
+            c.image_small,
+            c.set_code,
+            MAX(CASE WHEN cp.variant = 'NORMAL' THEN cp.price_en_nm_de END) AS price_normal,
+            MAX(CASE WHEN cp.variant = 'REVERSE' THEN cp.price_en_nm_de END) AS price_reverse
+        FROM cards c
+        LEFT JOIN card_prices cp ON cp.card_id = c.id
+        WHERE c.set_code = ?
+        GROUP BY c.id, c.name, c.number, c.image_small, c.set_code
+        ORDER BY CAST(c.number AS INTEGER)
+    """, (set_code,))
+
+    rows = cur.fetchall()
+    conn.close()
+
+    cards = []
+    for r in rows:
+        cards.append({
+            "id": r["id"],
+            "name": r["name"],
+            "number": r["number"],
+            "image_small": r["image_small"],
+            "set_code": r["set_code"],
+            "price_normal": r["price_normal"],
+            "price_reverse": r["price_reverse"],
+        })
+
+    return jsonify({"set_code": set_code, "cards": cards})
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)

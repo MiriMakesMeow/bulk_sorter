@@ -644,6 +644,23 @@
       <div id="detailResults" class="results"></div>
     </section>
 
+    <!-- SETS (für spätere Erweiterung) -->
+    <section id="sets">
+      <!-- Set-Auswahl -->
+      <div>
+        <label for="set-select">Set wählen:</label>
+        <input list="set-options" id="set-select" placeholder="sv9, base2, ..." />
+        <datalist id="set-options">
+          <!-- wird später dynamisch gefüllt -->
+        </datalist>
+        <button id="load-set">Set laden</button>
+      </div>
+
+      <!-- Bereich für Karten -->
+      <div id="card-grid" class="card-grid"></div>
+    </section>
+
+    <!----- SCRIPTS ----->
     <script>
       /* SPA Navigation */
       const screens = {
@@ -1125,14 +1142,77 @@
         albumClientMeta.delete(key);
       }
 
+      // Set-Detail (für spätere Erweiterung)
+      async function loadSets() {
+        const res = await fetch(`${API_BASE}/sets`);
+        const sets = await res.json();
+        const datalist = document.getElementById("set-options");
+        datalist.innerHTML = "";
+
+        sets.forEach(s => {
+          const opt = document.createElement("option");
+          opt.value = s.code;                       // z.B. "sv9"
+          opt.label = s.name || s.code;             // z.B. "Journey Together"
+          datalist.appendChild(opt);
+        });
+      }
+
+      document.getElementById("load-set").addEventListener("click", () => {
+        const setCode = document.getElementById("set-select").value.trim();
+        if (!setCode) return;
+        loadSetCards(setCode);
+      });
+
+      async function loadSetCards(setCode) {
+        const container = document.getElementById("card-grid");
+        container.innerHTML = "Lade Karten...";
+
+        try {
+          const res = await fetch(`${API_BASE}/sets/${setCode}/cards`);
+          const data = await res.json();
+          const cards = data.cards || [];
+
+          container.innerHTML = "";
+          cards.forEach(card => {
+            const div = document.createElement("div");
+            div.className = "card-item";
+
+            const priceNormal = card.price_normal != null
+              ? card.price_normal.toFixed(2) + " €"
+              : "-";
+
+            const priceReverse = card.price_reverse != null
+              ? card.price_reverse.toFixed(2) + " €"
+              : "-";
+
+            div.innerHTML = `
+              <img src="${card.image_small}" alt="${card.name}" class="card-thumb" />
+              <div class="card-info">
+                <div class="card-name">${card.number} - ${card.name}</div>
+                <div class="card-prices">
+                  Normal: ${priceNormal}<br/>
+                  Reverse: ${priceReverse}
+                </div>
+              </div>
+            `;
+            container.appendChild(div);
+          });
+        } catch (e) {
+          console.error(e);
+          container.innerHTML = "Fehler beim Laden der Karten.";
+        }
+      }
+
       // INIT
       (async function init() {
         albumSelect2.value = albumSelect.value;
         detailAlbumSelect.value = albumSelect.value;
         await updateAlbumUI();
         await loadAlbumDetail();
+        await loadSets();
         showScreen("home");
       })();
+
     </script>
   </body>
 </html>

@@ -176,8 +176,6 @@ def import_cache_jsons(conn: sqlite3.Connection, cache_dir: Path, lang_code: str
             # 3) Zusatzpreise via Scraping (optional)
             avg_7_days = None
             avg_30d = None
-            print("Waiting before scraping to be polite to the server...")
-            time.sleep(30)
             if cm_url:
                 try:
                     lang_code = lang_code  
@@ -225,6 +223,9 @@ def import_cache_jsons(conn: sqlite3.Connection, cache_dir: Path, lang_code: str
                     print(f"   ⚠️ Scrape-Fehler für {card_id}: {e}")
                     avg7_normal = low_price
                     avg30_normal = None
+
+                print("Waiting before scraping for not getting caught...")
+                time.sleep(30)
 
             # 4) Snapshot in card_prices
             cur.execute("""

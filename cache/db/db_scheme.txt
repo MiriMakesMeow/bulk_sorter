@@ -1,0 +1,30 @@
+sets (
+            code TEXT PRIMARY KEY,   -- z.B. sv9
+            name TEXT,               -- z.B. Journey-Together
+            short_code TEXT          -- z.B. JTG
+        )
+
+cards(
+    id TEXT PRIMARY KEY,          -- z.B. sv9-1
+    set_code TEXT,                -- z.B. sv9
+    name TEXT,
+    supertype TEXT,
+    subtypes TEXT,
+    number TEXT,
+    rarity TEXT,
+    image_small TEXT,
+    image_large TEXT,
+    cardmarket_url TEXT,
+    cardmarket_product_id INTEGER
+)
+
+card_prices(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    card_id TEXT,                 -- sv9-1
+    cardmarket_product_id INTEGER,
+    date TEXT,                    -- ISO Datum (aus API)
+    price_en_nm_de REAL,          -- EN, NEAR_MINT, Seller Germany (current)
+    avg7_normal REAL,             -- 7d average (EN, Germany, NEAR_MINT)
+    avg30_normal REAL,            -- 30d average
+    variant TEXT                  -- 'NORMAL' (für später, falls du Reverse ergänzen willst)
+)

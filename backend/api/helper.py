@@ -1,9 +1,12 @@
 import os
 import json
 from pathlib import Path
+import sqlite3
+
 CACHE_PATH = Path(__file__).parent.parent.parent / "cache"  # 3 Ebenen hoch: api → backend → root → cache
 ALBUM_PATH = Path(__file__).parent.parent.parent / "cache/users/admin/albums"
 
+DB_PATH = Path(__file__).parent.parent.parent / "cache" / "db" / "cards.db"
 
 ALBUM_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../cache/users/admin/albums'))
 
@@ -65,3 +68,10 @@ def lookup_card_by_id(card_id, normalized_cards=None):
         if card["id"] == card_id:
             return card
     return None
+
+# --------- SQLite Helper ---------
+
+def get_db_connection():
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    return conn

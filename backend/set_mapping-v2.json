@@ -158,5 +158,8 @@
     "POP-Series-6": "pop6",
     "POP-Series-7": "pop7",
     "POP-Series-8": "pop8",
-    "POP-Series-9": "pop9"
+    "POP-Series-9": "pop9",
+    "Mega-Evolutions": ["ME1", "MEG"],
+    "Phantasmal-Flames": ["ME2", "PFL"],
+    "Ascended-Heroes": ["ME3", "ASC"]
 }

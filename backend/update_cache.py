@@ -18,6 +18,7 @@ OLD_CACHE_PATH = HERE.parent / "old_cache" # legacy cache path
 MAPPING = HERE / "set_mapping.json"
 MAPPING_V2 = HERE / "set_mapping-v2.json"
 ALBUM_PATH = HERE.parent / "cache" / "users" / "admin" / "albums"
+TCGCONNECT_API_KEY = "-c9dDgy5XI4Yk0IRtIHYQl7axwBW7FguWkJiC8Hsdc4"
 
 language_map = {
     "en": 1,
