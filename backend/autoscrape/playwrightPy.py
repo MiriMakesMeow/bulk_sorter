@@ -139,11 +139,15 @@ async def scrape_with_playwright(
         # Create a new page for the actual scraping
         page = await context.new_page()
         
-        # Navigate to the page with timeout
+        # # Navigate to the page with timeout
         response = await page.goto(url, timeout=timeout, wait_until="domcontentloaded")
-        await page.wait_for_selector("a[href*='/en/Pokemon/Products/Singles/']", timeout=timeout)
-
-        
+        # await page.wait_for_selector("a[href*='/de/Pokemon/Products/Singles/']", timeout=timeout)
+        try:
+            await page.wait_for_selector("a[href*='/de/Pokemon/Products/Singles/']", timeout=5000)
+        except Exception:
+            # Wenn der Link nicht gefunden wird, einfach weitermachen
+            pass
+                
         if not response:
             print(f"Failed to load {url}: No response")
             return ""

@@ -144,6 +144,12 @@
       "set": "base3",
       "count_normal": 1,
       "count_reverse": 0
+    },
+    {
+      "card_id": "base4-7",
+      "set": "base4",
+      "count_normal": 1,
+      "count_reverse": 0
     }
   ]
 }

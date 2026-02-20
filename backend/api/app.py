@@ -60,8 +60,8 @@ def search_cards():
 
     return jsonify(filtered)
 
-@app.route("/album", methods=["POST"])
-def create_album():
+@app.route("/album/<album_name>", methods=["POST"])
+def create_album(album_name):
     album_data = request.get_json()
     if not album_data or "album_name" not in album_data:
         return jsonify({"error": "Fehlende Albumdaten"}), 400
