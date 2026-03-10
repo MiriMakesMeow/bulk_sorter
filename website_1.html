@@ -59,7 +59,7 @@
             360px,
             520px
           );
-        grid-template-rows: auto 1fr;  
+        grid-template-rows: auto 1fr;
         align-items: center;
         row-gap: 3rem;
         gap: 2rem;
@@ -127,6 +127,9 @@
         padding: 0.75rem 0.9rem;
         border: var(--card-border);
         grid-row: 2;
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
       }
 
       .album-cards-panel {
@@ -173,6 +176,20 @@
         cursor: pointer;
       }
 
+      .sort-row {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin-bottom: 0.75rem;
+        font-size: 0.9rem;
+      }
+      .sort-row select {
+        padding: 0.3rem 0.5rem;
+        border-radius: 8px;
+        border: 1px solid #ccc;
+        font-size: 0.9rem;
+      }
+
       .kpis {
         display: flex;
         gap: 10px;
@@ -197,11 +214,58 @@
         font-weight: 700;
       }
 
+      .album-top3 {
+        margin-top: 0.5rem;
+      }
+      .album-top3-title {
+        font-weight: 700;
+        font-size: 0.95rem;
+        margin: 0.5rem 0 0.25rem;
+      }
+      .album-top3-list {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+      }
+      .album-top3-item {
+        display: grid;
+        grid-template-columns: 24px 40px 1fr auto;
+        gap: 6px;
+        align-items: center;
+        font-size: 0.9rem;
+        background: #fff;
+        border-radius: 8px;
+        border: 1px solid #e5e5e5;
+        padding: 4px 6px;
+      }
+      .album-top3-rank {
+        font-weight: 700;
+        text-align: center;
+      }
+      .album-top3-thumb {
+        width: 40px;
+        height: 40px;
+        border-radius: 6px;
+        object-fit: cover;
+        background: #f2f2f2;
+      }
+      .album-top3-name {
+        font-weight: 600;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .album-top3-price {
+        font-weight: 600;
+        text-align: right;
+        min-width: 70px;
+      }
+
       .range {
         display: flex;
         gap: 0.5rem;
         align-items: center;
-        margin: 0.3rem 0 1rem;
+        margin: 0.7rem 0 0.5rem;
         font-size: 0.9rem;
       }
       .range button {
@@ -225,6 +289,7 @@
         box-shadow: var(--card-shadow);
         padding: 0.5rem;
         height: 190px;
+        margin-top: 0.3rem;
       }
       .note {
         display: block;
@@ -300,12 +365,12 @@
 
       @media (min-width: 1100px) {
         .hero {
-          max-width: 5000px; /* Breite des Gesamtblocks */
-          margin: 0 auto; /* mittig im Bildschirm */
-          grid-template-columns: 1fr 1fr; /* zwei gleich breite Spalten */
-          align-items: start; /* Boxen oben ausrichten */
-          gap: 3rem; /* Abstand zwischen links/rechts */
-          padding-top: 180px; /* etwas weiter unter den Schriftzug */
+          max-width: 5000px;
+          margin: 0 auto;
+          grid-template-columns: 1fr 1fr;
+          align-items: stretch;
+          gap: 3rem;
+          padding-top: 180px;
         }
       }
 
@@ -442,8 +507,6 @@
         background: #f5f5f5;
       }
 
-      /* Album-Detail-Ansicht */
-
       .edit-row {
         display: grid;
         grid-template-columns: 64px 1fr 260px 60px;
@@ -489,6 +552,92 @@
         cursor: pointer;
         padding: 0.4rem 0.6rem;
       }
+
+      /* Setinhalt: Raster mit 4 Karten pro Reihe[web:296] */
+      #sets.screen {
+        background: #f5f5f5;
+        padding-bottom: 32px;
+      }
+      .sets-header {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background: #fff;
+        padding: 12px var(--page-side);
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+      .sets-main {
+        padding: 16px var(--page-side) 32px;
+      }
+      .sets-controls {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 16px;
+      }
+      .sets-controls input {
+        padding: 0.45rem 0.6rem;
+        border-radius: 8px;
+        border: 1px solid #ccc;
+        font-size: 0.95rem;
+      }
+      .sets-controls button {
+        padding: 0.5rem 0.9rem;
+        border-radius: 10px;
+        border: 1px solid #ddd;
+        background: #eee;
+        cursor: pointer;
+      }
+      .card-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 14px;
+      }
+      @media (max-width: 1100px) {
+        .card-grid {
+          grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+      }
+      @media (max-width: 800px) {
+        .card-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+      @media (max-width: 520px) {
+        .card-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+      .card-item {
+        background: #fff;
+        border-radius: 12px;
+        border: 1px solid #e5e5e5;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+        padding: 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+      }
+      .card-thumb {
+        width: 100%;
+        aspect-ratio: 3 / 4;
+        object-fit: cover;
+        border-radius: 8px;
+        background: #f2f2f2;
+      }
+      .card-info {
+        font-size: 0.85rem;
+      }
+      .card-name {
+        font-weight: 600;
+        margin-bottom: 2px;
+      }
+      .card-prices {
+        opacity: 0.8;
+      }
     </style>
   </head>
   <body>
@@ -500,14 +649,16 @@
           <a href="#" data-nav="home">Home</a>
           <a href="#" data-nav="search">Kartensuche</a>
           <a href="#" data-nav="albumDetail">Album</a>
-          <a href="#" data-nav="contact">Kontakt</a>
+          <a href="#" data-nav="sets">Setinhalt</a>
         </nav>
         <h1 class="headline">
           ...für die <span class="grey">gesamte</span> Sammlung!
         </h1>
 
-        <!-- Linke Seite: Album-Info -->
+        <!-- Linke Seite -->
         <div class="album-info" id="albumInfo">
+          <h2 class="section-title" id="albumTitle">OG &amp; Niclas</h2>
+
           <div class="select-row">
             <select id="albumSelect">
               <option value="b1">OG &amp; Niclas</option>
@@ -516,8 +667,6 @@
             </select>
             <span class="album-badge" id="albumCountBadge">0</span>
           </div>
-
-          <h2 class="section-title" id="albumTitle">OG &amp; Niclas</h2>
 
           <div class="kpis">
             <div class="kpi">
@@ -532,6 +681,11 @@
               <div class="lab">Δ Zeitraum</div>
               <div class="val" id="kpi-delta">+0.0%</div>
             </div>
+          </div>
+
+          <div class="album-top3">
+            <div class="album-top3-title">Teuerste Karten in diesem Album</div>
+            <div class="album-top3-list" id="albumTop3List"></div>
           </div>
 
           <div class="range">
@@ -550,9 +704,19 @@
           >
         </div>
 
-        <!-- Rechte Seite: Top-Karten -->
+        <!-- Rechte Seite -->
         <div class="album-cards-panel" id="albumCardsPanel">
           <h2 class="section-title" style="margin-top: 0">Top-Karten</h2>
+
+          <div class="sort-row">
+            <span>Sortieren nach:</span>
+            <select id="topSortSelect">
+              <option value="price-desc">Preis (hoch → niedrig)</option>
+              <option value="price-asc">Preis (niedrig → hoch)</option>
+              <option value="name-asc">Name (A → Z)</option>
+            </select>
+          </div>
+
           <div id="albumCardList"></div>
         </div>
       </div>
@@ -644,20 +808,23 @@
       <div id="detailResults" class="results"></div>
     </section>
 
-    <!-- SETS (für spätere Erweiterung) -->
-    <section id="sets">
-      <!-- Set-Auswahl -->
-      <div>
-        <label for="set-select">Set wählen:</label>
-        <input list="set-options" id="set-select" placeholder="sv9, base2, ..." />
-        <datalist id="set-options">
-          <!-- wird später dynamisch gefüllt -->
-        </datalist>
-        <button id="load-set">Set laden</button>
+    <!-- SETS / SETINHALT -->
+    <section id="sets" class="screen">
+      <div class="sets-header">
+        <button class="back" data-nav="home">← Zurück</button>
+        <h2 style="margin:0 0 0 10px;">Setinhalt</h2>
       </div>
 
-      <!-- Bereich für Karten -->
-      <div id="card-grid" class="card-grid"></div>
+      <div class="sets-main">
+        <div class="sets-controls">
+          <label for="set-select" style="opacity:0.8;">Set wählen:</label>
+          <input list="set-options" id="set-select" placeholder="sv9, base2, ..." />
+          <datalist id="set-options"></datalist>
+          <button id="load-set">Set laden</button>
+        </div>
+
+        <div id="card-grid" class="card-grid"></div>
+      </div>
     </section>
 
     <!----- SCRIPTS ----->
@@ -667,6 +834,7 @@
         home: document.getElementById("home"),
         search: document.getElementById("search"),
         albumDetail: document.getElementById("albumDetail"),
+        sets: document.getElementById("sets"),
       };
       function showScreen(name) {
         Object.values(screens).forEach((s) => s.classList.remove("active"));
@@ -684,7 +852,6 @@
         });
       });
 
-      /* Demo-Karte für Fallbacks */
       const TEST_CARD = {
         id: "test-0001",
         name: "Pikachu (Demo)",
@@ -695,10 +862,8 @@
         priceLow: 12.34,
       };
 
-      // Clientseitige Zusatzinfos (nur UI)
-      const albumClientMeta = new Map(); // key: `${albumId}:${cardId}`
+      const albumClientMeta = new Map();
 
-      /* --- API Layer --- */
       const API_BASE = "http://127.0.0.1:5000";
       async function http(
         path,
@@ -754,8 +919,59 @@
         },
       };
 
-      /* HOME KPIs & Chart */
-      function renderAlbumCards(cards) {
+      function sortCards(cards, mode) {
+        const arr = cards.slice();
+        switch (mode) {
+          case "price-asc":
+            arr.sort((a, b) => (a.priceLow ?? 0) - (b.priceLow ?? 0));
+            break;
+          case "price-desc":
+            arr.sort((a, b) => (b.priceLow ?? 0) - (a.priceLow ?? 0));
+            break;
+          case "name-asc":
+            arr.sort((a, b) =>
+              (a.name || "").localeCompare(b.name || "", "de", {
+                sensitivity: "base",
+              }),
+            );
+            break;
+          default:
+            break;
+        }
+        return arr;
+      }
+
+      let currentAlbumCards = [];
+
+      function renderAlbumTop3ForCurrentAlbum(cards) {
+        const list = document.getElementById("albumTop3List");
+        list.innerHTML = "";
+        if (!cards.length) {
+          list.innerHTML =
+            '<span style="font-size:0.85rem;color:#666;">Noch keine Karten im Album.</span>';
+          return;
+        }
+        const top3 = [...cards]
+          .sort((a, b) => (b.priceLow ?? 0) - (a.priceLow ?? 0))
+          .slice(0, 3);
+
+        top3.forEach((c, i) => {
+          const row = document.createElement("div");
+          row.className = "album-top3-item";
+          row.innerHTML = `
+            <span class="album-top3-rank">${i + 1}.</span>
+            <img class="album-top3-thumb" src="${c.image || ""}" alt="">
+            <span class="album-top3-name">${c.name}</span>
+            <span class="album-top3-price">${(c.priceLow ?? 0).toFixed(
+              2,
+            )} €</span>
+          `;
+          list.appendChild(row);
+        });
+      }
+
+      function renderAlbumCards(cards, options = {}) {
+        const { limitTop3 = true } = options;
         const list = document.getElementById("albumCardList");
         list.innerHTML = "";
 
@@ -765,11 +981,14 @@
           return;
         }
 
-        const top = [...cards]
-          .sort((a, b) => (b.priceLow ?? 0) - (a.priceLow ?? 0))
-          .slice(0, 3);
+        let toRender = cards;
+        if (limitTop3) {
+          toRender = [...cards]
+            .sort((a, b) => (b.priceLow ?? 0) - (a.priceLow ?? 0))
+            .slice(0, 3);
+        }
 
-        top.forEach((c) => {
+        toRender.forEach((c) => {
           const qty = (c.count_normal || 0) + (c.count_reverse || 0);
           const div = document.createElement("div");
           div.className = "result-line";
@@ -778,11 +997,11 @@
             <div>
               <h4>${c.name}</h4>
               <div class="meta">${c.set || ""}${
-                c.number ? " · #" + c.number : ""
-              }</div>
+            c.number ? " · #" + c.number : ""
+          }</div>
               <div class="meta">Normal: ${c.count_normal || 0} · Reverse: ${
-                c.count_reverse || 0
-              }</div>
+            c.count_reverse || 0
+          }</div>
             </div>
             <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
             <button class="btn qty" title="Gesamtmenge">${qty}</button>
@@ -793,7 +1012,9 @@
 
       async function refreshAlbumUI(albumId) {
         const cards = await api.getAlbumCards(albumId);
+        currentAlbumCards = cards.slice();
         renderAlbumCards(cards);
+        renderAlbumTop3ForCurrentAlbum(cards);
       }
 
       const albumSelect = document.getElementById("albumSelect");
@@ -809,6 +1030,7 @@
       const detailTitle = document.getElementById("detailTitle");
       const detailCountBadge = document.getElementById("detailCountBadge");
       const detailResults = document.getElementById("detailResults");
+      const topSortSelect = document.getElementById("topSortSelect");
 
       async function updateAlbumUI() {
         const id = albumSelect.value;
@@ -825,6 +1047,8 @@
         } catch (e) {
           cards = [];
         }
+
+        currentAlbumCards = cards.slice();
 
         const totalQty = cards.reduce(
           (s, c) => s + (c.count_normal || 0) + (c.count_reverse || 0),
@@ -844,6 +1068,7 @@
         kpiUpdated.textContent = new Date().toLocaleDateString();
 
         renderAlbumCards(cards);
+        renderAlbumTop3ForCurrentAlbum(cards);
       }
 
       albumSelect.addEventListener("change", async () => {
@@ -866,7 +1091,13 @@
         showScreen("albumDetail");
       });
 
-      // Chart (Dummy)
+      topSortSelect.addEventListener("change", () => {
+        if (!currentAlbumCards.length) return;
+        const mode = topSortSelect.value;
+        const sorted = sortCards(currentAlbumCards, mode);
+        renderAlbumCards(sorted, { limitTop3: false });
+      });
+
       const chart = new Chart(
         document.getElementById("chart").getContext("2d"),
         {
@@ -910,13 +1141,13 @@
             <div>
               <h4>${c.name}</h4>
               <div class="meta">${c.set || ""}${
-                c.number ? " · #" + c.number : ""
-              }${c.rarity ? " · " + c.rarity : ""}</div>
+          c.number ? " · #" + c.number : ""
+        }${c.rarity ? " · " + c.rarity : ""}</div>
             </div>
             <div class="price">${(c.priceLow ?? 0).toFixed(2)} €</div>
             <button class="btn ${disabled ? "ok" : ""} btn-add" data-id="${
-              c.id
-            }" ${disabled ? "disabled" : ""}>
+          c.id
+        }" ${disabled ? "disabled" : ""}>
               ${disabled ? "Hinzugefügt" : "Zu Album"}
             </button>
           </div>`;
@@ -1017,8 +1248,8 @@
             <div>
               <h4>${c.name}</h4>
               <div class="meta">${c.set || ""}${
-                c.number ? " · #" + c.number : ""
-              }${c.rarity ? " · " + c.rarity : ""}</div>
+              c.number ? " · #" + c.number : ""
+            }${c.rarity ? " · " + c.rarity : ""}</div>
               <div class="meta">Preis: ${(c.priceLow ?? 0).toFixed(2)} €</div>
             </div>
             <div>
@@ -1033,25 +1264,25 @@
               <div style="margin-top:6px;font-size:13px;">
                 <label style="margin-right:8px;">
                   <input type="radio" name="finish-${cid}" value="normal" ${
-                    meta.finish === "normal" ? "checked" : ""
-                  }> Normal
+              meta.finish === "normal" ? "checked" : ""
+            }> Normal
                 </label>
                 <label style="margin-right:8px;">
                   <input type="radio" name="finish-${cid}" value="holo" ${
-                    meta.finish === "holo" ? "checked" : ""
-                  }> Holo
+              meta.finish === "holo" ? "checked" : ""
+            }> Holo
                 </label>
                 <label>
                   <input type="radio" name="finish-${cid}" value="reverse" ${
-                    meta.finish === "reverse" ? "checked" : ""
-                  }> Reverse
+              meta.finish === "reverse" ? "checked" : ""
+            }> Reverse
                 </label>
               </div>
               <div style="margin-top:6px;font-size:13px;">
                 <label>
                   <input type="checkbox" data-role="firstEdition" ${
-                    meta.firstEdition ? "checked" : ""
-                  }> First Edition
+              meta.firstEdition ? "checked" : ""
+            }> First Edition
                 </label>
               </div>
             </div>
@@ -1142,17 +1373,18 @@
         albumClientMeta.delete(key);
       }
 
-      // Set-Detail (für spätere Erweiterung)
+      /* Sets / Setinhalt */
+
       async function loadSets() {
         const res = await fetch(`${API_BASE}/sets`);
         const sets = await res.json();
         const datalist = document.getElementById("set-options");
         datalist.innerHTML = "";
 
-        sets.forEach(s => {
+        sets.forEach((s) => {
           const opt = document.createElement("option");
-          opt.value = s.code;                       // z.B. "sv9"
-          opt.label = s.name || s.code;             // z.B. "Journey Together"
+          opt.value = s.code;
+          opt.label = s.name || s.code;
           datalist.appendChild(opt);
         });
       }
@@ -1173,17 +1405,19 @@
           const cards = data.cards || [];
 
           container.innerHTML = "";
-          cards.forEach(card => {
+          cards.forEach((card) => {
             const div = document.createElement("div");
             div.className = "card-item";
 
-            const priceNormal = card.price_normal != null
-              ? card.price_normal.toFixed(2) + " €"
-              : "-";
+            const priceNormal =
+              card.price_normal != null
+                ? card.price_normal.toFixed(2) + " €"
+                : "-";
 
-            const priceReverse = card.price_reverse != null
-              ? card.price_reverse.toFixed(2) + " €"
-              : "-";
+            const priceReverse =
+              card.price_reverse != null
+                ? card.price_reverse.toFixed(2) + " €"
+                : "-";
 
             div.innerHTML = `
               <img src="${card.image_small}" alt="${card.name}" class="card-thumb" />
@@ -1212,7 +1446,6 @@
         await loadSets();
         showScreen("home");
       })();
-
     </script>
   </body>
 </html>
