@@ -150,6 +150,528 @@
       "set": "base4",
       "count_normal": 1,
       "count_reverse": 0
+    },
+    {
+      "card_id": "base2-40",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-23",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-55",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-37",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-68",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-12",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-54",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-57",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-58",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-37",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-59",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-63",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-47",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-19",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-56",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-42",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-53",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-55",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-43",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-28",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-23",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-59",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-38",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-43",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-32",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base4-1",
+      "set": "base4",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-52",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-34",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-8",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-49",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-48",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-44",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-56",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-47",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-60",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-44",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-55",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-9",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-53",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-27",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-48",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-34",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-41",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-25",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-32",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-54",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-29",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-56",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-49",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-51",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-52",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-50",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-39",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-7",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-38",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-51",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-61",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-45",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-66",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-49",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-53",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-46",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-65",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-64",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-31",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-20",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-39",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-47",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-35",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-6",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-10",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-51",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base5-38",
+      "set": "base5",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base5-35",
+      "set": "base5",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base2-12",
+      "set": "base2",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-39",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-1",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-2",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-26",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-18",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base3-4",
+      "set": "base3",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-10",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "basep-8",
+      "set": "basep",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-71",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-72",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-74",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
+    },
+    {
+      "card_id": "base1-75",
+      "set": "base1",
+      "count_normal": 1,
+      "count_reverse": 0
     }
   ]
 }
